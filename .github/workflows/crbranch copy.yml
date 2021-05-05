@@ -40,3 +40,6 @@ jobs:
 
       - name: Merge cartridge and content to post file
         run: cat ./cartridge.yml ./content.yml > ./post.yml
+
+      - name: Push branch to remote
+        run: git push oirigin autopublish-${{ steps.date.outputs.date }}
