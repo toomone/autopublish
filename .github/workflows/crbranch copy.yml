@@ -41,5 +41,8 @@ jobs:
       - name: Merge cartridge and content to post file
         run: cat ./cartridge.yml ./content.yml > ./post.yml
 
+      - name: Commit post.yml
+        run: git commit -m "Add post.yml file"
+
       - name: Push branch to remote
         run: git push origin autopublish-${{ steps.date.outputs.date }}
