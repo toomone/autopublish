@@ -41,7 +41,7 @@ jobs:
         id: directory
         run: echo "::set-output name=directory::$(pwd)"
       - name: Current directory
-        run: echo ${{ steps.directory.outputs.content }} 
+        run: echo "${{ steps.directory.outputs.content }}"
 
       - name: Display debug message
         run: echo "::debug::'ok it works'"        
