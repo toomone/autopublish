@@ -41,7 +41,7 @@ jobs:
         id: cartridge
         uses: juliangruber/read-file-action@v1
         with:
-          path: ./cartridge.yml
+          path: cartridge.yml
       - name: Echo cartridge.yml
         run: echo ${{ steps.cartridge.outputs.content }}      
 
