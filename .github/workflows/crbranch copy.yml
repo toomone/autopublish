@@ -34,12 +34,13 @@ jobs:
         id: date
         run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
 
-      - name: Create branch / Merge file / Commit / Push
+      - name: Create branch / Merge file / Add file/ Commit / Push remote to Origin
         run: |
-          git checkout $(git show-ref --verify --quiet refs/heads/autopublish-${{ steps.date.outputs.date }} || echo '-b') autopublish-${{ steps.date.outputs.date }}
+          git checkout -b autopublish-${{ steps.date.outputs.date }}
           awk 'FNR==1{print ""}{print}' ./cartridge.yml ./content.yml > ./post.yml
           git config --global user.email "thomas.cousin@gmail.com"
           git config --global user.name "GH Action Auto publish"
           git add .
           git commit -m "Add post.yml file"
           git push origin autopublish-${{ steps.date.outputs.date }}
+       
