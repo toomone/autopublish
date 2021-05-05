@@ -36,12 +36,21 @@ jobs:
       - name: Create branch for publication
         run: git checkout -b autopublish-${{ steps.date.outputs.date }}
 
+      # Create a branch for monthly publication
+      - name: Display current directory
+        run: pwd
+
+      # Create a branch for monthly publication
+      - name: Display home directory
+        run: echo ${{env.HOME}}
+
       # Read content from cartridge for Github pages
       - name: Read cartridge.yml
         id: cartridge
         uses: juliangruber/read-file-action@v1
         with:
           path: cartridge.yml
+
       - name: Echo cartridge.yml
         run: echo ${{ steps.cartridge.outputs.content }}      
 
