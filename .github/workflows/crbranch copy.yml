@@ -38,7 +38,7 @@ jobs:
 
       # Create a branch for monthly publication
       - name: Display current directory
-        run: echo "::debug::${{pwd}}"
+        run: pwd
 
       - name: Display debug message
         run: echo "::debug::'ok it works'"        
