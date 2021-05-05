@@ -29,9 +29,45 @@ jobs:
         id: date
         run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
 
-      - uses: peterjgrainger/action-create-branch@v2.0.1
+      # Create a branch for monthly publication
+      - name: Create branch for publication
+        uses: peterjgrainger/action-create-branch@v2.0.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          branch: 'publish-${{ steps.date.outputs.date }}'
+          branch: 'autopublish-${{ steps.date.outputs.date }}'
 
+      # Read content from cartridge for Github pages
+      - name: Read cartridge.yml
+        id: cartridge
+        uses: juliangruber/read-file-action@v1
+        with:
+          path: ./cartridge.yml
+      - name: Echo cartridge.yml
+        run: echo ${{ steps.cartridge.outputs.content }}      
+
+      # Read content from post for Github pages
+      - name: Read content.yml
+        id: content
+        uses: juliangruber/read-file-action@v1
+        with:
+          path: ./content.yml
+      - name: Echo content.yml
+        run: echo ${{ steps.content.outputs.content }}              
+      
+      # Append cartridge to post
+      - name: Append cartridge to post file
+        uses: DamianReeves/write-file-action
+        with:
+          path: ./post.yml
+          contents: |
+            echo "${{ steps.cartridge.outputs.content }}"
+
+      # Append cartridge to post
+      - name: Append content to post file
+        uses: DamianReeves/write-file-action
+        with:
+          path: ./post.yml
+          contents: |
+            echo "${{ steps.content.outputs.content }}"
+          write-mode: append                
