@@ -42,4 +42,4 @@ jobs:
         run: cat ./cartridge.yml ./content.yml > ./post.yml
 
       - name: Push branch to remote
-        run: git push oirigin autopublish-${{ steps.date.outputs.date }}
+        run: git push origin autopublish-${{ steps.date.outputs.date }}
