@@ -1,0 +1,50 @@
+# This is a basic workflow that is manually triggered
+
+name: Create Branch 2
+
+# Controls when the action will run. Workflow runs when manually triggered using the UI
+# or API.
+on:
+  workflow_dispatch:
+    # Inputs the workflow accepts.
+    inputs:
+      name:
+        # Friendly description to be shown in the UI instead of 'name'
+        description: 'Person to greet'
+        # Default value if no value is explicitly provided
+        default: 'World'
+        # Input has to be provided for the workflow to run
+        required: true
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "greet"
+  create_branch:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+
+      - uses: actions/checkout@v2
+        with:
+          token: '${{secrets.GITHUB_TOKEN}}'
+
+      # Make changes to pull request here
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+
+      - name: Merge file
+        run: |
+          awk 'FNR==1{print ""}{print}' ./cartridge.yml ./content.yml > ./post.yml
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v3
+        with:
+          title: Publish post for month xxx
+          body: Few change for this, LGTM ;-)
+          branch: autopublish-${{ steps.date.outputs.date }}
+
+      
+
