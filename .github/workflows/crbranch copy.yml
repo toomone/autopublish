@@ -37,8 +37,11 @@ jobs:
         run: git checkout -b autopublish-${{ steps.date.outputs.date }}
 
       # Create a branch for monthly publication
-      - name: Display current directory
-        run: pwd
+      - name: Current directory
+        id: directory
+        run: echo "::set-output name=directory::${{pwd}}"
+      - name: Current directory
+        run: echo ${{ steps.directory.outputs.content }} 
 
       - name: Display debug message
         run: echo "::debug::'ok it works'"        
