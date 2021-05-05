@@ -36,7 +36,7 @@ jobs:
 
       - name: Create branch / Merge file / Commit / Push
         run: |
-          git checkout -b autopublish-${{ steps.date.outputs.date }}
+          git checkout $(git show-ref --verify --quiet refs/heads/autopublish-${{ steps.date.outputs.date }} || echo '-b') autopublish-${{ steps.date.outputs.date }}
           cat ./cartridge.yml ./content.yml > ./post.yml
           git config --global user.email "thomas.cousin@gmail.com"
           git config --global user.name "GH Action Auto publish"
