@@ -56,7 +56,7 @@ jobs:
         run: echo "::set-output name=cat-cartridge::$(cat ./cartridge.yml)"
 
       - name: Echo cartridge.yml
-        run: echo ${{ steps.cart-cartridge.outputs.content }}      
+        run: echo "${{ steps.cart-cartridge.outputs.content }}"
 
       # Read content from post for Github pages
       - name: Read content.yml
