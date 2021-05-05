@@ -57,7 +57,7 @@ jobs:
       
       # Append cartridge to post
       - name: Append cartridge to post file
-        uses: DamianReeves/write-file-action
+        uses: DamianReeves/write-file-action@v1.0
         with:
           path: ./post.yml
           contents: |
@@ -65,7 +65,7 @@ jobs:
 
       # Append cartridge to post
       - name: Append content to post file
-        uses: DamianReeves/write-file-action
+        uses: DamianReeves/write-file-action@v1.0
         with:
           path: ./post.yml
           contents: |
