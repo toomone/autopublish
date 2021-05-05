@@ -34,11 +34,7 @@ jobs:
 
       # Create a branch for monthly publication
       - name: Create branch for publication
-        uses: peterjgrainger/action-create-branch@v2.0.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          branch: 'autopublish-${{ steps.date.outputs.date }}'
+        run: git checkout -b autopublish-${{ steps.date.outputs.date }}
 
       # Read content from cartridge for Github pages
       - name: Read cartridge.yml
