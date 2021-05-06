@@ -7,7 +7,7 @@ on:
 jobs:
   publish_newsletter:
     runs-on: ubuntu-latest
-    #if: startsWith(github.ref,'refs/heads/autopublish-') || startsWith(github.event.pull_request.base.ref,'refs/heads/autopublish-')
+    #if: startsWith(github.ref,'refs/heads/autopublish-') || startsWith(github.event.pull_request.head.ref,'refs/heads/autopublish-')
     steps:
       - name: Get current date
         id: date
@@ -29,6 +29,9 @@ jobs:
 
       - name: Display github.event.pull_request.base.ref
         run: echo ${{github.event.pull_request.base.ref}}                
+
+      - name: Display github.event.pull_request.head.ref
+        run: echo ${{github.event.pull_request.head.ref}}                
 
       - name: Display github.ref
         run: echo ${{github.ref}}                        
