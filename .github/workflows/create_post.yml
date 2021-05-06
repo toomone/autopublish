@@ -31,7 +31,7 @@ jobs:
 
       - name: Merge cartridge with content to create post
         run: |
-          awk 'FNR==1{print ""}{print}' ./cartridge.yml ./content.yml > ./post.yml
+          awk 'FNR==1{print ""}{print}' ./cartridge.yml ./content.yml > ./post-${{ steps.date.outputs.date }}.yml
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
