@@ -1,11 +1,12 @@
 name: Publish newsletter
 on: 
   pull_request:
-    branches:
-      - autopublish-*
+    branches: [main]
+
 jobs:
   publish_newsletter:
     runs-on: ubuntu-latest
+    if: startsWith(github.ref,'refs/heads/autopublish-') || startsWith(github.event.pull_request.base.ref,'refs/heads/autopublish-')
     steps:
       - name: Get current date
         id: date
