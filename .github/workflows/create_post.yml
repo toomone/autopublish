@@ -39,6 +39,7 @@ jobs:
           title: Publish post for month xxx
           body: Few change for this, LGTM ;-)
           branch: autopublish-${{ steps.date.outputs.date }}
+          base: ${{ github.head_ref }}
 
       
 
