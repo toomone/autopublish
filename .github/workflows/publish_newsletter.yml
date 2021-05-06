@@ -1,0 +1,12 @@
+name: Publish newsletter
+on: 
+  pull_request:
+    branches:
+      - autopublish-*
+jobs:
+  publish_newsletter:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
