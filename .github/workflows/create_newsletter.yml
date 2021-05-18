@@ -31,6 +31,7 @@ jobs:
           body: Few change for this, LGTM ;-)
           branch: autopublish-${{ steps.date.outputs.date }}
           base: ${{ github.head_ref }}
+          label_name: 'publish_newsletter'
 
       
 
