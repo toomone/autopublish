@@ -2,7 +2,7 @@ name: Publish newsletter
 on: 
   pull_request:
     branches: [master]
-    types: [closed]
+    types: [opened]
 
 jobs:
   publish_newsletter:
