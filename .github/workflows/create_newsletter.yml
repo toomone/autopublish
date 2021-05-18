@@ -1,4 +1,4 @@
-name: Create newsletter file for GH pages
+name: Create newsletter
 
 # Controls when the action will run. Workflow runs when manually triggered using the UI
 # or API.
@@ -9,8 +9,6 @@ on:
       comment:
         # Friendly description to be shown in the UI instead of 'name'
         description: 'Add a small comment'
-        # Default value if no value is explicitly provided
-        default: 'This is the nicest newsletter'
         # Input has to be provided for the workflow to run
         required: false
 
@@ -29,7 +27,7 @@ jobs:
         id: date
         run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
 
-      - name: Merge cartridge with content to create post
+      - name: Merge cartridge with content to create newsletter
         run: |
           awk 'FNR==1{print ""}{print}' ./cartridge.yml ./content.yml > ./post-${{ steps.date.outputs.date }}.yml
 
