@@ -7,7 +7,7 @@ on:
 jobs:
   publish_newsletter:
     runs-on: ubuntu-latest
-    if: startsWith(github.event.pull_request.head.ref,'autopublish-')
+    # if: startsWith(github.event.pull_request.head.ref,'autopublish-')
     steps:
       - name: Get current date
         id: date
@@ -16,7 +16,9 @@ jobs:
       - name: Display current date
         run: echo "${{ steps.date.outputs.date }}"
 
-      - name: Automerge
-        uses: "pascalgn/automerge-action@v0.14.1"
+      - name: Merge by labeled
+        uses: devmasx/merge-branch@v1.3.1
         env:
-          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          label_name: 'publish_newsletter'
+          target_branch: 'master'
+          github_token: ${{secrets.GITHUB_TOKEN}}
