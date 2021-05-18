@@ -1,0 +1,52 @@
+name: Pipeline newsletter
+
+# Controls when the action will run. Workflow runs when manually triggered using the UI
+# or API.
+on:
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+
+  create_newsletter:
+    runs-on: ubuntu-latest
+    steps:
+
+      - uses: actions/checkout@v2
+        with:
+          token: '${{secrets.GITHUB_TOKEN}}'
+
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+
+      - name: Merge cartridge with content to create newsletter
+        run: |
+          awk 'FNR==1{print ""}{print}' ./cartridge.yml ./content.yml > ./post-${{ steps.date.outputs.date }}.yml
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v3
+        with:
+          title: Publish post for month xxx
+          body: Few change for this, LGTM ;-)
+          branch: autopublish-${{ steps.date.outputs.date }}
+          base: ${{ github.head_ref }}
+
+  publish_newsletter:
+    runs-on: ubuntu-latest
+    if: startsWith(github.event.pull_request.head.ref,'autopublish-')
+    needs: [create_newsletter]
+    environment: 
+      name: Blog
+      url: 'http://dev.myapp.com'
+    steps:
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+
+      - name: Display current date
+        run: echo "${{ steps.date.outputs.date }}"
+
+
+      
+
