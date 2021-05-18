@@ -37,7 +37,6 @@ jobs:
 
   publish_newsletter:
     runs-on: ubuntu-latest
-    if: startsWith(github.event.pull_request.head.ref,'autopublish-')
     needs: [create_newsletter]
     environment: 
       name: Blog
