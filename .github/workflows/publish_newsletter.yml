@@ -7,7 +7,7 @@ on:
 jobs:
   publish_newsletter:
     runs-on: ubuntu-latest
-    if: startsWith(github.ref,'autopublish-')
+    #if: startsWith(github.ref,'autopublish-')
     steps:
       - name: Display github ref
         id: ref
