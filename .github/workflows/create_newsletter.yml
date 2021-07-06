@@ -20,6 +20,11 @@ jobs:
         id: date
         run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
 
+      - name: Set the newsletter filename
+        id: step_one
+        run: |
+          echo "last_newsletter=post-${{ steps.date.outputs.date }}.yml" >> $GITHUB_ENV
+
       - name: Merge cartridge with content to create newsletter
         run: |
           awk 'FNR==1{print ""}{print}' ./cartridge.yml ./content.yml > ./post-${{ steps.date.outputs.date }}.yml
