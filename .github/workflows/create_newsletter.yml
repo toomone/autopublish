@@ -27,7 +27,7 @@ jobs:
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
         with:
-          title: Publish post for month xxx
+          title: Publish post for current month
           body: Few change for this, LGTM ;-)
           branch: autopublish-${{ steps.date.outputs.date }}
           base: ${{ github.head_ref }}
