@@ -9,8 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     if: startsWith(github.ref,'autopublish-')
     steps:
-      - name: Get branch ref
-
       - name: Get current date
         id: date
         run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
