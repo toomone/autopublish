@@ -13,19 +13,17 @@ jobs:
         id: date
         run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
 
-      - name: Display current date
-        run: echo "${{ steps.date.outputs.date }}"
+        #${{ steps.date.outputs.date }}      
 
-      - name: Get newsletter filename 
-        run: |
-          echo "${{ env.last_newsletter }}"        
+      - name: Rename post file
+        run: git mv post.yml post-${{ steps.date.outputs.date }}.yml
 
       - name: Push newsletter file
         uses: dmnemec/copy_file_to_another_repo_action@v1.1.1
         env:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
-          source_file: 'last_newsletter.md'
+          source_file: 'post-${{ steps.date.outputs.date }}.yml'
           destination_repo: 'toomone/fake-blog'
           destination_folder: '_posts'
           user_email: 'thomas.cousin@gmail.com'

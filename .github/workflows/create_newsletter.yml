@@ -27,13 +27,13 @@ jobs:
 
       - name: Merge cartridge with content to create newsletter
         run: |
-          awk 'FNR==1{print ""}{print}' ./cartridge.yml ./content.yml > ./post-${{ steps.date.outputs.date }}.yml
+          awk 'FNR==1{print ""}{print}' ./cartridge.yml ./content.yml > ./post.yml
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
         with:
-          title: Publish post for current month
-          body: Few change for this, LGTM ;-)
+          title: 'Publish post for ${{ steps.date.outputs.date }} newsletter'
+          body: Nothing to comment
           branch: autopublish-${{ steps.date.outputs.date }}
           base: ${{ github.head_ref }}
           labels: 'publish_newsletter'
