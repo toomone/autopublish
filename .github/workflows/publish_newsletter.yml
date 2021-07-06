@@ -1,18 +1,14 @@
 name: Publish newsletter
 on: 
-  push:
-    branches: 
-      - master
+  pull_request:
+    branches: [ master ]
+    types: [ closed ]
 
 jobs:
   publish_newsletter:
     runs-on: ubuntu-latest
-    #if: startsWith(github.ref,'autopublish-')
+    if: github.event.pull_request.merged == true && startsWith(github.event.pull_request.head.ref,'autopublish-')
     steps:
-      - name: Display github ref
-        id: ref
-        run: echo "${{github.ref}}"
-
       - name: Get current date
         id: date
         run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
