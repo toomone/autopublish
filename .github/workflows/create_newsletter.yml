@@ -12,18 +12,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-      - uses: actions/checkout@v2
-        with:
-          token: '${{secrets.GITHUB_TOKEN}}'
+      - name: Checkout
+        uses: actions/checkout@v2
 
       - name: Get current date
         id: date
         run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
-
-      - name: Set the newsletter filename
-        id: step_one
-        run: |
-          echo "last_newsletter=post-${{ steps.date.outputs.date }}.yml" >> $GITHUB_ENV
 
       - name: Merge cartridge with content to create newsletter
         run: |
@@ -35,7 +29,6 @@ jobs:
           title: 'Publish post for ${{ steps.date.outputs.date }} newsletter'
           body: Nothing to comment
           branch: autopublish-${{ steps.date.outputs.date }}
-          base: ${{ github.head_ref }}
           labels: 'publish_newsletter'
 
       
