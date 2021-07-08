@@ -22,7 +22,11 @@
 ### AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-
+- [GitHub Availability Report: June 2021](https://github.blog/2021-07-07-github-availability-report-june-2021/)
+- [Code Scanning C++ with GitHub Actions](https://devblogs.microsoft.com/cppblog/code-scanning-with-github-actions)
+- [Code Scanning C++ with GitHub Actions](https://devblogs.microsoft.com/cppblog/code-scanning-with-github-actions)
+- [Top Stories from the Microsoft DevOps Community – 2021.07.02](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-07-02)
+- [CLI for Microsoft 365 v3.11](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/cli-for-microsoft-365-v3-11/ba-p/2504353)
 <!-- AZUREINFOHUB:END -->
 
 
