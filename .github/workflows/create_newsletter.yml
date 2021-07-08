@@ -23,11 +23,14 @@ jobs:
         run: |
           awk 'FNR==1{print ""}{print}' ./cartridge.md ./content.md > ./post.md
 
+      - name: Set current date as env variable
+        run: echo "MONTH::$(date +'%B %Y')"      
+
       - name: Find and Replace
         uses: jacobtomlinson/gha-find-replace@master
         with:
           find: "#DATE#"
-          replace: "$(date +'%B %Y')"
+          replace: $MONTH
           include: "post.md" # Will match all README.md files in any nested directory              
 
       - name: Create Pull Request
