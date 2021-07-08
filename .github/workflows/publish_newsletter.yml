@@ -15,10 +15,10 @@ jobs:
 
       - name: Get current date
         id: date
-        run: echo "::set-output name=date::$(date +'%B-%Y')"
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
 
       - name: Rename post file
-        run: git mv post.yml post-${{ steps.date.outputs.date }}.yml
+        run: git mv post.yml ${{ steps.date.outputs.date }}-newsletter-:$(date +'%B').yml
 
       - name: Push newsletter file
         uses: dmnemec/copy_file_to_another_repo_action@v1.1.1
