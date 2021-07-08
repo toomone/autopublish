@@ -27,7 +27,7 @@ jobs:
         uses: jacobtomlinson/gha-find-replace@master
         with:
           find: "#DATE#"
-          replace: "${{ steps.date.outputs.date }}"
+          replace: $(date +'%B %Y')
           include: "post.md" # Will match all README.md files in any nested directory              
 
       - name: Create Pull Request
