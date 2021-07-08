@@ -5,7 +5,7 @@ on:
     types: [ closed ]
 
 jobs:
-  publish_newsletter:
+  publish_newsletter_on_blog:
     runs-on: ubuntu-latest
     if: github.event.pull_request.merged == true && startsWith(github.event.pull_request.head.ref,'autopublish-')
     steps:
@@ -13,12 +13,20 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
-      - name: Get current date
+      - name: Get current full date
         id: date
         run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
 
+      - name: Get current month and year
+        id: month
+        run: echo "::set-output name=month::$(date +'%B-%Y')"      
+
+      - name: Target filename
+        id: targetfilename
+        run: echo "::set-output name=targetfilename::${{ steps.date.outputs.date }}-newsletter-${{ steps.month.outputs.month }}.yml" 
+
       - name: Rename post file
-        run: git mv post.yml ${{ steps.date.outputs.date }}-newsletter-:$(date +'%B').yml
+        run: git mv post.yml ${{ steps.targetfilename.outputs.targetfilename }}
 
       - name: Push newsletter file
         uses: dmnemec/copy_file_to_another_repo_action@v1.1.1
