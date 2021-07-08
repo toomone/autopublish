@@ -30,6 +30,7 @@ jobs:
         
       - uses: khaosdoctor/blog-post-workflow@master
         with:
+          readme_path: ./content.md        
           comment_tag_name: DEVBLOGDEVOPS
           feed_list: "https://devblogs.microsoft.com/devops/feed/"
           custom_tags: "desc/description/"
@@ -41,11 +42,13 @@ jobs:
           
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
+          readme_path: ./content.md        
           comment_tag_name: AZUREINFOHUB
           feed_list: "https://azureinfohub.azurewebsites.net/feed?serviceTitle=GitHub%20Actions,https://azureinfohub.azurewebsites.net/feed?serviceTitle=GitHub,https://azureinfohub.azurewebsites.net/feed?serviceTitle=Azure%20DevOps"
 
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
+          readme_path: ./content.md        
           comment_tag_name: AZUREUPDATES 
           feed_list: "https://azurecomcdn.azureedge.net/en-us/blog/topics/devops/feed/"
           custom_tags: "desc/description/"
@@ -57,6 +60,7 @@ jobs:
 
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
+          readme_path: ./content.md        
           comment_tag_name: MSOPENSOURCEBLOG
           feed_list: "https://cloudblogs.microsoft.com/opensource/feed/?product=devops"
           custom_tags: "desc/description/"
@@ -68,6 +72,7 @@ jobs:
 
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
+          readme_path: ./content.md        
           comment_tag_name: GITHUB
           feed_list: "https://github.blog/feed/"
           custom_tags: "desc/description/"
