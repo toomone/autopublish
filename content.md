@@ -1,4 +1,4 @@
-### MS DEV BLOG DEVOPS 
+## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
 - [AzureFunBytes Episode 37 – Microsoft Power Apps with @98codes](https://devblogs.microsoft.com/devops/azurefunbytes-episode-37-microsoft-power-apps-with-98codes/)
@@ -9,7 +9,7 @@
 <!-- DEVBLOGDEVOPS:END -->
 
 
-### AZURE WEEKLY BLOG
+## AZURE WEEKLY BLOG
 
 <!-- AZUREWEEKLY:START -->
 - [Azure Weekly Issue 331 - 4th July 2021](https://azureweekly.info/issue-331.html)
@@ -19,7 +19,7 @@
 - [Azure Weekly Issue 327 - 6th June 2021](https://azureweekly.info/issue-327.html)
 <!-- AZUREWEEKLY:END -->
 
-### AZURE INFOHUB BLOG 
+## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
 - [GitHub Availability Report: June 2021](https://github.blog/2021-07-07-github-availability-report-june-2021/)
@@ -30,7 +30,7 @@
 <!-- AZUREINFOHUB:END -->
 
 
-### AZURE UPDATES - DEVOPS 
+## AZURE UPDATES - DEVOPS 
 
 <!-- AZUREUPDATES:START -->
 
@@ -42,7 +42,7 @@
 <!-- AZUREUPDATES:END -->
 
 
-### MS OPEN SOURCE BLOG - DEVOPS 
+## MS OPEN SOURCE BLOG - DEVOPS 
 
 <!-- MSOPENSOURCEBLOG:START -->
 
@@ -54,7 +54,7 @@
 <!-- MSOPENSOURCEBLOG:END -->
 
 
-### GITHUB BLOG
+## GITHUB BLOG
 
 
 <!-- GITHUB:START -->

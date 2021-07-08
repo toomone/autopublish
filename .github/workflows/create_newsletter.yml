@@ -17,11 +17,18 @@ jobs:
 
       - name: Get current date
         id: date
-        run: echo "::set-output name=date::$(date +'%B-%Y')"
+        run: echo "::set-output name=date::$(date +'%B-%Y')"    
 
       - name: Merge cartridge with content to create newsletter
         run: |
           awk 'FNR==1{print ""}{print}' ./cartridge.md ./content.md > ./post.md
+
+      - name: Find and Replace
+        uses: jacobtomlinson/gha-find-replace@master
+        with:
+          find: "#DATE#"
+          replace: "${{ steps.date.outputs.date }}"
+          include: "post.md" # Will match all README.md files in any nested directory              
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
