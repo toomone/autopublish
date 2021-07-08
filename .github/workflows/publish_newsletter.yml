@@ -23,10 +23,10 @@ jobs:
 
       - name: Target filename
         id: targetfilename
-        run: echo "::set-output name=targetfilename::${{ steps.date.outputs.date }}-newsletter-${{ steps.month.outputs.month }}.yml" 
+        run: echo "::set-output name=targetfilename::${{ steps.date.outputs.date }}-newsletter-${{ steps.month.outputs.month }}.md" 
 
       - name: Rename post file
-        run: git mv post.yml ${{ steps.targetfilename.outputs.targetfilename }}
+        run: git mv post.md ${{ steps.targetfilename.outputs.targetfilename }}
 
       - name: Push newsletter file
         uses: dmnemec/copy_file_to_another_repo_action@v1.1.1
