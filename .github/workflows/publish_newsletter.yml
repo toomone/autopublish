@@ -1,4 +1,4 @@
-name: Publish newsletter
+name: Publish newsletter to GH Pages 
 on: 
   pull_request:
     branches: [ master ]
