@@ -33,7 +33,7 @@ jobs:
         env:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
-          source_file: 'post-${{ steps.date.outputs.date }}.yml'
+          source_file: ${{ steps.targetfilename.outputs.targetfilename }}
           destination_repo: 'toomone/fake-blog'
           destination_folder: '_posts'
           user_email: 'thomas.cousin@gmail.com'
