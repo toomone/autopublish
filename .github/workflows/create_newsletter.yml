@@ -15,7 +15,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
-      - name: Get current date
+      - name: Get current date for PR title and branch name
         id: date
         run: echo "::set-output name=date::$(date +'%B-%Y')"    
 
@@ -23,7 +23,7 @@ jobs:
         run: |
           awk 'FNR==1{print ""}{print}' ./cartridge.md ./content.md > ./post.md
 
-      - name: Set current date as env variable
+      - name: get date to replace in cartridge template
         run: echo "MONTH::$(date +'%B %Y')"      
 
       - name: Find and Replace
