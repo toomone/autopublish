@@ -40,6 +40,7 @@ jobs:
           body: Nothing to comment
           branch: autopublish-${{ steps.date.outputs.date }}
           labels: 'publish_newsletter'
+          reviewers: toomone
 
       
 
