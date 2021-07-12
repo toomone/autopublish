@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [Adding support for cross-cluster associations to Rails 7](https://github.blog/2021-07-12-adding-support-cross-cluster-associations-rails-7/) (07/12/21)
  - [GitHub Availability Report: June 2021](https://github.blog/2021-07-07-github-availability-report-june-2021/) (07/07/21)
  - [Introducing GitHub Copilot: your AI pair programmer](https://github.blog/2021-06-29-introducing-github-copilot-ai-pair-programmer/) (06/29/21)
  - [Seven years of the GitHub Security Bug Bounty program](https://github.blog/2021-06-25-seven-years-github-security-bug-bounty-program/) (06/25/21)
  - [Run online campus events with your favorite tools at no cost with the new GitHub Virtual Event Kit](https://github.blog/2021-06-24-run-online-campus-events-github-virtual-event-kit/) (06/24/21)
- - [Introducing the new GitHub Issues](https://github.blog/2021-06-23-introducing-new-github-issues/) (06/23/21)
 <!-- GITHUB:END -->
