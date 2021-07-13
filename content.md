@@ -12,21 +12,21 @@
 ## AZURE WEEKLY BLOG
 
 <!-- AZUREWEEKLY:START -->
+- [Azure Weekly Issue 332 - 11th July 2021](https://azureweekly.info/issue-332.html)
 - [Azure Weekly Issue 331 - 4th July 2021](https://azureweekly.info/issue-331.html)
 - [Azure Weekly Issue 330 - 27th June 2021](https://azureweekly.info/issue-330.html)
 - [Azure Weekly Issue 329 - 20th June 2021](https://azureweekly.info/issue-329.html)
 - [Azure Weekly Issue 328 - 13th June 2021](https://azureweekly.info/issue-328.html)
-- [Azure Weekly Issue 327 - 6th June 2021](https://azureweekly.info/issue-327.html)
 <!-- AZUREWEEKLY:END -->
 
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Adding support for cross-cluster associations to Rails 7](https://github.blog/2021-07-12-adding-support-cross-cluster-associations-rails-7/)
+- [Watchlist is now Generally Available](https://techcommunity.microsoft.com/t5/azure-sentinel/watchlist-is-now-generally-available/ba-p/2533859)
+- [July 2021 - Azure PowerShell updates](https://techcommunity.microsoft.com/t5/azure-tools/july-2021-azure-powershell-updates/ba-p/2539401)
+- [Azure HPC OnDemand Platform: Cloud HPC made easy.](https://techcommunity.microsoft.com/t5/azure-global/azure-hpc-ondemand-platform-cloud-hpc-made-easy/ba-p/2537338)
 - [GitHub Availability Report: June 2021](https://github.blog/2021-07-07-github-availability-report-june-2021/)
-- [Code Scanning C++ with GitHub Actions](https://devblogs.microsoft.com/cppblog/code-scanning-with-github-actions)
-- [Code Scanning C++ with GitHub Actions](https://devblogs.microsoft.com/cppblog/code-scanning-with-github-actions)
-- [Top Stories from the Microsoft DevOps Community – 2021.07.02](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-07-02)
-- [CLI for Microsoft 365 v3.11](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/cli-for-microsoft-365-v3-11/ba-p/2504353)
 <!-- AZUREINFOHUB:END -->
 
 
@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [Adding support for cross-cluster associations to Rails 7](https://github.blog/2021-07-12-adding-support-cross-cluster-associations-rails-7/) (07/12/21)
  - [GitHub Availability Report: June 2021](https://github.blog/2021-07-07-github-availability-report-june-2021/) (07/07/21)
  - [Introducing GitHub Copilot: your AI pair programmer](https://github.blog/2021-06-29-introducing-github-copilot-ai-pair-programmer/) (06/29/21)
  - [Seven years of the GitHub Security Bug Bounty program](https://github.blog/2021-06-25-seven-years-github-security-bug-bounty-program/) (06/25/21)
  - [Run online campus events with your favorite tools at no cost with the new GitHub Virtual Event Kit](https://github.blog/2021-06-24-run-online-campus-events-github-virtual-event-kit/) (06/24/21)
- - [Introducing the new GitHub Issues](https://github.blog/2021-06-23-introducing-new-github-issues/) (06/23/21)
 <!-- GITHUB:END -->
