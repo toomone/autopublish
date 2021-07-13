@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Adding support for cross-cluster associations to Rails 7](https://github.blog/2021-07-12-adding-support-cross-cluster-associations-rails-7/)
-- [Watchlist is now Generally Available](https://techcommunity.microsoft.com/t5/azure-sentinel/watchlist-is-now-generally-available/ba-p/2533859)
-- [July 2021 - Azure PowerShell updates](https://techcommunity.microsoft.com/t5/azure-tools/july-2021-azure-powershell-updates/ba-p/2539401)
-- [Azure HPC OnDemand Platform: Cloud HPC made easy.](https://techcommunity.microsoft.com/t5/azure-global/azure-hpc-ondemand-platform-cloud-hpc-made-easy/ba-p/2537338)
-- [GitHub Availability Report: June 2021](https://github.blog/2021-07-07-github-availability-report-june-2021/)
+- [Azure DevOps Server 2020.1.1 RC now available](https://devblogs.microsoft.com/devops/azure-devops-server-2020-1-1-rc-now-available)
+- [What’s new from GitHub Changelog? June 2021 Recap](https://github.blog/2021-07-13-whats-new-github-changelog-june-2021/)
+- [Hardening an ASP.NET container running on Kubernetes](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/hardening-an-asp-net-container-running-on-kubernetes/ba-p/2542224)
+- [Ensuring code changes do not break Microservice REST API, during Pull Request validation](https://techcommunity.microsoft.com/t5/apps-on-azure/ensuring-code-changes-do-not-break-microservice-rest-api-during/ba-p/2526554)
+- [Ensuring Code Changes do not Break Microservice REST APIs, as Part of Pull Request Validation](https://techcommunity.microsoft.com/t5/apps-on-azure/ensuring-code-changes-do-not-break-microservice-rest-apis-as/ba-p/2526554)
 <!-- AZUREINFOHUB:END -->
 
 
