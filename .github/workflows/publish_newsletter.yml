@@ -28,6 +28,9 @@ jobs:
       - name: Rename post file
         run: git mv post.md ${{ steps.targetfilename.outputs.targetfilename }}
 
+      - name: Commit renamed post file
+        run: git commit . -m "Renamed post file"
+
       - name: Push newsletter file
         uses: dmnemec/copy_file_to_another_repo_action@v1.1.1
         env:
