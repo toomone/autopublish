@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Always Encrypted with secure enclaves now generally available in Azure SQL Database](https://techcommunity.microsoft.com/t5/azure-confidential-computing/always-encrypted-with-secure-enclaves-now-generally-available-in/ba-p/2544476)
+- [Always Encrypted with secure enclaves now generally available in Azure SQL Database](https://techcommunity.microsoft.com/t5/azure-sql/always-encrypted-with-secure-enclaves-now-generally-available-in/ba-p/2502560)
+- [Azure Sentinel Solutions for Partners: Build Combined Value for a Wider Audience](https://techcommunity.microsoft.com/t5/azure-sentinel/azure-sentinel-solutions-for-partners-build-combined-value-for-a/ba-p/2547174)
 - [Azure DevOps Server 2020.1.1 RC now available](https://devblogs.microsoft.com/devops/azure-devops-server-2020-1-1-rc-now-available)
 - [What’s new from GitHub Changelog? June 2021 Recap](https://github.blog/2021-07-13-whats-new-github-changelog-june-2021/)
-- [Hardening an ASP.NET container running on Kubernetes](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/hardening-an-asp-net-container-running-on-kubernetes/ba-p/2542224)
-- [Ensuring code changes do not break Microservice REST API, during Pull Request validation](https://techcommunity.microsoft.com/t5/apps-on-azure/ensuring-code-changes-do-not-break-microservice-rest-api-during/ba-p/2526554)
-- [Ensuring Code Changes do not Break Microservice REST APIs, as Part of Pull Request Validation](https://techcommunity.microsoft.com/t5/apps-on-azure/ensuring-code-changes-do-not-break-microservice-rest-apis-as/ba-p/2526554)
 <!-- AZUREINFOHUB:END -->
 
 
