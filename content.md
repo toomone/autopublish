@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Student leaders are taking GitHub Campus TV to the next level](https://github.blog/2021-07-15-student-leaders-github-campus-tv-next-level/)
+- [Learn how to deploy and manage your Azure resources with Bicep!](https://techcommunity.microsoft.com/t5/azure-governance-and-management/learn-how-to-deploy-and-manage-your-azure-resources-with-bicep/ba-p/2540119)
+- [Learn how to deploy and manage your Azure resources with Bicep!](https://techcommunity.microsoft.com/t5/azure-governance-and-management/learn-how-to-deploy-and-manage-your-azure-resources-with-bicep/ba-p/2540119)
+- [Learn how to deploy and manage your Azure resources with Bicep!](https://techcommunity.microsoft.com/t5/azure-governance-and-management/learn-how-to-deploy-and-manage-your-azure-resources-with-bicep/ba-p/2540119)
 - [Always Encrypted with secure enclaves now generally available in Azure SQL Database](https://techcommunity.microsoft.com/t5/azure-confidential-computing/always-encrypted-with-secure-enclaves-now-generally-available-in/ba-p/2544476)
-- [Always Encrypted with secure enclaves now generally available in Azure SQL Database](https://techcommunity.microsoft.com/t5/azure-sql/always-encrypted-with-secure-enclaves-now-generally-available-in/ba-p/2502560)
-- [Azure Sentinel Solutions for Partners: Build Combined Value for a Wider Audience](https://techcommunity.microsoft.com/t5/azure-sentinel/azure-sentinel-solutions-for-partners-build-combined-value-for-a/ba-p/2547174)
-- [Azure DevOps Server 2020.1.1 RC now available](https://devblogs.microsoft.com/devops/azure-devops-server-2020-1-1-rc-now-available)
-- [What’s new from GitHub Changelog? June 2021 Recap](https://github.blog/2021-07-13-whats-new-github-changelog-june-2021/)
 <!-- AZUREINFOHUB:END -->
 
 
