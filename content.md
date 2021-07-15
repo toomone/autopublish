@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [Student leaders are taking GitHub Campus TV to the next level](https://github.blog/2021-07-15-student-leaders-github-campus-tv-next-level/) (07/15/21)
  - [What’s new from GitHub Changelog? June 2021 Recap](https://github.blog/2021-07-13-whats-new-github-changelog-june-2021/) (07/13/21)
  - [Adding support for cross-cluster associations to Rails 7](https://github.blog/2021-07-12-adding-support-cross-cluster-associations-rails-7/) (07/12/21)
  - [GitHub Availability Report: June 2021](https://github.blog/2021-07-07-github-availability-report-june-2021/) (07/07/21)
  - [Introducing GitHub Copilot: your AI pair programmer](https://github.blog/2021-06-29-introducing-github-copilot-ai-pair-programmer/) (06/29/21)
- - [Seven years of the GitHub Security Bug Bounty program](https://github.blog/2021-06-25-seven-years-github-security-bug-bounty-program/) (06/25/21)
 <!-- GITHUB:END -->
