@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Student leaders are taking GitHub Campus TV to the next level](https://github.blog/2021-07-15-student-leaders-github-campus-tv-next-level/)
-- [Learn how to deploy and manage your Azure resources with Bicep!](https://techcommunity.microsoft.com/t5/azure-governance-and-management/learn-how-to-deploy-and-manage-your-azure-resources-with-bicep/ba-p/2540119)
-- [Learn how to deploy and manage your Azure resources with Bicep!](https://techcommunity.microsoft.com/t5/azure-governance-and-management/learn-how-to-deploy-and-manage-your-azure-resources-with-bicep/ba-p/2540119)
-- [Learn how to deploy and manage your Azure resources with Bicep!](https://techcommunity.microsoft.com/t5/azure-governance-and-management/learn-how-to-deploy-and-manage-your-azure-resources-with-bicep/ba-p/2540119)
-- [Always Encrypted with secure enclaves now generally available in Azure SQL Database](https://techcommunity.microsoft.com/t5/azure-confidential-computing/always-encrypted-with-secure-enclaves-now-generally-available-in/ba-p/2544476)
+- [Introducing Azure Communication Services Call Diagnostics feature for web applications!](https://techcommunity.microsoft.com/t5/azure-communication-services/introducing-azure-communication-services-call-diagnostics/ba-p/2557632)
+- [Azure Marketplace new offers – Volume 153](https://techcommunity.microsoft.com/t5/azure-marketplace/azure-marketplace-new-offers-volume-153/ba-p/2409782)
+- [Azure Marketplace new offers – Volume 153](https://techcommunity.microsoft.com/t5/azure-marketplace/azure-marketplace-new-offers-volume-153/ba-p/2409782)
+- [Top Stories from the Microsoft DevOps Community – 2021.07.16](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-07-16)
+- [Great Way to Start with Deep Learning: Introducing PyTorch Courses on Microsoft Learn](https://techcommunity.microsoft.com/t5/educator-developer-blog/great-way-to-start-with-deep-learning-introducing-pytorch/ba-p/2555752)
 <!-- AZUREINFOHUB:END -->
 
 
