@@ -12,6 +12,14 @@ jobs:
 
       - name: Checkout
         uses: actions/checkout@v2
+        with:
+          path: main      
+
+      - name: Checkout tools repo
+        uses: actions/checkout@v2
+        with:
+          repository: toomone/fake-blog
+          path: blog
 
       - name: Get current full date
         id: date
@@ -26,19 +34,22 @@ jobs:
         run: echo "::set-output name=targetfilename::${{ steps.date.outputs.date }}-newsletter-${{ steps.month.outputs.month }}.md" 
 
       - name: Rename post file
+        working-directory: ./main
         run: git mv post.md ${{ steps.targetfilename.outputs.targetfilename }}
 
       - name: Commit renamed post file
+        working-directory: ./main
         run: git commit . -m "Renamed post file"
 
-      - name: Push newsletter file
-        uses: dmnemec/copy_file_to_another_repo_action@v1.1.1
-        env:
-          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
-        with:
-          source_file: ${{ steps.targetfilename.outputs.targetfilename }}
-          destination_repo: 'toomone/fake-blog'
-          destination_folder: '_posts'
-          user_email: 'thomas.cousin@gmail.com'
-          user_name: 'toomone'
-          commit_message: 'Devops newsletter on ${{ steps.date.outputs.date }}'
+      - name: Copy file to blog
+        working-directory: ./main
+        run: cp ${{ steps.targetfilename.outputs.targetfilename }} ../blog/_posts/     
+
+      - uses: actions/checkout@v2
+        working-directory: ./blog
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "Renamed post file"
+          git push            
