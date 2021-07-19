@@ -19,7 +19,7 @@ jobs:
         uses: actions/checkout@v2
         with:
           repository: toomone/fake-blog
-          token: ${{ secrets.GITHUB_PAT }}
+          token: ${{ secrets.PERSO_PAT }}
           path: blog
 
       - name: Get current full date
