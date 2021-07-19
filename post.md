@@ -30,11 +30,11 @@ excerpt: Hello, l'actualité Devops de ce mois-ci tourne autour de Azure Devops,
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Adding support for cross-cluster associations to Rails 7](https://github.blog/2021-07-12-adding-support-cross-cluster-associations-rails-7/)
-- [Watchlist is now Generally Available](https://techcommunity.microsoft.com/t5/azure-sentinel/watchlist-is-now-generally-available/ba-p/2533859)
-- [July 2021 - Azure PowerShell updates](https://techcommunity.microsoft.com/t5/azure-tools/july-2021-azure-powershell-updates/ba-p/2539401)
-- [Azure HPC OnDemand Platform: Cloud HPC made easy.](https://techcommunity.microsoft.com/t5/azure-global/azure-hpc-ondemand-platform-cloud-hpc-made-easy/ba-p/2537338)
-- [GitHub Availability Report: June 2021](https://github.blog/2021-07-07-github-availability-report-june-2021/)
+- [Introducing Azure Communication Services Call Diagnostics feature for web applications!](https://techcommunity.microsoft.com/t5/azure-communication-services/introducing-azure-communication-services-call-diagnostics/ba-p/2557632)
+- [Azure Marketplace new offers – Volume 153](https://techcommunity.microsoft.com/t5/azure-marketplace/azure-marketplace-new-offers-volume-153/ba-p/2409782)
+- [Azure Marketplace new offers – Volume 153](https://techcommunity.microsoft.com/t5/azure-marketplace/azure-marketplace-new-offers-volume-153/ba-p/2409782)
+- [Top Stories from the Microsoft DevOps Community – 2021.07.16](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-07-16)
+- [Great Way to Start with Deep Learning: Introducing PyTorch Courses on Microsoft Learn](https://techcommunity.microsoft.com/t5/educator-developer-blog/great-way-to-start-with-deep-learning-introducing-pytorch/ba-p/2555752)
 <!-- AZUREINFOHUB:END -->
 
 
@@ -67,9 +67,9 @@ excerpt: Hello, l'actualité Devops de ce mois-ci tourne autour de Azure Devops,
 
 <!-- GITHUB:START -->
 
+ - [Student leaders are taking GitHub Campus TV to the next level](https://github.blog/2021-07-15-student-leaders-github-campus-tv-next-level/) (07/15/21)
+ - [What’s new from GitHub Changelog? June 2021 Recap](https://github.blog/2021-07-13-whats-new-github-changelog-june-2021/) (07/13/21)
  - [Adding support for cross-cluster associations to Rails 7](https://github.blog/2021-07-12-adding-support-cross-cluster-associations-rails-7/) (07/12/21)
  - [GitHub Availability Report: June 2021](https://github.blog/2021-07-07-github-availability-report-june-2021/) (07/07/21)
  - [Introducing GitHub Copilot: your AI pair programmer](https://github.blog/2021-06-29-introducing-github-copilot-ai-pair-programmer/) (06/29/21)
- - [Seven years of the GitHub Security Bug Bounty program](https://github.blog/2021-06-25-seven-years-github-security-bug-bounty-program/) (06/25/21)
- - [Run online campus events with your favorite tools at no cost with the new GitHub Virtual Event Kit](https://github.blog/2021-06-24-run-online-campus-events-github-virtual-event-kit/) (06/24/21)
 <!-- GITHUB:END -->
