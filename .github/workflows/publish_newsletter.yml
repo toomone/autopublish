@@ -45,7 +45,7 @@ jobs:
         working-directory: ./main
         run: cp ${{ steps.targetfilename.outputs.targetfilename }} ../blog/_posts/     
 
-      - uses: actions/checkout@v2
+      - name: commit push the new post 
         working-directory: ./blog
         run: |
           git config user.name github-actions
