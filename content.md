@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Introducing Azure Communication Services Call Diagnostics feature for web applications!](https://techcommunity.microsoft.com/t5/azure-communication-services/introducing-azure-communication-services-call-diagnostics/ba-p/2557632)
-- [Azure Marketplace new offers – Volume 153](https://techcommunity.microsoft.com/t5/azure-marketplace/azure-marketplace-new-offers-volume-153/ba-p/2409782)
-- [Azure Marketplace new offers – Volume 153](https://techcommunity.microsoft.com/t5/azure-marketplace/azure-marketplace-new-offers-volume-153/ba-p/2409782)
-- [Top Stories from the Microsoft DevOps Community – 2021.07.16](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-07-16)
-- [Great Way to Start with Deep Learning: Introducing PyTorch Courses on Microsoft Learn](https://techcommunity.microsoft.com/t5/educator-developer-blog/great-way-to-start-with-deep-learning-introducing-pytorch/ba-p/2555752)
+- [Deploying an Azure Logic Apps Standard workflow through Azure DevOps Pipeline](https://techcommunity.microsoft.com/t5/integrations-on-azure/deploying-an-azure-logic-apps-standard-workflow-through-azure/ba-p/2533050)
+- [Deploying an Azure Logic Apps Standard workflow through Azure DevOps Pipeline](https://techcommunity.microsoft.com/t5/integrations-on-azure/deploying-an-azure-logic-apps-standard-workflow-through-azure/ba-p/2533050)
+- [Why do developers use Azure DevOps Services?](https://techcommunity.microsoft.com/t5/itops-talk-blog/why-do-developers-use-azure-devops-services/ba-p/2541280)
+- [Why do developers use Azure DevOps Services?](https://techcommunity.microsoft.com/t5/itops-talk-blog/why-do-developers-use-azure-devops-services/ba-p/2541280)
+- [Why do developers use Azure DevOps Services?](https://techcommunity.microsoft.com/t5/itops-talk-blog/why-do-developers-use-azure-devops-services/ba-p/2541280)
 <!-- AZUREINFOHUB:END -->
 
 
