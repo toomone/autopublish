@@ -39,7 +39,12 @@ jobs:
 
       - name: Commit renamed post file
         working-directory: ./main
-        run: git commit . -m "Renamed post file"
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "Renamed post file"
+          git push               
 
       - name: Copy file to blog
         working-directory: ./main
