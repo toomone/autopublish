@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [An MVP’s Serverless And AI Challenge](https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/an-mvp-s-serverless-and-ai-challenge/ba-p/2566361)
+- [An MVP’s Serverless And AI Challenge](https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/an-mvp-s-serverless-and-ai-challenge/ba-p/2566361)
+- [Flexible Deployment](https://techcommunity.microsoft.com/t5/azure-ai/flexible-deployment/ba-p/2564524)
+- [Flexible Deployment](https://techcommunity.microsoft.com/t5/azure-ai/flexible-deployment/ba-p/2564524)
 - [Deploying an Azure Logic Apps Standard workflow through Azure DevOps Pipeline](https://techcommunity.microsoft.com/t5/integrations-on-azure/deploying-an-azure-logic-apps-standard-workflow-through-azure/ba-p/2533050)
-- [Deploying an Azure Logic Apps Standard workflow through Azure DevOps Pipeline](https://techcommunity.microsoft.com/t5/integrations-on-azure/deploying-an-azure-logic-apps-standard-workflow-through-azure/ba-p/2533050)
-- [Why do developers use Azure DevOps Services?](https://techcommunity.microsoft.com/t5/itops-talk-blog/why-do-developers-use-azure-devops-services/ba-p/2541280)
-- [Why do developers use Azure DevOps Services?](https://techcommunity.microsoft.com/t5/itops-talk-blog/why-do-developers-use-azure-devops-services/ba-p/2541280)
-- [Why do developers use Azure DevOps Services?](https://techcommunity.microsoft.com/t5/itops-talk-blog/why-do-developers-use-azure-devops-services/ba-p/2541280)
 <!-- AZUREINFOHUB:END -->
 
 
