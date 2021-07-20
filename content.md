@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
-- [AzureFunBytes Episode 37 – Microsoft Power Apps with @98codes](https://devblogs.microsoft.com/devops/azurefunbytes-episode-37-microsoft-power-apps-with-98codes/)
-- [Top Stories from the Microsoft DevOps Community – 2021.07.02](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-07-02/)
-- [AzureFunBytes Episode 45 – Observing @Azure with @DatadogHQ, with guest @ryan_maclean](https://devblogs.microsoft.com/devops/azurefunbytes-episode-45-observing-azure-with-datadoghq-with-guest-ryan_maclean/)
-- [Top Stories from the Microsoft DevOps Community – 2021.06.25](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-06-25/)
-- [How to create your personal blog with Gatsby & Azure Static Web Apps –  Azure Tips & Tricks](https://devblogs.microsoft.com/devops/how-to-create-your-personal-blog-with-gatsby-azure-static-web-apps-azure-tips-tricks/)
+- [AzureFunBytes – @Azure Logic Apps with @ChloeCondon](https://devblogs.microsoft.com/devops/azurefunbytes-azure-logic-apps-with-chloecondon/)
+- [Top Stories from the Microsoft DevOps Community – 2021.07.16](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-07-16/)
+- [Azure DevOps Server 2020.1.1 RC now available](https://devblogs.microsoft.com/devops/azure-devops-server-2020-1-1-rc-now-available/)
+- [AzureFunBytes Episode 46 – OpenShift on @Azure with @jjasghar](https://devblogs.microsoft.com/devops/azurefunbytes-episode-46-openshift-on-azure-with-jjasghar/)
+- [Top Stories from the Microsoft DevOps Community – 2021.07.09](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-07-09/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
