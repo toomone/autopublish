@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Xamarin.Essentials 1.7 and introducing .NET MAUI Essentials](https://devblogs.microsoft.com/xamarin/xamarin-essentials-1-7-and-introducing-net-maui-essentials)
-- [Introducing the broadcast development kit for Microsoft Teams](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/introducing-the-broadcast-development-kit-for-microsoft-teams/ba-p/2568670)
-- [Azure Arc for Developers](https://techcommunity.microsoft.com/t5/itops-talk-blog/azure-arc-for-developers/ba-p/2561513)
-- [Azure Arc for Developers](https://techcommunity.microsoft.com/t5/itops-talk-blog/azure-arc-for-developers/ba-p/2561513)
-- [Azure Arc for Developers](https://techcommunity.microsoft.com/t5/itops-talk-blog/azure-arc-for-developers/ba-p/2561513)
+- [Minimum Viable Governance: lightweight community structure to grow your FOSS projects](https://github.blog/2021-07-22-minimum-viable-governance-lightweight-community-structure-foss-projects/)
+- [GitHub brings supply chain security features to the Go community](https://github.blog/2021-07-22-github-supply-chain-security-features-go-community/)
+- [Azure Defender PoC Series – Azure Defender for Storage](https://techcommunity.microsoft.com/t5/azure-security-center/azure-defender-poc-series-azure-defender-for-storage/ba-p/2577311)
+- [Office Add-in Development Community (PnP) – July 2021 update](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/office-add-in-development-community-pnp-july-2021-update/ba-p/2576650)
+- [Champion Management Platform version 1.2 is now available!](https://techcommunity.microsoft.com/t5/driving-adoption-blog/champion-management-platform-version-1-2-is-now-available/ba-p/2556448)
 <!-- AZUREINFOHUB:END -->
 
 
