@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Top Stories from the Microsoft DevOps Community – 2021.07.23](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-07-23)
+- [Top Stories from the Microsoft DevOps Community – 2021.07.23](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-07-23)
+- [Developers: Learn Azure Your Way Pt. 2](https://channel9.msdn.com/Shows/Azure-Enablement/Developers-Learn-Azure-Your-Way-Pt-2)
+- [Microsoft 365 Developer Community Call recording – 22nd of July, 2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-developer-community-call-recording-22nd-of-july/ba-p/2481291)
 - [Minimum Viable Governance: lightweight community structure to grow your FOSS projects](https://github.blog/2021-07-22-minimum-viable-governance-lightweight-community-structure-foss-projects/)
-- [GitHub brings supply chain security features to the Go community](https://github.blog/2021-07-22-github-supply-chain-security-features-go-community/)
-- [Azure Defender PoC Series – Azure Defender for Storage](https://techcommunity.microsoft.com/t5/azure-security-center/azure-defender-poc-series-azure-defender-for-storage/ba-p/2577311)
-- [Office Add-in Development Community (PnP) – July 2021 update](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/office-add-in-development-community-pnp-july-2021-update/ba-p/2576650)
-- [Champion Management Platform version 1.2 is now available!](https://techcommunity.microsoft.com/t5/driving-adoption-blog/champion-management-platform-version-1-2-is-now-available/ba-p/2556448)
 <!-- AZUREINFOHUB:END -->
 
 
