@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Top Stories from the Microsoft DevOps Community – 2021.07.23](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-07-23/)
 - [AzureFunBytes – @Azure Logic Apps with @ChloeCondon](https://devblogs.microsoft.com/devops/azurefunbytes-azure-logic-apps-with-chloecondon/)
 - [Top Stories from the Microsoft DevOps Community – 2021.07.16](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-07-16/)
 - [Azure DevOps Server 2020.1.1 RC now available](https://devblogs.microsoft.com/devops/azure-devops-server-2020-1-1-rc-now-available/)
 - [AzureFunBytes Episode 46 – OpenShift on @Azure with @jjasghar](https://devblogs.microsoft.com/devops/azurefunbytes-episode-46-openshift-on-azure-with-jjasghar/)
-- [Top Stories from the Microsoft DevOps Community – 2021.07.09](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-07-09/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
