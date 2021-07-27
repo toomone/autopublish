@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Meet a recent Microsoft Learn Student Ambassador graduate: Khushboo Verma](https://techcommunity.microsoft.com/t5/student-developer-blog/meet-a-recent-microsoft-learn-student-ambassador-graduate/ba-p/2587641)
-- [Top Stories from the Microsoft DevOps Community – 2021.07.23](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-07-23)
-- [Top Stories from the Microsoft DevOps Community – 2021.07.23](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-07-23)
-- [Developers: Learn Azure Your Way Pt. 2](https://channel9.msdn.com/Shows/Azure-Enablement/Developers-Learn-Azure-Your-Way-Pt-2)
-- [Microsoft 365 Developer Community Call recording – 22nd of July, 2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-developer-community-call-recording-22nd-of-july/ba-p/2481291)
+- [Standing up for developers: the GitHub Developer Rights Fellowship at Stanford Law School](https://github.blog/2021-07-27-github-developer-rights-fellowship-stanford-law-school/)
+- [Software Defined Monitoring - Using Automated Notebooks and Azure Sentinel to Improve Sec Ops](https://techcommunity.microsoft.com/t5/azure-sentinel/software-defined-monitoring-using-automated-notebooks-and-azure/ba-p/2587775)
+- [Object-oriented Java programming - Java Microsoft Learn Modules](https://techcommunity.microsoft.com/t5/educator-developer-blog/object-oriented-java-programming-java-microsoft-learn-modules/ba-p/2591140)
+- [Object-oriented Java programming - Java Microsoft Learn Modules](https://techcommunity.microsoft.com/t5/educator-developer-blog/object-oriented-java-programming-java-microsoft-learn-modules/ba-p/2591140)
+- [Object-oriented Java programming - Java Microsoft Learn Modules](https://techcommunity.microsoft.com/t5/educator-developer-blog/object-oriented-java-programming-java-microsoft-learn-modules/ba-p/2591140)
 <!-- AZUREINFOHUB:END -->
 
 
