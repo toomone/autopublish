@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [15+ new code scanning integrations with open source security tools](https://github.blog/2021-07-28-new-code-scanning-integrations-open-source-security-tools/)
+- [Conversation about the .NET open source project](https://devblogs.microsoft.com/dotnet/conversation-about-the-net-open-source-project)
+- [General Availability of Auto-Labeling Using Trainable Classifiers in Office Apps for Windows and Web](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/general-availability-of-auto-labeling-using-trainable/ba-p/2593078)
 - [Standing up for developers: the GitHub Developer Rights Fellowship at Stanford Law School](https://github.blog/2021-07-27-github-developer-rights-fellowship-stanford-law-school/)
 - [Software Defined Monitoring - Using Automated Notebooks and Azure Sentinel to Improve Sec Ops](https://techcommunity.microsoft.com/t5/azure-sentinel/software-defined-monitoring-using-automated-notebooks-and-azure/ba-p/2587775)
-- [Object-oriented Java programming - Java Microsoft Learn Modules](https://techcommunity.microsoft.com/t5/educator-developer-blog/object-oriented-java-programming-java-microsoft-learn-modules/ba-p/2591140)
-- [Object-oriented Java programming - Java Microsoft Learn Modules](https://techcommunity.microsoft.com/t5/educator-developer-blog/object-oriented-java-programming-java-microsoft-learn-modules/ba-p/2591140)
-- [Object-oriented Java programming - Java Microsoft Learn Modules](https://techcommunity.microsoft.com/t5/educator-developer-blog/object-oriented-java-programming-java-microsoft-learn-modules/ba-p/2591140)
 <!-- AZUREINFOHUB:END -->
 
 
