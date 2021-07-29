@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Comparing Azure Static Web Apps vs Azure WebApps vs Azure Blob Storage Static Sites](https://devblogs.microsoft.com/devops/comparing-azure-static-web-apps-vs-azure-webapps-vs-azure-blob-storage-static-sites/)
+- [DevOps Dojo – People & Teams](https://devblogs.microsoft.com/devops/devops-dojo-people-teams/)
 - [AzureFunBytes – @Azure Arc Enabled Data Services with @sqldbawithbeard](https://devblogs.microsoft.com/devops/azurefunbytes-azure-arc-enabled-data-services-with-sqldbawithbeard/)
 - [Top Stories from the Microsoft DevOps Community – 2021.07.23](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-07-23/)
 - [AzureFunBytes – @Azure Logic Apps with @ChloeCondon](https://devblogs.microsoft.com/devops/azurefunbytes-azure-logic-apps-with-chloecondon/)
-- [Top Stories from the Microsoft DevOps Community – 2021.07.16](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-07-16/)
-- [Azure DevOps Server 2020.1.1 RC now available](https://devblogs.microsoft.com/devops/azure-devops-server-2020-1-1-rc-now-available/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
