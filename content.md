@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Top Stories from the Microsoft DevOps Community – 2021.07.30](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-07-30)
+- [Azure Marketplace new offers – Volume 155](https://techcommunity.microsoft.com/t5/azure-marketplace/azure-marketplace-new-offers-volume-155/ba-p/2409787)
+- [CLI for Microsoft 365 v3.12](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/cli-for-microsoft-365-v3-12/ba-p/2589506)
+- [SharePoint Framework Community Call – 29th of July, 2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/sharepoint-framework-community-call-29th-of-july-2021/ba-p/2481295)
 - [Understanding API connections for your Azure Sentinel Playbooks](https://techcommunity.microsoft.com/t5/azure-sentinel/understanding-api-connections-for-your-azure-sentinel-playbooks/ba-p/2593973)
-- [15+ new code scanning integrations with open source security tools](https://github.blog/2021-07-28-new-code-scanning-integrations-open-source-security-tools/)
-- [Introduction to .NET nanoFramework](https://channel9.msdn.com/Shows/Internet-of-Things-Show/Introduction-to-NET-nanoFramework)
-- [Conversation about the .NET open source project](https://devblogs.microsoft.com/dotnet/conversation-about-the-net-open-source-project)
-- [General Availability of Auto-Labeling Using Trainable Classifiers in Office Apps for Windows and Web](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/general-availability-of-auto-labeling-using-trainable/ba-p/2593078)
 <!-- AZUREINFOHUB:END -->
 
 
