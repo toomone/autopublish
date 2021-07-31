@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [IT Pros: Learn Azure Your Way Pt. 2](https://channel9.msdn.com/Shows/Azure-Enablement/IT-Pros-Learn-Azure-Your-Way-Pt-2)
 - [Top Stories from the Microsoft DevOps Community – 2021.07.30](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-07-30)
 - [Azure Marketplace new offers – Volume 155](https://techcommunity.microsoft.com/t5/azure-marketplace/azure-marketplace-new-offers-volume-155/ba-p/2409787)
 - [CLI for Microsoft 365 v3.12](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/cli-for-microsoft-365-v3-12/ba-p/2589506)
 - [SharePoint Framework Community Call – 29th of July, 2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/sharepoint-framework-community-call-29th-of-july-2021/ba-p/2481295)
-- [Understanding API connections for your Azure Sentinel Playbooks](https://techcommunity.microsoft.com/t5/azure-sentinel/understanding-api-connections-for-your-azure-sentinel-playbooks/ba-p/2593973)
 <!-- AZUREINFOHUB:END -->
 
 
