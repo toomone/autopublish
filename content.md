@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [AzureFunBytes Episode 49 – Intro to @Azure SQL with @StevenMurawski](https://devblogs.microsoft.com/devops/azurefunbytes-episode-49-intro-to-azure-sql-with-stevenmurawski/)
 - [Monitoring Azure by using Grafana dashboards](https://devblogs.microsoft.com/devops/monitoring-azure-by-using-grafana-dashboards/)
 - [Top Stories from the Microsoft DevOps Community – 2021.07.30](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-07-30/)
 - [Comparing Azure Static Web Apps vs Azure WebApps vs Azure Blob Storage Static Sites](https://devblogs.microsoft.com/devops/comparing-azure-static-web-apps-vs-azure-webapps-vs-azure-blob-storage-static-sites/)
 - [DevOps Dojo – People & Teams](https://devblogs.microsoft.com/devops/devops-dojo-people-teams/)
-- [AzureFunBytes – @Azure Arc Enabled Data Services with @sqldbawithbeard](https://devblogs.microsoft.com/devops/azurefunbytes-azure-arc-enabled-data-services-with-sqldbawithbeard/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
