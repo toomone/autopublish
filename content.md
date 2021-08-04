@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [GitHub Availability Report: July 2021](https://github.blog/2021-08-04-github-availability-report-july-2021/) (08/04/21)
  - [15+ new code scanning integrations with open source security tools](https://github.blog/2021-07-28-new-code-scanning-integrations-open-source-security-tools/) (07/28/21)
  - [Standing up for developers: the GitHub Developer Rights Fellowship at Stanford Law School](https://github.blog/2021-07-27-github-developer-rights-fellowship-stanford-law-school/) (07/27/21)
  - [Minimum Viable Governance: lightweight community structure to grow your FOSS projects](https://github.blog/2021-07-22-minimum-viable-governance-lightweight-community-structure-foss-projects/) (07/22/21)
  - [GitHub brings supply chain security features to the Go community](https://github.blog/2021-07-22-github-supply-chain-security-features-go-community/) (07/22/21)
- - [Student leaders are taking GitHub Campus TV to the next level](https://github.blog/2021-07-15-student-leaders-github-campus-tv-next-level/) (07/15/21)
 <!-- GITHUB:END -->
