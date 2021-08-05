@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Introducing Microsoft GCToolkit](https://devblogs.microsoft.com/java/introducing-microsoft-gctoolkit)
+- [Release Radar · Mid-year 2021 Edition](https://github.blog/2021-08-05-release-radar-jun-jul-2021/)
 - [GitHub Availability Report: July 2021](https://github.blog/2021-08-04-github-availability-report-july-2021/)
 - [Scott Hunter on Preparing for .NET 6 - Episode 152](http://azuredevopspodcast.clear-measure.com/scott-hunter-on-preparing-for-net-6-episode-152)
 - [IT Pros: Learn Azure Your Way Pt. 2](https://channel9.msdn.com/Shows/Azure-Enablement/IT-Pros-Learn-Azure-Your-Way-Pt-2)
-- [Top Stories from the Microsoft DevOps Community – 2021.07.30](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-07-30)
-- [Azure Marketplace new offers – Volume 155](https://techcommunity.microsoft.com/t5/azure-marketplace/azure-marketplace-new-offers-volume-155/ba-p/2409787)
 <!-- AZUREINFOHUB:END -->
 
 
