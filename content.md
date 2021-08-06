@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Top Stories from the Microsoft DevOps Community – 2021.08.06](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-08-06/)
+- [AzureFunBytes Presents: Migrating Your Data – Migrate your MongoDB data to Cosmos DB](https://devblogs.microsoft.com/devops/azurefunbytes-presents-migrating-your-data-migrate-your-mongodb-data-to-cosmos-db/)
 - [AzureFunBytes Episode 49 – Intro to @Azure SQL with @StevenMurawski](https://devblogs.microsoft.com/devops/azurefunbytes-episode-49-intro-to-azure-sql-with-stevenmurawski/)
 - [Monitoring Azure by using Grafana dashboards](https://devblogs.microsoft.com/devops/monitoring-azure-by-using-grafana-dashboards/)
 - [Top Stories from the Microsoft DevOps Community – 2021.07.30](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-07-30/)
-- [Comparing Azure Static Web Apps vs Azure WebApps vs Azure Blob Storage Static Sites](https://devblogs.microsoft.com/devops/comparing-azure-static-web-apps-vs-azure-webapps-vs-azure-blob-storage-static-sites/)
-- [DevOps Dojo – People & Teams](https://devblogs.microsoft.com/devops/devops-dojo-people-teams/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
