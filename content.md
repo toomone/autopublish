@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [August 2021 Campus Experts applications are open!](https://github.blog/2021-08-09-august-2021-campus-experts-applications-are-open/)
-- [Introducing Microsoft GCToolkit](https://devblogs.microsoft.com/java/introducing-microsoft-gctoolkit)
-- [Release Radar · Mid-year 2021 Edition](https://github.blog/2021-08-05-release-radar-jun-jul-2021/)
-- [GitHub Availability Report: July 2021](https://github.blog/2021-08-04-github-availability-report-july-2021/)
-- [Scott Hunter on Preparing for .NET 6 - Episode 152](http://azuredevopspodcast.clear-measure.com/scott-hunter-on-preparing-for-net-6-episode-152)
+- [August patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/august-patches-for-azure-devops-server)
+- [Azure Marketplace new offers – Volume 157](https://techcommunity.microsoft.com/t5/azure-marketplace/azure-marketplace-new-offers-volume-157/ba-p/2572892)
+- [Azure Marketplace new offers – Volume 157](https://techcommunity.microsoft.com/t5/azure-marketplace/azure-marketplace-new-offers-volume-157/ba-p/2572892)
+- [“The gifts of GitHub” – The Intrazone podcast](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/the-gifts-of-github-the-intrazone-podcast/ba-p/2623848)
+- [Getting started with PnP Script Samples](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-started-with-pnp-script-samples/ba-p/2629414)
 <!-- AZUREINFOHUB:END -->
 
 
