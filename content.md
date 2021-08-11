@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [GitHub’s Engineering Team has moved to Codespaces](https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/)
+- [Azure SQL News Update: August 2021](https://techcommunity.microsoft.com/t5/azure-sql/azure-sql-news-update-august-2021/ba-p/2634224)
+- [Azure SQL News Update: August 2021](https://techcommunity.microsoft.com/t5/azure-sql/azure-sql-news-update-august-2021/ba-p/2634224)
 - [August patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/august-patches-for-azure-devops-server)
 - [Azure Marketplace new offers – Volume 157](https://techcommunity.microsoft.com/t5/azure-marketplace/azure-marketplace-new-offers-volume-157/ba-p/2572892)
-- [Azure Marketplace new offers – Volume 157](https://techcommunity.microsoft.com/t5/azure-marketplace/azure-marketplace-new-offers-volume-157/ba-p/2572892)
-- [“The gifts of GitHub” – The Intrazone podcast](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/the-gifts-of-github-the-intrazone-podcast/ba-p/2623848)
-- [Getting started with PnP Script Samples](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/getting-started-with-pnp-script-samples/ba-p/2629414)
 <!-- AZUREINFOHUB:END -->
 
 
