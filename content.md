@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [GitHub’s Engineering Team has moved to Codespaces](https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/) (08/11/21)
  - [August 2021 Campus Experts applications are open!](https://github.blog/2021-08-09-august-2021-campus-experts-applications-are-open/) (08/09/21)
  - [Release Radar · Mid-year 2021 Edition](https://github.blog/2021-08-05-release-radar-jun-jul-2021/) (08/05/21)
  - [GitHub Availability Report: July 2021](https://github.blog/2021-08-04-github-availability-report-july-2021/) (08/04/21)
  - [15+ new code scanning integrations with open source security tools](https://github.blog/2021-07-28-new-code-scanning-integrations-open-source-security-tools/) (07/28/21)
- - [Standing up for developers: the GitHub Developer Rights Fellowship at Stanford Law School](https://github.blog/2021-07-27-github-developer-rights-fellowship-stanford-law-school/) (07/27/21)
 <!-- GITHUB:END -->
