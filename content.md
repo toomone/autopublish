@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Seamless teaching and learning through GitHub Classroom and Visual Studio Code](https://github.blog/2021-08-12-teaching-learning-github-classroom-visual-studio-code/)
+- [Turn Your Ideas Into Reality With Microsoft Power Platform](https://techcommunity.microsoft.com/t5/educator-developer-blog/turn-your-ideas-into-reality-with-microsoft-power-platform/ba-p/2639996)
+- [Azure Healthcare APIs - A workspace for health data in the cloud.](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/azure-healthcare-apis-a-workspace-for-health-data-in-the-cloud/ba-p/2642328)
+- [AD FS to Azure AD Migrations: Notes from the Field](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/ad-fs-to-azure-ad-migrations-notes-from-the-field/ba-p/2635847)
 - [GitHub’s Engineering Team has moved to Codespaces](https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/)
-- [Azure SQL News Update: August 2021](https://techcommunity.microsoft.com/t5/azure-sql/azure-sql-news-update-august-2021/ba-p/2634224)
-- [Azure SQL News Update: August 2021](https://techcommunity.microsoft.com/t5/azure-sql/azure-sql-news-update-august-2021/ba-p/2634224)
-- [August patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/august-patches-for-azure-devops-server)
-- [Azure Marketplace new offers – Volume 157](https://techcommunity.microsoft.com/t5/azure-marketplace/azure-marketplace-new-offers-volume-157/ba-p/2572892)
 <!-- AZUREINFOHUB:END -->
 
 
