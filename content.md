@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [What’s new from GitHub Changelog? July 2021 Recap](https://github.blog/2021-08-12-whats-new-from-github-changelog-july-2021-recap/) (08/13/21)
  - [Seamless teaching and learning through GitHub Classroom and Visual Studio Code](https://github.blog/2021-08-12-teaching-learning-github-classroom-visual-studio-code/) (08/12/21)
  - [GitHub’s Engineering Team has moved to Codespaces](https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/) (08/11/21)
  - [August 2021 Campus Experts applications are open!](https://github.blog/2021-08-09-august-2021-campus-experts-applications-are-open/) (08/09/21)
  - [Release Radar · Mid-year 2021 Edition](https://github.blog/2021-08-05-release-radar-jun-jul-2021/) (08/05/21)
- - [GitHub Availability Report: July 2021](https://github.blog/2021-08-04-github-availability-report-july-2021/) (08/04/21)
 <!-- GITHUB:END -->
