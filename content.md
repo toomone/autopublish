@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Seamless teaching and learning through GitHub Classroom and Visual Studio Code](https://github.blog/2021-08-12-teaching-learning-github-classroom-visual-studio-code/)
-- [Turn Your Ideas Into Reality With Microsoft Power Platform](https://techcommunity.microsoft.com/t5/educator-developer-blog/turn-your-ideas-into-reality-with-microsoft-power-platform/ba-p/2639996)
-- [Azure Healthcare APIs - A workspace for health data in the cloud.](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/azure-healthcare-apis-a-workspace-for-health-data-in-the-cloud/ba-p/2642328)
-- [AD FS to Azure AD Migrations: Notes from the Field](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/ad-fs-to-azure-ad-migrations-notes-from-the-field/ba-p/2635847)
-- [GitHub’s Engineering Team has moved to Codespaces](https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/)
+- [Microsoft 365 Defender Ninja August 2021 special edition!](https://techcommunity.microsoft.com/t5/microsoft-365-defender/microsoft-365-defender-ninja-august-2021-special-edition/ba-p/2643022)
+- [Friday Five: GitHub Copilot, C#.NET, More!](https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/friday-five-github-copilot-c-net-more/ba-p/2642790)
+- [SharePoint Framework Community Call – 12th of August, 2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/sharepoint-framework-community-call-12th-of-august-2021/ba-p/2637918)
+- [What’s new from GitHub Changelog? July 2021 Recap](https://github.blog/2021-08-12-whats-new-from-github-changelog-july-2021-recap/)
+- [GitHub Classroom and VSCode Extension](https://techcommunity.microsoft.com/t5/educator-developer-blog/github-classroom-and-vscode-extension/ba-p/2644197)
 <!-- AZUREINFOHUB:END -->
 
 
