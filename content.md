@@ -12,11 +12,11 @@
 ## AZURE WEEKLY BLOG
 
 <!-- AZUREWEEKLY:START -->
+- [Azure Weekly Issue 336 - 15th August 2021](https://azureweekly.info/issue-336.html)
 - [Azure Weekly Issue 335 - 8th August 2021](https://azureweekly.info/issue-335.html)
 - [Azure Weekly Issue 334 - 1st August 2021](https://azureweekly.info/issue-334.html)
 - [Azure Weekly Issue 333 - 22nd July 2021](https://azureweekly.info/issue-333.html)
 - [Azure Weekly Issue 332 - 11th July 2021](https://azureweekly.info/issue-332.html)
-- [Azure Weekly Issue 331 - 4th July 2021](https://azureweekly.info/issue-331.html)
 <!-- AZUREWEEKLY:END -->
 
 ## AZURE INFOHUB BLOG 
