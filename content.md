@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Microsoft 365 Defender Ninja August 2021 special edition!](https://techcommunity.microsoft.com/t5/microsoft-365-defender/microsoft-365-defender-ninja-august-2021-special-edition/ba-p/2643022)
-- [Friday Five: GitHub Copilot, C#.NET, More!](https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/friday-five-github-copilot-c-net-more/ba-p/2642790)
-- [SharePoint Framework Community Call – 12th of August, 2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/sharepoint-framework-community-call-12th-of-august-2021/ba-p/2637918)
-- [What’s new from GitHub Changelog? July 2021 Recap](https://github.blog/2021-08-12-whats-new-from-github-changelog-july-2021-recap/)
-- [GitHub Classroom and VSCode Extension](https://techcommunity.microsoft.com/t5/educator-developer-blog/github-classroom-and-vscode-extension/ba-p/2644197)
+- [Securing your GitHub account with two-factor authentication](https://github.blog/2021-08-16-securing-your-github-account-two-factor-authentication/)
+- [Azure & Desired State Configuration Part 1/4](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-amp-desired-state-configuration-part-1-4/ba-p/2609032)
+- [Secure storage account linked to Function App with private endpoint](https://techcommunity.microsoft.com/t5/apps-on-azure/secure-storage-account-linked-to-function-app-with-private/ba-p/2644772)
+- [.NET 5 Support of Azure Functions OpenAPI Extension](https://techcommunity.microsoft.com/t5/apps-on-azure/net-5-support-of-azure-functions-openapi-extension/ba-p/2647383)
+- [.NET 5 Support of Azure Functions OpenAPI Extension](https://techcommunity.microsoft.com/t5/apps-on-azure/net-5-support-of-azure-functions-openapi-extension/ba-p/2647383)
 <!-- AZUREINFOHUB:END -->
 
 
