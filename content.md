@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Securing your GitHub account with two-factor authentication](https://github.blog/2021-08-16-securing-your-github-account-two-factor-authentication/)
-- [Azure & Desired State Configuration Part 1/4](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-amp-desired-state-configuration-part-1-4/ba-p/2609032)
-- [Secure storage account linked to Function App with private endpoint](https://techcommunity.microsoft.com/t5/apps-on-azure/secure-storage-account-linked-to-function-app-with-private/ba-p/2644772)
-- [.NET 5 Support of Azure Functions OpenAPI Extension](https://techcommunity.microsoft.com/t5/apps-on-azure/net-5-support-of-azure-functions-openapi-extension/ba-p/2647383)
-- [.NET 5 Support of Azure Functions OpenAPI Extension](https://techcommunity.microsoft.com/t5/apps-on-azure/net-5-support-of-azure-functions-openapi-extension/ba-p/2647383)
+- [GitHub Discussions is out of beta](https://github.blog/2021-08-17-github-discussions-out-of-beta/)
+- [Azure DevOps Server 2020.1.1 RTW now available](https://devblogs.microsoft.com/devops/azure-devops-server-2020-1-1-rtw-now-available)
+- [Creating in New Realities: Mixed Reality Development from a Student’s Perspective](https://techcommunity.microsoft.com/t5/mixed-reality-blog/creating-in-new-realities-mixed-reality-development-from-a/ba-p/2633007)
+- [Durable Functions for Python just got faster!](https://techcommunity.microsoft.com/t5/apps-on-azure/durable-functions-for-python-just-got-faster/ba-p/2647246)
+- [Azure Marketplace new offers – Volume 158](https://techcommunity.microsoft.com/t5/azure-marketplace/azure-marketplace-new-offers-volume-158/ba-p/2601051)
 <!-- AZUREINFOHUB:END -->
 
 
