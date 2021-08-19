@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [Enhanced support for citations on GitHub](https://github.blog/2021-08-19-enhanced-support-citations-github/) (08/19/21)
  - [GitHub Discussions is out of beta](https://github.blog/2021-08-17-github-discussions-out-of-beta/) (08/17/21)
  - [Highlights from Git 2.33](https://github.blog/2021-08-16-highlights-from-git-2-33/) (08/16/21)
  - [Securing your GitHub account with two-factor authentication](https://github.blog/2021-08-16-securing-your-github-account-two-factor-authentication/) (08/16/21)
  - [What’s new from GitHub Changelog? July 2021 Recap](https://github.blog/2021-08-12-whats-new-from-github-changelog-july-2021-recap/) (08/13/21)
- - [Seamless teaching and learning through GitHub Classroom and Visual Studio Code](https://github.blog/2021-08-12-teaching-learning-github-classroom-visual-studio-code/) (08/12/21)
 <!-- GITHUB:END -->
