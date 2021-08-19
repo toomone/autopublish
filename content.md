@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Azure DevOps Server 2020.1.1 RTW now available](https://devblogs.microsoft.com/devops/azure-devops-server-2020-1-1-rtw-now-available/)
+- [AzureFunBytes Episode 51 – Deploy With ARM Templates with @shankuehn](https://devblogs.microsoft.com/devops/azurefunbytes-episode-51-deploy-with-arm-templates-with-shankuehn/)
+- [Top Stories from the Microsoft DevOps Community – 2021.08.13](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-08-13/)
 - [Developer Best Practices – Structuring Your Repository for Static Web Apps](https://devblogs.microsoft.com/devops/developer-best-practices-structuring-your-repository-for-static-web-apps/)
 - [August patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/august-patches-for-azure-devops-server/)
-- [AzureFunBytes Episode 50 – Intro to @BicepLang with @adotfrank](https://devblogs.microsoft.com/devops/azurefunbytes-episode-50-intro-to-biceplang-with-adotfrank/)
-- [Top Stories from the Microsoft DevOps Community – 2021.08.06](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-08-06/)
-- [AzureFunBytes Presents: Migrating Your Data – Migrate your MongoDB data to Cosmos DB](https://devblogs.microsoft.com/devops/azurefunbytes-presents-migrating-your-data-migrate-your-mongodb-data-to-cosmos-db/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
