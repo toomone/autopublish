@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Top Stories from the Microsoft DevOps Community – 2021.08.20](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-08-20)
+- [Out with the Old and In with the New: an Enhanced Jupyter Experience in DevOps](https://devblogs.microsoft.com/python/out-with-the-old-and-in-with-the-new-an-enhanced-jupyter-experience-in-devops)
 - [Episode 390 - Pronunciation Assessment](http://azpodcast.azurewebsites.net/post/Episode-390-Pronunciation-Assessment)
 - [Enhanced support for citations on GitHub](https://github.blog/2021-08-19-enhanced-support-citations-github/)
 - [Azure AD Sign-in Logs + Workbooks = Know Who is Using Windows Hello for Business](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-ad-sign-in-logs-workbooks-know-who-is-using-windows-hello/ba-p/2661980)
-- [GitHub Discussions is out of beta](https://github.blog/2021-08-17-github-discussions-out-of-beta/)
-- [Azure DevOps Server 2020.1.1 RTW now available](https://devblogs.microsoft.com/devops/azure-devops-server-2020-1-1-rtw-now-available)
 <!-- AZUREINFOHUB:END -->
 
 
