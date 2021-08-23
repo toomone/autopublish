@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Top Stories from the Microsoft DevOps Community – 2021.08.20](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-08-20)
-- [Azure Marketplace new offers – Volume 159](https://techcommunity.microsoft.com/t5/azure-marketplace/azure-marketplace-new-offers-volume-159/ba-p/2601054)
-- [Out with the Old and In with the New: an Enhanced Jupyter Experience in DevOps](https://devblogs.microsoft.com/python/out-with-the-old-and-in-with-the-new-an-enhanced-jupyter-experience-in-devops)
-- [Episode 390 - Pronunciation Assessment](http://azpodcast.azurewebsites.net/post/Episode-390-Pronunciation-Assessment)
-- [Enhanced support for citations on GitHub](https://github.blog/2021-08-19-enhanced-support-citations-github/)
+- [The npm registry is deprecating TLS 1.0 and TLS 1.1](https://github.blog/2021-08-23-npm-registry-deprecating-tls-1-0-tls-1-1/)
+- [Azure & Desired State Configuration Part 2/4](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-amp-desired-state-configuration-part-2-4/ba-p/2609036)
+- [Azure & Desired State Configuration Part 2/4](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-amp-desired-state-configuration-part-2-4/ba-p/2609036)
+- [Hackathon as a Service with GitHub Actions, Microsoft 365 and Power Platform](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/hackathon-as-a-service-with-github-actions-microsoft-365-and/ba-p/2671063)
+- [Hackathon as a Service with GitHub Actions, Microsoft 365 and Power Platform](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/hackathon-as-a-service-with-github-actions-microsoft-365-and/ba-p/2671063)
 <!-- AZUREINFOHUB:END -->
 
 
