@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [GitHub CLI 2.0 includes extensions!](https://github.blog/2021-08-24-github-cli-2-0-includes-extensions/) (08/24/21)
  - [The npm registry is deprecating TLS 1.0 and TLS 1.1](https://github.blog/2021-08-23-npm-registry-deprecating-tls-1-0-tls-1-1/) (08/23/21)
  - [Enhanced support for citations on GitHub](https://github.blog/2021-08-19-enhanced-support-citations-github/) (08/19/21)
  - [GitHub Discussions is out of beta](https://github.blog/2021-08-17-github-discussions-out-of-beta/) (08/17/21)
  - [Highlights from Git 2.33](https://github.blog/2021-08-16-highlights-from-git-2-33/) (08/16/21)
- - [Securing your GitHub account with two-factor authentication](https://github.blog/2021-08-16-securing-your-github-account-two-factor-authentication/) (08/16/21)
 <!-- GITHUB:END -->
