@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [GitHub CLI 2.0 includes extensions!](https://github.blog/2021-08-24-github-cli-2-0-includes-extensions/)
+- [Migrate from Azure Database for MySQL - Single Server to Flexible Server in 5 easy steps!](https://techcommunity.microsoft.com/t5/azure-database-for-mysql/migrate-from-azure-database-for-mysql-single-server-to-flexible/ba-p/2674057)
+- [Azure Marketplace new offers – Volume 160](https://techcommunity.microsoft.com/t5/azure-marketplace/azure-marketplace-new-offers-volume-160/ba-p/2601053)
 - [The npm registry is deprecating TLS 1.0 and TLS 1.1](https://github.blog/2021-08-23-npm-registry-deprecating-tls-1-0-tls-1-1/)
-- [Azure & Desired State Configuration Part 2/4](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-amp-desired-state-configuration-part-2-4/ba-p/2609036)
-- [Azure & Desired State Configuration Part 2/4](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-amp-desired-state-configuration-part-2-4/ba-p/2609036)
-- [Hackathon as a Service with GitHub Actions, Microsoft 365 and Power Platform](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/hackathon-as-a-service-with-github-actions-microsoft-365-and/ba-p/2671063)
-- [Hackathon as a Service with GitHub Actions, Microsoft 365 and Power Platform](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/hackathon-as-a-service-with-github-actions-microsoft-365-and/ba-p/2671063)
+- [Join Microsoft at SpringOne 2021](https://techcommunity.microsoft.com/t5/apps-on-azure/join-microsoft-at-springone-2021/ba-p/2677087)
 <!-- AZUREINFOHUB:END -->
 
 
