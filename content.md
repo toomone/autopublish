@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [GitHub CLI 2.0 includes extensions!](https://github.blog/2021-08-24-github-cli-2-0-includes-extensions/)
-- [Migrate from Azure Database for MySQL - Single Server to Flexible Server in 5 easy steps!](https://techcommunity.microsoft.com/t5/azure-database-for-mysql/migrate-from-azure-database-for-mysql-single-server-to-flexible/ba-p/2674057)
-- [Azure Marketplace new offers – Volume 160](https://techcommunity.microsoft.com/t5/azure-marketplace/azure-marketplace-new-offers-volume-160/ba-p/2601053)
-- [The npm registry is deprecating TLS 1.0 and TLS 1.1](https://github.blog/2021-08-23-npm-registry-deprecating-tls-1-0-tls-1-1/)
-- [Join Microsoft at SpringOne 2021](https://techcommunity.microsoft.com/t5/apps-on-azure/join-microsoft-at-springone-2021/ba-p/2677087)
+- [2021 Transparency Report: January to June](https://github.blog/2021-08-25-2021-transparency-report-january-to-june/)
+- [30 free and open source Linux games – part 1](https://github.blog/2021-08-25-30-free-and-open-source-linux-games-part-1/)
+- [Released: Microsoft.Data.SqlClient 4.0 Preview 1](https://techcommunity.microsoft.com/t5/sql-server/released-microsoft-data-sqlclient-4-0-preview-1/ba-p/2685322)
+- [Microsoft Azure Automatic Grading Engine](https://techcommunity.microsoft.com/t5/educator-developer-blog/microsoft-azure-automatic-grading-engine/ba-p/2681809)
+- [Microsoft 365 PnP Community – August 2021 update](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-community-august-2021-update/ba-p/2651816)
 <!-- AZUREINFOHUB:END -->
 
 
