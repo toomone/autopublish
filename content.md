@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [30 free and open source Linux games – part 2](https://github.blog/2021-08-26-30-free-and-open-source-linux-games-part-2/)
+- [New Detections, Hunting Queries and Response Automation in Azure Firewall Solution for Sentinel](https://techcommunity.microsoft.com/t5/azure-network-security/new-detections-hunting-queries-and-response-automation-in-azure/ba-p/2688746)
+- [CICD Improvements with GitHub support in Azure Government and Azure China](https://techcommunity.microsoft.com/t5/azure-data-factory/cicd-improvements-with-github-support-in-azure-government-and/ba-p/2686918)
+- [Azure Service Fabric managed clusters 2021-07-01-preview release](https://techcommunity.microsoft.com/t5/azure-service-fabric/azure-service-fabric-managed-clusters-2021-07-01-preview-release/ba-p/2680331)
 - [2021 Transparency Report: January to June](https://github.blog/2021-08-25-2021-transparency-report-january-to-june/)
-- [30 free and open source Linux games – part 1](https://github.blog/2021-08-25-30-free-and-open-source-linux-games-part-1/)
-- [Released: Microsoft.Data.SqlClient 4.0 Preview 1](https://techcommunity.microsoft.com/t5/sql-server/released-microsoft-data-sqlclient-4-0-preview-1/ba-p/2685322)
-- [Microsoft Azure Automatic Grading Engine](https://techcommunity.microsoft.com/t5/educator-developer-blog/microsoft-azure-automatic-grading-engine/ba-p/2681809)
-- [Microsoft 365 PnP Community – August 2021 update](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-community-august-2021-update/ba-p/2651816)
 <!-- AZUREINFOHUB:END -->
 
 
