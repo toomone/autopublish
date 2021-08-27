@@ -46,11 +46,11 @@
 
 <!-- MSOPENSOURCEBLOG:START -->
 
+ - [Join Microsoft and the Spring community at SpringOne 2021](https://cloudblogs.microsoft.com/opensource/2021/08/27/join-microsoft-and-the-spring-community-at-springone-2021/) (08/27/21)
  - [Deploying SUSE SAP HA Automation in Microsoft Azure](https://cloudblogs.microsoft.com/opensource/2021/01/21/deploying-suse-sap-ha-automation-in-microsoft-azure/) (01/21/21)
  - [Announcing Dapr integration in Azure API Management Service](https://cloudblogs.microsoft.com/opensource/2020/09/22/announcing-dapr-integration-azure-api-management-service-apim/) (09/22/20)
  - [Introducing Azure Tools, a new blog community for Azure command line tools](https://cloudblogs.microsoft.com/opensource/2020/07/27/introducing-azure-tools-new-tech-community-blog/) (07/27/20)
  - [Extreme programming meets systematic testing using Coyote](https://cloudblogs.microsoft.com/opensource/2020/07/14/extreme-programming-meets-systematic-testing-using-coyote/) (07/14/20)
- - [Announcing the Azure DevOps Provider for Terraform](https://cloudblogs.microsoft.com/opensource/2020/06/18/announcing-hashicorp-terraform-azure-devops-provider-release/) (06/18/20)
 <!-- MSOPENSOURCEBLOG:END -->
 
 
