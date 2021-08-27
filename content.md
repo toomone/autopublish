@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [30 free and open source Linux games – part 2](https://github.blog/2021-08-26-30-free-and-open-source-linux-games-part-2/)
-- [New Detections, Hunting Queries and Response Automation in Azure Firewall Solution for Sentinel](https://techcommunity.microsoft.com/t5/azure-network-security/new-detections-hunting-queries-and-response-automation-in-azure/ba-p/2688746)
-- [CICD Improvements with GitHub support in Azure Government and Azure China](https://techcommunity.microsoft.com/t5/azure-data-factory/cicd-improvements-with-github-support-in-azure-government-and/ba-p/2686918)
-- [Azure Service Fabric managed clusters 2021-07-01-preview release](https://techcommunity.microsoft.com/t5/azure-service-fabric/azure-service-fabric-managed-clusters-2021-07-01-preview-release/ba-p/2680331)
-- [2021 Transparency Report: January to June](https://github.blog/2021-08-25-2021-transparency-report-january-to-june/)
+- [30 free and open source Linux games – part 3](https://github.blog/2021-08-27-30-free-and-open-source-linux-games-part-3/)
+- [Becoming an Azure Sentinel Notebooks ninja - the series!](https://techcommunity.microsoft.com/t5/azure-sentinel/becoming-an-azure-sentinel-notebooks-ninja-the-series/ba-p/2693491)
+- [Ingestion Cost Spike detection App](https://techcommunity.microsoft.com/t5/azure-sentinel/ingestion-cost-spike-detection-app/ba-p/2591301)
+- [Software Load Balancer in Azure Stack HCI](https://techcommunity.microsoft.com/t5/azure-stack-blog/software-load-balancer-in-azure-stack-hci/ba-p/2691404)
+- [Hackathon Automation with GitHub Actions, Microsoft 365 and Power Platform](https://techcommunity.microsoft.com/t5/educator-developer-blog/hackathon-automation-with-github-actions-microsoft-365-and-power/ba-p/2691046)
 <!-- AZUREINFOHUB:END -->
 
 
