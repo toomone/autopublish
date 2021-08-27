@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [30 free and open source Linux games – part 3](https://github.blog/2021-08-27-30-free-and-open-source-linux-games-part-3/) (08/27/21)
  - [30 free and open source Linux games – part 2](https://github.blog/2021-08-26-30-free-and-open-source-linux-games-part-2/) (08/26/21)
  - [2021 Transparency Report: January to June](https://github.blog/2021-08-25-2021-transparency-report-january-to-june/) (08/25/21)
  - [30 free and open source Linux games – part 1](https://github.blog/2021-08-25-30-free-and-open-source-linux-games-part-1/) (08/25/21)
  - [GitHub CLI 2.0 includes extensions!](https://github.blog/2021-08-24-github-cli-2-0-includes-extensions/) (08/24/21)
- - [The npm registry is deprecating TLS 1.0 and TLS 1.1](https://github.blog/2021-08-23-npm-registry-deprecating-tls-1-0-tls-1-1/) (08/23/21)
 <!-- GITHUB:END -->
