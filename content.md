@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [DevOps Primer (Part 1)](https://techcommunity.microsoft.com/t5/educator-developer-blog/devops-primer-part-1/ba-p/2695712)
+- [DevOps Primer (Part 1)](https://techcommunity.microsoft.com/t5/educator-developer-blog/devops-primer-part-1/ba-p/2695712)
+- [DevOps Primer (Part 1)](https://techcommunity.microsoft.com/t5/educator-developer-blog/devops-primer-part-1/ba-p/2695712)
 - [Performance considerations for large scale deep learning training on Azure NDv4 (A100) series](https://techcommunity.microsoft.com/t5/azure-global/performance-considerations-for-large-scale-deep-learning/ba-p/2693834)
 - [E2E Testing Azure Functions within GitHub Actions](https://techcommunity.microsoft.com/t5/apps-on-azure/e2e-testing-azure-functions-within-github-actions/ba-p/2691035)
-- [E2E Testing Azure Functions within GitHub Actions](https://techcommunity.microsoft.com/t5/apps-on-azure/e2e-testing-azure-functions-within-github-actions/ba-p/2691035)
-- [30 free and open source Linux games – part 3](https://github.blog/2021-08-27-30-free-and-open-source-linux-games-part-3/)
-- [Becoming an Azure Sentinel Notebooks ninja - the series!](https://techcommunity.microsoft.com/t5/azure-sentinel/becoming-an-azure-sentinel-notebooks-ninja-the-series/ba-p/2693491)
 <!-- AZUREINFOHUB:END -->
 
 
