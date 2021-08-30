@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Improve your Azure Network Infrastructure Security with Complementary Services](https://techcommunity.microsoft.com/t5/azure-network-security/improve-your-azure-network-infrastructure-security-with/ba-p/2697246)
+- [Giving Healthcare a Voice With AI Driven Text To Speech](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/giving-healthcare-a-voice-with-ai-driven-text-to-speech/ba-p/2693979)
+- [Azure & Desired State Configuration Part 3/4](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-amp-desired-state-configuration-part-3-4/ba-p/2609037)
 - [DevOps Primer (Part 1)](https://techcommunity.microsoft.com/t5/educator-developer-blog/devops-primer-part-1/ba-p/2695712)
 - [DevOps Primer (Part 1)](https://techcommunity.microsoft.com/t5/educator-developer-blog/devops-primer-part-1/ba-p/2695712)
-- [DevOps Primer (Part 1)](https://techcommunity.microsoft.com/t5/educator-developer-blog/devops-primer-part-1/ba-p/2695712)
-- [Performance considerations for large scale deep learning training on Azure NDv4 (A100) series](https://techcommunity.microsoft.com/t5/azure-global/performance-considerations-for-large-scale-deep-learning/ba-p/2693834)
-- [E2E Testing Azure Functions within GitHub Actions](https://techcommunity.microsoft.com/t5/apps-on-azure/e2e-testing-azure-functions-within-github-actions/ba-p/2691035)
 <!-- AZUREINFOHUB:END -->
 
 
