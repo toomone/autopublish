@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Improve your Azure Network Infrastructure Security with Complementary Services](https://techcommunity.microsoft.com/t5/azure-network-security/improve-your-azure-network-infrastructure-security-with/ba-p/2697246)
-- [Giving Healthcare a Voice With AI Driven Text To Speech](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/giving-healthcare-a-voice-with-ai-driven-text-to-speech/ba-p/2693979)
-- [Azure & Desired State Configuration Part 3/4](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-amp-desired-state-configuration-part-3-4/ba-p/2609037)
-- [DevOps Primer (Part 1)](https://techcommunity.microsoft.com/t5/educator-developer-blog/devops-primer-part-1/ba-p/2695712)
-- [DevOps Primer (Part 1)](https://techcommunity.microsoft.com/t5/educator-developer-blog/devops-primer-part-1/ba-p/2695712)
+- [Workshop Spotlight: GitHub](https://devblogs.microsoft.com/premier-developer/workshop-spotlight-github)
+- [Vague infringement allegations considered harmful](https://github.blog/2021-08-31-vague-infringement-allegations-considered-harmful/)
+- [Request for proposals: Defining standardized GitHub metrics](https://github.blog/2021-08-31-request-for-proposals-defining-standardized-github-metrics/)
+- [Azure Marketplace new offers – Volume 162](https://techcommunity.microsoft.com/t5/azure-marketplace/azure-marketplace-new-offers-volume-162/ba-p/2601059)
+- [Browser Local Storage using PnPClientStorage](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/browser-local-storage-using-pnpclientstorage/ba-p/2696482)
 <!-- AZUREINFOHUB:END -->
 
 
