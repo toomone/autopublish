@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [GitHub Availability Report: August 2021](https://github.blog/2021-09-01-github-availability-report-august-2021/)
+- [GitHub Availability Report: August 2021](https://github.blog/2021-09-01-github-availability-report-august-2021/)
+- [Improving Git protocol security on GitHub](https://github.blog/2021-09-01-improving-git-protocol-security-github/)
+- [Introducing GitHub Global Campus](https://github.blog/2021-09-01-introducing-github-global-campus/)
 - [Workshop Spotlight: GitHub](https://devblogs.microsoft.com/premier-developer/workshop-spotlight-github)
-- [Vague infringement allegations considered harmful](https://github.blog/2021-08-31-vague-infringement-allegations-considered-harmful/)
-- [Request for proposals: Defining standardized GitHub metrics](https://github.blog/2021-08-31-request-for-proposals-defining-standardized-github-metrics/)
-- [Azure Marketplace new offers – Volume 162](https://techcommunity.microsoft.com/t5/azure-marketplace/azure-marketplace-new-offers-volume-162/ba-p/2601059)
-- [Browser Local Storage using PnPClientStorage](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/browser-local-storage-using-pnpclientstorage/ba-p/2696482)
 <!-- AZUREINFOHUB:END -->
 
 
