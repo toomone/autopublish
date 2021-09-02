@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
-- [AzureFunBytes Episode 53 – Intro to @PulumiCorp with @mattstratton](https://devblogs.microsoft.com/devops/azurefunbytes-episode-53-intro-to-pulumicorp-with-mattstratton/)
-- [Top Stories from the Microsoft DevOps Community – 2021.08.27](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-08-27/)
-- [AzureFunBytes Episode 52 – Intro to @GraphQL with @Adron of @HasuraHQ](https://devblogs.microsoft.com/devops/azurefunbytes-episode-52-intro-to-graphql-with-adron-of-hasurahq/)
-- [Top Stories from the Microsoft DevOps Community – 2021.08.20](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-08-20/)
 - [Azure DevOps Server 2020.1.1 RTW now available](https://devblogs.microsoft.com/devops/azure-devops-server-2020-1-1-rtw-now-available/)
+- [AzureFunBytes Episode 51 – Deploy With ARM Templates with @shankuehn](https://devblogs.microsoft.com/devops/azurefunbytes-episode-51-deploy-with-arm-templates-with-shankuehn/)
+- [Top Stories from the Microsoft DevOps Community – 2021.08.13](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-08-13/)
+- [Developer Best Practices – Structuring Your Repository for Static Web Apps](https://devblogs.microsoft.com/devops/developer-best-practices-structuring-your-repository-for-static-web-apps/)
+- [August patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/august-patches-for-azure-devops-server/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
