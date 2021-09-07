@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Increasing developer happiness with GitHub code scanning](https://github.blog/2021-09-07-increasing-developer-happiness-github-code-scanning/)
+- [AzureFunBytes Episode 54 – @GitHub Integration with @Azure and Shifting Left](https://devblogs.microsoft.com/devops/azurefunbytes-episode-54-github-integration-with-azure-and-shifting-left)
 - [Release Radar · August 2021 Edition](https://github.blog/2021-09-03-release-radar-aug-2021/)
 - [Introducing the MLH Fellowship: GitHub Externship Track](https://github.blog/2021-09-02-introducing-the-mlh-fellowship-github-externship-track/)
 - [GitHub Availability Report: August 2021](https://github.blog/2021-09-01-github-availability-report-august-2021/)
-- [GitHub Availability Report: August 2021](https://github.blog/2021-09-01-github-availability-report-august-2021/)
-- [Improving Git protocol security on GitHub](https://github.blog/2021-09-01-improving-git-protocol-security-github/)
 <!-- AZUREINFOHUB:END -->
 
 
