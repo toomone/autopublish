@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [Increasing developer happiness with GitHub code scanning](https://github.blog/2021-09-07-increasing-developer-happiness-github-code-scanning/) (09/07/21)
  - [Release Radar · August 2021 Edition](https://github.blog/2021-09-03-release-radar-aug-2021/) (09/03/21)
  - [Introducing the MLH Fellowship: GitHub Externship Track](https://github.blog/2021-09-02-introducing-the-mlh-fellowship-github-externship-track/) (09/02/21)
  - [GitHub Availability Report: August 2021](https://github.blog/2021-09-01-github-availability-report-august-2021/) (09/01/21)
  - [Improving Git protocol security on GitHub](https://github.blog/2021-09-01-improving-git-protocol-security-github/) (09/01/21)
- - [Introducing GitHub Global Campus](https://github.blog/2021-09-01-introducing-github-global-campus/) (09/01/21)
 <!-- GITHUB:END -->
