@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Publish your connector with Independent Publisher Connector Program](https://techcommunity.microsoft.com/t5/apps-on-azure/publish-your-connector-with-independent-publisher-connector/ba-p/2739059)
+- [Azure Marketplace new offers – Volume 164](https://techcommunity.microsoft.com/t5/azure-marketplace/azure-marketplace-new-offers-volume-164/ba-p/2601061)
+- [SharePoint Framework Community Call – 9th of September, 2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/sharepoint-framework-community-call-9th-of-september-2021/ba-p/2737010)
 - [GitHub Enterprise Server 3.2 brings new color modes and added security capabilities](https://github.blog/2021-09-09-github-enterprise-server-3-2-color-modes-security/)
 - [An analysis on developer-security researcher interactions in the vulnerability disclosure process](https://github.blog/2021-09-09-analysis-developer-security-researcher-interactions-vulnerability-disclosure/)
-- [GitHub security update: Vulnerabilities in tar and @npmcli/arborist](https://github.blog/2021-09-08-github-security-update-vulnerabilities-tar-npmcli-arborist/)
-- [Increasing developer happiness with GitHub code scanning](https://github.blog/2021-09-07-increasing-developer-happiness-github-code-scanning/)
-- [DevOps Lab | Infra as Code in Action: Secrets management | Ep 2 of 4-episode series](https://channel9.msdn.com/Shows/DevOps-Lab/DevOps-Lab--Infra-as-Code-in-Action-Secrets-management--Ep-2-of-4-episode-series)
 <!-- AZUREINFOHUB:END -->
 
 
