@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [What’s new from GitHub Changelog? August 2021 Recap](https://github.blog/2021-09-13-whats-new-from-github-changelog-august-2021-recap/) (09/13/21)
+ - [Announcing recipients of the GitHub Open Source Grants and GitHub Sponsors now open in India](https://github.blog/2021-09-12-recipients-open-source-grants-github-sponsors-india/) (09/13/21)
  - [GitHub Enterprise Server 3.2 brings new color modes and added security capabilities](https://github.blog/2021-09-09-github-enterprise-server-3-2-color-modes-security/) (09/09/21)
  - [An analysis on developer-security researcher interactions in the vulnerability disclosure process](https://github.blog/2021-09-09-analysis-developer-security-researcher-interactions-vulnerability-disclosure/) (09/09/21)
  - [GitHub security update: Vulnerabilities in tar and @npmcli/arborist](https://github.blog/2021-09-08-github-security-update-vulnerabilities-tar-npmcli-arborist/) (09/08/21)
- - [Increasing developer happiness with GitHub code scanning](https://github.blog/2021-09-07-increasing-developer-happiness-github-code-scanning/) (09/07/21)
- - [Release Radar · August 2021 Edition](https://github.blog/2021-09-03-release-radar-aug-2021/) (09/03/21)
 <!-- GITHUB:END -->
