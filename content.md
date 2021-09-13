@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [What’s new from GitHub Changelog? August 2021 Recap](https://github.blog/2021-09-13-whats-new-from-github-changelog-august-2021-recap/)
+- [Monitor Spring Boot applications end-to-end using Dynatrace!](https://techcommunity.microsoft.com/t5/apps-on-azure/monitor-spring-boot-applications-end-to-end-using-dynatrace/ba-p/2737916)
+- [Announcing recipients of the GitHub Open Source Grants and GitHub Sponsors now open in India](https://github.blog/2021-09-12-recipients-open-source-grants-github-sponsors-india/)
 - [Publish your connector with Independent Publisher Connector Program](https://techcommunity.microsoft.com/t5/apps-on-azure/publish-your-connector-with-independent-publisher-connector/ba-p/2739059)
 - [Azure Marketplace new offers – Volume 164](https://techcommunity.microsoft.com/t5/azure-marketplace/azure-marketplace-new-offers-volume-164/ba-p/2601061)
-- [SharePoint Framework Community Call – 9th of September, 2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/sharepoint-framework-community-call-9th-of-september-2021/ba-p/2737010)
-- [GitHub Enterprise Server 3.2 brings new color modes and added security capabilities](https://github.blog/2021-09-09-github-enterprise-server-3-2-color-modes-security/)
-- [An analysis on developer-security researcher interactions in the vulnerability disclosure process](https://github.blog/2021-09-09-analysis-developer-security-researcher-interactions-vulnerability-disclosure/)
 <!-- AZUREINFOHUB:END -->
 
 
