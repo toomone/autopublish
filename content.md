@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [What’s new from GitHub Changelog? August 2021 Recap](https://github.blog/2021-09-13-whats-new-from-github-changelog-august-2021-recap/)
-- [Monitor Spring Boot applications end-to-end using Dynatrace!](https://techcommunity.microsoft.com/t5/apps-on-azure/monitor-spring-boot-applications-end-to-end-using-dynatrace/ba-p/2737916)
-- [Announcing recipients of the GitHub Open Source Grants and GitHub Sponsors now open in India](https://github.blog/2021-09-12-recipients-open-source-grants-github-sponsors-india/)
-- [Publish your connector with Independent Publisher Connector Program](https://techcommunity.microsoft.com/t5/apps-on-azure/publish-your-connector-with-independent-publisher-connector/ba-p/2739059)
-- [Azure Marketplace new offers – Volume 164](https://techcommunity.microsoft.com/t5/azure-marketplace/azure-marketplace-new-offers-volume-164/ba-p/2601061)
+- [September patches for Azure DevOps Server and Team Foundation Server](https://devblogs.microsoft.com/devops/september-patches-for-azure-devops-server-and-team-foundation-server-2)
+- [The ReadME Project: A look back at the community stories that shape us](https://github.blog/2021-09-14-the-readme-project-a-look-back-community-stories/)
+- [DevOps Lab | Level up your Bicep skills on Microsoft Learn](https://channel9.msdn.com/Shows/DevOps-Lab/DevOps-Lab--Level-up-your-Bicep-skills-on-Microsoft-Learn)
+- [Microsoft Defender for Office 365 Ninja Training:  September 2021 Update](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/microsoft-defender-for-office-365-ninja-training-september-2021/ba-p/2685081)
+- [Microsoft 365 PnP Weekly - Episode 134 - Marc D Anderson (Sympraxis Consulting)](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-134-marc-d-anderson-sympraxis/ba-p/2746312)
 <!-- AZUREINFOHUB:END -->
 
 
