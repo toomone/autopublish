@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Java on Visual Studio Code的更新 – 2021年8月](https://devblogs.microsoft.com/java-ch/java-on-visual-studio-code-2021-08)
+- [Azure Marketplace new offers – Volume 165](https://techcommunity.microsoft.com/t5/azure-marketplace/azure-marketplace-new-offers-volume-165/ba-p/2601063)
+- [Azure Marketplace new offers – Volume 165](https://techcommunity.microsoft.com/t5/azure-marketplace/azure-marketplace-new-offers-volume-165/ba-p/2601063)
+- [You can now keep a close eye on your IoT Edge devices health directly from IoT Central](https://techcommunity.microsoft.com/t5/internet-of-things/you-can-now-keep-a-close-eye-on-your-iot-edge-devices-health/ba-p/2698676)
 - [September patches for Azure DevOps Server and Team Foundation Server](https://devblogs.microsoft.com/devops/september-patches-for-azure-devops-server-and-team-foundation-server-2)
-- [The ReadME Project: A look back at the community stories that shape us](https://github.blog/2021-09-14-the-readme-project-a-look-back-community-stories/)
-- [DevOps Lab | Level up your Bicep skills on Microsoft Learn](https://channel9.msdn.com/Shows/DevOps-Lab/DevOps-Lab--Level-up-your-Bicep-skills-on-Microsoft-Learn)
-- [Microsoft Defender for Office 365 Ninja Training:  September 2021 Update](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/microsoft-defender-for-office-365-ninja-training-september-2021/ba-p/2685081)
-- [Microsoft 365 PnP Weekly - Episode 134 - Marc D Anderson (Sympraxis Consulting)](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-134-marc-d-anderson-sympraxis/ba-p/2746312)
 <!-- AZUREINFOHUB:END -->
 
 
