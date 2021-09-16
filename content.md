@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Java on Visual Studio Code的更新 – 2021年8月](https://devblogs.microsoft.com/java-ch/java-on-visual-studio-code-2021-08)
-- [Azure Marketplace new offers – Volume 165](https://techcommunity.microsoft.com/t5/azure-marketplace/azure-marketplace-new-offers-volume-165/ba-p/2601063)
-- [Azure Marketplace new offers – Volume 165](https://techcommunity.microsoft.com/t5/azure-marketplace/azure-marketplace-new-offers-volume-165/ba-p/2601063)
-- [You can now keep a close eye on your IoT Edge devices health directly from IoT Central](https://techcommunity.microsoft.com/t5/internet-of-things/you-can-now-keep-a-close-eye-on-your-iot-edge-devices-health/ba-p/2698676)
-- [September patches for Azure DevOps Server and Team Foundation Server](https://devblogs.microsoft.com/devops/september-patches-for-azure-devops-server-and-team-foundation-server-2)
+- [Audit log streaming is now in public beta](https://github.blog/2021-09-16-audit-log-streaming-public-beta/)
+- [Microsoft Student Summit (S2), October 18-20, 2021](https://techcommunity.microsoft.com/t5/educator-developer-blog/microsoft-student-summit-s2-october-18-20-2021/ba-p/2758219)
+- [How to Use Citus to Shard Postgres, for Performance and Scale | Data Exposed](https://techcommunity.microsoft.com/t5/azure-sql/how-to-use-citus-to-shard-postgres-for-performance-and-scale/ba-p/2754567)
+- [Azure Sentinel Notebooks - Azure cloud support, new visualizations](https://techcommunity.microsoft.com/t5/azure-sentinel/azure-sentinel-notebooks-azure-cloud-support-new-visualizations/ba-p/2751268)
+- [A Visual Guide to Azure Percept](https://techcommunity.microsoft.com/t5/internet-of-things/a-visual-guide-to-azure-percept/ba-p/2747730)
 <!-- AZUREINFOHUB:END -->
 
 
