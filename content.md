@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
-- [AzureFunBytes Episode 53 – Intro to @PulumiCorp with @mattstratton](https://devblogs.microsoft.com/devops/azurefunbytes-episode-53-intro-to-pulumicorp-with-mattstratton/)
-- [Top Stories from the Microsoft DevOps Community – 2021.08.27](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-08-27/)
-- [AzureFunBytes Episode 52 – Intro to @GraphQL with @Adron of @HasuraHQ](https://devblogs.microsoft.com/devops/azurefunbytes-episode-52-intro-to-graphql-with-adron-of-hasurahq/)
-- [Top Stories from the Microsoft DevOps Community – 2021.08.20](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-08-20/)
-- [Updated: Azure DevOps Server 2020.1.1 RTW now available](https://devblogs.microsoft.com/devops/azure-devops-server-2020-1-1-rtw-now-available/)
+- [Introducing Azure DevOps Audit Stream](https://devblogs.microsoft.com/devops/introducing-azure-devops-audit-stream/)
+- [Top Stories from the Microsoft DevOps Community – 2021.09.17](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-09-17/)
+- [Level up your skills with Bicep!](https://devblogs.microsoft.com/devops/level-up-your-skills-with-bicep/)
+- [September patches for Azure DevOps Server and Team Foundation Server](https://devblogs.microsoft.com/devops/september-patches-for-azure-devops-server-and-team-foundation-server-2/)
+- [AzureFunBytes Episode 55 – Programming for Accessibility with @rorypreddy](https://devblogs.microsoft.com/devops/azurefunbytes-episode-55-programming-for-accessibility-with-rorypreddy/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
