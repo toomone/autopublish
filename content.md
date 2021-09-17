@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Introducing Azure DevOps Audit Stream](https://devblogs.microsoft.com/devops/introducing-azure-devops-audit-stream)
+- [Top Stories from the Microsoft DevOps Community – 2021.09.17](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-09-17)
+- [Announcing PyMarlin, a new PyTorch extension library for agile deep learning experimentation](https://techcommunity.microsoft.com/t5/azure-ai/announcing-pymarlin-a-new-pytorch-extension-library-for-agile/ba-p/2758051)
 - [Audit log streaming is now in public beta](https://github.blog/2021-09-16-audit-log-streaming-public-beta/)
-- [Microsoft Student Summit (S2), October 18-20, 2021](https://techcommunity.microsoft.com/t5/educator-developer-blog/microsoft-student-summit-s2-october-18-20-2021/ba-p/2758219)
-- [How to Use Citus to Shard Postgres, for Performance and Scale | Data Exposed](https://techcommunity.microsoft.com/t5/azure-sql/how-to-use-citus-to-shard-postgres-for-performance-and-scale/ba-p/2754567)
-- [Azure Sentinel Notebooks - Azure cloud support, new visualizations](https://techcommunity.microsoft.com/t5/azure-sentinel/azure-sentinel-notebooks-azure-cloud-support-new-visualizations/ba-p/2751268)
-- [A Visual Guide to Azure Percept](https://techcommunity.microsoft.com/t5/internet-of-things/a-visual-guide-to-azure-percept/ba-p/2747730)
+- [How to Use Citus to Shard Postgres, for Performance & Scale](https://channel9.msdn.com/Shows/Data-Exposed/How-to-Use-Citus-to-Shard-Postgres-for-Performance--Scale)
 <!-- AZUREINFOHUB:END -->
 
 
