@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Hunting for OMI Vulnerability Exploitation with Azure Sentinel](https://techcommunity.microsoft.com/t5/azure-sentinel/hunting-for-omi-vulnerability-exploitation-with-azure-sentinel/ba-p/2764093)
 - [MS Graph, Blazor WebAssembly and Azure Static Web Apps](https://techcommunity.microsoft.com/t5/apps-on-azure/ms-graph-blazor-webassembly-and-azure-static-web-apps/ba-p/2743653)
 - [Introducing Azure DevOps Audit Stream](https://devblogs.microsoft.com/devops/introducing-azure-devops-audit-stream)
 - [Top Stories from the Microsoft DevOps Community – 2021.09.17](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-09-17)
 - [Announcing PyMarlin, a new PyTorch extension library for agile deep learning experimentation](https://techcommunity.microsoft.com/t5/azure-ai/announcing-pymarlin-a-new-pytorch-extension-library-for-agile/ba-p/2758051)
-- [Audit log streaming is now in public beta](https://github.blog/2021-09-16-audit-log-streaming-public-beta/)
 <!-- AZUREINFOHUB:END -->
 
 
