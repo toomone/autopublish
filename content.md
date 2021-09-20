@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Azure Marketplace new offers – Volume 166](https://techcommunity.microsoft.com/t5/azure-marketplace/azure-marketplace-new-offers-volume-166/ba-p/2601056)
+- [Azure Marketplace new offers – Volume 166](https://techcommunity.microsoft.com/t5/azure-marketplace/azure-marketplace-new-offers-volume-166/ba-p/2601056)
+- [Export conversations from Microsoft Teams Channels using the CLI for Microsoft 365](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/export-conversations-from-microsoft-teams-channels-using-the-cli/ba-p/2762619)
 - [Hunting for OMI Vulnerability Exploitation with Azure Sentinel](https://techcommunity.microsoft.com/t5/azure-sentinel/hunting-for-omi-vulnerability-exploitation-with-azure-sentinel/ba-p/2764093)
 - [MS Graph, Blazor WebAssembly and Azure Static Web Apps](https://techcommunity.microsoft.com/t5/apps-on-azure/ms-graph-blazor-webassembly-and-azure-static-web-apps/ba-p/2743653)
-- [Introducing Azure DevOps Audit Stream](https://devblogs.microsoft.com/devops/introducing-azure-devops-audit-stream)
-- [Top Stories from the Microsoft DevOps Community – 2021.09.17](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-09-17)
-- [Announcing PyMarlin, a new PyTorch extension library for agile deep learning experimentation](https://techcommunity.microsoft.com/t5/azure-ai/announcing-pymarlin-a-new-pytorch-extension-library-for-agile/ba-p/2758051)
 <!-- AZUREINFOHUB:END -->
 
 
