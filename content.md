@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Azure Marketplace new offers – Volume 166](https://techcommunity.microsoft.com/t5/azure-marketplace/azure-marketplace-new-offers-volume-166/ba-p/2601056)
-- [Azure Marketplace new offers – Volume 166](https://techcommunity.microsoft.com/t5/azure-marketplace/azure-marketplace-new-offers-volume-166/ba-p/2601056)
-- [Export conversations from Microsoft Teams Channels using the CLI for Microsoft 365](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/export-conversations-from-microsoft-teams-channels-using-the-cli/ba-p/2762619)
-- [Hunting for OMI Vulnerability Exploitation with Azure Sentinel](https://techcommunity.microsoft.com/t5/azure-sentinel/hunting-for-omi-vulnerability-exploitation-with-azure-sentinel/ba-p/2764093)
-- [MS Graph, Blazor WebAssembly and Azure Static Web Apps](https://techcommunity.microsoft.com/t5/apps-on-azure/ms-graph-blazor-webassembly-and-azure-static-web-apps/ba-p/2743653)
+- [Getting Started with a Power Apps Community Developer Account](https://techcommunity.microsoft.com/t5/educator-developer-blog/getting-started-with-a-power-apps-community-developer-account/ba-p/2693859)
+- [DevOps Lab | Infra as Code in Action: Protect production resources | Ep 3 of 4-episode series](https://channel9.msdn.com/Shows/DevOps-Lab/DevOps-Lab--Infra-as-Code-in-Action-Protect-production-resources--Ep-3-of-4-episode-series)
+- [Build a macOS onboarding splash screen with Microsoft Endpoint Manager and Octory](https://techcommunity.microsoft.com/t5/intune-customer-success/build-a-macos-onboarding-splash-screen-with-microsoft-endpoint/ba-p/2770980)
+- [Announcing the Microsoft Teams Vaccination Attestation Application](https://techcommunity.microsoft.com/t5/public-sector-blog/announcing-the-microsoft-teams-vaccination-attestation/ba-p/2760752)
+- [Welcome to the 20th anniversary of the Imagine Cup](https://techcommunity.microsoft.com/t5/student-developer-blog/welcome-to-the-20th-anniversary-of-the-imagine-cup/ba-p/2768320)
 <!-- AZUREINFOHUB:END -->
 
 
