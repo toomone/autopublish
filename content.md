@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Getting Started with a Power Apps Community Developer Account](https://techcommunity.microsoft.com/t5/educator-developer-blog/getting-started-with-a-power-apps-community-developer-account/ba-p/2693859)
-- [DevOps Lab | Infra as Code in Action: Protect production resources | Ep 3 of 4-episode series](https://channel9.msdn.com/Shows/DevOps-Lab/DevOps-Lab--Infra-as-Code-in-Action-Protect-production-resources--Ep-3-of-4-episode-series)
-- [Build a macOS onboarding splash screen with Microsoft Endpoint Manager and Octory](https://techcommunity.microsoft.com/t5/intune-customer-success/build-a-macos-onboarding-splash-screen-with-microsoft-endpoint/ba-p/2770980)
-- [Announcing the Microsoft Teams Vaccination Attestation Application](https://techcommunity.microsoft.com/t5/public-sector-blog/announcing-the-microsoft-teams-vaccination-attestation/ba-p/2760752)
-- [Welcome to the 20th anniversary of the Imagine Cup](https://techcommunity.microsoft.com/t5/student-developer-blog/welcome-to-the-20th-anniversary-of-the-imagine-cup/ba-p/2768320)
+- [Next Generation Performance Tools: VMFleet 2.0](https://techcommunity.microsoft.com/t5/azure-stack-blog/next-generation-performance-tools-vmfleet-2-0/ba-p/2772752)
+- [Azure Synapse (Pipelines) for Social Media – YouTube example](https://techcommunity.microsoft.com/t5/azure-synapse-analytics/azure-synapse-pipelines-for-social-media-youtube-example/ba-p/2615156)
+- [Microsoft 365 PnP Weekly - Episode 135 - Adis Jugo (Nubelus)](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-135-adis-jugo-nubelus/ba-p/2770145)
+- [Azure Sentinel To-Go! A Linux 🐧 Lab with AUOMS Set Up to Learn About the OMI Vulnerability 💥](https://techcommunity.microsoft.com/t5/azure-sentinel/azure-sentinel-to-go-a-linux-lab-with-auoms-set-up-to-learn/ba-p/2772581)
+- [How-To Deploy your Synapse Workspace Artifacts to a Managed VNET Synapse Workspace](https://techcommunity.microsoft.com/t5/azure-synapse-analytics/how-to-deploy-your-synapse-workspace-artifacts-to-a-managed-vnet/ba-p/2764232)
 <!-- AZUREINFOHUB:END -->
 
 
