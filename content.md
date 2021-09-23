@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Next Generation Performance Tools: VMFleet 2.0](https://techcommunity.microsoft.com/t5/azure-stack-blog/next-generation-performance-tools-vmfleet-2-0/ba-p/2772752)
-- [Azure Synapse (Pipelines) for Social Media – YouTube example](https://techcommunity.microsoft.com/t5/azure-synapse-analytics/azure-synapse-pipelines-for-social-media-youtube-example/ba-p/2615156)
-- [Microsoft 365 PnP Weekly - Episode 135 - Adis Jugo (Nubelus)](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-135-adis-jugo-nubelus/ba-p/2770145)
-- [Azure Sentinel To-Go! A Linux 🐧 Lab with AUOMS Set Up to Learn About the OMI Vulnerability 💥](https://techcommunity.microsoft.com/t5/azure-sentinel/azure-sentinel-to-go-a-linux-lab-with-auoms-set-up-to-learn/ba-p/2772581)
-- [How-To Deploy your Synapse Workspace Artifacts to a Managed VNET Synapse Workspace](https://techcommunity.microsoft.com/t5/azure-synapse-analytics/how-to-deploy-your-synapse-workspace-artifacts-to-a-managed-vnet/ba-p/2764232)
+- [Announcing npm’s new access token format](https://github.blog/2021-09-23-announcing-npms-new-access-token-format/)
+- [GitHub Advisory Database now supports Rust](https://github.blog/2021-09-23-github-advisory-database-now-supports-rust/)
+- [So GitHub has a CLI - let's take a look](https://techcommunity.microsoft.com/t5/itops-talk-blog/so-github-has-a-cli-let-s-take-a-look/ba-p/2728010)
+- [So GitHub has a CLI - let's take a look](https://techcommunity.microsoft.com/t5/itops-talk-blog/so-github-has-a-cli-let-s-take-a-look/ba-p/2728010)
+- [StereoKit v0.3.3 (C# and OpenXR)](https://techcommunity.microsoft.com/t5/mixed-reality-blog/stereokit-v0-3-3-c-and-openxr/ba-p/2776524)
 <!-- AZUREINFOHUB:END -->
 
 
