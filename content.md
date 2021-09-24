@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [SharePoint Framework Community Call – 23rd of September, 2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/sharepoint-framework-community-call-23rd-of-september-2021/ba-p/2778954)
+- [AI Show | 2021 OpenCV AI Competition |  Grand Prize Winners | Cortic Tigers | Episode 32](https://channel9.msdn.com/Shows/AI-Show/AI-Show-2021-OpenCV-AI-Compeition-Grand-Prize-Winners-Episode-32)
 - [Announcing npm’s new access token format](https://github.blog/2021-09-23-announcing-npms-new-access-token-format/)
 - [GitHub Advisory Database now supports Rust](https://github.blog/2021-09-23-github-advisory-database-now-supports-rust/)
-- [So GitHub has a CLI - let's take a look](https://techcommunity.microsoft.com/t5/itops-talk-blog/so-github-has-a-cli-let-s-take-a-look/ba-p/2728010)
-- [So GitHub has a CLI - let's take a look](https://techcommunity.microsoft.com/t5/itops-talk-blog/so-github-has-a-cli-let-s-take-a-look/ba-p/2728010)
-- [StereoKit v0.3.3 (C# and OpenXR)](https://techcommunity.microsoft.com/t5/mixed-reality-blog/stereokit-v0-3-3-c-and-openxr/ba-p/2776524)
+- [Introducing Network Security Dashboard for Azure Security Center](https://techcommunity.microsoft.com/t5/azure-network-security/introducing-network-security-dashboard-for-azure-security-center/ba-p/2779842)
 <!-- AZUREINFOHUB:END -->
 
 
