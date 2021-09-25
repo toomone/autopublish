@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Released: Microsoft.Data.SqlClient 3.0.1](https://techcommunity.microsoft.com/t5/sql-server/released-microsoft-data-sqlclient-3-0-1/ba-p/2783724)
+- [From Tunisian classroom full of boys to architect for Canadian government: A journey of perseverance](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/from-tunisian-classroom-full-of-boys-to-architect-for-canadian/ba-p/2783379)
+- [From Tunisian classroom full of boys to architect for Canadian government: A journey of perseverance](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/from-tunisian-classroom-full-of-boys-to-architect-for-canadian/ba-p/2783379)
 - [SharePoint Framework Community Call – 23rd of September, 2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/sharepoint-framework-community-call-23rd-of-september-2021/ba-p/2778954)
 - [AI Show | 2021 OpenCV AI Competition |  Grand Prize Winners | Cortic Tigers | Episode 32](https://channel9.msdn.com/Shows/AI-Show/AI-Show-2021-OpenCV-AI-Compeition-Grand-Prize-Winners-Episode-32)
-- [Announcing npm’s new access token format](https://github.blog/2021-09-23-announcing-npms-new-access-token-format/)
-- [GitHub Advisory Database now supports Rust](https://github.blog/2021-09-23-github-advisory-database-now-supports-rust/)
-- [Introducing Network Security Dashboard for Azure Security Center](https://techcommunity.microsoft.com/t5/azure-network-security/introducing-network-security-dashboard-for-azure-security-center/ba-p/2779842)
 <!-- AZUREINFOHUB:END -->
 
 
