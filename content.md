@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Partitioning GitHub’s relational databases to handle scale](https://github.blog/2021-09-27-partitioning-githubs-relational-databases-scale/)
+- [CDC in Azure Database for MySQL – Flexible Server using Kafka, Debezium, and Azure Event Hubs](https://techcommunity.microsoft.com/t5/azure-database-for-mysql/cdc-in-azure-database-for-mysql-flexible-server-using-kafka/ba-p/2780943)
+- [New releases in container configuration — Kubernetes on Azure](https://techcommunity.microsoft.com/t5/apps-on-azure/new-releases-in-container-configuration-kubernetes-on-azure/ba-p/2788993)
+- [Elevate webinar and broadcasting experiences with Microsoft Teams](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/elevate-webinar-and-broadcasting-experiences-with-microsoft/ba-p/2784943)
 - [Released: Microsoft.Data.SqlClient 3.0.1](https://techcommunity.microsoft.com/t5/sql-server/released-microsoft-data-sqlclient-3-0-1/ba-p/2783724)
-- [From Tunisian classroom full of boys to architect for Canadian government: A journey of perseverance](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/from-tunisian-classroom-full-of-boys-to-architect-for-canadian/ba-p/2783379)
-- [From Tunisian classroom full of boys to architect for Canadian government: A journey of perseverance](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/from-tunisian-classroom-full-of-boys-to-architect-for-canadian/ba-p/2783379)
-- [SharePoint Framework Community Call – 23rd of September, 2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/sharepoint-framework-community-call-23rd-of-september-2021/ba-p/2778954)
-- [AI Show | 2021 OpenCV AI Competition |  Grand Prize Winners | Cortic Tigers | Episode 32](https://channel9.msdn.com/Shows/AI-Show/AI-Show-2021-OpenCV-AI-Compeition-Grand-Prize-Winners-Episode-32)
 <!-- AZUREINFOHUB:END -->
 
 
