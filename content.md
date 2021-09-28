@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Partitioning GitHub’s relational databases to handle scale](https://github.blog/2021-09-27-partitioning-githubs-relational-databases-scale/)
-- [CDC in Azure Database for MySQL – Flexible Server using Kafka, Debezium, and Azure Event Hubs](https://techcommunity.microsoft.com/t5/azure-database-for-mysql/cdc-in-azure-database-for-mysql-flexible-server-using-kafka/ba-p/2780943)
-- [New releases in container configuration — Kubernetes on Azure](https://techcommunity.microsoft.com/t5/apps-on-azure/new-releases-in-container-configuration-kubernetes-on-azure/ba-p/2788993)
-- [Elevate webinar and broadcasting experiences with Microsoft Teams](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/elevate-webinar-and-broadcasting-experiences-with-microsoft/ba-p/2784943)
-- [Released: Microsoft.Data.SqlClient 3.0.1](https://techcommunity.microsoft.com/t5/sql-server/released-microsoft-data-sqlclient-3-0-1/ba-p/2783724)
+- [GitHub Enterprise Server 3.2 is now generally available](https://github.blog/2021-09-28-github-enterprise-server-3-2-generally-available/)
+- [DevOps Lab | Infra as Code in Action: Tagging strategy | Ep 4 of 4-episode series](https://channel9.msdn.com/Shows/DevOps-Lab/DevOps-Lab--Infra-as-Code-in-Action-Tagging-strategy--Ep-4-of-4-episode-series)
+- [Expanding Azure Support for Constrained Devices: Azure IoT middleware for FreeRTOS](https://techcommunity.microsoft.com/t5/internet-of-things/expanding-azure-support-for-constrained-devices-azure-iot/ba-p/2782396)
+- [Using Collaboration Tools with Azure Lab Services](https://techcommunity.microsoft.com/t5/azure-lab-services/using-collaboration-tools-with-azure-lab-services/ba-p/2788972)
+- [Microsoft 365 PnP Weekly - Episode 136 - Thomas Vochten (The Cronos Group)](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-136-thomas-vochten-the-cronos/ba-p/2789135)
 <!-- AZUREINFOHUB:END -->
 
 
