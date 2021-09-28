@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [GitHub Enterprise Server 3.2 is now generally available](https://github.blog/2021-09-28-github-enterprise-server-3-2-generally-available/) (09/28/21)
+ - [Revised enterprise DPA with new standard contractual clauses](https://github.blog/2021-09-27-revised-enterprise-dpa-new-standard-contractual-clauses/) (09/28/21)
  - [Partitioning GitHub’s relational databases to handle scale](https://github.blog/2021-09-27-partitioning-githubs-relational-databases-scale/) (09/27/21)
  - [Announcing npm’s new access token format](https://github.blog/2021-09-23-announcing-npms-new-access-token-format/) (09/23/21)
  - [GitHub Advisory Database now supports Rust](https://github.blog/2021-09-23-github-advisory-database-now-supports-rust/) (09/23/21)
- - [Audit log streaming is now in public beta](https://github.blog/2021-09-16-audit-log-streaming-public-beta/) (09/16/21)
- - [The ReadME Project: A look back at the community stories that shape us](https://github.blog/2021-09-14-the-readme-project-a-look-back-community-stories/) (09/14/21)
 <!-- GITHUB:END -->
