@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [AzureFunBytes Episode 57 – Securing @Azure with @shehackspurple](https://devblogs.microsoft.com/devops/azurefunbytes-episode-57-securing-azure-with-shehackspurple/)
+- [Top Stories from the Microsoft DevOps Community – 2021.09.24](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-09-24/)
+- [AzureFunBytes Episode 56 – Secretless Applications with @ChristosMatskas](https://devblogs.microsoft.com/devops/azurefunbytes-episode-56-secretless-applications-with-christosmatskas/)
 - [Introducing Azure DevOps Audit Stream](https://devblogs.microsoft.com/devops/introducing-azure-devops-audit-stream/)
 - [Top Stories from the Microsoft DevOps Community – 2021.09.17](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-09-17/)
-- [Level up your skills with Bicep!](https://devblogs.microsoft.com/devops/level-up-your-skills-with-bicep/)
-- [September patches for Azure DevOps Server and Team Foundation Server](https://devblogs.microsoft.com/devops/september-patches-for-azure-devops-server-and-team-foundation-server-2/)
-- [AzureFunBytes Episode 55 – Programming for Accessibility with @rorypreddy](https://devblogs.microsoft.com/devops/azurefunbytes-episode-55-programming-for-accessibility-with-rorypreddy/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
