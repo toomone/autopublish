@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [NEW data science curriculum on GitHub was just released, 20 free lessons](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/new-data-science-curriculum-on-github-was-just-released-20-free/ba-p/2797143)
+- [Querying WHOIS/Registration Data Access Protocol (RDAP) with Azure Sentinel and Azure Functions](https://techcommunity.microsoft.com/t5/azure-sentinel/querying-whois-registration-data-access-protocol-rdap-with-azure/ba-p/2774502)
+- [Detecting and updating Agents using the OMI vulnerability](https://techcommunity.microsoft.com/t5/azure-monitor/detecting-and-updating-agents-using-the-omi-vulnerability/ba-p/2795462)
 - [GitHub Enterprise Server 3.2 is now generally available](https://github.blog/2021-09-28-github-enterprise-server-3-2-generally-available/)
 - [DevOps Lab | Infra as Code in Action: Tagging strategy | Ep 4 of 4-episode series](https://channel9.msdn.com/Shows/DevOps-Lab/DevOps-Lab--Infra-as-Code-in-Action-Tagging-strategy--Ep-4-of-4-episode-series)
-- [Expanding Azure Support for Constrained Devices: Azure IoT middleware for FreeRTOS](https://techcommunity.microsoft.com/t5/internet-of-things/expanding-azure-support-for-constrained-devices-azure-iot/ba-p/2782396)
-- [Using Collaboration Tools with Azure Lab Services](https://techcommunity.microsoft.com/t5/azure-lab-services/using-collaboration-tools-with-azure-lab-services/ba-p/2788972)
-- [Microsoft 365 PnP Weekly - Episode 136 - Thomas Vochten (The Cronos Group)](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-136-thomas-vochten-the-cronos/ba-p/2789135)
 <!-- AZUREINFOHUB:END -->
 
 
