@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Enterprise managed users are now generally available for GitHub Enterprise Cloud](https://github.blog/2021-09-30-enterprise-managed-users-generally-available-github-enterprise-cloud/)
+- [Inclusive Bee: Hispanic Heritage Month](https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/inclusive-bee-hispanic-heritage-month/ba-p/2800227)
+- [Microsoft Cloud App Security (MCAS) Ninja Training | September 2021](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-cloud-app-security-mcas-ninja-training-september-2021/ba-p/2751518)
+- [The Azure Sentinel Anomalies Simulator](https://techcommunity.microsoft.com/t5/azure-sentinel/the-azure-sentinel-anomalies-simulator/ba-p/2738393)
 - [NEW data science curriculum on GitHub was just released, 20 free lessons](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/new-data-science-curriculum-on-github-was-just-released-20-free/ba-p/2797143)
-- [Querying WHOIS/Registration Data Access Protocol (RDAP) with Azure Sentinel and Azure Functions](https://techcommunity.microsoft.com/t5/azure-sentinel/querying-whois-registration-data-access-protocol-rdap-with-azure/ba-p/2774502)
-- [Detecting and updating Agents using the OMI vulnerability](https://techcommunity.microsoft.com/t5/azure-monitor/detecting-and-updating-agents-using-the-omi-vulnerability/ba-p/2795462)
-- [GitHub Enterprise Server 3.2 is now generally available](https://github.blog/2021-09-28-github-enterprise-server-3-2-generally-available/)
-- [DevOps Lab | Infra as Code in Action: Tagging strategy | Ep 4 of 4-episode series](https://channel9.msdn.com/Shows/DevOps-Lab/DevOps-Lab--Infra-as-Code-in-Action-Tagging-strategy--Ep-4-of-4-episode-series)
 <!-- AZUREINFOHUB:END -->
 
 
