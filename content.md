@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Cybersecurity spotlight on bug bounty researchers @chen-robert and @ginkoid](https://github.blog/2021-10-01-cybersecurity-spotlight-bug-bounty-researchers-chen-robert-ginkoid/)
 - [Enterprise managed users are now generally available for GitHub Enterprise Cloud](https://github.blog/2021-09-30-enterprise-managed-users-generally-available-github-enterprise-cloud/)
 - [Inclusive Bee: Hispanic Heritage Month](https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/inclusive-bee-hispanic-heritage-month/ba-p/2800227)
 - [Microsoft Cloud App Security (MCAS) Ninja Training | September 2021](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-cloud-app-security-mcas-ninja-training-september-2021/ba-p/2751518)
 - [The Azure Sentinel Anomalies Simulator](https://techcommunity.microsoft.com/t5/azure-sentinel/the-azure-sentinel-anomalies-simulator/ba-p/2738393)
-- [NEW data science curriculum on GitHub was just released, 20 free lessons](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/new-data-science-curriculum-on-github-was-just-released-20-free/ba-p/2797143)
 <!-- AZUREINFOHUB:END -->
 
 
