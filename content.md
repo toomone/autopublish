@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [A new public beta of GitHub Releases: How we’re improving the release experience](https://github.blog/2021-10-04-beta-github-releases-improving-release-experience/)
 - [Cybersecurity spotlight on bug bounty researchers @chen-robert and @ginkoid](https://github.blog/2021-10-01-cybersecurity-spotlight-bug-bounty-researchers-chen-robert-ginkoid/)
 - [AI Show | 2021 OpenCV AI Competition |  Grand Prize Winners | Cortic Tigers | Episode 32](https://channel9.msdn.com/Shows/AI-Show/AI-Show--2021-OpenCV-AI-Competition--Grand-Prize-Winners--Cortic-Tigers--Episode-32)
 - [Enterprise managed users are now generally available for GitHub Enterprise Cloud](https://github.blog/2021-09-30-enterprise-managed-users-generally-available-github-enterprise-cloud/)
 - [Inclusive Bee: Hispanic Heritage Month](https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/inclusive-bee-hispanic-heritage-month/ba-p/2800227)
-- [Microsoft Cloud App Security (MCAS) Ninja Training | September 2021](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-cloud-app-security-mcas-ninja-training-september-2021/ba-p/2751518)
 <!-- AZUREINFOHUB:END -->
 
 
