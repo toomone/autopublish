@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [GitHub Availability Report: September 2021](https://github.blog/2021-10-06-github-availability-report-september-2021/)
 - [Azure Boards Fall Update](https://devblogs.microsoft.com/devops/azure-boards-fall-update)
 - [13 tiny and terrific entries from the js13kGames competition](https://github.blog/2021-10-05-13-tiny-and-terrific-entries-from-the-js13kgames-competition/)
 - [DevOps Lab | Hashicorp Series | Episode 1 | Terraform 1.0](https://channel9.msdn.com/Shows/DevOps-Lab/DevOps-Lab--Hashicorp-Series--Episode-1--Terraform-10)
 - [A new public beta of GitHub Releases: How we’re improving the release experience](https://github.blog/2021-10-04-beta-github-releases-improving-release-experience/)
-- [Cybersecurity spotlight on bug bounty researchers @chen-robert and @ginkoid](https://github.blog/2021-10-01-cybersecurity-spotlight-bug-bounty-researchers-chen-robert-ginkoid/)
 <!-- AZUREINFOHUB:END -->
 
 
