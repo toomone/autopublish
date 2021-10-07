@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [GitHub’s guide to Hacktoberfest 2021](https://github.blog/2021-10-07-githubs-guide-hacktoberfest-2021/)
+- [GitHub Advisory Database now powers npm audit](https://github.blog/2021-10-07-github-advisory-database-now-powers-npm-audit/)
 - [GitHub Availability Report: September 2021](https://github.blog/2021-10-06-github-availability-report-september-2021/)
+- [Deploying Azure Landing Zones using Terraform](https://channel9.msdn.com/Shows/Azure-Enablement/Deploying-Azure-Landing-Zones-using-Terraform)
 - [Azure Boards Fall Update](https://devblogs.microsoft.com/devops/azure-boards-fall-update)
-- [13 tiny and terrific entries from the js13kGames competition](https://github.blog/2021-10-05-13-tiny-and-terrific-entries-from-the-js13kgames-competition/)
-- [DevOps Lab | Hashicorp Series | Episode 1 | Terraform 1.0](https://channel9.msdn.com/Shows/DevOps-Lab/DevOps-Lab--Hashicorp-Series--Episode-1--Terraform-10)
-- [A new public beta of GitHub Releases: How we’re improving the release experience](https://github.blog/2021-10-04-beta-github-releases-improving-release-experience/)
 <!-- AZUREINFOHUB:END -->
 
 
