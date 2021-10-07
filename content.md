@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [GitHub’s guide to Hacktoberfest 2021](https://github.blog/2021-10-07-githubs-guide-hacktoberfest-2021/) (10/07/21)
+ - [GitHub Advisory Database now powers npm audit](https://github.blog/2021-10-07-github-advisory-database-now-powers-npm-audit/) (10/07/21)
  - [GitHub Availability Report: September 2021](https://github.blog/2021-10-06-github-availability-report-september-2021/) (10/06/21)
  - [13 tiny and terrific entries from the js13kGames competition](https://github.blog/2021-10-05-13-tiny-and-terrific-entries-from-the-js13kgames-competition/) (10/05/21)
  - [A new public beta of GitHub Releases: How we’re improving the release experience](https://github.blog/2021-10-04-beta-github-releases-improving-release-experience/) (10/04/21)
- - [Cybersecurity spotlight on bug bounty researchers @chen-robert and @ginkoid](https://github.blog/2021-10-01-cybersecurity-spotlight-bug-bounty-researchers-chen-robert-ginkoid/) (10/01/21)
- - [Enterprise managed users are now generally available for GitHub Enterprise Cloud](https://github.blog/2021-09-30-enterprise-managed-users-generally-available-github-enterprise-cloud/) (09/30/21)
 <!-- GITHUB:END -->
