@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Release Radar · September 2021 Edition](https://github.blog/2021-10-08-release-radar-aug-2021/)
 - [GitHub’s guide to Hacktoberfest 2021](https://github.blog/2021-10-07-githubs-guide-hacktoberfest-2021/)
 - [GitHub Advisory Database now powers npm audit](https://github.blog/2021-10-07-github-advisory-database-now-powers-npm-audit/)
 - [GitHub Availability Report: September 2021](https://github.blog/2021-10-06-github-availability-report-september-2021/)
 - [Deploying Azure Landing Zones using Terraform](https://channel9.msdn.com/Shows/Azure-Enablement/Deploying-Azure-Landing-Zones-using-Terraform)
-- [Azure Boards Fall Update](https://devblogs.microsoft.com/devops/azure-boards-fall-update)
 <!-- AZUREINFOHUB:END -->
 
 
