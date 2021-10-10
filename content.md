@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Analyzing Endpoints Forensics - Azure Sentinel Connector](https://techcommunity.microsoft.com/t5/azure-sentinel/analyzing-endpoints-forensics-azure-sentinel-connector/ba-p/2820973)
 - [Release Radar · September 2021 Edition](https://github.blog/2021-10-08-release-radar-aug-2021/)
 - [GitHub’s guide to Hacktoberfest 2021](https://github.blog/2021-10-07-githubs-guide-hacktoberfest-2021/)
 - [GitHub Advisory Database now powers npm audit](https://github.blog/2021-10-07-github-advisory-database-now-powers-npm-audit/)
 - [GitHub Availability Report: September 2021](https://github.blog/2021-10-06-github-availability-report-september-2021/)
-- [Deploying Azure Landing Zones using Terraform](https://channel9.msdn.com/Shows/Azure-Enablement/Deploying-Azure-Landing-Zones-using-Terraform)
 <!-- AZUREINFOHUB:END -->
 
 
