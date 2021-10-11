@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Azure DevOps Response to GitKraken SSH Bug](https://devblogs.microsoft.com/devops/azure-devops-response-to-gitkraken-ssh-bug)
+- [GitHub security update: revoking weakly-generated SSH keys](https://github.blog/2021-10-11-github-security-update-revoking-weakly-generated-ssh-keys/)
+- [Test your PowerShell code with Pester](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/test-your-powershell-code-with-pester/ba-p/2835759)
 - [Analyzing Endpoints Forensics - Azure Sentinel Connector](https://techcommunity.microsoft.com/t5/azure-sentinel/analyzing-endpoints-forensics-azure-sentinel-connector/ba-p/2820973)
 - [Release Radar · September 2021 Edition](https://github.blog/2021-10-08-release-radar-aug-2021/)
-- [GitHub’s guide to Hacktoberfest 2021](https://github.blog/2021-10-07-githubs-guide-hacktoberfest-2021/)
-- [GitHub Advisory Database now powers npm audit](https://github.blog/2021-10-07-github-advisory-database-now-powers-npm-audit/)
-- [GitHub Availability Report: September 2021](https://github.blog/2021-10-06-github-availability-report-september-2021/)
 <!-- AZUREINFOHUB:END -->
 
 
