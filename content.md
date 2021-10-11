@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
-- [AzureFunBytes Episode 57 – Securing @Azure with @shehackspurple](https://devblogs.microsoft.com/devops/azurefunbytes-episode-57-securing-azure-with-shehackspurple/)
-- [Top Stories from the Microsoft DevOps Community – 2021.09.24](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-09-24/)
-- [AzureFunBytes Episode 56 – Secretless Applications with @ChristosMatskas](https://devblogs.microsoft.com/devops/azurefunbytes-episode-56-secretless-applications-with-christosmatskas/)
-- [Introducing Azure DevOps Audit Stream](https://devblogs.microsoft.com/devops/introducing-azure-devops-audit-stream/)
-- [Top Stories from the Microsoft DevOps Community – 2021.09.17](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-09-17/)
+- [Azure DevOps Response to GitKraken SSH Bug](https://devblogs.microsoft.com/devops/azure-devops-response-to-gitkraken-ssh-bug/)
+- [Top Stories from the Microsoft DevOps Community – 2021.10.08](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-10-08/)
+- [Azure Boards Fall Update](https://devblogs.microsoft.com/devops/azure-boards-fall-update/)
+- [AzureFunBytes Episode 58 – Improve your Open Source Security with @WhiteSourceSoft](https://devblogs.microsoft.com/devops/azurefunbytes-episode-58-improve-your-open-source-security-with-whitesourcesoft/)
+- [Top Stories from the Microsoft DevOps Community – 2021.10.01](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-10-01/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
