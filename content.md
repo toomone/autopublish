@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [Apply now for GitHub Universe 2021 micro-mentoring](https://github.blog/2021-10-12-apply-github-universe-2021-micro-mentoring/) (10/12/21)
  - [GitHub security update: revoking weakly-generated SSH keys](https://github.blog/2021-10-11-github-security-update-revoking-weakly-generated-ssh-keys/) (10/11/21)
  - [Release Radar · September 2021 Edition](https://github.blog/2021-10-08-release-radar-aug-2021/) (10/08/21)
  - [GitHub’s guide to Hacktoberfest 2021](https://github.blog/2021-10-07-githubs-guide-hacktoberfest-2021/) (10/07/21)
  - [GitHub Advisory Database now powers npm audit](https://github.blog/2021-10-07-github-advisory-database-now-powers-npm-audit/) (10/07/21)
- - [GitHub Availability Report: September 2021](https://github.blog/2021-10-06-github-availability-report-september-2021/) (10/06/21)
 <!-- GITHUB:END -->
