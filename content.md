@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Azure DevOps Response to GitKraken SSH Bug](https://devblogs.microsoft.com/devops/azure-devops-response-to-gitkraken-ssh-bug)
-- [GitHub security update: revoking weakly-generated SSH keys](https://github.blog/2021-10-11-github-security-update-revoking-weakly-generated-ssh-keys/)
-- [Test your PowerShell code with Pester](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/test-your-powershell-code-with-pester/ba-p/2835759)
-- [Analyzing Endpoints Forensics - Azure Sentinel Connector](https://techcommunity.microsoft.com/t5/azure-sentinel/analyzing-endpoints-forensics-azure-sentinel-connector/ba-p/2820973)
-- [Release Radar · September 2021 Edition](https://github.blog/2021-10-08-release-radar-aug-2021/)
+- [DevOps Lab | Hashicorp Series | Episode 2 | How to terraform everything](https://channel9.msdn.com/Shows/DevOps-Lab/DevOps-Lab--Hashicorp-Series--Episode-2--How-to-terraform-everything)
+- [DevOps Lab | Hashicorp Series | Episode 2 | How to terraform everything](https://channel9.msdn.com/Shows/DevOps-Lab/DevOps-Lab--Hashicorp-Series--Episode-2--How-to-terraform-everything)
+- [Apply now for GitHub Universe 2021 micro-mentoring](https://github.blog/2021-10-12-apply-github-universe-2021-micro-mentoring/)
+- [The happy hand: A puzzle about odd names in Azure DevOps](https://devblogs.microsoft.com/oldnewthing/20211012-00/?p=105788)
+- [Microsoft 365 PnP Weekly - Episode 138 - Carmen Ysewijn (Qubix) and Luise Freese](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-138-carmen-ysewijn-qubix-and/ba-p/2834568)
 <!-- AZUREINFOHUB:END -->
 
 
