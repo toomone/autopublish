@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Automating Data Collection for Memory, CPU, and Disk issues using CLUE](https://techcommunity.microsoft.com/t5/ask-the-performance-team/automating-data-collection-for-memory-cpu-and-disk-issues-using/ba-p/2843412)
+- [Azure Marketplace new offers – Volume 170](https://techcommunity.microsoft.com/t5/azure-marketplace/azure-marketplace-new-offers-volume-170/ba-p/2601069)
 - [DevOps Lab | Hashicorp Series | Episode 2 | How to terraform everything](https://channel9.msdn.com/Shows/DevOps-Lab/DevOps-Lab--Hashicorp-Series--Episode-2--How-to-terraform-everything)
 - [DevOps Lab | Hashicorp Series | Episode 2 | How to terraform everything](https://channel9.msdn.com/Shows/DevOps-Lab/DevOps-Lab--Hashicorp-Series--Episode-2--How-to-terraform-everything)
 - [Apply now for GitHub Universe 2021 micro-mentoring](https://github.blog/2021-10-12-apply-github-universe-2021-micro-mentoring/)
-- [The happy hand: A puzzle about odd names in Azure DevOps](https://devblogs.microsoft.com/oldnewthing/20211012-00/?p=105788)
-- [Microsoft 365 PnP Weekly - Episode 138 - Carmen Ysewijn (Qubix) and Luise Freese](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-138-carmen-ysewijn-qubix-and/ba-p/2834568)
 <!-- AZUREINFOHUB:END -->
 
 
