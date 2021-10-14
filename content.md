@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Automating Data Collection for Memory, CPU, and Disk issues using CLUE](https://techcommunity.microsoft.com/t5/ask-the-performance-team/automating-data-collection-for-memory-cpu-and-disk-issues-using/ba-p/2843412)
-- [Azure Marketplace new offers – Volume 170](https://techcommunity.microsoft.com/t5/azure-marketplace/azure-marketplace-new-offers-volume-170/ba-p/2601069)
-- [DevOps Lab | Hashicorp Series | Episode 2 | How to terraform everything](https://channel9.msdn.com/Shows/DevOps-Lab/DevOps-Lab--Hashicorp-Series--Episode-2--How-to-terraform-everything)
-- [DevOps Lab | Hashicorp Series | Episode 2 | How to terraform everything](https://channel9.msdn.com/Shows/DevOps-Lab/DevOps-Lab--Hashicorp-Series--Episode-2--How-to-terraform-everything)
-- [Apply now for GitHub Universe 2021 micro-mentoring](https://github.blog/2021-10-12-apply-github-universe-2021-micro-mentoring/)
+- [Student developer resources you won’t find in the classroom](https://github.blog/2021-10-14-student-developer-resources-wont-find-classroom/)
+- [A Quick Guide on Using Sysmon for Linux  in Azure Sentinel](https://techcommunity.microsoft.com/t5/azure-sentinel/a-quick-guide-on-using-sysmon-for-linux-in-azure-sentinel/ba-p/2847305)
+- [Automating the deployment of Sysmon for Linux 🐧 and Azure Sentinel in a lab environment 🧪](https://techcommunity.microsoft.com/t5/azure-sentinel/automating-the-deployment-of-sysmon-for-linux-and-azure-sentinel/ba-p/2847054)
+- [Building a Vaccination Verification system using Azure Form Recognizer](https://techcommunity.microsoft.com/t5/azure-ai/building-a-vaccination-verification-system-using-azure-form/ba-p/2839701)
+- [Join us at #MSCreate: DevOps on @LearnTV October 21, 2021](https://techcommunity.microsoft.com/t5/azure-devops/join-us-at-mscreate-devops-on-learntv-october-21-2021/ba-p/2846140)
 <!-- AZUREINFOHUB:END -->
 
 
