@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Student developer resources you won’t find in the classroom](https://github.blog/2021-10-14-student-developer-resources-wont-find-classroom/)
-- [A Quick Guide on Using Sysmon for Linux  in Azure Sentinel](https://techcommunity.microsoft.com/t5/azure-sentinel/a-quick-guide-on-using-sysmon-for-linux-in-azure-sentinel/ba-p/2847305)
-- [Automating the deployment of Sysmon for Linux 🐧 and Azure Sentinel in a lab environment 🧪](https://techcommunity.microsoft.com/t5/azure-sentinel/automating-the-deployment-of-sysmon-for-linux-and-azure-sentinel/ba-p/2847054)
-- [Building a Vaccination Verification system using Azure Form Recognizer](https://techcommunity.microsoft.com/t5/azure-ai/building-a-vaccination-verification-system-using-azure-form/ba-p/2839701)
-- [Join us at #MSCreate: DevOps on @LearnTV October 21, 2021](https://techcommunity.microsoft.com/t5/azure-devops/join-us-at-mscreate-devops-on-learntv-october-21-2021/ba-p/2846140)
+- [💾 Save the date for GitHub Game Off 2021](https://github.blog/2021-10-15-save-the-date-for-github-game-off-2021/)
+- [What is Accessibility Testing? Why do you need it? Getting started with Accessibility Insights](https://techcommunity.microsoft.com/t5/testingspot-blog/what-is-accessibility-testing-why-do-you-need-it-getting-started/ba-p/2850998)
+- [What is Accessibility Testing? Why do you need it? Getting started with Accessibility Insights](https://techcommunity.microsoft.com/t5/testingspot-blog/what-is-accessibility-testing-why-do-you-need-it-getting-started/ba-p/2850998)
+- [Mosquitto Client Tools and Azure IoT Hub. The beginning of something good....](https://techcommunity.microsoft.com/t5/internet-of-things/mosquitto-client-tools-and-azure-iot-hub-the-beginning-of/ba-p/2824717)
+- [Friday Five: Power BI, Windows 11, And More!](https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/friday-five-power-bi-windows-11-and-more/ba-p/2847851)
 <!-- AZUREINFOHUB:END -->
 
 
