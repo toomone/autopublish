@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [💾 Save the date for GitHub Game Off 2021](https://github.blog/2021-10-15-save-the-date-for-github-game-off-2021/)
-- [What is Accessibility Testing? Why do you need it? Getting started with Accessibility Insights](https://techcommunity.microsoft.com/t5/testingspot-blog/what-is-accessibility-testing-why-do-you-need-it-getting-started/ba-p/2850998)
-- [What is Accessibility Testing? Why do you need it? Getting started with Accessibility Insights](https://techcommunity.microsoft.com/t5/testingspot-blog/what-is-accessibility-testing-why-do-you-need-it-getting-started/ba-p/2850998)
-- [Mosquitto Client Tools and Azure IoT Hub. The beginning of something good....](https://techcommunity.microsoft.com/t5/internet-of-things/mosquitto-client-tools-and-azure-iot-hub-the-beginning-of/ba-p/2824717)
-- [Friday Five: Power BI, Windows 11, And More!](https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/friday-five-power-bi-windows-11-and-more/ba-p/2847851)
+- [Developing real-time collaborative apps with Azure, Microsoft 365, Power Platform, and GitHub](https://devblogs.microsoft.com/microsoft365dev/developing-real-time-collaborative-apps-with-azure-microsoft-365-power-platform-and-github)
+- [Meet the GitHub Universe hosts, and start building your schedule](https://github.blog/2021-10-18-meet-github-universe-hosts-start-building-schedule/)
+- [MITRE ATT&CK technique coverage with Sysmon for Linux](https://techcommunity.microsoft.com/t5/azure-sentinel/mitre-att-amp-ck-technique-coverage-with-sysmon-for-linux/ba-p/2858219)
+- [Enhanced Azure IoT Edge tools for development](https://techcommunity.microsoft.com/t5/internet-of-things/enhanced-azure-iot-edge-tools-for-development/ba-p/2843294)
+- [Enhanced Azure IoT Edge tools for development](https://techcommunity.microsoft.com/t5/internet-of-things/enhanced-azure-iot-edge-tools-for-development/ba-p/2843294)
 <!-- AZUREINFOHUB:END -->
 
 
