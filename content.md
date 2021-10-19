@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [What’s new from GitHub Changelog? September 2021 recap](https://github.blog/2021-10-19-whats-new-from-github-changelog-september-2021-recap/) (10/19/21)
  - [Meet the GitHub Universe hosts, and start building your schedule](https://github.blog/2021-10-18-meet-github-universe-hosts-start-building-schedule/) (10/18/21)
  - [💾 Save the date for GitHub Game Off 2021](https://github.blog/2021-10-15-save-the-date-for-github-game-off-2021/) (10/15/21)
  - [Student developer resources you won’t find in the classroom](https://github.blog/2021-10-14-student-developer-resources-wont-find-classroom/) (10/14/21)
  - [Apply now for GitHub Universe 2021 micro-mentoring](https://github.blog/2021-10-12-apply-github-universe-2021-micro-mentoring/) (10/12/21)
- - [GitHub security update: revoking weakly-generated SSH keys](https://github.blog/2021-10-11-github-security-update-revoking-weakly-generated-ssh-keys/) (10/11/21)
 <!-- GITHUB:END -->
