@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [What’s new from GitHub Changelog? September 2021 recap](https://github.blog/2021-10-19-whats-new-from-github-changelog-september-2021-recap/)
+- [Microsoft 365 PnP Weekly - Episode 139 - André Lage (Datalynx AG)](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-139-andr%C3%A9-lage-datalynx-ag/ba-p/2856579)
 - [Developing real-time collaborative apps with Azure, Microsoft 365, Power Platform, and GitHub](https://devblogs.microsoft.com/microsoft365dev/developing-real-time-collaborative-apps-with-azure-microsoft-365-power-platform-and-github)
 - [Meet the GitHub Universe hosts, and start building your schedule](https://github.blog/2021-10-18-meet-github-universe-hosts-start-building-schedule/)
 - [MITRE ATT&CK technique coverage with Sysmon for Linux](https://techcommunity.microsoft.com/t5/azure-sentinel/mitre-att-amp-ck-technique-coverage-with-sysmon-for-linux/ba-p/2858219)
-- [Enhanced Azure IoT Edge tools for development](https://techcommunity.microsoft.com/t5/internet-of-things/enhanced-azure-iot-edge-tools-for-development/ba-p/2843294)
-- [Enhanced Azure IoT Edge tools for development](https://techcommunity.microsoft.com/t5/internet-of-things/enhanced-azure-iot-edge-tools-for-development/ba-p/2843294)
 <!-- AZUREINFOHUB:END -->
 
 
