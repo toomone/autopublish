@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Diversity, inclusion, and belonging at GitHub in 2021](https://github.blog/2021-10-20-diversity-inclusion-belonging-github-2021/)
+- [Microsoft 365 Platform Call – 19th of October, 2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-platform-call-19th-of-october-2021/ba-p/2861664)
+- [Monitoring 3D Print Quality using Azure Percept DK](https://techcommunity.microsoft.com/t5/internet-of-things/monitoring-3d-print-quality-using-azure-percept-dk/ba-p/2812741)
+- [Azure Marketplace new offers – Volume 171](https://techcommunity.microsoft.com/t5/azure-marketplace/azure-marketplace-new-offers-volume-171/ba-p/2772161)
 - [What’s new from GitHub Changelog? September 2021 recap](https://github.blog/2021-10-19-whats-new-from-github-changelog-september-2021-recap/)
-- [Microsoft 365 PnP Weekly - Episode 139 - André Lage (Datalynx AG)](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-139-andr%C3%A9-lage-datalynx-ag/ba-p/2856579)
-- [Developing real-time collaborative apps with Azure, Microsoft 365, Power Platform, and GitHub](https://devblogs.microsoft.com/microsoft365dev/developing-real-time-collaborative-apps-with-azure-microsoft-365-power-platform-and-github)
-- [Meet the GitHub Universe hosts, and start building your schedule](https://github.blog/2021-10-18-meet-github-universe-hosts-start-building-schedule/)
-- [MITRE ATT&CK technique coverage with Sysmon for Linux](https://techcommunity.microsoft.com/t5/azure-sentinel/mitre-att-amp-ck-technique-coverage-with-sysmon-for-linux/ba-p/2858219)
 <!-- AZUREINFOHUB:END -->
 
 
