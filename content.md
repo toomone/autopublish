@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Top Stories from the Microsoft DevOps Community – 2021.10.15](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-10-15/)
+- [Hosted Pipelines Image Deprecation](https://devblogs.microsoft.com/devops/hosted-pipelines-image-deprecation/)
+- [Join us at #MSCreate: DevOps on @LearnTV October 21, 2021](https://devblogs.microsoft.com/devops/join-us-at-mscreate-devops-on-learntv-october-21-2021/)
 - [AzureFunBytes Episode 59 – Remote Possibilities with @burkeholland](https://devblogs.microsoft.com/devops/azurefunbytes-episode-59-remote-possibilities-with-burkeholland/)
 - [Azure DevOps Response to GitKraken SSH Bug](https://devblogs.microsoft.com/devops/azure-devops-response-to-gitkraken-ssh-bug/)
-- [Top Stories from the Microsoft DevOps Community – 2021.10.08](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-10-08/)
-- [Azure Boards Fall Update](https://devblogs.microsoft.com/devops/azure-boards-fall-update/)
-- [AzureFunBytes Episode 58 – Improve your Open Source Security with @WhiteSourceSoft](https://devblogs.microsoft.com/devops/azurefunbytes-episode-58-improve-your-open-source-security-with-whitesourcesoft/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
