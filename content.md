@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [GitHub Marketplace welcomes its 10,000th action](https://github.blog/2021-10-21-github-marketplace-welcomes-its-10000th-action/)
+- [Embed and customize Azure Video Analyzer for Media widgets in your app using new package](https://techcommunity.microsoft.com/t5/azure-media-services/embed-and-customize-azure-video-analyzer-for-media-widgets-in/ba-p/2847063)
+- [Released: Microsoft.Data.SqlClient 4.0 Preview 3](https://techcommunity.microsoft.com/t5/sql-server/released-microsoft-data-sqlclient-4-0-preview-3/ba-p/2867656)
 - [Diversity, inclusion, and belonging at GitHub in 2021](https://github.blog/2021-10-20-diversity-inclusion-belonging-github-2021/)
 - [Microsoft 365 Platform Call – 19th of October, 2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-platform-call-19th-of-october-2021/ba-p/2861664)
-- [Monitoring 3D Print Quality using Azure Percept DK](https://techcommunity.microsoft.com/t5/internet-of-things/monitoring-3d-print-quality-using-azure-percept-dk/ba-p/2812741)
-- [Azure Marketplace new offers – Volume 171](https://techcommunity.microsoft.com/t5/azure-marketplace/azure-marketplace-new-offers-volume-171/ba-p/2772161)
-- [What’s new from GitHub Changelog? September 2021 recap](https://github.blog/2021-10-19-whats-new-from-github-changelog-september-2021-recap/)
 <!-- AZUREINFOHUB:END -->
 
 
