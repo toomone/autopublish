@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [GitHub Marketplace welcomes its 10,000th action](https://github.blog/2021-10-21-github-marketplace-welcomes-its-10000th-action/)
-- [Embed and customize Azure Video Analyzer for Media widgets in your app using new package](https://techcommunity.microsoft.com/t5/azure-media-services/embed-and-customize-azure-video-analyzer-for-media-widgets-in/ba-p/2847063)
-- [Released: Microsoft.Data.SqlClient 4.0 Preview 3](https://techcommunity.microsoft.com/t5/sql-server/released-microsoft-data-sqlclient-4-0-preview-3/ba-p/2867656)
-- [Diversity, inclusion, and belonging at GitHub in 2021](https://github.blog/2021-10-20-diversity-inclusion-belonging-github-2021/)
-- [Microsoft 365 Platform Call – 19th of October, 2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-platform-call-19th-of-october-2021/ba-p/2861664)
+- [GitHub Actions for security and compliance](https://github.blog/2021-10-22-github-actions-for-security-compliance/)
+- [GitHub Actions for security and compliance](https://github.blog/2021-10-22-github-actions-for-security-compliance/)
+- [Office Add-ins community call – October 13, 2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/office-add-ins-community-call-october-13-2021/ba-p/2867151)
+- [AzUpdate S03E11: Visual Studio Code, Azure Stack HCI and new Azure NetApp Files](https://techcommunity.microsoft.com/t5/itops-talk-blog/azupdate-s03e11-visual-studio-code-azure-stack-hci-and-new-azure/ba-p/2872703)
+- [AzUpdate S03E11: Visual Studio Code, Azure Stack HCI and new Azure NetApp Files](https://techcommunity.microsoft.com/t5/itops-talk-blog/azupdate-s03e11-visual-studio-code-azure-stack-hci-and-new-azure/ba-p/2872703)
 <!-- AZUREINFOHUB:END -->
 
 
