@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [How 3 makers, 2 devs and a princess came together to save kittens for a hackathon](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-3-makers-2-devs-and-a-princess-came-together-to-save-kittens/ba-p/2877335)
 - [GitHub Actions for security and compliance](https://github.blog/2021-10-22-github-actions-for-security-compliance/)
 - [GitHub Actions for security and compliance](https://github.blog/2021-10-22-github-actions-for-security-compliance/)
-- [Office Add-ins community call – October 13, 2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/office-add-ins-community-call-october-13-2021/ba-p/2867151)
-- [AzUpdate S03E11: Visual Studio Code, Azure Stack HCI and new Azure NetApp Files](https://techcommunity.microsoft.com/t5/itops-talk-blog/azupdate-s03e11-visual-studio-code-azure-stack-hci-and-new-azure/ba-p/2872703)
-- [AzUpdate S03E11: Visual Studio Code, Azure Stack HCI and new Azure NetApp Files](https://techcommunity.microsoft.com/t5/itops-talk-blog/azupdate-s03e11-visual-studio-code-azure-stack-hci-and-new-azure/ba-p/2872703)
+- [Azure Synapse Analytics October Update](https://techcommunity.microsoft.com/t5/azure-synapse-analytics/azure-synapse-analytics-october-update/ba-p/2875372)
+- [Azure Synapse Analytics October Update](https://techcommunity.microsoft.com/t5/azure-synapse-analytics/azure-synapse-analytics-october-update/ba-p/2875372)
 <!-- AZUREINFOHUB:END -->
 
 
