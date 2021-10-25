@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [7 reasons to enter the 2022 Imagine Cup](https://techcommunity.microsoft.com/t5/student-developer-blog/7-reasons-to-enter-the-2022-imagine-cup/ba-p/2882802)
+- [Spot every Spring Boot application issue on the spot using AppDynamics!](https://techcommunity.microsoft.com/t5/apps-on-azure/spot-every-spring-boot-application-issue-on-the-spot-using/ba-p/2879600)
 - [How 3 makers, 2 devs and a princess came together to save kittens for a hackathon](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-3-makers-2-devs-and-a-princess-came-together-to-save-kittens/ba-p/2877335)
 - [GitHub Actions for security and compliance](https://github.blog/2021-10-22-github-actions-for-security-compliance/)
 - [GitHub Actions for security and compliance](https://github.blog/2021-10-22-github-actions-for-security-compliance/)
-- [Azure Synapse Analytics October Update](https://techcommunity.microsoft.com/t5/azure-synapse-analytics/azure-synapse-analytics-october-update/ba-p/2875372)
-- [Azure Synapse Analytics October Update](https://techcommunity.microsoft.com/t5/azure-synapse-analytics/azure-synapse-analytics-october-update/ba-p/2875372)
 <!-- AZUREINFOHUB:END -->
 
 
