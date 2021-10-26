@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [AzureFunBytes Episode 60 – DevOps Solutions on @Azure with @TheAprilEdwards](https://devblogs.microsoft.com/devops/azurefunbytes-episode-60-devops-solutions-on-azure-with-theapriledwards/)
 - [Top Stories from the Microsoft DevOps Community – 2021.10.22](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-10-22/)
 - [Top Stories from the Microsoft DevOps Community – 2021.10.15](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-10-15/)
 - [Hosted Pipelines Image Deprecation](https://devblogs.microsoft.com/devops/hosted-pipelines-image-deprecation/)
 - [Join us at #MSCreate: DevOps on @LearnTV October 21, 2021](https://devblogs.microsoft.com/devops/join-us-at-mscreate-devops-on-learntv-october-21-2021/)
-- [AzureFunBytes Episode 59 – Remote Possibilities with @burkeholland](https://devblogs.microsoft.com/devops/azurefunbytes-episode-59-remote-possibilities-with-burkeholland/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
