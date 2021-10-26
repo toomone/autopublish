@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [A peek inside some of the top games from Ludum Dare 49](https://github.blog/2021-10-25-a-peek-inside-some-of-the-top-games-from-ludum-dare-49/) (10/25/21)
  - [GitHub Actions for security and compliance](https://github.blog/2021-10-22-github-actions-for-security-compliance/) (10/22/21)
  - [GitHub Marketplace welcomes its 10,000th action](https://github.blog/2021-10-21-github-marketplace-welcomes-its-10000th-action/) (10/21/21)
  - [Diversity, inclusion, and belonging at GitHub in 2021](https://github.blog/2021-10-20-diversity-inclusion-belonging-github-2021/) (10/20/21)
  - [What’s new from GitHub Changelog? September 2021 recap](https://github.blog/2021-10-19-whats-new-from-github-changelog-september-2021-recap/) (10/19/21)
- - [Meet the GitHub Universe hosts, and start building your schedule](https://github.blog/2021-10-18-meet-github-universe-hosts-start-building-schedule/) (10/18/21)
 <!-- GITHUB:END -->
