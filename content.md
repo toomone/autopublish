@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Everything new from Universe 2021](https://github.blog/2021-10-27-everything-new-from-universe-2021/)
+- [Azure Marketplace new offers – Volume 172](https://techcommunity.microsoft.com/t5/azure-marketplace/azure-marketplace-new-offers-volume-172/ba-p/2772164)
+- [Azure Marketplace new offers – Volume 172](https://techcommunity.microsoft.com/t5/azure-marketplace/azure-marketplace-new-offers-volume-172/ba-p/2772164)
 - [October patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/october-patches-for-azure-devops-server)
 - [October patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/october-patches-for-azure-devops-server)
-- [Microsoft C++ Code Analysis with GitHub Actions](https://devblogs.microsoft.com/cppblog/microsoft-cpp-code-analysis-with-github-actions)
-- [Microsoft C++ Code Analysis with GitHub Actions](https://devblogs.microsoft.com/cppblog/microsoft-cpp-code-analysis-with-github-actions)
-- [A developer's guide to Ignite 2021](https://techcommunity.microsoft.com/t5/apps-on-azure/a-developer-s-guide-to-ignite-2021/ba-p/2863307)
 <!-- AZUREINFOHUB:END -->
 
 
