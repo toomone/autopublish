@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Azure Network Security Demo Lab Environment with new updates. v2.1](https://techcommunity.microsoft.com/t5/azure-network-security/azure-network-security-demo-lab-environment-with-new-updates-v2/ba-p/2892204)
+- [Announcing the Azure Sentinel Hackathon 2021 winners!](https://techcommunity.microsoft.com/t5/azure-sentinel/announcing-the-azure-sentinel-hackathon-2021-winners/ba-p/2892124)
+- [New enhancements added to network security dashboard](https://techcommunity.microsoft.com/t5/azure-security-center/new-enhancements-added-to-network-security-dashboard/ba-p/2896021)
+- [Automatically Extend Multiple Suppression Rules on Security Alerts](https://techcommunity.microsoft.com/t5/azure-security-center/automatically-extend-multiple-suppression-rules-on-security/ba-p/2896121)
 - [Everything new from Universe 2021](https://github.blog/2021-10-27-everything-new-from-universe-2021/)
-- [Azure Marketplace new offers – Volume 172](https://techcommunity.microsoft.com/t5/azure-marketplace/azure-marketplace-new-offers-volume-172/ba-p/2772164)
-- [Azure Marketplace new offers – Volume 172](https://techcommunity.microsoft.com/t5/azure-marketplace/azure-marketplace-new-offers-volume-172/ba-p/2772164)
-- [October patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/october-patches-for-azure-devops-server)
-- [October patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/october-patches-for-azure-devops-server)
 <!-- AZUREINFOHUB:END -->
 
 
