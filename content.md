@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Java on Visual Studio Code的更新 – 2021年9月](https://devblogs.microsoft.com/java-ch/java-on-visual-studio-code-september)
+- [13 short and scary games plus source to play (or hack) this Halloween 🎃](https://github.blog/2021-10-29-ten-short-and-scary-games-plus-source-to-play-or-hack-this-halloween/)
+- [Friday Five: Microsoft Whiteboard, Data Masking, More!](https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/friday-five-microsoft-whiteboard-data-masking-more/ba-p/2896358)
+- [Friday Five: Microsoft Whiteboard, Data Masking, More!](https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/friday-five-microsoft-whiteboard-data-masking-more/ba-p/2896358)
 - [Azure Network Security Demo Lab Environment with new updates. v2.1](https://techcommunity.microsoft.com/t5/azure-network-security/azure-network-security-demo-lab-environment-with-new-updates-v2/ba-p/2892204)
-- [Announcing the Azure Sentinel Hackathon 2021 winners!](https://techcommunity.microsoft.com/t5/azure-sentinel/announcing-the-azure-sentinel-hackathon-2021-winners/ba-p/2892124)
-- [New enhancements added to network security dashboard](https://techcommunity.microsoft.com/t5/azure-security-center/new-enhancements-added-to-network-security-dashboard/ba-p/2896021)
-- [Automatically Extend Multiple Suppression Rules on Security Alerts](https://techcommunity.microsoft.com/t5/azure-security-center/automatically-extend-multiple-suppression-rules-on-security/ba-p/2896121)
-- [Everything new from Universe 2021](https://github.blog/2021-10-27-everything-new-from-universe-2021/)
 <!-- AZUREINFOHUB:END -->
 
 
