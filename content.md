@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Top Stories from the Microsoft DevOps Community – 2021.10.29](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-10-29/)
+- [Copy Dashboard – Public Preview Phase 2](https://devblogs.microsoft.com/devops/copy-dashboard-public-preview-phase-2/)
 - [October patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/october-patches-for-azure-devops-server/)
 - [AzureFunBytes Episode 60 – DevOps Solutions on @Azure with @TheAprilEdwards](https://devblogs.microsoft.com/devops/azurefunbytes-episode-60-devops-solutions-on-azure-with-theapriledwards/)
 - [Top Stories from the Microsoft DevOps Community – 2021.10.22](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-10-22/)
-- [Top Stories from the Microsoft DevOps Community – 2021.10.15](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-10-15/)
-- [Hosted Pipelines Image Deprecation](https://devblogs.microsoft.com/devops/hosted-pipelines-image-deprecation/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
