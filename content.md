@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [13 short and scary games plus source to play (or hack) this Halloween 🎃](https://github.blog/2021-10-29-thirteen-short-and-scary-games-plus-source-to-play-or-hack-this-halloween/) (10/29/21)
  - [Everything new from Universe 2021](https://github.blog/2021-10-27-everything-new-from-universe-2021/) (10/27/21)
  - [A peek inside some of the top games from Ludum Dare 49](https://github.blog/2021-10-25-a-peek-inside-some-of-the-top-games-from-ludum-dare-49/) (10/25/21)
  - [GitHub Actions for security and compliance](https://github.blog/2021-10-22-github-actions-for-security-compliance/) (10/22/21)
  - [GitHub Marketplace welcomes its 10,000th action](https://github.blog/2021-10-21-github-marketplace-welcomes-its-10000th-action/) (10/21/21)
- - [Diversity, inclusion, and belonging at GitHub in 2021](https://github.blog/2021-10-20-diversity-inclusion-belonging-github-2021/) (10/20/21)
 <!-- GITHUB:END -->
