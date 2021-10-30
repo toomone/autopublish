@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [🎃 Tech or Treat 🎃 Learn how to add lights to a pumpkin, and maybe add a splatter of IoT!](https://techcommunity.microsoft.com/t5/educator-developer-blog/tech-or-treat-learn-how-to-add-lights-to-a-pumpkin-and-maybe-add/ba-p/2902684)
+- [Artificial Intelligence: Getting Started](https://techcommunity.microsoft.com/t5/educator-developer-blog/artificial-intelligence-getting-started/ba-p/2902093)
+- [Azure Functions Binary Data Transfer via OpenAPI](https://techcommunity.microsoft.com/t5/apps-on-azure/azure-functions-binary-data-transfer-via-openapi/ba-p/2885082)
+- [Removing friction from release engineering](https://techcommunity.microsoft.com/t5/azure-governance-and-management/removing-friction-from-release-engineering/ba-p/2895457)
 - [Java on Visual Studio Code的更新 – 2021年9月](https://devblogs.microsoft.com/java-ch/java-on-visual-studio-code-september)
-- [13 short and scary games plus source to play (or hack) this Halloween 🎃](https://github.blog/2021-10-29-ten-short-and-scary-games-plus-source-to-play-or-hack-this-halloween/)
-- [Friday Five: Microsoft Whiteboard, Data Masking, More!](https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/friday-five-microsoft-whiteboard-data-masking-more/ba-p/2896358)
-- [Friday Five: Microsoft Whiteboard, Data Masking, More!](https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/friday-five-microsoft-whiteboard-data-masking-more/ba-p/2896358)
-- [Azure Network Security Demo Lab Environment with new updates. v2.1](https://techcommunity.microsoft.com/t5/azure-network-security/azure-network-security-demo-lab-environment-with-new-updates-v2/ba-p/2892204)
 <!-- AZUREINFOHUB:END -->
 
 
