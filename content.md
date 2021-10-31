@@ -12,11 +12,11 @@
 ## AZURE WEEKLY BLOG
 
 <!-- AZUREWEEKLY:START -->
+- [Azure Weekly Issue 347 - 31st October 2021](https://azureweekly.info/issue-347.html)
 - [Azure Weekly Issue 346 - 24th October 2021](https://azureweekly.info/issue-346.html)
 - [Azure Weekly Issue 345 - 17th October 2021](https://azureweekly.info/issue-345.html)
 - [Azure Weekly Issue 344 - 10th October 2021](https://azureweekly.info/issue-344.html)
 - [Azure Weekly Issue 343 - 3rd October 2021](https://azureweekly.info/issue-343.html)
-- [Azure Weekly Issue 342 - 26th September 2021](https://azureweekly.info/issue-342.html)
 <!-- AZUREWEEKLY:END -->
 
 ## AZURE INFOHUB BLOG 
