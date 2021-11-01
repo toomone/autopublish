@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [Game Off 2021 theme announcement](https://github.blog/2021-11-01-game-off-2021-theme-announcement/) (11/01/21)
+ - [Cybersecurity spotlight on bug bounty researcher @yvvdwf](https://github.blog/2021-11-01-cybersecurity-spotlight-bug-bounty-researcher-yvvdwf/) (11/01/21)
+ - [GitHub keeps getting better for open source maintainers](https://github.blog/2021-11-01-github-keeps-getting-better-for-open-source-maintainers/) (11/01/21)
  - [13 short and scary games plus source to play (or hack) this Halloween 🎃](https://github.blog/2021-10-29-thirteen-short-and-scary-games-plus-source-to-play-or-hack-this-halloween/) (10/29/21)
  - [Everything new from Universe 2021](https://github.blog/2021-10-27-everything-new-from-universe-2021/) (10/27/21)
- - [A peek inside some of the top games from Ludum Dare 49](https://github.blog/2021-10-25-a-peek-inside-some-of-the-top-games-from-ludum-dare-49/) (10/25/21)
- - [GitHub Actions for security and compliance](https://github.blog/2021-10-22-github-actions-for-security-compliance/) (10/22/21)
- - [GitHub Marketplace welcomes its 10,000th action](https://github.blog/2021-10-21-github-marketplace-welcomes-its-10000th-action/) (10/21/21)
 <!-- GITHUB:END -->
