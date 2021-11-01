@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Game Off 2021 theme announcement](https://github.blog/2021-11-01-game-off-2021-theme-announcement/)
+- [Cybersecurity spotlight on bug bounty researcher @yvvdwf](https://github.blog/2021-11-01-cybersecurity-spotlight-bug-bounty-researcher-yvvdwf/)
+- [GitHub keeps getting better for open source maintainers](https://github.blog/2021-11-01-github-keeps-getting-better-for-open-source-maintainers/)
 - [🎃 Tech or Treat 🎃 Learn how to add lights to a pumpkin, and maybe add a splatter of IoT!](https://techcommunity.microsoft.com/t5/educator-developer-blog/tech-or-treat-learn-how-to-add-lights-to-a-pumpkin-and-maybe-add/ba-p/2902684)
 - [Artificial Intelligence: Getting Started](https://techcommunity.microsoft.com/t5/educator-developer-blog/artificial-intelligence-getting-started/ba-p/2902093)
-- [Azure Functions Binary Data Transfer via OpenAPI](https://techcommunity.microsoft.com/t5/apps-on-azure/azure-functions-binary-data-transfer-via-openapi/ba-p/2885082)
-- [Removing friction from release engineering](https://techcommunity.microsoft.com/t5/azure-governance-and-management/removing-friction-from-release-engineering/ba-p/2895457)
-- [Java on Visual Studio Code的更新 – 2021年9月](https://devblogs.microsoft.com/java-ch/java-on-visual-studio-code-september)
 <!-- AZUREINFOHUB:END -->
 
 
