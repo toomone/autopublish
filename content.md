@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Blue-teaming for Exiv2, part 1: creating a security advisory process](https://github.blog/2021-11-02-blue-teaming-create-security-advisory-process/)
+- [DevOps Lab | Infrastructure as Software with Pulumi and Azure](https://channel9.msdn.com/Shows/DevOps-Lab/DevOps-Lab--Infrastructure-as-Software-with-Pulumi-and-Azure)
 - [Game Off 2021 theme announcement](https://github.blog/2021-11-01-game-off-2021-theme-announcement/)
 - [Cybersecurity spotlight on bug bounty researcher @yvvdwf](https://github.blog/2021-11-01-cybersecurity-spotlight-bug-bounty-researcher-yvvdwf/)
 - [GitHub keeps getting better for open source maintainers](https://github.blog/2021-11-01-github-keeps-getting-better-for-open-source-maintainers/)
-- [🎃 Tech or Treat 🎃 Learn how to add lights to a pumpkin, and maybe add a splatter of IoT!](https://techcommunity.microsoft.com/t5/educator-developer-blog/tech-or-treat-learn-how-to-add-lights-to-a-pumpkin-and-maybe-add/ba-p/2902684)
-- [Artificial Intelligence: Getting Started](https://techcommunity.microsoft.com/t5/educator-developer-blog/artificial-intelligence-getting-started/ba-p/2902093)
 <!-- AZUREINFOHUB:END -->
 
 
