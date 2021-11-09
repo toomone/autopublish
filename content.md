@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [GitHub Availability Report: October 2021](https://github.blog/2021-11-04-github-availability-report-october-2021/)
-- [10 GitHub Actions resources to bookmark from the basics to CI/CD](https://github.blog/2021-11-04-10-github-actions-resources-basics-ci-cd/)
-- [10 GitHub Actions resources to bookmark from the basics to CI/CD](https://github.blog/2021-11-04-10-github-actions-resources-basics-ci-cd/)
-- [Building the next phase of GitHub, together](https://github.blog/2021-11-03-building-the-next-phase-of-github-together/)
-- [Thank you, GitHub](https://github.blog/2021-11-03-thank-you-github/)
+- [GitHub Enterprise Server 3.3 enhances CI/CD and adds a new security manager role](https://github.blog/2021-11-09-github-enterprise-server-3-3-enhances-ci-cd-and-adds-a-new-security-manager-role/)
+- [GitHub Enterprise Server 3.3 enhances CI/CD and adds a new security manager role](https://github.blog/2021-11-09-github-enterprise-server-3-3-enhances-ci-cd-and-adds-a-new-security-manager-role/)
+- [Known issue with publishing extensions: “Your ability to create global personal access tokens &lpar;PATs&rpar; is restricted by your organization.”](https://devblogs.microsoft.com/devops/issue-with-extension-publishing)
+- [Three rules of bug fixing for better OSS security](https://github.blog/2021-11-09-three-rules-bug-fixing-better-oss-security/)
+- [Auditing Coming to General Availability &lpar;GA&rpar; Early 2022!](https://devblogs.microsoft.com/devops/auditing-coming-to-general-availability-ga-early-2022)
 <!-- AZUREINFOHUB:END -->
 
 
