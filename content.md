@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
-- [Top Stories from the Microsoft DevOps Community – 2021.10.29](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-10-29/)
-- [Copy Dashboard – Public Preview Phase 2](https://devblogs.microsoft.com/devops/copy-dashboard-public-preview-phase-2/)
-- [October patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/october-patches-for-azure-devops-server/)
-- [AzureFunBytes Episode 60 – DevOps Solutions on @Azure with @TheAprilEdwards](https://devblogs.microsoft.com/devops/azurefunbytes-episode-60-devops-solutions-on-azure-with-theapriledwards/)
-- [Top Stories from the Microsoft DevOps Community – 2021.10.22](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-10-22/)
+- [Known issue with publishing extensions: “Your ability to create global personal access tokens (PATs) is restricted by your organization.”](https://devblogs.microsoft.com/devops/issue-with-extension-publishing/)
+- [AzureFunBytes Episode 61 – Deploying to @Azure is one “git push” away with @juliendubois](https://devblogs.microsoft.com/devops/azurefunbytes-episode-61-deploying-to-azure-is-one-git-push-away-with-juliendubois/)
+- [Auditing Coming to General Availability (GA) Early 2022!](https://devblogs.microsoft.com/devops/auditing-coming-to-general-availability-ga-early-2022/)
+- [DevOps Dojo – Customers & Trust](https://devblogs.microsoft.com/devops/devops-dojo-customers-trust/)
+- [Top Stories from the Microsoft DevOps Community – 2021.11.05](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-11-05/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
