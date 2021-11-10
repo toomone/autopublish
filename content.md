@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [GitHub Enterprise Server 3.3 enhances CI/CD and adds a new security manager role](https://github.blog/2021-11-09-github-enterprise-server-3-3-enhances-ci-cd-and-adds-a-new-security-manager-role/)
-- [GitHub Enterprise Server 3.3 enhances CI/CD and adds a new security manager role](https://github.blog/2021-11-09-github-enterprise-server-3-3-enhances-ci-cd-and-adds-a-new-security-manager-role/)
-- [Known issue with publishing extensions: “Your ability to create global personal access tokens &lpar;PATs&rpar; is restricted by your organization.”](https://devblogs.microsoft.com/devops/issue-with-extension-publishing)
-- [Three rules of bug fixing for better OSS security](https://github.blog/2021-11-09-three-rules-bug-fixing-better-oss-security/)
-- [Auditing Coming to General Availability &lpar;GA&rpar; Early 2022!](https://devblogs.microsoft.com/devops/auditing-coming-to-general-availability-ga-early-2022)
+- [7 unique software collaboration features in GitHub Discussions](https://github.blog/2021-11-10-7-unique-software-collaboration-features-in-github-discussions/)
+- [Make your monorepo feel small with Git’s sparse index](https://github.blog/2021-11-10-make-your-monorepo-feel-small-with-gits-sparse-index/)
+- [2021-11-10 — What&#39;s new?](https://techcommunity.microsoft.com/t5/autonomous-systems-blog/2021-11-10-what-s-new/ba-p/2950623)
+- [Azure Marketplace new offers – Volume 174](https://techcommunity.microsoft.com/t5/azure-marketplace/azure-marketplace-new-offers-volume-174/ba-p/2772167)
+- [DevOps Lab | Increasing Collaboration with Communication: GitHub and Microsoft Teams](https://channel9.msdn.com/Shows/DevOps-Lab/DevOps-Lab--Increasing-Collaboration-with-Communication-GitHub-and-Microsoft-Teams)
 <!-- AZUREINFOHUB:END -->
 
 
