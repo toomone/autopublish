@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [New Microsoft 365 Patterns and Practices &lpar;PnP&rpar; team members – November 2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/new-microsoft-365-patterns-and-practices-pnp-team-members/ba-p/2953966)
+- [New Release: SharePointDsc v4.9](https://techcommunity.microsoft.com/t5/sharepointdsc/new-release-sharepointdsc-v4-9/ba-p/2954354)
+- [Learning with the Microsoft Sentinel Training Lab](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/learning-with-the-microsoft-sentinel-training-lab/ba-p/2953403)
 - [7 unique software collaboration features in GitHub Discussions](https://github.blog/2021-11-10-7-unique-software-collaboration-features-in-github-discussions/)
 - [Make your monorepo feel small with Git’s sparse index](https://github.blog/2021-11-10-make-your-monorepo-feel-small-with-gits-sparse-index/)
-- [2021-11-10 — What&#39;s new?](https://techcommunity.microsoft.com/t5/autonomous-systems-blog/2021-11-10-what-s-new/ba-p/2950623)
-- [Azure Marketplace new offers – Volume 174](https://techcommunity.microsoft.com/t5/azure-marketplace/azure-marketplace-new-offers-volume-174/ba-p/2772167)
-- [DevOps Lab | Increasing Collaboration with Communication: GitHub and Microsoft Teams](https://channel9.msdn.com/Shows/DevOps-Lab/DevOps-Lab--Increasing-Collaboration-with-Communication-GitHub-and-Microsoft-Teams)
 <!-- AZUREINFOHUB:END -->
 
 
