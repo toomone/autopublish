@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Release Radar · October 2021 Edition](https://github.blog/2021-11-12-release-radar-oct-2021/)
+- [Highlights from GitHub’s security roadmap at Universe 2021](https://github.blog/2021-11-12-highlights-github-security-roadmap-universe-2021/)
+- [Top Stories from the Microsoft DevOps Community – 2021.11.12](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-11-12/)
+- [Top Stories from the Microsoft DevOps Community – 2021.11.12](https://techcommunity.microsoft.com/t5/azure-devops/top-stories-from-the-microsoft-devops-community-2021-11-12/ba-p/2958684)
 - [New Microsoft 365 Patterns and Practices &lpar;PnP&rpar; team members – November 2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/new-microsoft-365-patterns-and-practices-pnp-team-members/ba-p/2953966)
-- [New Release: SharePointDsc v4.9](https://techcommunity.microsoft.com/t5/sharepointdsc/new-release-sharepointdsc-v4-9/ba-p/2954354)
-- [Learning with the Microsoft Sentinel Training Lab](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/learning-with-the-microsoft-sentinel-training-lab/ba-p/2953403)
-- [7 unique software collaboration features in GitHub Discussions](https://github.blog/2021-11-10-7-unique-software-collaboration-features-in-github-discussions/)
-- [Make your monorepo feel small with Git’s sparse index](https://github.blog/2021-11-10-make-your-monorepo-feel-small-with-gits-sparse-index/)
 <!-- AZUREINFOHUB:END -->
 
 
