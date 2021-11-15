@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Highlights from Git 2.34](https://github.blog/2021-11-15-highlights-from-git-2-34/)
+- [Using Code Snippets to build your own Sentinel Notebooks](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/using-code-snippets-to-build-your-own-sentinel-notebooks/ba-p/2965208)
 - [Extracting SAP data using OData - Part 1 - The First Extraction](https://techcommunity.microsoft.com/t5/azure-synapse-analytics/extracting-sap-data-using-odata-part-1-the-first-extraction/ba-p/2841635)
 - [Release Radar · October 2021 Edition](https://github.blog/2021-11-12-release-radar-oct-2021/)
 - [Highlights from GitHub’s security roadmap at Universe 2021](https://github.blog/2021-11-12-highlights-github-security-roadmap-universe-2021/)
-- [Automated Testing with Logic Apps Standard](https://techcommunity.microsoft.com/t5/integrations-on-azure/automated-testing-with-logic-apps-standard/ba-p/2960623)
-- [How to get the most out of your Imagine Cup experience](https://techcommunity.microsoft.com/t5/student-developer-blog/how-to-get-the-most-out-of-your-imagine-cup-experience/ba-p/2960428)
 <!-- AZUREINFOHUB:END -->
 
 
