@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [GitHub’s commitment to npm ecosystem security](https://github.blog/2021-11-15-githubs-commitment-to-npm-ecosystem-security/) (11/15/21)
+ - [Highlights from Git 2.34](https://github.blog/2021-11-15-highlights-from-git-2-34/) (11/15/21)
  - [Release Radar · October 2021 Edition](https://github.blog/2021-11-12-release-radar-oct-2021/) (11/12/21)
  - [Highlights from GitHub’s security roadmap at Universe 2021](https://github.blog/2021-11-12-highlights-github-security-roadmap-universe-2021/) (11/12/21)
  - [7 unique software collaboration features in GitHub Discussions](https://github.blog/2021-11-10-7-unique-software-collaboration-features-in-github-discussions/) (11/10/21)
- - [Make your monorepo feel small with Git’s sparse index](https://github.blog/2021-11-10-make-your-monorepo-feel-small-with-gits-sparse-index/) (11/10/21)
- - [GitHub Enterprise Server 3.3 enhances CI/CD and adds a new security manager role](https://github.blog/2021-11-09-github-enterprise-server-3-3-enhances-ci-cd-and-adds-a-new-security-manager-role/) (11/09/21)
 <!-- GITHUB:END -->
