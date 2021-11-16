@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Highlights from Git 2.34](https://github.blog/2021-11-15-highlights-from-git-2-34/)
-- [Using Code Snippets to build your own Sentinel Notebooks](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/using-code-snippets-to-build-your-own-sentinel-notebooks/ba-p/2965208)
-- [Extracting SAP data using OData - Part 1 - The First Extraction](https://techcommunity.microsoft.com/t5/azure-synapse-analytics/extracting-sap-data-using-odata-part-1-the-first-extraction/ba-p/2841635)
-- [Release Radar · October 2021 Edition](https://github.blog/2021-11-12-release-radar-oct-2021/)
-- [Highlights from GitHub’s security roadmap at Universe 2021](https://github.blog/2021-11-12-highlights-github-security-roadmap-universe-2021/)
+- [GraphQL global ID migration update](https://github.blog/2021-11-16-graphql-global-id-migration-update/)
+- [Blue-teaming for Exiv2: adding custom CodeQL queries to code scanning](https://github.blog/2021-11-16-adding-custom-codeql-queries-code-scanning/)
+- [DevOps Lab | What is GitOps? Why we need it and how to implement it.](https://channel9.msdn.com/Shows/DevOps-Lab/DevOps-Lab--What-is-GitOps-Why-we-need-it-and-how-to-implement-it)
+- [The 2021 State of the Octoverse](https://github.blog/2021-11-16-the-2021-state-of-the-octoverse/)
+- [Stream IoT data into Excel](https://techcommunity.microsoft.com/t5/internet-of-things/stream-iot-data-into-excel/ba-p/2948955)
 <!-- AZUREINFOHUB:END -->
 
 
