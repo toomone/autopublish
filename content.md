@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [GitHub’s developer-first approach to content moderation](https://github.blog/2021-11-17-githubs-developer-first-approach-to-content-moderation/) (11/17/21)
  - [GraphQL global ID migration update](https://github.blog/2021-11-16-graphql-global-id-migration-update/) (11/16/21)
  - [Blue-teaming for Exiv2: adding custom CodeQL queries to code scanning](https://github.blog/2021-11-16-adding-custom-codeql-queries-code-scanning/) (11/16/21)
  - [The 2021 State of the Octoverse](https://github.blog/2021-11-16-the-2021-state-of-the-octoverse/) (11/16/21)
  - [GitHub’s commitment to npm ecosystem security](https://github.blog/2021-11-15-githubs-commitment-to-npm-ecosystem-security/) (11/15/21)
- - [Highlights from Git 2.34](https://github.blog/2021-11-15-highlights-from-git-2-34/) (11/15/21)
 <!-- GITHUB:END -->
