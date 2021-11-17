@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Developing real-time collaborative apps with Azure, Microsoft 365, Power Platform, and GitHub](https://devblogs.microsoft.com/microsoft365dev/developing-real-time-collaborative-apps-with-azure-microsoft-365-power-platform-and-github-2)
+- [GitHub’s developer-first approach to content moderation](https://github.blog/2021-11-17-githubs-developer-first-approach-to-content-moderation/)
+- [Build Intelligent Video Solutions with Axis Cameras and Azure Video Analyzer](https://techcommunity.microsoft.com/t5/azure-video-analyzer/build-intelligent-video-solutions-with-axis-cameras-and-azure/ba-p/2967607)
 - [GraphQL global ID migration update](https://github.blog/2021-11-16-graphql-global-id-migration-update/)
 - [Blue-teaming for Exiv2: adding custom CodeQL queries to code scanning](https://github.blog/2021-11-16-adding-custom-codeql-queries-code-scanning/)
-- [DevOps Lab | What is GitOps? Why we need it and how to implement it.](https://channel9.msdn.com/Shows/DevOps-Lab/DevOps-Lab--What-is-GitOps-Why-we-need-it-and-how-to-implement-it)
-- [The 2021 State of the Octoverse](https://github.blog/2021-11-16-the-2021-state-of-the-octoverse/)
-- [Stream IoT data into Excel](https://techcommunity.microsoft.com/t5/internet-of-things/stream-iot-data-into-excel/ba-p/2948955)
 <!-- AZUREINFOHUB:END -->
 
 
