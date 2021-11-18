@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Developing real-time collaborative apps with Azure, Microsoft 365, Power Platform, and GitHub](https://devblogs.microsoft.com/microsoft365dev/developing-real-time-collaborative-apps-with-azure-microsoft-365-power-platform-and-github-2)
-- [GitHub’s developer-first approach to content moderation](https://github.blog/2021-11-17-githubs-developer-first-approach-to-content-moderation/)
-- [Build Intelligent Video Solutions with Axis Cameras and Azure Video Analyzer](https://techcommunity.microsoft.com/t5/azure-video-analyzer/build-intelligent-video-solutions-with-axis-cameras-and-azure/ba-p/2967607)
-- [GraphQL global ID migration update](https://github.blog/2021-11-16-graphql-global-id-migration-update/)
-- [Blue-teaming for Exiv2: adding custom CodeQL queries to code scanning](https://github.blog/2021-11-16-adding-custom-codeql-queries-code-scanning/)
+- [7 advanced workflow automation features with GitHub Actions](https://github.blog/2021-11-18-7-advanced-workflow-automation-features-with-github-actions/)
+- [7 advanced workflow automation features with GitHub Actions](https://github.blog/2021-11-18-7-advanced-workflow-automation-features-with-github-actions/)
+- [What’s new for C++ cross-platform developers in Visual Studio 2022](https://devblogs.microsoft.com/cppblog/whats-new-for-c-cross-platform-developers-in-visual-studio-2022)
+- [What’s new for C++ cross-platform developers in Visual Studio 2022](https://devblogs.microsoft.com/cppblog/whats-new-for-c-cross-platform-developers-in-visual-studio-2022)
+- [Infer# v1.2: Interprocedural Memory Safety Analysis For C#](https://devblogs.microsoft.com/dotnet/infer-v1-2-interprocedural-memory-safety-analysis-for-c)
 <!-- AZUREINFOHUB:END -->
 
 
