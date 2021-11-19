@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Top Stories from the Microsoft DevOps Community – 2021.11.19](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-11-19/)
 - [Top Stories from the Microsoft DevOps Community – 2021.11.12](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-11-12/)
 - [Known issue with publishing extensions: “Your ability to create global personal access tokens (PATs) is restricted by your organization.”](https://devblogs.microsoft.com/devops/issue-with-extension-publishing/)
 - [AzureFunBytes Episode 61 – Deploying to @Azure is one “git push” away with @juliendubois](https://devblogs.microsoft.com/devops/azurefunbytes-episode-61-deploying-to-azure-is-one-git-push-away-with-juliendubois/)
 - [Auditing Coming to General Availability (GA) Early 2022!](https://devblogs.microsoft.com/devops/auditing-coming-to-general-availability-ga-early-2022/)
-- [DevOps Dojo – Customers & Trust](https://devblogs.microsoft.com/devops/devops-dojo-customers-trust/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
