@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [In case you missed it, GitHub Education at Universe 2021!](https://github.blog/2021-11-19-in-case-you-missed-it-github-education-at-universe-2021/) (11/19/21)
+ - [What’s new from GitHub Changelog? October 2021 recap](https://github.blog/2021-11-19-whats-new-from-github-changelog-october-2021-recap/) (11/19/21)
  - [7 advanced workflow automation features with GitHub Actions](https://github.blog/2021-11-18-7-advanced-workflow-automation-features-with-github-actions/) (11/18/21)
  - [GitHub’s developer-first approach to content moderation](https://github.blog/2021-11-17-githubs-developer-first-approach-to-content-moderation/) (11/17/21)
  - [GraphQL global ID migration update](https://github.blog/2021-11-16-graphql-global-id-migration-update/) (11/16/21)
- - [Blue-teaming for Exiv2: adding custom CodeQL queries to code scanning](https://github.blog/2021-11-16-adding-custom-codeql-queries-code-scanning/) (11/16/21)
- - [The 2021 State of the Octoverse](https://github.blog/2021-11-16-the-2021-state-of-the-octoverse/) (11/16/21)
 <!-- GITHUB:END -->
