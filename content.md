@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [In case you missed it, GitHub Education at Universe 2021!](https://github.blog/2021-11-19-in-case-you-missed-it-github-education-at-universe-2021/)
+- [What’s new from GitHub Changelog? October 2021 recap](https://github.blog/2021-11-19-whats-new-from-github-changelog-october-2021-recap/)
+- [Released: General Availability of Microsoft.Data.SqlClient 4.0](https://techcommunity.microsoft.com/t5/sql-server/released-general-availability-of-microsoft-data-sqlclient-4-0/ba-p/2983346)
+- [Viva Connections &amp; SharePoint Framework Community Call – 18th of November, 2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/viva-connections-amp-sharepoint-framework-community-call-18th-of/ba-p/2981456)
 - [7 advanced workflow automation features with GitHub Actions](https://github.blog/2021-11-18-7-advanced-workflow-automation-features-with-github-actions/)
-- [7 advanced workflow automation features with GitHub Actions](https://github.blog/2021-11-18-7-advanced-workflow-automation-features-with-github-actions/)
-- [What’s new for C++ cross-platform developers in Visual Studio 2022](https://devblogs.microsoft.com/cppblog/whats-new-for-c-cross-platform-developers-in-visual-studio-2022)
-- [What’s new for C++ cross-platform developers in Visual Studio 2022](https://devblogs.microsoft.com/cppblog/whats-new-for-c-cross-platform-developers-in-visual-studio-2022)
-- [Infer# v1.2: Interprocedural Memory Safety Analysis For C#](https://devblogs.microsoft.com/dotnet/infer-v1-2-interprocedural-memory-safety-analysis-for-c)
 <!-- AZUREINFOHUB:END -->
 
 
