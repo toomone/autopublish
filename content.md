@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Accelerate security adoption in your organization](https://github.blog/2021-11-22-accelerate-security-adoption-in-your-organization/)
+- [Analyze and contextualize IoT data using Azure Synapse data explorer](https://techcommunity.microsoft.com/t5/azure-synapse-analytics/analyze-and-contextualize-iot-data-using-azure-synapse-data/ba-p/2975518)
+- [Helpful SQL Tools and Tips for Test Engineers - Part 1](https://techcommunity.microsoft.com/t5/testingspot-blog/helpful-sql-tools-and-tips-for-test-engineers-part-1/ba-p/2994183)
+- [Investigating Suspicious Azure Activity with Microsoft Sentinel](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/investigating-suspicious-azure-activity-with-microsoft-sentinel/ba-p/2985699)
 - [Extracting SAP data using OData - Part 2 - All About Parameters](https://techcommunity.microsoft.com/t5/azure-synapse-analytics/extracting-sap-data-using-odata-part-2-all-about-parameters/ba-p/2849518)
-- [In case you missed it, GitHub Education at Universe 2021!](https://github.blog/2021-11-19-in-case-you-missed-it-github-education-at-universe-2021/)
-- [What’s new from GitHub Changelog? October 2021 recap](https://github.blog/2021-11-19-whats-new-from-github-changelog-october-2021-recap/)
-- [How do AKS and AKS on Azure Stack HCI compare?](https://techcommunity.microsoft.com/t5/azure-stack-blog/how-do-aks-and-aks-on-azure-stack-hci-compare/ba-p/2987384)
-- [How do AKS and AKS on Azure Stack HCI compare?](https://techcommunity.microsoft.com/t5/azure-stack-blog/how-do-aks-and-aks-on-azure-stack-hci-compare/ba-p/2987384)
 <!-- AZUREINFOHUB:END -->
 
 
