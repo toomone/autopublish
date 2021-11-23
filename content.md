@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [Secure deployments with OpenID Connect &amp; GitHub Actions now generally available](https://github.blog/2021-11-23-secure-deployments-openid-connect-github-actions-generally-available/) (11/23/21)
+ - [How to squash bugs by enrolling in OSS-Fuzz](https://github.blog/2021-11-23-how-to-squash-bugs-by-enrolling-in-oss-fuzz/) (11/23/21)
+ - [The Copyright Office expands your security research rights](https://github.blog/2021-11-23-copyright-office-expands-security-research-rights/) (11/23/21)
  - [Accelerate security adoption in your organization](https://github.blog/2021-11-22-accelerate-security-adoption-in-your-organization/) (11/22/21)
  - [In case you missed it, GitHub Education at Universe 2021!](https://github.blog/2021-11-19-in-case-you-missed-it-github-education-at-universe-2021/) (11/19/21)
- - [What’s new from GitHub Changelog? October 2021 recap](https://github.blog/2021-11-19-whats-new-from-github-changelog-october-2021-recap/) (11/19/21)
- - [7 advanced workflow automation features with GitHub Actions](https://github.blog/2021-11-18-7-advanced-workflow-automation-features-with-github-actions/) (11/18/21)
- - [GitHub’s developer-first approach to content moderation](https://github.blog/2021-11-17-githubs-developer-first-approach-to-content-moderation/) (11/17/21)
 <!-- GITHUB:END -->
