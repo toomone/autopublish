@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Accelerate security adoption in your organization](https://github.blog/2021-11-22-accelerate-security-adoption-in-your-organization/)
-- [Analyze and contextualize IoT data using Azure Synapse data explorer](https://techcommunity.microsoft.com/t5/azure-synapse-analytics/analyze-and-contextualize-iot-data-using-azure-synapse-data/ba-p/2975518)
-- [Helpful SQL Tools and Tips for Test Engineers - Part 1](https://techcommunity.microsoft.com/t5/testingspot-blog/helpful-sql-tools-and-tips-for-test-engineers-part-1/ba-p/2994183)
-- [Investigating Suspicious Azure Activity with Microsoft Sentinel](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/investigating-suspicious-azure-activity-with-microsoft-sentinel/ba-p/2985699)
-- [Extracting SAP data using OData - Part 2 - All About Parameters](https://techcommunity.microsoft.com/t5/azure-synapse-analytics/extracting-sap-data-using-odata-part-2-all-about-parameters/ba-p/2849518)
+- [Secure deployments with OpenID Connect &amp; GitHub Actions now generally available](https://github.blog/2021-11-23-secure-deployments-openid-connect-github-actions-generally-available/)
+- [Secure deployments with OpenID Connect &amp; GitHub Actions now generally available](https://github.blog/2021-11-23-secure-deployments-openid-connect-github-actions-generally-available/)
+- [How to squash bugs by enrolling in OSS-Fuzz](https://github.blog/2021-11-23-how-to-squash-bugs-by-enrolling-in-oss-fuzz/)
+- [The Copyright Office expands your security research rights](https://github.blog/2021-11-23-copyright-office-expands-security-research-rights/)
+- [Frequently asked questions for getting started in the 2022 Imagine Cup](https://techcommunity.microsoft.com/t5/student-developer-blog/frequently-asked-questions-for-getting-started-in-the-2022/ba-p/2998672)
 <!-- AZUREINFOHUB:END -->
 
 
