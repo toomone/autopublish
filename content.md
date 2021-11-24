@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [The best practices for organizing Synapse workspaces and lakehouses](https://techcommunity.microsoft.com/t5/azure-synapse-analytics/the-best-practices-for-organizing-synapse-workspaces-and/ba-p/3002506)
+- [Microsoft 365 Platform Call – 23rd of November, 2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-platform-call-23rd-of-november-2021/ba-p/2998248)
+- [Unlock value from your incidents using advanced incident search](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/unlock-value-from-your-incidents-using-advanced-incident-search/ba-p/2997243)
 - [Secure deployments with OpenID Connect &amp; GitHub Actions now generally available](https://github.blog/2021-11-23-secure-deployments-openid-connect-github-actions-generally-available/)
 - [Secure deployments with OpenID Connect &amp; GitHub Actions now generally available](https://github.blog/2021-11-23-secure-deployments-openid-connect-github-actions-generally-available/)
-- [How to squash bugs by enrolling in OSS-Fuzz](https://github.blog/2021-11-23-how-to-squash-bugs-by-enrolling-in-oss-fuzz/)
-- [The Copyright Office expands your security research rights](https://github.blog/2021-11-23-copyright-office-expands-security-research-rights/)
-- [Frequently asked questions for getting started in the 2022 Imagine Cup](https://techcommunity.microsoft.com/t5/student-developer-blog/frequently-asked-questions-for-getting-started-in-the-2022/ba-p/2998672)
 <!-- AZUREINFOHUB:END -->
 
 
