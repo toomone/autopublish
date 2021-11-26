@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Microsoft 365 PnP Community – November 2021 update](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-community-november-2021-update/ba-p/2992931)
+- [CLI for Microsoft 365 v4.2](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/cli-for-microsoft-365-v4-2/ba-p/3008628)
+- [Microsoft 365 Developer Community Call recording – 25th of November, 2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-developer-community-call-recording-25th-of/ba-p/3006235)
 - [The best practices for organizing Synapse workspaces and lakehouses](https://techcommunity.microsoft.com/t5/azure-synapse-analytics/the-best-practices-for-organizing-synapse-workspaces-and/ba-p/3002506)
 - [The best practices for organizing Synapse workspaces and lakehouses](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/the-best-practices-for-organizing-synapse-workspaces-and/ba-p/3002506)
-- [Microsoft 365 Platform Call – 23rd of November, 2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-platform-call-23rd-of-november-2021/ba-p/2998248)
-- [Unlock value from your incidents using advanced incident search](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/unlock-value-from-your-incidents-using-advanced-incident-search/ba-p/2997243)
-- [Secure deployments with OpenID Connect &amp; GitHub Actions now generally available](https://github.blog/2021-11-23-secure-deployments-openid-connect-github-actions-generally-available/)
 <!-- AZUREINFOHUB:END -->
 
 
