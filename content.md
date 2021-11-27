@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Extracting SAP data using OData - Part 3 - Metadata store](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/extracting-sap-data-using-odata-part-3-metadata-store/ba-p/2849544)
 - [Microsoft 365 PnP Community – November 2021 update](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-community-november-2021-update/ba-p/2992931)
 - [CLI for Microsoft 365 v4.2](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/cli-for-microsoft-365-v4-2/ba-p/3008628)
 - [Microsoft 365 Developer Community Call recording – 25th of November, 2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-developer-community-call-recording-25th-of/ba-p/3006235)
 - [The best practices for organizing Synapse workspaces and lakehouses](https://techcommunity.microsoft.com/t5/azure-synapse-analytics/the-best-practices-for-organizing-synapse-workspaces-and/ba-p/3002506)
-- [The best practices for organizing Synapse workspaces and lakehouses](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/the-best-practices-for-organizing-synapse-workspaces-and/ba-p/3002506)
 <!-- AZUREINFOHUB:END -->
 
 
