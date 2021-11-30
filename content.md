@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Deprecating weak cryptographic standards (TLS 1.0 and TLS 1.1) in Azure DevOps](https://devblogs.microsoft.com/devops/deprecating-weak-cryptographic-standards-tls-1-0-and-tls-1-1-in-azure-devops/)
 - [Azure Boards Ux Modernization – Public Preview](https://devblogs.microsoft.com/devops/azure-boards-ux-modernization-public-preview/)
 - [Top Stories from the Microsoft DevOps Community – 2021.11.26](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-11-26/)
 - [Top Stories from the Microsoft DevOps Community – 2021.11.19](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-11-19/)
 - [Top Stories from the Microsoft DevOps Community – 2021.11.12](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-11-12/)
-- [Known issue with publishing extensions: “Your ability to create global personal access tokens (PATs) is restricted by your organization.”](https://devblogs.microsoft.com/devops/issue-with-extension-publishing/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
