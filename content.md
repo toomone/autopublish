@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [GitHub Actions: reusable workflows is generally available](https://github.blog/2021-11-29-github-actions-reusable-workflows-is-generally-available/)
-- [GitHub Actions: reusable workflows is generally available](https://github.blog/2021-11-29-github-actions-reusable-workflows-is-generally-available/)
-- [Azure Boards Ux Modernization – Public Preview](https://devblogs.microsoft.com/devops/azure-boards-ux-modernization-public-preview)
-- [Azure Friday: The year in retrospect](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/azure-friday-the-year-in-retrospect/ba-p/3015107)
-- [Azure Friday: The year in retrospect](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/azure-friday-the-year-in-retrospect/ba-p/3015107)
+- [Deprecating weak cryptographic standards &lpar;TLS 1.0 and TLS 1.1&rpar; in Azure DevOps](https://devblogs.microsoft.com/devops/deprecating-weak-cryptographic-standards-tls-1-0-and-tls-1-1-in-azure-devops)
+- [5 DevOps tips to speed up your developer workflow](https://github.blog/2021-11-30-5-devops-tips-to-speed-up-your-developer-workflow/)
+- [Networking considerations for gMSA on AKS](https://techcommunity.microsoft.com/t5/containers/networking-considerations-for-gmsa-on-aks/ba-p/3020461)
+- [MSTICPy Hackathon - January 2022](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/msticpy-hackathon-january-2022/ba-p/3019705)
+- [Ignite 2021 - The do not miss list for app developers](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/ignite-2021-the-do-not-miss-list-for-app-developers/ba-p/2955457)
 <!-- AZUREINFOHUB:END -->
 
 
