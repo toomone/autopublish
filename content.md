@@ -34,11 +34,11 @@
 
 <!-- AZUREUPDATES:START -->
 
+ - [Introducing Azure Load Testing: Optimize app performance at scale](https://azure.microsoft.com/blog/introducing-azure-load-testing-optimize-app-performance-at-scale/) (11/30/21)
  - [Advancing safe deployment with AIOps—introducing Gandalf](https://azure.microsoft.com/blog/advancing-safe-deployment-with-aiops-introducing-gandalf/) (06/30/21)
  - [Power your business applications data with analytical and predictive insights](https://azure.microsoft.com/blog/power-your-business-applications-data-with-analytical-and-predictive-insights/) (05/26/21)
  - [New Azure capabilities to simplify deployment and management](https://azure.microsoft.com/blog/new-azure-capabilities-to-simplify-deployment-and-management/) (05/26/21)
  - [Gain flexibility to run open-source applications your way with Microsoft Azure](https://azure.microsoft.com/blog/gain-flexibility-to-run-open-source-applications-your-way-with-microsoft-azure/) (05/26/21)
- - [Build cloud-native applications that run anywhere](https://azure.microsoft.com/blog/build-cloudnative-applications-that-run-anywhere/) (05/25/21)
 <!-- AZUREUPDATES:END -->
 
 
