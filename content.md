@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [GitHub Availability Report: November 2021](https://github.blog/2021-12-01-github-availability-report-november-2021/)
+- [Using ChatOps to help Actions on-call engineers](https://github.blog/2021-12-01-using-chatops-to-help-actions-on-call-engineers/)
+- [GitHub Externships: enabling India’s next generation of developers](https://github.blog/2021-11-30-github-externships-enabling-indias-next-generation-of-developers/)
 - [Deprecating weak cryptographic standards &lpar;TLS 1.0 and TLS 1.1&rpar; in Azure DevOps](https://devblogs.microsoft.com/devops/deprecating-weak-cryptographic-standards-tls-1-0-and-tls-1-1-in-azure-devops)
 - [5 DevOps tips to speed up your developer workflow](https://github.blog/2021-11-30-5-devops-tips-to-speed-up-your-developer-workflow/)
-- [Networking considerations for gMSA on AKS](https://techcommunity.microsoft.com/t5/containers/networking-considerations-for-gmsa-on-aks/ba-p/3020461)
-- [MSTICPy Hackathon - January 2022](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/msticpy-hackathon-january-2022/ba-p/3019705)
-- [Ignite 2021 - The do not miss list for app developers](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/ignite-2021-the-do-not-miss-list-for-app-developers/ba-p/2955457)
 <!-- AZUREINFOHUB:END -->
 
 
