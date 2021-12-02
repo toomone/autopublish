@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Automating Azure Static Web Apps in Azure Pipelines](https://devblogs.microsoft.com/devops/automating-azure-static-web-apps-in-azure-pipelines/)
+- [AzureFunBytes Episode 62 – Supercharge your Java Apps on Azure with @rorypreddy](https://devblogs.microsoft.com/devops/azurefunbytes-episode-62-supercharge-your-java-apps-on-azure-with-rorypreddy/)
 - [Deprecating weak cryptographic standards (TLS 1.0 and TLS 1.1) in Azure DevOps](https://devblogs.microsoft.com/devops/deprecating-weak-cryptographic-standards-tls-1-0-and-tls-1-1-in-azure-devops/)
 - [Azure Boards Ux Modernization – Public Preview](https://devblogs.microsoft.com/devops/azure-boards-ux-modernization-public-preview/)
 - [Top Stories from the Microsoft DevOps Community – 2021.11.26](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-11-26/)
-- [Top Stories from the Microsoft DevOps Community – 2021.11.19](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-11-19/)
-- [Top Stories from the Microsoft DevOps Community – 2021.11.12](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-11-12/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
