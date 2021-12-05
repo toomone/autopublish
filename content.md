@@ -12,11 +12,11 @@
 ## AZURE WEEKLY BLOG
 
 <!-- AZUREWEEKLY:START -->
+- [Azure Weekly Issue 352 - 5th December 2021](https://azureweekly.info/issue-352.html)
 - [Azure Weekly Issue 351 - 28th November 2021](https://azureweekly.info/issue-351.html)
 - [Azure Weekly Issue 350 - 21st November 2021](https://azureweekly.info/issue-350.html)
 - [Azure Weekly Issue 349 - 14th November 2021](https://azureweekly.info/issue-349.html)
 - [Azure Weekly Issue 348 - 7th November 2021](https://azureweekly.info/issue-348.html)
-- [Azure Weekly Issue 347 - 31st October 2021](https://azureweekly.info/issue-347.html)
 <!-- AZUREWEEKLY:END -->
 
 ## AZURE INFOHUB BLOG 
