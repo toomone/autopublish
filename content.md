@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [Write more secure code with the OWASP Top 10 Proactive Controls](https://github.blog/2021-12-06-write-more-secure-code-owasp-top-10-proactive-controls/) (12/06/21)
+ - [Safeguard your containers with new container signing capability in GitHub Actions](https://github.blog/2021-12-06-safeguard-container-signing-capability-actions/) (12/06/21)
  - [Release Radar · November 2021 Edition](https://github.blog/2021-12-03-release-radar-nov-2021/) (12/03/21)
  - [GitHub Availability Report: November 2021](https://github.blog/2021-12-01-github-availability-report-november-2021/) (12/01/21)
  - [Using ChatOps to help Actions on-call engineers](https://github.blog/2021-12-01-using-chatops-to-help-actions-on-call-engineers/) (12/01/21)
- - [GitHub Externships: enabling India’s next generation of developers](https://github.blog/2021-11-30-github-externships-enabling-indias-next-generation-of-developers/) (12/01/21)
- - [5 DevOps tips to speed up your developer workflow](https://github.blog/2021-11-30-5-devops-tips-to-speed-up-your-developer-workflow/) (11/30/21)
 <!-- GITHUB:END -->
