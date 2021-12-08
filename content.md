@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [Improving GitHub code search](https://github.blog/2021-12-08-improving-github-code-search/) (12/08/21)
+ - [GitHub Enterprise Server 3.3 is generally available](https://github.blog/2021-12-07-github-enterprise-server-3-3-is-generally-available/) (12/08/21)
  - [Enrolling all npm publishers in enhanced login verification and next steps for two-factor authentication enforcement](https://github.blog/2021-12-07-enrolling-npm-publishers-enhanced-login-verification-two-factor-authentication-enforcement/) (12/07/21)
  - [Write more secure code with the OWASP Top 10 Proactive Controls](https://github.blog/2021-12-06-write-more-secure-code-owasp-top-10-proactive-controls/) (12/06/21)
  - [Safeguard your containers with new container signing capability in GitHub Actions](https://github.blog/2021-12-06-safeguard-container-signing-capability-actions/) (12/06/21)
- - [Release Radar · November 2021 Edition](https://github.blog/2021-12-03-release-radar-nov-2021/) (12/03/21)
- - [GitHub Availability Report: November 2021](https://github.blog/2021-12-01-github-availability-report-november-2021/) (12/01/21)
 <!-- GITHUB:END -->
