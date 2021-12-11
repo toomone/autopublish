@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [UK COVID-19 dashboard built using Postgres and Citus for millions of users](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/uk-covid-19-dashboard-built-using-postgres-and-citus-for/ba-p/3036276)
+- [UK COVID-19 dashboard built using Postgres and Citus for millions of users](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/uk-covid-19-dashboard-built-using-postgres-and-citus-for/ba-p/3036276)
+- [Extracting SAP data using OData - Part 5 - Filter and Select](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/extracting-sap-data-using-odata-part-5-filter-and-select/ba-p/2849814)
 - [Saving Santa Claus with Azure Custom Vision and Python](https://techcommunity.microsoft.com/t5/educator-developer-blog/saving-santa-claus-with-azure-custom-vision-and-python/ba-p/3031744)
 - [Why is Az 7 an important release for Azure PowerShell?](https://techcommunity.microsoft.com/t5/azure-tools-blog/why-is-az-7-an-important-release-for-azure-powershell/ba-p/3035513)
-- [Introducing stack graphs](https://github.blog/2021-12-09-introducing-stack-graphs/)
-- [Precise code navigation for Python, and code navigation in pull requests](https://github.blog/2021-12-09-precise-code-navigation-python-code-navigation-pull-requests/)
-- [Improving GitHub code search](https://github.blog/2021-12-08-improving-github-code-search/)
 <!-- AZUREINFOHUB:END -->
 
 
