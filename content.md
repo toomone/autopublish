@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Deploy Bicep files by using GitHub Actions](https://devblogs.microsoft.com/devops/deploy-bicep-files-by-using-github-actions/)
 - [Top Stories from the Microsoft DevOps Community – 2021.12.10](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-12-10/)
 - [Top Stories from the Microsoft DevOps Community – 2021.12.03](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-12-03/)
 - [Automating Azure Static Web Apps in Azure Pipelines](https://devblogs.microsoft.com/devops/automating-azure-static-web-apps-in-azure-pipelines/)
 - [AzureFunBytes Episode 62 – Supercharge your Java Apps on Azure with @rorypreddy](https://devblogs.microsoft.com/devops/azurefunbytes-episode-62-supercharge-your-java-apps-on-azure-with-rorypreddy/)
-- [Deprecating weak cryptographic standards (TLS 1.0 and TLS 1.1) in Azure DevOps](https://devblogs.microsoft.com/devops/deprecating-weak-cryptographic-standards-tls-1-0-and-tls-1-1-in-azure-devops/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
