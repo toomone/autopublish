@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [GitHub’s response to Log4j vulnerability CVE-2021-44228](https://github.blog/2021-12-13-githubs-response-to-log4j-vulnerability-cve-2021-44228/)
-- [What’s new from GitHub Changelog? November 2021 recap](https://github.blog/2021-12-13-whats-new-from-github-changelog-november-2021-recap/)
-- [GitHub at the UN Internet Governance Forum](https://github.blog/2021-12-13-github-at-the-un-internet-governance-forum/)
-- [Deploy Bicep files by using GitHub Actions](https://devblogs.microsoft.com/devops/deploy-bicep-files-by-using-github-actions)
-- [Deploy Bicep files by using GitHub Actions](https://devblogs.microsoft.com/devops/deploy-bicep-files-by-using-github-actions)
+- [Using GitHub’s security features to help identify Log4j exposure in your codebase](https://github.blog/2021-12-14-using-githubs-security-features-identify-log4j-exposure-codebase/)
+- [How to define security requirements for your OSS project](https://github.blog/2021-12-14-how-to-define-security-requirements-for-your-oss-project/)
+- [Creating a Custom and Secure Azure Portal Offering](https://techcommunity.microsoft.com/t5/azure-architecture-blog/creating-a-custom-and-secure-azure-portal-offering/ba-p/3038344)
+- [Arduino library for Azure IoT](https://techcommunity.microsoft.com/t5/internet-of-things-blog/arduino-library-for-azure-iot/ba-p/3034455)
+- [Microsoft 365 PnP Weekly - Episode 147 - Markus Möller &lpar;Avanade&rpar;](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-147-markus-m%C3%B6ller-avanade/ba-p/3037250)
 <!-- AZUREINFOHUB:END -->
 
 
