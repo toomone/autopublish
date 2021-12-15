@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Using GitHub’s security features to help identify Log4j exposure in your codebase](https://github.blog/2021-12-14-using-githubs-security-features-identify-log4j-exposure-codebase/)
-- [How to define security requirements for your OSS project](https://github.blog/2021-12-14-how-to-define-security-requirements-for-your-oss-project/)
-- [Creating a Custom and Secure Azure Portal Offering](https://techcommunity.microsoft.com/t5/azure-architecture-blog/creating-a-custom-and-secure-azure-portal-offering/ba-p/3038344)
-- [Arduino library for Azure IoT](https://techcommunity.microsoft.com/t5/internet-of-things-blog/arduino-library-for-azure-iot/ba-p/3034455)
-- [Microsoft 365 PnP Weekly - Episode 147 - Markus Möller &lpar;Avanade&rpar;](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-147-markus-m%C3%B6ller-avanade/ba-p/3037250)
+- [December patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/december-patches-for-azure-devops-server)
+- [A brief history of code search at GitHub](https://github.blog/2021-12-15-a-brief-history-of-code-search-at-github/)
+- [Azure Marketplace new offers – Volume 179](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/azure-marketplace-new-offers-volume-179/ba-p/2772176)
+- [CloudAppEvents in advanced hunting now includes non-Microsoft apps and new data columns](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/cloudappevents-in-advanced-hunting-now-includes-non-microsoft/ba-p/3036692)
+- [Azure DevOps &lpar;and Azure DevOps Server&rpar; and the log4j vulnerability](https://devblogs.microsoft.com/devops/azure-devops-and-azure-devops-server-and-the-log4j-vulnerability)
 <!-- AZUREINFOHUB:END -->
 
 
