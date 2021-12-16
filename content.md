@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [Technical interviews via Codespaces](https://github.blog/2021-12-16-technical-interviews-via-codespaces/) (12/16/21)
+ - [5 automations every developer should be running](https://github.blog/2021-12-16-5-automations-every-developer-should-be-running/) (12/16/21)
  - [A brief history of code search at GitHub](https://github.blog/2021-12-15-a-brief-history-of-code-search-at-github/) (12/15/21)
  - [Using GitHub’s security features to help identify Log4j exposure in your codebase](https://github.blog/2021-12-14-using-githubs-security-features-identify-log4j-exposure-codebase/) (12/14/21)
  - [How to define security requirements for your OSS project](https://github.blog/2021-12-14-how-to-define-security-requirements-for-your-oss-project/) (12/14/21)
- - [GitHub’s response to Log4j vulnerability CVE-2021-44228](https://github.blog/2021-12-13-githubs-response-to-log4j-vulnerability-cve-2021-44228/) (12/13/21)
- - [What’s new from GitHub Changelog? November 2021 recap](https://github.blog/2021-12-13-whats-new-from-github-changelog-november-2021-recap/) (12/13/21)
 <!-- GITHUB:END -->
