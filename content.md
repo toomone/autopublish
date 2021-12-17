@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Getting started with GitHub Actions just got easier!](https://github.blog/2021-12-17-getting-started-with-github-actions-just-got-easier/)
+- [Getting started with GitHub Actions just got easier!](https://github.blog/2021-12-17-getting-started-with-github-actions-just-got-easier/)
+- [Viva Connections &amp; SharePoint Framework Community Call – 16th of December, 2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/viva-connections-amp-sharepoint-framework-community-call-16th-of/ba-p/3040258)
+- [New Release: SharePointDsc now supports SharePoint Server Subscription Edition!](https://techcommunity.microsoft.com/t5/sharepointdsc-blog/new-release-sharepointdsc-now-supports-sharepoint-server/ba-p/3040608)
 - [Dual-screen reference app](https://devblogs.microsoft.com/surface-duo/dual-screen-reference-app)
-- [Technical interviews via Codespaces](https://github.blog/2021-12-16-technical-interviews-via-codespaces/)
-- [5 automations every developer should be running](https://github.blog/2021-12-16-5-automations-every-developer-should-be-running/)
-- [December patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/december-patches-for-azure-devops-server)
-- [A brief history of code search at GitHub](https://github.blog/2021-12-15-a-brief-history-of-code-search-at-github/)
 <!-- AZUREINFOHUB:END -->
 
 
