@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [How to leverage security frameworks and libraries for secure code](https://github.blog/2021-12-20-how-to-leverage-security-frameworks-and-libraries-for-secure-code/)
+- [SAM Name impersonation](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/sam-name-impersonation/ba-p/3042699)
 - [Extracting SAP data using OData - Part 6 - Introduction to delta extraction](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/extracting-sap-data-using-odata-part-6-introduction-to-delta/ba-p/2860488)
 - [Getting started with GitHub Actions just got easier!](https://github.blog/2021-12-17-getting-started-with-github-actions-just-got-easier/)
 - [Getting started with GitHub Actions just got easier!](https://github.blog/2021-12-17-getting-started-with-github-actions-just-got-easier/)
-- [Viva Connections &amp; SharePoint Framework Community Call – 16th of December, 2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/viva-connections-amp-sharepoint-framework-community-call-16th-of/ba-p/3040258)
-- [New Release: SharePointDsc now supports SharePoint Server Subscription Edition!](https://techcommunity.microsoft.com/t5/sharepointdsc-blog/new-release-sharepointdsc-now-supports-sharepoint-server/ba-p/3040608)
 <!-- AZUREINFOHUB:END -->
 
 
