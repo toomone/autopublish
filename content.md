@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [How GitHub contributed to the Santa Clara Principles update](https://github.blog/2021-12-21-how-github-contributed-santa-clara-principles-update/)
+- [Early technical preview of JDBC Driver 10.1.0 for SQL Server released](https://techcommunity.microsoft.com/t5/sql-server-blog/early-technical-preview-of-jdbc-driver-10-1-0-for-sql-server/ba-p/3041568)
+- [Azure Marketplace new offers – Volume 180](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/azure-marketplace-new-offers-volume-180/ba-p/2772177)
 - [How to leverage security frameworks and libraries for secure code](https://github.blog/2021-12-20-how-to-leverage-security-frameworks-and-libraries-for-secure-code/)
 - [SAM Name impersonation](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/sam-name-impersonation/ba-p/3042699)
-- [Extracting SAP data using OData - Part 6 - Introduction to delta extraction](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/extracting-sap-data-using-odata-part-6-introduction-to-delta/ba-p/2860488)
-- [Getting started with GitHub Actions just got easier!](https://github.blog/2021-12-17-getting-started-with-github-actions-just-got-easier/)
-- [Getting started with GitHub Actions just got easier!](https://github.blog/2021-12-17-getting-started-with-github-actions-just-got-easier/)
 <!-- AZUREINFOHUB:END -->
 
 
