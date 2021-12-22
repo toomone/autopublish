@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Microsoft 365 PnP Community – December 2021 update](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-community-december-2021-update/ba-p/3042503)
 - [How GitHub contributed to the Santa Clara Principles update](https://github.blog/2021-12-21-how-github-contributed-santa-clara-principles-update/)
 - [Early technical preview of JDBC Driver 10.1.0 for SQL Server released](https://techcommunity.microsoft.com/t5/sql-server-blog/early-technical-preview-of-jdbc-driver-10-1-0-for-sql-server/ba-p/3041568)
 - [Azure Marketplace new offers – Volume 180](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/azure-marketplace-new-offers-volume-180/ba-p/2772177)
 - [How to leverage security frameworks and libraries for secure code](https://github.blog/2021-12-20-how-to-leverage-security-frameworks-and-libraries-for-secure-code/)
-- [SAM Name impersonation](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/sam-name-impersonation/ba-p/3042699)
 <!-- AZUREINFOHUB:END -->
 
 
