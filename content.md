@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Extracting SAP data using OData - Part 7 - Delta extraction using SAP Extractors and CDS Views](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/extracting-sap-data-using-odata-part-7-delta-extraction-using/ba-p/2865383)
 - [Microsoft 365 Developer Community Call recording – 23th of December, 2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-developer-community-call-recording-23th-of/ba-p/3045171)
 - [How does Azure Development copy SAP systems?](https://techcommunity.microsoft.com/t5/running-sap-applications-on-the/how-does-azure-development-copy-sap-systems/ba-p/3044955)
 - [Azure Cloud Shell with Oh My Zsh and Oh My Posh](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-cloud-shell-with-oh-my-zsh-and-oh-my-posh/ba-p/3042284)
 - [Microsoft 365 PnP Community – December 2021 update](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-community-december-2021-update/ba-p/3042503)
-- [How GitHub contributed to the Santa Clara Principles update](https://github.blog/2021-12-21-how-github-contributed-santa-clara-principles-update/)
 <!-- AZUREINFOHUB:END -->
 
 
