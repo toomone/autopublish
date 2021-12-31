@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [DevOps Dojo – Culture and Mindset](https://devblogs.microsoft.com/devops/devops-dojo-culture-and-mindset/)
+- [Top Stories from the Microsoft DevOps Community – 2021.12.31](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-12-31/)
 - [Top Stories from the Microsoft DevOps Community – 2021.12.17](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-12-17/)
 - [December patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/december-patches-for-azure-devops-server/)
 - [Azure DevOps (and Azure DevOps Server) and the log4j vulnerability](https://devblogs.microsoft.com/devops/azure-devops-and-azure-devops-server-and-the-log4j-vulnerability/)
-- [Deploy Bicep files by using GitHub Actions](https://devblogs.microsoft.com/devops/deploy-bicep-files-by-using-github-actions/)
-- [Top Stories from the Microsoft DevOps Community – 2021.12.10](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-12-10/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
