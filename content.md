@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [GitHub Availability Report: December 2021](https://github.blog/2022-01-05-github-availability-report-december-2021/) (01/05/22)
+ - [How the community powers GitHub Advanced Security with CodeQL queries](https://github.blog/2022-01-05-how-the-community-powers-github-advanced-security-with-codeql-queries/) (01/05/22)
  - [GitHub’s top 10 blog posts of 2021](https://github.blog/2021-12-28-githubs-top-10-blog-posts-of-2021/) (12/28/21)
  - [How GitHub contributed to the Santa Clara Principles update](https://github.blog/2021-12-21-how-github-contributed-santa-clara-principles-update/) (12/21/21)
  - [How to leverage security frameworks and libraries for secure code](https://github.blog/2021-12-20-how-to-leverage-security-frameworks-and-libraries-for-secure-code/) (12/20/21)
- - [Getting started with GitHub Actions just got easier!](https://github.blog/2021-12-17-getting-started-with-github-actions-just-got-easier/) (12/17/21)
- - [Technical interviews via Codespaces](https://github.blog/2021-12-16-technical-interviews-via-codespaces/) (12/16/21)
 <!-- GITHUB:END -->
