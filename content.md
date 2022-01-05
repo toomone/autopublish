@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [GitHub Availability Report: December 2021](https://github.blog/2022-01-05-github-availability-report-december-2021/)
+- [How the community powers GitHub Advanced Security with CodeQL queries](https://github.blog/2022-01-05-how-the-community-powers-github-advanced-security-with-codeql-queries/)
 - [Friday Five: Azure File Sync, GitHub Tips, More!](https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/friday-five-azure-file-sync-github-tips-more/ba-p/3043694)
 - [Friday Five: Azure File Sync, GitHub Tips, More!](https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/friday-five-azure-file-sync-github-tips-more/ba-p/3043694)
 - [Viva Connections &amp; SharePoint Framework Community Call – 30th of December, 2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/viva-connections-amp-sharepoint-framework-community-call-30th-of/ba-p/3048596)
-- [Upload Error: The extension package size ‘26272573 bytes’ exceeds the maximum package size ‘26214400](https://techcommunity.microsoft.com/t5/azure-devops-blog/upload-error-the-extension-package-size-26272573-bytes-exceeds/ba-p/3048916)
-- [GitHub’s top 10 blog posts of 2021](https://github.blog/2021-12-28-githubs-top-10-blog-posts-of-2021/)
 <!-- AZUREINFOHUB:END -->
 
 
