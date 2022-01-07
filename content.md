@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Top Stories from the Microsoft DevOps Community – 2022.01.07](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2022-01-07/)
 - [AzureFunBytes Episode 63 – Getting Started with @Azure and WebAssembly with @StevenMurawski](https://devblogs.microsoft.com/devops/azurefunbytes-episode-63-getting-started-with-azure-and-webassembly-with-stevenmurawski/)
 - [DevOps Dojo – Culture and Mindset](https://devblogs.microsoft.com/devops/devops-dojo-culture-and-mindset/)
 - [Top Stories from the Microsoft DevOps Community – 2021.12.31](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-12-31/)
 - [Top Stories from the Microsoft DevOps Community – 2021.12.17](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2021-12-17/)
-- [December patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/december-patches-for-azure-devops-server/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
