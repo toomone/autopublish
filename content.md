@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Azure Container Apps - CI/CD deployments &lpar;Video Demo&rpar;](https://techcommunity.microsoft.com/t5/itops-talk-blog/azure-container-apps-ci-cd-deployments-video-demo/ba-p/3056192)
-- [Azure Container Apps - CI/CD deployments &lpar;Video Demo&rpar;](https://techcommunity.microsoft.com/t5/itops-talk-blog/azure-container-apps-ci-cd-deployments-video-demo/ba-p/3056192)
-- [GitHub Availability Report: December 2021](https://github.blog/2022-01-05-github-availability-report-december-2021/)
-- [How the community powers GitHub Advanced Security with CodeQL queries](https://github.blog/2022-01-05-how-the-community-powers-github-advanced-security-with-codeql-queries/)
-- [Friday Five: Azure File Sync, GitHub Tips, More!](https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/friday-five-azure-file-sync-github-tips-more/ba-p/3043694)
+- [Get Hands-On KQL Practice with this Microsoft Sentinel Workbook](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/get-hands-on-kql-practice-with-this-microsoft-sentinel-workbook/ba-p/3055600)
+- [ESP32 with Arduino IDE - Your MQTT bridge into Azure IoT Hub](https://techcommunity.microsoft.com/t5/internet-of-things-blog/esp32-with-arduino-ide-your-mqtt-bridge-into-azure-iot-hub/ba-p/3052128)
+- [Create a resume website – no coding experience required!](https://techcommunity.microsoft.com/t5/educator-developer-blog/create-a-resume-website-no-coding-experience-required/ba-p/3056672)
+- [PnP PowerShell or CLI for Microsoft 365 or both or other](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/pnp-powershell-or-cli-for-microsoft-365-or-both-or-other/ba-p/3055126)
+- [PnP PowerShell or CLI for Microsoft 365 or both or other](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/pnp-powershell-or-cli-for-microsoft-365-or-both-or-other/ba-p/3055126)
 <!-- AZUREINFOHUB:END -->
 
 
