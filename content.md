@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [How we ship GitHub Mobile every week](https://github.blog/2022-01-12-how-we-ship-github-mobile-every-week/)
+- [How we ship GitHub Mobile every week](https://github.blog/2022-01-12-how-we-ship-github-mobile-every-week/)
+- [Microsoft 365 self-service using Power Apps](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-self-service-using-power-apps/ba-p/3056109)
 - [Get Hands-On KQL Practice with this Microsoft Sentinel Workbook](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/get-hands-on-kql-practice-with-this-microsoft-sentinel-workbook/ba-p/3055600)
 - [ESP32 with Arduino IDE - Your MQTT bridge into Azure IoT Hub](https://techcommunity.microsoft.com/t5/internet-of-things-blog/esp32-with-arduino-ide-your-mqtt-bridge-into-azure-iot-hub/ba-p/3052128)
-- [Create a resume website – no coding experience required!](https://techcommunity.microsoft.com/t5/educator-developer-blog/create-a-resume-website-no-coding-experience-required/ba-p/3056672)
-- [PnP PowerShell or CLI for Microsoft 365 or both or other](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/pnp-powershell-or-cli-for-microsoft-365-or-both-or-other/ba-p/3055126)
-- [PnP PowerShell or CLI for Microsoft 365 or both or other](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/pnp-powershell-or-cli-for-microsoft-365-or-both-or-other/ba-p/3055126)
 <!-- AZUREINFOHUB:END -->
 
 
