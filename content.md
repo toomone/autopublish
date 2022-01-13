@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [Top-rated entries from Game Off 2021](https://github.blog/2022-01-13-top-entries-from-game-off-2021/) (01/13/22)
+ - [How five open source communities are using GitHub Discussions](https://github.blog/2022-01-13-how-five-open-source-communities-are-using-github-discussions/) (01/13/22)
+ - [The Open Source Software Security Summit: securing the world’s code together](https://github.blog/2022-01-13-open-source-software-security-summit-securing-the-worlds-code-together/) (01/13/22)
  - [How we ship GitHub Mobile every week](https://github.blog/2022-01-12-how-we-ship-github-mobile-every-week/) (01/12/22)
  - [GitHub Availability Report: December 2021](https://github.blog/2022-01-05-github-availability-report-december-2021/) (01/05/22)
- - [How the community powers GitHub Advanced Security with CodeQL queries](https://github.blog/2022-01-05-how-the-community-powers-github-advanced-security-with-codeql-queries/) (01/05/22)
- - [GitHub’s top 10 blog posts of 2021](https://github.blog/2021-12-28-githubs-top-10-blog-posts-of-2021/) (12/28/21)
- - [How GitHub contributed to the Santa Clara Principles update](https://github.blog/2021-12-21-how-github-contributed-santa-clara-principles-update/) (12/21/21)
 <!-- GITHUB:END -->
