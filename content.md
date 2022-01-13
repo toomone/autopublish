@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Top-rated entries from Game Off 2021](https://github.blog/2022-01-13-top-entries-from-game-off-2021/)
+- [How five open source communities are using GitHub Discussions](https://github.blog/2022-01-13-how-five-open-source-communities-are-using-github-discussions/)
+- [Defending Critical Infrastructure with the Microsoft Sentinel: IT/OT Threat Monitoring Solution](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/defending-critical-infrastructure-with-the-microsoft-sentinel-it/ba-p/3061184)
+- [The Open Source Software Security Summit: securing the world’s code together](https://github.blog/2022-01-13-open-source-software-security-summit-securing-the-worlds-code-together/)
 - [How we ship GitHub Mobile every week](https://github.blog/2022-01-12-how-we-ship-github-mobile-every-week/)
-- [How we ship GitHub Mobile every week](https://github.blog/2022-01-12-how-we-ship-github-mobile-every-week/)
-- [Microsoft 365 self-service using Power Apps](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-self-service-using-power-apps/ba-p/3056109)
-- [Get Hands-On KQL Practice with this Microsoft Sentinel Workbook](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/get-hands-on-kql-practice-with-this-microsoft-sentinel-workbook/ba-p/3055600)
-- [ESP32 with Arduino IDE - Your MQTT bridge into Azure IoT Hub](https://techcommunity.microsoft.com/t5/internet-of-things-blog/esp32-with-arduino-ide-your-mqtt-bridge-into-azure-iot-hub/ba-p/3052128)
 <!-- AZUREINFOHUB:END -->
 
 
