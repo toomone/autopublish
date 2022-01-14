@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Azure Marketplace new offers – Volume 183](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/azure-marketplace-new-offers-volume-183/ba-p/3032240)
+- [Azure Marketplace new offers – Volume 183](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/azure-marketplace-new-offers-volume-183/ba-p/3032240)
+- [Friday Five: GitHub Tokens, Teams Tips, More!](https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/friday-five-github-tokens-teams-tips-more/ba-p/3060765)
+- [Viva Connections &amp; SharePoint Framework Community Call – 13th of January, 2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/viva-connections-amp-sharepoint-framework-community-call-13th-of/ba-p/3060800)
 - [Top-rated entries from Game Off 2021](https://github.blog/2022-01-13-top-entries-from-game-off-2021/)
-- [How five open source communities are using GitHub Discussions](https://github.blog/2022-01-13-how-five-open-source-communities-are-using-github-discussions/)
-- [Defending Critical Infrastructure with the Microsoft Sentinel: IT/OT Threat Monitoring Solution](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/defending-critical-infrastructure-with-the-microsoft-sentinel-it/ba-p/3061184)
-- [The Open Source Software Security Summit: securing the world’s code together](https://github.blog/2022-01-13-open-source-software-security-summit-securing-the-worlds-code-together/)
-- [How we ship GitHub Mobile every week](https://github.blog/2022-01-12-how-we-ship-github-mobile-every-week/)
 <!-- AZUREINFOHUB:END -->
 
 
