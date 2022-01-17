@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Safely Upgrade from Azure DevOps Server 2019 to Server 2020](https://devblogs.microsoft.com/devops/safely-upgrade-from-azure-devops-server-2019-to-server-2020/)
 - [Top Stories from the Microsoft DevOps Community – 2022.01.14](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2022-01-14/)
 - [AzureFunBytes Episode 64 – Building SOC Efficiency with @Azure Sentinel with @rodtrent](https://devblogs.microsoft.com/devops/azurefunbytes-episode-64-building-soc-efficiency-with-azure-sentinel-with-rodtrent/)
 - [Top Stories from the Microsoft DevOps Community – 2022.01.07](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2022-01-07/)
 - [AzureFunBytes Episode 63 – Getting Started with @Azure and WebAssembly with @StevenMurawski](https://devblogs.microsoft.com/devops/azurefunbytes-episode-63-getting-started-with-azure-and-webassembly-with-stevenmurawski/)
-- [DevOps Dojo – Culture and Mindset](https://devblogs.microsoft.com/devops/devops-dojo-culture-and-mindset/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
