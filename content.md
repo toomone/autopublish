@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Safely Upgrade from Azure DevOps Server 2019 to Server 2020](https://devblogs.microsoft.com/devops/safely-upgrade-from-azure-devops-server-2019-to-server-2020)
+- [Microsoft 365 PnP Community – January 2022 update](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-community-january-2022-update/ba-p/3055873)
 - [Securing Critical Infrastructure with Microsoft Sentinel &amp; Microsoft Defender for IoT](https://techcommunity.microsoft.com/t5/public-sector-blog/securing-critical-infrastructure-with-microsoft-sentinel-amp/ba-p/3062217)
 - [Azure Marketplace new offers – Volume 183](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/azure-marketplace-new-offers-volume-183/ba-p/3032240)
 - [Azure Marketplace new offers – Volume 183](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/azure-marketplace-new-offers-volume-183/ba-p/3032240)
-- [Friday Five: GitHub Tokens, Teams Tips, More!](https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/friday-five-github-tokens-teams-tips-more/ba-p/3060765)
-- [Viva Connections &amp; SharePoint Framework Community Call – 13th of January, 2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/viva-connections-amp-sharepoint-framework-community-call-13th-of/ba-p/3060800)
 <!-- AZUREINFOHUB:END -->
 
 
