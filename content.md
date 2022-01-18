@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Safely Upgrade from Azure DevOps Server 2019 to Server 2020](https://devblogs.microsoft.com/devops/safely-upgrade-from-azure-devops-server-2019-to-server-2020)
-- [Microsoft 365 PnP Community – January 2022 update](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-community-january-2022-update/ba-p/3055873)
-- [Securing Critical Infrastructure with Microsoft Sentinel &amp; Microsoft Defender for IoT](https://techcommunity.microsoft.com/t5/public-sector-blog/securing-critical-infrastructure-with-microsoft-sentinel-amp/ba-p/3062217)
-- [Azure Marketplace new offers – Volume 183](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/azure-marketplace-new-offers-volume-183/ba-p/3032240)
-- [Azure Marketplace new offers – Volume 183](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/azure-marketplace-new-offers-volume-183/ba-p/3032240)
+- [How open source is supporting NASA’s new eyes in space](https://github.blog/2022-01-18-how-open-source-is-supporting-nasas-new-eyes-in-space/)
+- [Just in time privilege&#39;s access to Azure DevOps](https://techcommunity.microsoft.com/t5/azure-devops-blog/just-in-time-privilege-s-access-to-azure-devops/ba-p/3062589)
+- [Office Add-ins community call - January 12, 2022](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/office-add-ins-community-call-january-12-2022/ba-p/3061097)
+- [Using Azure Service Operator to provision Azure DB for MySQL- Flexible Server from within Kubernetes](https://techcommunity.microsoft.com/t5/azure-database-for-mysql-blog/using-azure-service-operator-to-provision-azure-db-for-mysql/ba-p/3056231)
+- [Calculating Container Level Stats in Azure Blob Storage](https://techcommunity.microsoft.com/t5/azure-paas-blog/calculating-container-level-stats-in-azure-blob-storage/ba-p/3064312)
 <!-- AZUREINFOHUB:END -->
 
 
