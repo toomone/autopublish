@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [Reducing security risk in open source software with GitHub Actions and OpenSSF Scorecards V4](https://github.blog/2022-01-19-reducing-security-risk-oss-actions-opensff-scorecards-v4/) (01/19/22)
  - [How open source is supporting NASA’s new eyes in space](https://github.blog/2022-01-18-how-open-source-is-supporting-nasas-new-eyes-in-space/) (01/18/22)
  - [Top-rated entries from Game Off 2021](https://github.blog/2022-01-13-top-entries-from-game-off-2021/) (01/13/22)
  - [How five open source communities are using GitHub Discussions](https://github.blog/2022-01-13-how-five-open-source-communities-are-using-github-discussions/) (01/13/22)
  - [The Open Source Software Security Summit: securing the world’s code together](https://github.blog/2022-01-13-open-source-software-security-summit-securing-the-worlds-code-together/) (01/13/22)
- - [How we ship GitHub Mobile every week](https://github.blog/2022-01-12-how-we-ship-github-mobile-every-week/) (01/12/22)
 <!-- GITHUB:END -->
