@@ -34,11 +34,11 @@
 
 <!-- AZUREUPDATES:START -->
 
+ - [Elastic and Microsoft Azure: Unified Observability for Spring Boot applications](https://azure.microsoft.com/blog/elastic-and-microsoft-azure-unified-observability-for-spring-boot-applications/) (01/19/22)
  - [Introducing Azure Load Testing: Optimize app performance at scale](https://azure.microsoft.com/blog/introducing-azure-load-testing-optimize-app-performance-at-scale/) (11/30/21)
  - [Advancing safe deployment with AIOps—introducing Gandalf](https://azure.microsoft.com/blog/advancing-safe-deployment-with-aiops-introducing-gandalf/) (06/30/21)
  - [Power your business applications data with analytical and predictive insights](https://azure.microsoft.com/blog/power-your-business-applications-data-with-analytical-and-predictive-insights/) (05/26/21)
  - [New Azure capabilities to simplify deployment and management](https://azure.microsoft.com/blog/new-azure-capabilities-to-simplify-deployment-and-management/) (05/26/21)
- - [Gain flexibility to run open-source applications your way with Microsoft Azure](https://azure.microsoft.com/blog/gain-flexibility-to-run-open-source-applications-your-way-with-microsoft-azure/) (05/26/21)
 <!-- AZUREUPDATES:END -->
 
 
