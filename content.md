@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [How open source is supporting NASA’s new eyes in space](https://github.blog/2022-01-18-how-open-source-is-supporting-nasas-new-eyes-in-space/)
-- [Just in time privilege&#39;s access to Azure DevOps](https://techcommunity.microsoft.com/t5/azure-devops-blog/just-in-time-privilege-s-access-to-azure-devops/ba-p/3062589)
-- [Office Add-ins community call - January 12, 2022](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/office-add-ins-community-call-january-12-2022/ba-p/3061097)
-- [Using Azure Service Operator to provision Azure DB for MySQL- Flexible Server from within Kubernetes](https://techcommunity.microsoft.com/t5/azure-database-for-mysql-blog/using-azure-service-operator-to-provision-azure-db-for-mysql/ba-p/3056231)
-- [Calculating Container Level Stats in Azure Blob Storage](https://techcommunity.microsoft.com/t5/azure-paas-blog/calculating-container-level-stats-in-azure-blob-storage/ba-p/3064312)
+- [Reducing security risk in open source software with GitHub Actions and OpenSSF Scorecards V4](https://github.blog/2022-01-19-reducing-security-risk-oss-actions-opensff-scorecards-v4/)
+- [Reducing security risk in open source software with GitHub Actions and OpenSSF Scorecards V4](https://github.blog/2022-01-19-reducing-security-risk-oss-actions-opensff-scorecards-v4/)
+- [Analyzing Earth&#39;s Climate with Capstone Projects](https://techcommunity.microsoft.com/t5/educator-developer-blog/analyzing-earth-s-climate-with-capstone-projects/ba-p/3065252)
+- [Azure Marketplace new offers – January 19, 2022](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/azure-marketplace-new-offers-january-19-2022/ba-p/2772180)
+- [Elastic and Microsoft Azure - Unified Observability for Spring Boot applications](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/elastic-and-microsoft-azure-unified-observability-for-spring/ba-p/3065347)
 <!-- AZUREINFOHUB:END -->
 
 
