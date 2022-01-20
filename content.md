@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Open source creates value, but how do you measure it?](https://github.blog/2022-01-20-open-source-creates-value-but-how-do-you-measure-it/)
+- [Released: Microsoft.Data.SqlClient 4.0.1](https://techcommunity.microsoft.com/t5/sql-server-blog/released-microsoft-data-sqlclient-4-0-1/ba-p/3067481)
+- [Microsoft Defender for Key Vault - Migration from Azure Databricks to Azure Synapse Analytics](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-key-vault-migration-from-azure-databricks/ba-p/3065230)
+- [Microsoft Defender for Office 365 Ninja Training: January 2022 Update](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/microsoft-defender-for-office-365-ninja-training-january-2022/ba-p/3066433)
 - [Reducing security risk in open source software with GitHub Actions and OpenSSF Scorecards V4](https://github.blog/2022-01-19-reducing-security-risk-oss-actions-opensff-scorecards-v4/)
-- [Reducing security risk in open source software with GitHub Actions and OpenSSF Scorecards V4](https://github.blog/2022-01-19-reducing-security-risk-oss-actions-opensff-scorecards-v4/)
-- [Analyzing Earth&#39;s Climate with Capstone Projects](https://techcommunity.microsoft.com/t5/educator-developer-blog/analyzing-earth-s-climate-with-capstone-projects/ba-p/3065252)
-- [Azure Marketplace new offers – January 19, 2022](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/azure-marketplace-new-offers-january-19-2022/ba-p/2772180)
-- [Elastic and Microsoft Azure - Unified Observability for Spring Boot applications](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/elastic-and-microsoft-azure-unified-observability-for-spring/ba-p/3065347)
 <!-- AZUREINFOHUB:END -->
 
 
