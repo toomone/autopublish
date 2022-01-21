@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Security Trends for 2022](https://techcommunity.microsoft.com/t5/azure-governance-and-management/security-trends-for-2022/ba-p/3068782)
+- [Introducing the &#39;Data Integration in a box&#39; solution](https://techcommunity.microsoft.com/t5/azure-data-factory-blog/introducing-the-data-integration-in-a-box-solution/ba-p/3068027)
 - [Open source creates value, but how do you measure it?](https://github.blog/2022-01-20-open-source-creates-value-but-how-do-you-measure-it/)
 - [Released: Microsoft.Data.SqlClient 4.0.1](https://techcommunity.microsoft.com/t5/sql-server-blog/released-microsoft-data-sqlclient-4-0-1/ba-p/3067481)
 - [Microsoft Defender for Key Vault - Migration from Azure Databricks to Azure Synapse Analytics](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-key-vault-migration-from-azure-databricks/ba-p/3065230)
-- [Microsoft Defender for Office 365 Ninja Training: January 2022 Update](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/microsoft-defender-for-office-365-ninja-training-january-2022/ba-p/3066433)
-- [Reducing security risk in open source software with GitHub Actions and OpenSSF Scorecards V4](https://github.blog/2022-01-19-reducing-security-risk-oss-actions-opensff-scorecards-v4/)
 <!-- AZUREINFOHUB:END -->
 
 
