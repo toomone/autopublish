@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Release Radar · December 2021 Edition](https://github.blog/2022-01-21-release-radar-dec-2021/)
 - [Security Trends for 2022](https://techcommunity.microsoft.com/t5/azure-governance-and-management/security-trends-for-2022/ba-p/3068782)
 - [Introducing the &#39;Data Integration in a box&#39; solution](https://techcommunity.microsoft.com/t5/azure-data-factory-blog/introducing-the-data-integration-in-a-box-solution/ba-p/3068027)
 - [Open source creates value, but how do you measure it?](https://github.blog/2022-01-20-open-source-creates-value-but-how-do-you-measure-it/)
 - [Released: Microsoft.Data.SqlClient 4.0.1](https://techcommunity.microsoft.com/t5/sql-server-blog/released-microsoft-data-sqlclient-4-0-1/ba-p/3067481)
-- [Microsoft Defender for Key Vault - Migration from Azure Databricks to Azure Synapse Analytics](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-key-vault-migration-from-azure-databricks/ba-p/3065230)
 <!-- AZUREINFOHUB:END -->
 
 
