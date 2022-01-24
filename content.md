@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Release Radar · December 2021 Edition](https://github.blog/2022-01-21-release-radar-dec-2021/)
-- [Security Trends for 2022](https://techcommunity.microsoft.com/t5/azure-governance-and-management/security-trends-for-2022/ba-p/3068782)
-- [Introducing the &#39;Data Integration in a box&#39; solution](https://techcommunity.microsoft.com/t5/azure-data-factory-blog/introducing-the-data-integration-in-a-box-solution/ba-p/3068027)
-- [Open source creates value, but how do you measure it?](https://github.blog/2022-01-20-open-source-creates-value-but-how-do-you-measure-it/)
-- [Released: Microsoft.Data.SqlClient 4.0.1](https://techcommunity.microsoft.com/t5/sql-server-blog/released-microsoft-data-sqlclient-4-0-1/ba-p/3067481)
+- [Highlights from Git 2.35](https://github.blog/2022-01-24-highlights-from-git-2-35/)
+- [Introducing Automatic Schema Discovery with auto table creation for complex datatypes](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/introducing-automatic-schema-discovery-with-auto-table-creation/ba-p/3068927)
+- [Azure Database for MySQL: Extending Long Term Retention by using containers](https://techcommunity.microsoft.com/t5/azure-database-for-mysql-blog/azure-database-for-mysql-extending-long-term-retention-by-using/ba-p/3065164)
+- [Meet a recent Microsoft Learn Student Ambassador graduate: Luisa Gonzalez Vasquez](https://techcommunity.microsoft.com/t5/student-developer-blog/meet-a-recent-microsoft-learn-student-ambassador-graduate-luisa/ba-p/3061061)
+- [Azure Identities and Roles Governance dashboard at your fingertips](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-identities-and-roles-governance-dashboard-at-your/ba-p/3068613)
 <!-- AZUREINFOHUB:END -->
 
 
