@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Secure your GitHub account with GitHub Mobile 2FA](https://github.blog/2022-01-25-secure-your-github-account-github-mobile-2fa/)
+- [Comparing and Contrasting the AKS/ANF NFS subdir external provisioner with Astra Trident](https://techcommunity.microsoft.com/t5/azure-architecture-blog/comparing-and-contrasting-the-aks-anf-nfs-subdir-external/ba-p/3057547)
+- [Microsoft 365 PnP Weekly - Episode 150 - Anoop Tatti &lpar;Content+Cloud&rpar;](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-150-anoop-tatti-content-cloud/ba-p/3070120)
 - [Highlights from Git 2.35](https://github.blog/2022-01-24-highlights-from-git-2-35/)
 - [Introducing Automatic Schema Discovery with auto table creation for complex datatypes](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/introducing-automatic-schema-discovery-with-auto-table-creation/ba-p/3068927)
-- [Azure Database for MySQL: Extending Long Term Retention by using containers](https://techcommunity.microsoft.com/t5/azure-database-for-mysql-blog/azure-database-for-mysql-extending-long-term-retention-by-using/ba-p/3065164)
-- [Meet a recent Microsoft Learn Student Ambassador graduate: Luisa Gonzalez Vasquez](https://techcommunity.microsoft.com/t5/student-developer-blog/meet-a-recent-microsoft-learn-student-ambassador-graduate-luisa/ba-p/3061061)
-- [Azure Identities and Roles Governance dashboard at your fingertips](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-identities-and-roles-governance-dashboard-at-your/ba-p/3068613)
 <!-- AZUREINFOHUB:END -->
 
 
