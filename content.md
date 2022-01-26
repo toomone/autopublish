@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [Get ready for Campus TV Season 2: 🌱 New Beginnings](https://github.blog/2022-01-26-get-ready-for-campus-tv-season-2-new-beginnings/) (01/26/22)
  - [Secure your GitHub account with GitHub Mobile 2FA](https://github.blog/2022-01-25-secure-your-github-account-github-mobile-2fa/) (01/25/22)
  - [Highlights from Git 2.35](https://github.blog/2022-01-24-highlights-from-git-2-35/) (01/24/22)
  - [Release Radar · December 2021 Edition](https://github.blog/2022-01-21-release-radar-dec-2021/) (01/21/22)
  - [Open source creates value, but how do you measure it?](https://github.blog/2022-01-20-open-source-creates-value-but-how-do-you-measure-it/) (01/20/22)
- - [Reducing security risk in open source software with GitHub Actions and OpenSSF Scorecards V4](https://github.blog/2022-01-19-reducing-security-risk-oss-actions-opensff-scorecards-v4/) (01/19/22)
 <!-- GITHUB:END -->
