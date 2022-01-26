@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Secure your GitHub account with GitHub Mobile 2FA](https://github.blog/2022-01-25-secure-your-github-account-github-mobile-2fa/)
-- [Comparing and Contrasting the AKS/ANF NFS subdir external provisioner with Astra Trident](https://techcommunity.microsoft.com/t5/azure-architecture-blog/comparing-and-contrasting-the-aks-anf-nfs-subdir-external/ba-p/3057547)
-- [Microsoft 365 PnP Weekly - Episode 150 - Anoop Tatti &lpar;Content+Cloud&rpar;](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-150-anoop-tatti-content-cloud/ba-p/3070120)
-- [Highlights from Git 2.35](https://github.blog/2022-01-24-highlights-from-git-2-35/)
-- [Introducing Automatic Schema Discovery with auto table creation for complex datatypes](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/introducing-automatic-schema-discovery-with-auto-table-creation/ba-p/3068927)
+- [Azure DevOps Server and Team Foundation Server patches](https://devblogs.microsoft.com/devops/azure-devops-server-and-team-foundation-server-patches)
+- [Get ready for Campus TV Season 2: 🌱 New Beginnings](https://github.blog/2022-01-26-get-ready-for-campus-tv-season-2-new-beginnings/)
+- [Modernize Log Management with the Maturity Model for Event Log Management &lpar;M-21-31&rpar; Solution](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/modernize-log-management-with-the-maturity-model-for-event-log/ba-p/3072842)
+- [Modernize Log Management with the Maturity Model for Event Log Management &lpar;M-21-31&rpar; Solution](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/modernize-log-management-with-the-maturity-model-for-event-log/ba-p/3072842)
+- [Azure Marketplace new offers – January 26, 2022](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/azure-marketplace-new-offers-january-26-2022/ba-p/3032242)
 <!-- AZUREINFOHUB:END -->
 
 
