@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Azure DevOps Server and Team Foundation Server patches](https://devblogs.microsoft.com/devops/azure-devops-server-and-team-foundation-server-patches)
-- [Get ready for Campus TV Season 2: 🌱 New Beginnings](https://github.blog/2022-01-26-get-ready-for-campus-tv-season-2-new-beginnings/)
-- [Modernize Log Management with the Maturity Model for Event Log Management &lpar;M-21-31&rpar; Solution](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/modernize-log-management-with-the-maturity-model-for-event-log/ba-p/3072842)
-- [Modernize Log Management with the Maturity Model for Event Log Management &lpar;M-21-31&rpar; Solution](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/modernize-log-management-with-the-maturity-model-for-event-log/ba-p/3072842)
-- [Azure Marketplace new offers – January 26, 2022](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/azure-marketplace-new-offers-january-26-2022/ba-p/3032242)
+- [Thinking beyond SQL injection: OWASP tips for secure database access](https://github.blog/2022-01-27-beyond-sql-injection-owasp-tips-secure-database-access/)
+- [ADX dashboards January 2022 updates](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/adx-dashboards-january-2022-updates/ba-p/3074426)
+- [Microsoft Sentinel: Maturity Model for Event Log Management &lpar;M-21-31&rpar; Solution](https://techcommunity.microsoft.com/t5/public-sector-blog/microsoft-sentinel-maturity-model-for-event-log-management-m-21/ba-p/3074336)
+- [Microsoft Sentinel: Maturity Model for Event Log Management &lpar;M-21-31&rpar; Solution](https://techcommunity.microsoft.com/t5/public-sector-blog/microsoft-sentinel-maturity-model-for-event-log-management-m-21/ba-p/3074336)
+- [Use a Keyword in Teams Chat to Resume and Pause Azure Synapse using Power Automate](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/use-a-keyword-in-teams-chat-to-resume-and-pause-azure-synapse/ba-p/3073096)
 <!-- AZUREINFOHUB:END -->
 
 
