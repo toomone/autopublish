@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Top Stories from the Microsoft DevOps Community – 2022.01.28](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2022-01-28/)
 - [Azure DevOps Server and Team Foundation Server patches](https://devblogs.microsoft.com/devops/azure-devops-server-and-team-foundation-server-patches/)
 - [AzureFunBytes Episode 66 – Building real-time apps with @Azure SignalR with @chris_noring](https://devblogs.microsoft.com/devops/azurefunbytes-episode-66-building-real-time-apps-with-azure-signalr-with-chris_noring/)
 - [Top Stories from the Microsoft DevOps Community – 2022.01.21](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2022-01-21/)
 - [AzureFunBytes Episode 65 – @Azure Durable Functions For Automation With @LBugnion](https://devblogs.microsoft.com/devops/azurefunbytes-episode-65-azure-durable-functions-for-automation-with-lbugnion/)
-- [Safely Upgrade Your Pipelines from Azure DevOps Server 2019 to Server 2020](https://devblogs.microsoft.com/devops/safely-upgrade-from-azure-devops-server-2019-to-server-2020/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
