@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Thinking beyond SQL injection: OWASP tips for secure database access](https://github.blog/2022-01-27-beyond-sql-injection-owasp-tips-secure-database-access/)
-- [ADX dashboards January 2022 updates](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/adx-dashboards-january-2022-updates/ba-p/3074426)
-- [Microsoft Sentinel: Maturity Model for Event Log Management &lpar;M-21-31&rpar; Solution](https://techcommunity.microsoft.com/t5/public-sector-blog/microsoft-sentinel-maturity-model-for-event-log-management-m-21/ba-p/3074336)
-- [Microsoft Sentinel: Maturity Model for Event Log Management &lpar;M-21-31&rpar; Solution](https://techcommunity.microsoft.com/t5/public-sector-blog/microsoft-sentinel-maturity-model-for-event-log-management-m-21/ba-p/3074336)
-- [Use a Keyword in Teams Chat to Resume and Pause Azure Synapse using Power Automate](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/use-a-keyword-in-teams-chat-to-resume-and-pause-azure-synapse/ba-p/3073096)
+- [Azure DevOps requires TLS 1.2 on all connections including Visual Studio](https://devblogs.microsoft.com/visualstudio/azure-devops-requires-tls-1-2-on-all-connections-including-visual-studio)
+- [Cumulative Update #15 for SQL Server 2019 Big Data Clusters](https://techcommunity.microsoft.com/t5/sql-server-blog/cumulative-update-15-for-sql-server-2019-big-data-clusters/ba-p/3081758)
+- [Meet a recent Microsoft Learn Student Ambassador graduate: Gino Messmer](https://techcommunity.microsoft.com/t5/student-developer-blog/meet-a-recent-microsoft-learn-student-ambassador-graduate-gino/ba-p/3061087)
+- [Viva Connections &amp; SharePoint Framework Community Call – 27th of January, 2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/viva-connections-amp-sharepoint-framework-community-call-27th-of/ba-p/3074002)
+- [CLI for Microsoft 365 v4.4](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/cli-for-microsoft-365-v4-4/ba-p/3070209)
 <!-- AZUREINFOHUB:END -->
 
 
