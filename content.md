@@ -23,10 +23,10 @@
 
 <!-- AZUREINFOHUB:START -->
 - [Azure DevOps requires TLS 1.2 on all connections including Visual Studio](https://devblogs.microsoft.com/visualstudio/azure-devops-requires-tls-1-2-on-all-connections-including-visual-studio)
+- [AKS on Azure Stack HCI - January 2022 update](https://techcommunity.microsoft.com/t5/azure-stack-blog/aks-on-azure-stack-hci-january-2022-update/ba-p/3083541)
 - [Cumulative Update #15 for SQL Server 2019 Big Data Clusters](https://techcommunity.microsoft.com/t5/sql-server-blog/cumulative-update-15-for-sql-server-2019-big-data-clusters/ba-p/3081758)
 - [Meet a recent Microsoft Learn Student Ambassador graduate: Gino Messmer](https://techcommunity.microsoft.com/t5/student-developer-blog/meet-a-recent-microsoft-learn-student-ambassador-graduate-gino/ba-p/3061087)
 - [Viva Connections &amp; SharePoint Framework Community Call – 27th of January, 2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/viva-connections-amp-sharepoint-framework-community-call-27th-of/ba-p/3074002)
-- [CLI for Microsoft 365 v4.4](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/cli-for-microsoft-365-v4-4/ba-p/3070209)
 <!-- AZUREINFOHUB:END -->
 
 
