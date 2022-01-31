@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Azure DevOps requires TLS 1.2 on all connections including Visual Studio](https://devblogs.microsoft.com/visualstudio/azure-devops-requires-tls-1-2-on-all-connections-including-visual-studio)
-- [AKS on Azure Stack HCI - January 2022 update](https://techcommunity.microsoft.com/t5/azure-stack-blog/aks-on-azure-stack-hci-january-2022-update/ba-p/3083541)
-- [Cumulative Update #15 for SQL Server 2019 Big Data Clusters](https://techcommunity.microsoft.com/t5/sql-server-blog/cumulative-update-15-for-sql-server-2019-big-data-clusters/ba-p/3081758)
-- [Meet a recent Microsoft Learn Student Ambassador graduate: Gino Messmer](https://techcommunity.microsoft.com/t5/student-developer-blog/meet-a-recent-microsoft-learn-student-ambassador-graduate-gino/ba-p/3061087)
-- [Viva Connections &amp; SharePoint Framework Community Call – 27th of January, 2021](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/viva-connections-amp-sharepoint-framework-community-call-27th-of/ba-p/3074002)
+- [Dependency graph now supports GitHub Actions](https://github.blog/2022-01-31-dependency-graph-now-supports-github-actions/)
+- [Dependency graph now supports GitHub Actions](https://github.blog/2022-01-31-dependency-graph-now-supports-github-actions/)
+- [The Codeless Connector Platform](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/the-codeless-connector-platform/ba-p/3095455)
+- [Access Azure resources from software workload in different environments, no secrets necessary](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/access-azure-resources-from-software-workload-in-different/ba-p/2464394)
+- [Performing online schema changes in Azure Database for MySQL by using gh-ost](https://techcommunity.microsoft.com/t5/azure-database-for-mysql-blog/performing-online-schema-changes-in-azure-database-for-mysql-by/ba-p/3075844)
 <!-- AZUREINFOHUB:END -->
 
 
