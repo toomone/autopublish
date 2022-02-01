@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [Code scanning and Ruby: turning source code into a queryable database](https://github.blog/2022-02-01-code-scanning-and-ruby-turning-source-code-into-a-queryable-database/) (02/01/22)
+ - [Top-100 npm package maintainers now require 2FA, and additional security-focused improvements to npm](https://github.blog/2022-02-01-top-100-npm-package-maintainers-require-2fa-additional-security/) (02/01/22)
  - [Dependency graph now supports GitHub Actions](https://github.blog/2022-01-31-dependency-graph-now-supports-github-actions/) (01/31/22)
  - [2021 Transparency Report](https://github.blog/2022-01-27-2021-transparency-report/) (01/27/22)
  - [Thinking beyond SQL injection: OWASP tips for secure database access](https://github.blog/2022-01-27-beyond-sql-injection-owasp-tips-secure-database-access/) (01/27/22)
- - [Get ready for Campus TV Season 2: 🌱 New Beginnings](https://github.blog/2022-01-26-get-ready-for-campus-tv-season-2-new-beginnings/) (01/26/22)
- - [Secure your GitHub account with GitHub Mobile 2FA](https://github.blog/2022-01-25-secure-your-github-account-github-mobile-2fa/) (01/25/22)
 <!-- GITHUB:END -->
