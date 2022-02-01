@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Code scanning and Ruby: turning source code into a queryable database](https://github.blog/2022-02-01-code-scanning-and-ruby-turning-source-code-into-a-queryable-database/)
+- [Top-100 npm package maintainers now require 2FA, and additional security-focused improvements to npm](https://github.blog/2022-02-01-top-100-npm-package-maintainers-require-2fa-additional-security/)
 - [Dependency graph now supports GitHub Actions](https://github.blog/2022-01-31-dependency-graph-now-supports-github-actions/)
 - [Dependency graph now supports GitHub Actions](https://github.blog/2022-01-31-dependency-graph-now-supports-github-actions/)
 - [The Codeless Connector Platform](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/the-codeless-connector-platform/ba-p/3095455)
-- [Access Azure resources from software workload in different environments, no secrets necessary](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/access-azure-resources-from-software-workload-in-different/ba-p/2464394)
-- [Performing online schema changes in Azure Database for MySQL by using gh-ost](https://techcommunity.microsoft.com/t5/azure-database-for-mysql-blog/performing-online-schema-changes-in-azure-database-for-mysql-by/ba-p/3075844)
 <!-- AZUREINFOHUB:END -->
 
 
