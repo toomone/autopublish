@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [GitHub Availability Report: January 2022](https://github.blog/2022-02-02-github-availability-report-january-2022/) (02/03/22)
  - [How to build a CI/CD pipeline with GitHub Actions in four simple steps](https://github.blog/2022-02-02-build-ci-cd-pipeline-github-actions-four-steps/) (02/02/22)
  - [New sponsors-only repositories, custom amounts, and more](https://github.blog/2022-02-02-new-sponsors-only-repositories-custom-amounts-and-more/) (02/02/22)
  - [Code scanning and Ruby: turning source code into a queryable database](https://github.blog/2022-02-01-code-scanning-and-ruby-turning-source-code-into-a-queryable-database/) (02/01/22)
  - [Top-100 npm package maintainers now require 2FA, and additional security-focused improvements to npm](https://github.blog/2022-02-01-top-100-npm-package-maintainers-require-2fa-additional-security/) (02/01/22)
- - [Dependency graph now supports GitHub Actions](https://github.blog/2022-01-31-dependency-graph-now-supports-github-actions/) (01/31/22)
 <!-- GITHUB:END -->
