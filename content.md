@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [Improving the developer experience for Dependabot alerts](https://github.blog/2022-02-08-improving-developer-experience-dependabot-alerts/) (02/08/22)
  - [Release Radar · January 2022 Edition](https://github.blog/2022-02-04-release-radar-jan-2022/) (02/04/22)
  - [GitHub Availability Report: January 2022](https://github.blog/2022-02-02-github-availability-report-january-2022/) (02/03/22)
  - [How to build a CI/CD pipeline with GitHub Actions in four simple steps](https://github.blog/2022-02-02-build-ci-cd-pipeline-github-actions-four-steps/) (02/02/22)
  - [New sponsors-only repositories, custom amounts, and more](https://github.blog/2022-02-02-new-sponsors-only-repositories-custom-amounts-and-more/) (02/02/22)
- - [Code scanning and Ruby: turning source code into a queryable database](https://github.blog/2022-02-01-code-scanning-and-ruby-turning-source-code-into-a-queryable-database/) (02/01/22)
 <!-- GITHUB:END -->
