@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [AzureFunBytes Episode 67 – What’s New With @AzureCosmosDB?](https://devblogs.microsoft.com/devops/azurefunbytes-episode-67-whats-new-with-azurecosmosdb/)
 - [Copy Dashboard Public Preview Part 3](https://devblogs.microsoft.com/devops/copy-dashboard-public-preview-part-3/)
 - [Top Stories from the Microsoft DevOps Community – 2022.02.04](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2022-02-04/)
 - [Top Stories from the Microsoft DevOps Community – 2022.01.28](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2022-01-28/)
-- [Azure DevOps Server and Team Foundation Server patches](https://devblogs.microsoft.com/devops/azure-devops-server-and-team-foundation-server-patches/)
-- [AzureFunBytes Episode 66 – Building real-time apps with @Azure SignalR with @chris_noring](https://devblogs.microsoft.com/devops/azurefunbytes-episode-66-building-real-time-apps-with-azure-signalr-with-chris_noring/)
+- [Updated: Azure DevOps Server and Team Foundation Server patches](https://devblogs.microsoft.com/devops/azure-devops-server-and-team-foundation-server-patches/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
