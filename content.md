@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [How to start using reusable workflows with GitHub Actions](https://github.blog/2022-02-10-using-reusable-workflows-github-actions/)
+- [How to start using reusable workflows with GitHub Actions](https://github.blog/2022-02-10-using-reusable-workflows-github-actions/)
+- [Genomic data in Parquet format on Azure](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/genomic-data-in-parquet-format-on-azure/ba-p/3150554)
+- [Azure Marketplace new offers – February 10, 2022](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/azure-marketplace-new-offers-february-10-2022/ba-p/3032244)
 - [Coordinated vulnerability disclosure &lpar;CVD&rpar; for open source projects](https://github.blog/2022-02-09-coordinated-vulnerability-disclosure-cvd-open-source-projects/)
-- [Improving the developer experience for Dependabot alerts](https://github.blog/2022-02-08-improving-developer-experience-dependabot-alerts/)
-- [Release Radar · January 2022 Edition](https://github.blog/2022-02-04-release-radar-jan-2022/)
-- [GitHub Availability Report: January 2022](https://github.blog/2022-02-02-github-availability-report-january-2022/)
-- [How to build a CI/CD pipeline with GitHub Actions in four simple steps](https://github.blog/2022-02-02-build-ci-cd-pipeline-github-actions-four-steps/)
 <!-- AZUREINFOHUB:END -->
 
 
