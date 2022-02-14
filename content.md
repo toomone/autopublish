@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Getting started with project planning on GitHub](https://github.blog/2022-02-11-getting-started-with-project-planning-on-github/)
-- [Deploy Into Azure Using Pulumi and GitHub Actions](https://devblogs.microsoft.com/devops/deploy-into-azure-using-pulumi-and-github-actions)
-- [Deploy Into Azure Using Pulumi and GitHub Actions](https://devblogs.microsoft.com/devops/deploy-into-azure-using-pulumi-and-github-actions)
-- [Host Static Web Sites for Free in Azure](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/host-static-web-sites-for-free-in-azure/ba-p/3152200)
-- [Friday Five: App Branding With GitHub, Azure Tips, More!](https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/friday-five-app-branding-with-github-azure-tips-more/ba-p/3140149)
+- [Include diagrams in your Markdown files with Mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
+- [Part 4: Create a Jenkins pipeline to deploy Desktop Apps as MSIX: Packaging with VB6RegistryTool](https://techcommunity.microsoft.com/t5/windows-dev-appconsult/part-4-create-a-jenkins-pipeline-to-deploy-desktop-apps-as-msix/ba-p/3161873)
+- [Part 3 - Create a Jenkins pipeline to deploy MSIX Desktop Apps: Packaging solutions outside VS](https://techcommunity.microsoft.com/t5/windows-dev-appconsult/part-3-create-a-jenkins-pipeline-to-deploy-msix-desktop-apps/ba-p/3160430)
+- [Part 2 - Create a Jenkins pipeline to deploy MSIX Desktop Apps: Packaging a Visual Studio solution](https://techcommunity.microsoft.com/t5/windows-dev-appconsult/part-2-create-a-jenkins-pipeline-to-deploy-msix-desktop-apps/ba-p/3160427)
+- [Part 1 - Create a Jenkins pipeline to deploy Desktop Apps as MSIX: Setup the Jenkins environment](https://techcommunity.microsoft.com/t5/windows-dev-appconsult/part-1-create-a-jenkins-pipeline-to-deploy-desktop-apps-as-msix/ba-p/3160398)
 <!-- AZUREINFOHUB:END -->
 
 
