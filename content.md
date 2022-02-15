@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [The GitHub Stars in our eyes ⭐️](https://github.blog/2022-02-15-the-github-stars-in-our-eyes/) (02/15/22)
+ - [Announcing the 2022 MLH Fellowship Cohort, powered by GitHub](https://github.blog/2022-02-15-announcing-2022-mlh-fellowship-cohort-powered-by-github/) (02/15/22)
  - [Include diagrams in your Markdown files with Mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/) (02/14/22)
  - [Getting started with project planning on GitHub](https://github.blog/2022-02-11-getting-started-with-project-planning-on-github/) (02/11/22)
  - [How to start using reusable workflows with GitHub Actions](https://github.blog/2022-02-10-using-reusable-workflows-github-actions/) (02/10/22)
- - [Coordinated vulnerability disclosure &lpar;CVD&rpar; for open source projects](https://github.blog/2022-02-09-coordinated-vulnerability-disclosure-cvd-open-source-projects/) (02/09/22)
- - [Improving the developer experience for Dependabot alerts](https://github.blog/2022-02-08-improving-developer-experience-dependabot-alerts/) (02/08/22)
 <!-- GITHUB:END -->
