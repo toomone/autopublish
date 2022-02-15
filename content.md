@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Include diagrams in your Markdown files with Mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
-- [Part 4: Create a Jenkins pipeline to deploy Desktop Apps as MSIX: Packaging with VB6RegistryTool](https://techcommunity.microsoft.com/t5/windows-dev-appconsult/part-4-create-a-jenkins-pipeline-to-deploy-desktop-apps-as-msix/ba-p/3161873)
-- [Part 3 - Create a Jenkins pipeline to deploy MSIX Desktop Apps: Packaging solutions outside VS](https://techcommunity.microsoft.com/t5/windows-dev-appconsult/part-3-create-a-jenkins-pipeline-to-deploy-msix-desktop-apps/ba-p/3160430)
-- [Part 2 - Create a Jenkins pipeline to deploy MSIX Desktop Apps: Packaging a Visual Studio solution](https://techcommunity.microsoft.com/t5/windows-dev-appconsult/part-2-create-a-jenkins-pipeline-to-deploy-msix-desktop-apps/ba-p/3160427)
-- [Part 1 - Create a Jenkins pipeline to deploy Desktop Apps as MSIX: Setup the Jenkins environment](https://techcommunity.microsoft.com/t5/windows-dev-appconsult/part-1-create-a-jenkins-pipeline-to-deploy-desktop-apps-as-msix/ba-p/3160398)
+- [The GitHub Stars in our eyes ⭐️](https://github.blog/2022-02-15-the-github-stars-in-our-eyes/)
+- [Announcing the 2022 MLH Fellowship Cohort, powered by GitHub](https://github.blog/2022-02-15-announcing-2022-mlh-fellowship-cohort-powered-by-github/)
+- [Building a Cloud Native Lab - Scripted Edition](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/building-a-cloud-native-lab-scripted-edition/ba-p/3169848)
+- [Microsoft 365 PnP Weekly - Episode 153 - Sudha Narayanan](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-153-sudha-narayanan/ba-p/3164026)
+- [Microsoft 365 PnP Weekly - Episode 153 - Sudha Narayanan](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-153-sudha-narayanan/ba-p/3164026)
 <!-- AZUREINFOHUB:END -->
 
 
