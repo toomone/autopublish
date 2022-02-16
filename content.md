@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [The GitHub Stars in our eyes ⭐️](https://github.blog/2022-02-15-the-github-stars-in-our-eyes/)
-- [Announcing the 2022 MLH Fellowship Cohort, powered by GitHub](https://github.blog/2022-02-15-announcing-2022-mlh-fellowship-cohort-powered-by-github/)
-- [Building a Cloud Native Lab - Scripted Edition](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/building-a-cloud-native-lab-scripted-edition/ba-p/3169848)
-- [Microsoft 365 PnP Weekly - Episode 153 - Sudha Narayanan](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-153-sudha-narayanan/ba-p/3164026)
-- [Microsoft 365 PnP Weekly - Episode 153 - Sudha Narayanan](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-153-sudha-narayanan/ba-p/3164026)
+- [How to make the most out of a mentoring relationship](https://github.blog/2022-02-16-how-to-make-the-most-out-of-a-mentoring-relationship/)
+- [Encoding and escaping untrusted data to prevent injection attacks](https://github.blog/2022-02-16-encoding-escaping-untrusted-data-prevent-injection-attacks/)
+- [Azure Marketplace new offers – February 16, 2022](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/azure-marketplace-new-offers-february-16-2022/ba-p/3032256)
+- [Azure Spring Cloud Enterprise is now available in preview](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-spring-cloud-enterprise-is-now-available-in-preview/ba-p/3172004)
+- [Azure Spring Cloud Enterprise is now available in preview](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-spring-cloud-enterprise-is-now-available-in-preview/ba-p/3172004)
 <!-- AZUREINFOHUB:END -->
 
 
