@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Code scanning finds more vulnerabilities using machine learning](https://github.blog/2022-02-17-code-scanning-finds-vulnerabilities-using-machine-learning/)
+- [Leveraging machine learning to find security vulnerabilities](https://github.blog/2022-02-17-leveraging-machine-learning-find-security-vulnerabilities/)
+- [Announcing new features in Service Fabric Managed Clusters](https://techcommunity.microsoft.com/t5/azure-service-fabric-blog/announcing-new-features-in-service-fabric-managed-clusters/ba-p/3169331)
+- [Visual Studio Code + Java Feb 2022 updates](https://techcommunity.microsoft.com/t5/educator-developer-blog/visual-studio-code-java-feb-2022-updates/ba-p/3177491)
 - [How to make the most out of a mentoring relationship](https://github.blog/2022-02-16-how-to-make-the-most-out-of-a-mentoring-relationship/)
-- [Encoding and escaping untrusted data to prevent injection attacks](https://github.blog/2022-02-16-encoding-escaping-untrusted-data-prevent-injection-attacks/)
-- [Azure Marketplace new offers – February 16, 2022](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/azure-marketplace-new-offers-february-16-2022/ba-p/3032256)
-- [Azure Spring Cloud Enterprise is now available in preview](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-spring-cloud-enterprise-is-now-available-in-preview/ba-p/3172004)
-- [Azure Spring Cloud Enterprise is now available in preview](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-spring-cloud-enterprise-is-now-available-in-preview/ba-p/3172004)
 <!-- AZUREINFOHUB:END -->
 
 
