@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [Code scanning finds more vulnerabilities using machine learning](https://github.blog/2022-02-17-code-scanning-finds-vulnerabilities-using-machine-learning/) (02/17/22)
+ - [Leveraging machine learning to find security vulnerabilities](https://github.blog/2022-02-17-leveraging-machine-learning-find-security-vulnerabilities/) (02/17/22)
  - [How to make the most out of a mentoring relationship](https://github.blog/2022-02-16-how-to-make-the-most-out-of-a-mentoring-relationship/) (02/16/22)
  - [Encoding and escaping untrusted data to prevent injection attacks](https://github.blog/2022-02-16-encoding-escaping-untrusted-data-prevent-injection-attacks/) (02/16/22)
  - [GitHub Enterprise Server 3.4 improves developer productivity and adds reusable workflows to CI/CD](https://github.blog/2022-02-15-ghes-3-4-developer-productivity-reusable-workflows-ci-cd/) (02/15/22)
- - [The GitHub Stars in our eyes ⭐️](https://github.blog/2022-02-15-the-github-stars-in-our-eyes/) (02/15/22)
- - [Announcing the 2022 MLH Fellowship Cohort, powered by GitHub](https://github.blog/2022-02-15-announcing-2022-mlh-fellowship-cohort-powered-by-github/) (02/15/22)
 <!-- GITHUB:END -->
