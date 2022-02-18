@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Top Stories from the Microsoft DevOps Community – 2022.02.18](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2022-02-18/)
 - [Deploy Into Azure Using Pulumi and GitHub Actions](https://devblogs.microsoft.com/devops/deploy-into-azure-using-pulumi-and-github-actions/)
 - [Top Stories from the Microsoft DevOps Community – 2022.02.11](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2022-02-11/)
 - [AzureFunBytes Episode 67 – What’s New With @AzureCosmosDB?](https://devblogs.microsoft.com/devops/azurefunbytes-episode-67-whats-new-with-azurecosmosdb/)
 - [Copy Dashboard Public Preview Part 3](https://devblogs.microsoft.com/devops/copy-dashboard-public-preview-part-3/)
-- [Top Stories from the Microsoft DevOps Community – 2022.02.04](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2022-02-04/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
