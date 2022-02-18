@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Microsoft Compliance Manager &lpar;MSCM&rpar; Ninja Training:  Q1 2022](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-compliance-manager-mscm-ninja-training-q1-2022/ba-p/3181322)
+- [Friday Five: Excel Podcast, Azure Kubernetes Insight, More!](https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/friday-five-excel-podcast-azure-kubernetes-insight-more/ba-p/3181410)
+- [A Tool for LINE Stickers](https://techcommunity.microsoft.com/t5/small-basic-blog/a-tool-for-line-stickers/ba-p/3183990)
 - [Code scanning finds more vulnerabilities using machine learning](https://github.blog/2022-02-17-code-scanning-finds-vulnerabilities-using-machine-learning/)
 - [Leveraging machine learning to find security vulnerabilities](https://github.blog/2022-02-17-leveraging-machine-learning-find-security-vulnerabilities/)
-- [Announcing new features in Service Fabric Managed Clusters](https://techcommunity.microsoft.com/t5/azure-service-fabric-blog/announcing-new-features-in-service-fabric-managed-clusters/ba-p/3169331)
-- [Visual Studio Code + Java Feb 2022 updates](https://techcommunity.microsoft.com/t5/educator-developer-blog/visual-studio-code-java-feb-2022-updates/ba-p/3177491)
-- [How to make the most out of a mentoring relationship](https://github.blog/2022-02-16-how-to-make-the-most-out-of-a-mentoring-relationship/)
 <!-- AZUREINFOHUB:END -->
 
 
