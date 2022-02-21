@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Export Azure SQL Database | Advanced Scenarios](https://techcommunity.microsoft.com/t5/azure-database-support-blog/export-azure-sql-database-advanced-scenarios/ba-p/3125132)
 - [Microsoft Compliance Manager &lpar;MSCM&rpar; Ninja Training:  Q1 2022](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-compliance-manager-mscm-ninja-training-q1-2022/ba-p/3181322)
 - [Friday Five: Excel Podcast, Azure Kubernetes Insight, More!](https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/friday-five-excel-podcast-azure-kubernetes-insight-more/ba-p/3181410)
 - [A Tool for LINE Stickers](https://techcommunity.microsoft.com/t5/small-basic-blog/a-tool-for-line-stickers/ba-p/3183990)
 - [Code scanning finds more vulnerabilities using machine learning](https://github.blog/2022-02-17-code-scanning-finds-vulnerabilities-using-machine-learning/)
-- [Leveraging machine learning to find security vulnerabilities](https://github.blog/2022-02-17-leveraging-machine-learning-find-security-vulnerabilities/)
 <!-- AZUREINFOHUB:END -->
 
 
