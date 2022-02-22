@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Export Azure SQL Database | Advanced Scenarios](https://techcommunity.microsoft.com/t5/azure-database-support-blog/export-azure-sql-database-advanced-scenarios/ba-p/3125132)
-- [Microsoft Compliance Manager &lpar;MSCM&rpar; Ninja Training:  Q1 2022](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-compliance-manager-mscm-ninja-training-q1-2022/ba-p/3181322)
-- [Friday Five: Excel Podcast, Azure Kubernetes Insight, More!](https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/friday-five-excel-podcast-azure-kubernetes-insight-more/ba-p/3181410)
-- [A Tool for LINE Stickers](https://techcommunity.microsoft.com/t5/small-basic-blog/a-tool-for-line-stickers/ba-p/3183990)
-- [Code scanning finds more vulnerabilities using machine learning](https://github.blog/2022-02-17-code-scanning-finds-vulnerabilities-using-machine-learning/)
+- [Get started with ease using security workflows!](https://github.blog/2022-02-22-get-started-using-security-workflows/)
+- [GitHub Advisory Database now open to community contributions](https://github.blog/2022-02-22-github-advisory-database-now-open-to-community-contributions/)
+- [How the MEM @ Microsoft team combines various technologies to build automation.](https://techcommunity.microsoft.com/t5/device-management-in-microsoft/how-the-mem-microsoft-team-combines-various-technologies-to/ba-p/3201097)
+- [Build a trusted authentication service for Azure Communication Services using Azure Active Directory](https://techcommunity.microsoft.com/t5/azure-communication-services/build-a-trusted-authentication-service-for-azure-communication/ba-p/3169144)
+- [Microsoft 365 PnP Weekly - Episode 154 - Vardhaman Deshpande](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-154-vardhaman-deshpande/ba-p/3181308)
 <!-- AZUREINFOHUB:END -->
 
 
