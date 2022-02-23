@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Get started with ease using security workflows!](https://github.blog/2022-02-22-get-started-using-security-workflows/)
-- [GitHub Advisory Database now open to community contributions](https://github.blog/2022-02-22-github-advisory-database-now-open-to-community-contributions/)
-- [How the MEM @ Microsoft team combines various technologies to build automation.](https://techcommunity.microsoft.com/t5/device-management-in-microsoft/how-the-mem-microsoft-team-combines-various-technologies-to/ba-p/3201097)
-- [Build a trusted authentication service for Azure Communication Services using Azure Active Directory](https://techcommunity.microsoft.com/t5/azure-communication-services/build-a-trusted-authentication-service-for-azure-communication/ba-p/3169144)
-- [Microsoft 365 PnP Weekly - Episode 154 - Vardhaman Deshpande](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-154-vardhaman-deshpande/ba-p/3181308)
+- [A new way to understand your GitHub-hosted runner capacity](https://github.blog/2022-02-23-new-way-understand-github-hosted-runner-capacity/)
+- [Codespaces for the largest repositories just got faster](https://github.blog/2022-02-23-codespaces-largest-repositories-faster/)
+- [Microsoft Defender for Key Vault - Deploy to Azure Synapse Analytics](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-key-vault-deploy-to-azure-synapse/ba-p/3201308)
+- [What&#39;s New: Search, Basic Ingestion, Archive, and Data Restoration are Now in Public Preview](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-search-basic-ingestion-archive-and-data-restoration/ba-p/3195126)
+- [What’s Next in Microsoft Sentinel?](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-next-in-microsoft-sentinel/ba-p/3179133)
 <!-- AZUREINFOHUB:END -->
 
 
