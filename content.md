@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [A new way to understand your GitHub-hosted runner capacity](https://github.blog/2022-02-23-new-way-understand-github-hosted-runner-capacity/)
-- [Codespaces for the largest repositories just got faster](https://github.blog/2022-02-23-codespaces-largest-repositories-faster/)
-- [Microsoft Defender for Key Vault - Deploy to Azure Synapse Analytics](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-key-vault-deploy-to-azure-synapse/ba-p/3201308)
-- [What&#39;s New: Search, Basic Ingestion, Archive, and Data Restoration are Now in Public Preview](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-search-basic-ingestion-archive-and-data-restoration/ba-p/3195126)
-- [What’s Next in Microsoft Sentinel?](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-next-in-microsoft-sentinel/ba-p/3179133)
+- [Azure Chaos Studio | Build fault tolerant apps](https://techcommunity.microsoft.com/t5/microsoft-mechanics-blog/azure-chaos-studio-build-fault-tolerant-apps/ba-p/3210816)
+- [Azure Chaos Studio | Build fault tolerant apps](https://techcommunity.microsoft.com/t5/microsoft-mechanics-blog/azure-chaos-studio-build-fault-tolerant-apps/ba-p/3210816)
+- [Azure Marketplace new offers – February 24, 2022](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/azure-marketplace-new-offers-february-24-2022/ba-p/3032248)
+- [New! Normalization is now built-in Microsoft Sentinel](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-normalization-is-now-built-in-microsoft-sentinel/ba-p/3100917)
+- [Infrastructure as Code &lpar;IaC&rpar;: Comparing the Tools](https://techcommunity.microsoft.com/t5/itops-talk-blog/infrastructure-as-code-iac-comparing-the-tools/ba-p/3205045)
 <!-- AZUREINFOHUB:END -->
 
 
