@@ -50,7 +50,7 @@
  - [Progress on making eBPF work on Windows](https://cloudblogs.microsoft.com/opensource/2021/11/29/progress-on-making-ebpf-work-on-windows/) (11/29/21)
  - [Announcing: Azure credits for open source projects](https://cloudblogs.microsoft.com/opensource/2021/09/28/announcing-azure-credits-for-open-source-projects/) (09/28/21)
  - [Join Microsoft and the Spring community at SpringOne 2021](https://cloudblogs.microsoft.com/opensource/2021/08/27/join-microsoft-and-the-spring-community-at-springone-2021/) (08/27/21)
- - [Deploying SUSE SAP HA Automation in Microsoft Azure](https://cloudblogs.microsoft.com/opensource/2021/01/21/deploying-suse-sap-ha-automation-in-microsoft-azure/) (01/21/21)
+ - [Microsoft expands support with The Eclipse Foundation](https://cloudblogs.microsoft.com/opensource/2021/08/03/microsoft-expands-support-with-the-eclipse-foundation/) (08/03/21)
 <!-- MSOPENSOURCEBLOG:END -->
 
 
