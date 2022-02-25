@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Top stories from the #AzureDevOps #community for 2022.25.02 are here!](https://devblogs.microsoft.com/devops/top-stories-from-the-azuredevops-community-for-2022-25-02/)
+- [Friday Five: GitHub Codespaces, Android Emulator, More!](https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/friday-five-github-codespaces-android-emulator-more/ba-p/3210114)
+- [Friday Five: GitHub Codespaces, Android Emulator, More!](https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/friday-five-github-codespaces-android-emulator-more/ba-p/3210114)
+- [Viva Connections &amp; SharePoint Framework Community Call – 24th of February, 2022](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/viva-connections-amp-sharepoint-framework-community-call-24th-of/ba-p/3168855)
 - [Azure Chaos Studio | Build fault tolerant apps](https://techcommunity.microsoft.com/t5/microsoft-mechanics-blog/azure-chaos-studio-build-fault-tolerant-apps/ba-p/3210816)
-- [Azure Chaos Studio | Build fault tolerant apps](https://techcommunity.microsoft.com/t5/microsoft-mechanics-blog/azure-chaos-studio-build-fault-tolerant-apps/ba-p/3210816)
-- [Azure Marketplace new offers – February 24, 2022](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/azure-marketplace-new-offers-february-24-2022/ba-p/3032248)
-- [New! Normalization is now built-in Microsoft Sentinel](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-normalization-is-now-built-in-microsoft-sentinel/ba-p/3100917)
-- [Infrastructure as Code &lpar;IaC&rpar;: Comparing the Tools](https://techcommunity.microsoft.com/t5/itops-talk-blog/infrastructure-as-code-iac-comparing-the-tools/ba-p/3205045)
 <!-- AZUREINFOHUB:END -->
 
 
