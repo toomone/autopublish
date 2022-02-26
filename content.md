@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Generating OpenAPI Document from Azure Functions within CI/CD Pipeline](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/generating-openapi-document-from-azure-functions-within-ci-cd/ba-p/3193584)
+- [Generating OpenAPI Document from Azure Functions within CI/CD Pipeline](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/generating-openapi-document-from-azure-functions-within-ci-cd/ba-p/3193584)
 - [Top stories from the #AzureDevOps #community for 2022.25.02 are here!](https://devblogs.microsoft.com/devops/top-stories-from-the-azuredevops-community-for-2022-25-02/)
 - [Friday Five: GitHub Codespaces, Android Emulator, More!](https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/friday-five-github-codespaces-android-emulator-more/ba-p/3210114)
 - [Friday Five: GitHub Codespaces, Android Emulator, More!](https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/friday-five-github-codespaces-android-emulator-more/ba-p/3210114)
-- [Viva Connections &amp; SharePoint Framework Community Call – 24th of February, 2022](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/viva-connections-amp-sharepoint-framework-community-call-24th-of/ba-p/3168855)
-- [Azure Chaos Studio | Build fault tolerant apps](https://techcommunity.microsoft.com/t5/microsoft-mechanics-blog/azure-chaos-studio-build-fault-tolerant-apps/ba-p/3210816)
 <!-- AZUREINFOHUB:END -->
 
 
