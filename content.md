@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [CLI for Microsoft 365 v5.0](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/cli-for-microsoft-365-v5-0/ba-p/3219956)
 - [Adding DevOps on Form Recognizer for your custom model](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/adding-devops-on-form-recognizer-for-your-custom-model/ba-p/3218396)
 - [Adding DevOps on Form Recognizer for your custom model](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/adding-devops-on-form-recognizer-for-your-custom-model/ba-p/3218396)
 - [Generating OpenAPI Document from Azure Functions within CI/CD Pipeline](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/generating-openapi-document-from-azure-functions-within-ci-cd/ba-p/3193584)
 - [Generating OpenAPI Document from Azure Functions within CI/CD Pipeline](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/generating-openapi-document-from-azure-functions-within-ci-cd/ba-p/3193584)
-- [Top stories from the #AzureDevOps #community for 2022.25.02 are here!](https://devblogs.microsoft.com/devops/top-stories-from-the-azuredevops-community-for-2022-25-02/)
 <!-- AZUREINFOHUB:END -->
 
 
