@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [GitHub Availability Report: February 2022](https://github.blog/2022-03-02-github-availability-report-february-2022/)
 - [Our response to the war in Ukraine](https://github.blog/2022-03-02-our-response-to-the-war-in-ukraine/)
 - [AzureFunBytes Episode 69 – What’s New In @AzureStaticApps with @simona_cotin and @nthonyChu](https://devblogs.microsoft.com/devops/azurefunbytes-episode-69-whats-new-in-azurestaticapps-with-simona_cotin-and-nthonychu/)
 - [Automation to Block Outgoing Traffic to Malicious Websites detected by Microsoft Defender for DNS](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/automation-to-block-outgoing-traffic-to-malicious-websites/ba-p/3223286)
 - [CLI for Microsoft 365 v5.0](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/cli-for-microsoft-365-v5-0/ba-p/3219956)
-- [Adding DevOps on Form Recognizer for your custom model](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/adding-devops-on-form-recognizer-for-your-custom-model/ba-p/3218396)
 <!-- AZUREINFOHUB:END -->
 
 
