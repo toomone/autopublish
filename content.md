@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [GitHub Availability Report: February 2022](https://github.blog/2022-03-02-github-availability-report-february-2022/) (03/02/22)
  - [Our response to the war in Ukraine](https://github.blog/2022-03-02-our-response-to-the-war-in-ukraine/) (03/02/22)
  - [A new way to understand your GitHub-hosted runner capacity](https://github.blog/2022-02-23-new-way-understand-github-hosted-runner-capacity/) (02/23/22)
  - [Codespaces for the largest repositories just got faster](https://github.blog/2022-02-23-codespaces-largest-repositories-faster/) (02/23/22)
  - [Get started with ease using security workflows!](https://github.blog/2022-02-22-get-started-using-security-workflows/) (02/22/22)
- - [GitHub Advisory Database now open to community contributions](https://github.blog/2022-02-22-github-advisory-database-now-open-to-community-contributions/) (02/22/22)
 <!-- GITHUB:END -->
