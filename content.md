@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [AzureFunBytes Episode 70 – Intro to @Azure Stream Analytics with @fleid_bi](https://devblogs.microsoft.com/devops/azurefunbytes-episode-70-intro-to-azure-stream-analytics-with-fleid_bi/)
 - [AzureFunBytes Episode 69 – What’s New In @AzureStaticApps with @simona_cotin and @nthonyChu](https://devblogs.microsoft.com/devops/azurefunbytes-episode-69-whats-new-in-azurestaticapps-with-simona_cotin-and-nthonychu/)
 - [Top stories from the #AzureDevOps #community for 2022.25.02 are here!](https://devblogs.microsoft.com/devops/top-stories-from-the-azuredevops-community-for-2022-25-02/)
 - [AzureFunBytes Episode 68 – Progressive Delivery with @SplitSoftware and @AzureDevOps](https://devblogs.microsoft.com/devops/azurefunbytes-episode-68-progressive-delivery-with-splitsoftware-and-azuredevops/)
 - [Top Stories from the Microsoft DevOps Community – 2022.02.18](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2022-02-18/)
-- [Deploy Into Azure Using Pulumi and GitHub Actions](https://devblogs.microsoft.com/devops/deploy-into-azure-using-pulumi-and-github-actions/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
