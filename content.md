@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Improved management for GitHub Enterprise owners](https://github.blog/2022-03-10-improved-management-github-enterprise-owners/)
+- [Azure Marketplace new offers – March 10, 2022](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/azure-marketplace-new-offers-march-10-2022/ba-p/3175817)
+- [Azure Marketplace new offers – March 10, 2022](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/azure-marketplace-new-offers-march-10-2022/ba-p/3175817)
+- [Operations Task Management for Azure Alerts](https://techcommunity.microsoft.com/t5/azure-architecture-blog/operations-task-management-for-azure-alerts/ba-p/3253388)
 - [AzureFunBytes Episode 70 – Intro to @Azure Stream Analytics with @fleid_bi](https://devblogs.microsoft.com/devops/azurefunbytes-episode-70-intro-to-azure-stream-analytics-with-fleid_bi/)
-- [GitHub Availability Report: February 2022](https://github.blog/2022-03-02-github-availability-report-february-2022/)
-- [Our response to the war in Ukraine](https://github.blog/2022-03-02-our-response-to-the-war-in-ukraine/)
-- [AzureFunBytes Episode 69 – What’s New In @AzureStaticApps with @simona_cotin and @nthonyChu](https://devblogs.microsoft.com/devops/azurefunbytes-episode-69-whats-new-in-azurestaticapps-with-simona_cotin-and-nthonychu/)
-- [Automation to Block Outgoing Traffic to Malicious Websites detected by Microsoft Defender for DNS](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/automation-to-block-outgoing-traffic-to-malicious-websites/ba-p/3223286)
 <!-- AZUREINFOHUB:END -->
 
 
