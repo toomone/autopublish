@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Improved management for GitHub Enterprise owners](https://github.blog/2022-03-10-improved-management-github-enterprise-owners/)
-- [Azure Marketplace new offers – March 10, 2022](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/azure-marketplace-new-offers-march-10-2022/ba-p/3175817)
-- [Azure Marketplace new offers – March 10, 2022](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/azure-marketplace-new-offers-march-10-2022/ba-p/3175817)
-- [Operations Task Management for Azure Alerts](https://techcommunity.microsoft.com/t5/azure-architecture-blog/operations-task-management-for-azure-alerts/ba-p/3253388)
-- [AzureFunBytes Episode 70 – Intro to @Azure Stream Analytics with @fleid_bi](https://devblogs.microsoft.com/devops/azurefunbytes-episode-70-intro-to-azure-stream-analytics-with-fleid_bi/)
+- [What is BDD? How to use SpecFlow in Visual Studio 2022 - SpecFlow Series - Part 1](https://techcommunity.microsoft.com/t5/testingspot-blog/what-is-bdd-how-to-use-specflow-in-visual-studio-2022-specflow/ba-p/3255140)
+- [What is BDD? How to use SpecFlow in Visual Studio 2022 - SpecFlow Series - Part 1](https://techcommunity.microsoft.com/t5/testingspot-blog/what-is-bdd-how-to-use-specflow-in-visual-studio-2022-specflow/ba-p/3255140)
+- [GeoLocation Filtering with Azure Firewall](https://techcommunity.microsoft.com/t5/azure-network-security-blog/geolocation-filtering-with-azure-firewall/ba-p/3255078)
+- [Released: Microsoft.Data.SqlClient 5.0 Preview 1](https://techcommunity.microsoft.com/t5/sql-server-blog/released-microsoft-data-sqlclient-5-0-preview-1/ba-p/3254464)
+- [Friday Five: Excel, Automation Tips, More!](https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/friday-five-excel-automation-tips-more/ba-p/3254199)
 <!-- AZUREINFOHUB:END -->
 
 
