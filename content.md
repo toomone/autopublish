@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [How to benchmark performance of Citus and Postgres with HammerDB on Azure](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/how-to-benchmark-performance-of-citus-and-postgres-with-hammerdb/ba-p/3254918)
+- [Azure Apps Autopilot](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-apps-autopilot/ba-p/3253831)
+- [Azure Apps Autopilot](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-apps-autopilot/ba-p/3253831)
 - [What is BDD? How to use SpecFlow in Visual Studio 2022 - SpecFlow Series - Part 1](https://techcommunity.microsoft.com/t5/testingspot-blog/what-is-bdd-how-to-use-specflow-in-visual-studio-2022-specflow/ba-p/3255140)
 - [What is BDD? How to use SpecFlow in Visual Studio 2022 - SpecFlow Series - Part 1](https://techcommunity.microsoft.com/t5/testingspot-blog/what-is-bdd-how-to-use-specflow-in-visual-studio-2022-specflow/ba-p/3255140)
-- [GeoLocation Filtering with Azure Firewall](https://techcommunity.microsoft.com/t5/azure-network-security-blog/geolocation-filtering-with-azure-firewall/ba-p/3255078)
-- [Released: Microsoft.Data.SqlClient 5.0 Preview 1](https://techcommunity.microsoft.com/t5/sql-server-blog/released-microsoft-data-sqlclient-5-0-preview-1/ba-p/3254464)
-- [Friday Five: Excel, Automation Tips, More!](https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/friday-five-excel-automation-tips-more/ba-p/3254199)
 <!-- AZUREINFOHUB:END -->
 
 
