@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [How to use Microsoft Sentinel&#39;s SOAR capabilities with SAP](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-use-microsoft-sentinel-s-soar-capabilities-with-sap/ba-p/3251485)
+- [Nextflow On Microsoft Azure with a Blazor Frontend](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/nextflow-on-microsoft-azure-with-a-blazor-frontend/ba-p/3256430)
+- [M365 Dev Podcast - Microsoft Teams development &quot;plus&quot; with Tom Morgan](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/m365-dev-podcast-microsoft-teams-development-quot-plus-quot-with/ba-p/3256350)
+- [Como melhorar a performance de uma Web Api ASP.NET Core usando async/await](https://techcommunity.microsoft.com/t5/desenvolvedores-br/como-melhorar-a-performance-de-uma-web-api-asp-net-core-usando/ba-p/3217401)
 - [How to benchmark performance of Citus and Postgres with HammerDB on Azure](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/how-to-benchmark-performance-of-citus-and-postgres-with-hammerdb/ba-p/3254918)
-- [Azure Apps Autopilot](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-apps-autopilot/ba-p/3253831)
-- [Azure Apps Autopilot](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-apps-autopilot/ba-p/3253831)
-- [What is BDD? How to use SpecFlow in Visual Studio 2022 - SpecFlow Series - Part 1](https://techcommunity.microsoft.com/t5/testingspot-blog/what-is-bdd-how-to-use-specflow-in-visual-studio-2022-specflow/ba-p/3255140)
-- [What is BDD? How to use SpecFlow in Visual Studio 2022 - SpecFlow Series - Part 1](https://techcommunity.microsoft.com/t5/testingspot-blog/what-is-bdd-how-to-use-specflow-in-visual-studio-2022-specflow/ba-p/3255140)
 <!-- AZUREINFOHUB:END -->
 
 
