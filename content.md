@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Save time with partial re-runs in GitHub Actions](https://github.blog/2022-03-16-save-time-partial-re-runs-github-actions/)
+- [Save time with partial re-runs in GitHub Actions](https://github.blog/2022-03-16-save-time-partial-re-runs-github-actions/)
+- [Azure Marketplace new offers – March 16, 2022](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/azure-marketplace-new-offers-march-16-2022/ba-p/3175819)
+- [Office Add-ins community call – March 9, 2022](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/office-add-ins-community-call-march-9-2022/ba-p/3255173)
 - [Configuring Azure ML projects to run on GitHub Codespaces](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/configuring-azure-ml-projects-to-run-on-github-codespaces/ba-p/3258013)
-- [Deprecating weak cryptographic standards &lpar;TLS 1.0 and 1.1&rpar; in Azure DevOps Services](https://devblogs.microsoft.com/devops/deprecating-weak-cryptographic-standards-tls-1-0-and-1-1-in-azure-devops-services/)
-- [Microsoft 365 Platform Community &lpar;PnP&rpar; – March 2022 update](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-platform-community-pnp-march-2022-update/ba-p/3253349)
-- [Microsoft 365 PnP Weekly - Episode 157 - Julie Turner &lpar;Sympraxis Consulting&rpar;](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-157-julie-turner-sympraxis/ba-p/3256417)
-- [How to use Microsoft Sentinel&#39;s SOAR capabilities with SAP](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-use-microsoft-sentinel-s-soar-capabilities-with-sap/ba-p/3251485)
 <!-- AZUREINFOHUB:END -->
 
 
