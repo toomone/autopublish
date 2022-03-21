@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Friday Five: SQL Server, Power BI Tips, More!](https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/friday-five-sql-server-power-bi-tips-more/ba-p/3260490)
-- [Release Radar · February 2022 Edition](https://github.blog/2022-03-17-release-radar-feb-2022/)
-- [How to deploy your Web App from Azure Pipeline with restricted access.](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/how-to-deploy-your-web-app-from-azure-pipeline-with-restricted/ba-p/3249054)
-- [Azure Artifacts feed continues to make product accessible to everyone](https://devblogs.microsoft.com/devops/azure-artifacts-feed-continues-to-make-product-accessible-to-everyone/)
-- [Azure Artifacts now provides native support to use packages from more repositories](https://devblogs.microsoft.com/devops/azure-artifacts-now-provides-native-support-to-use-packages-from-more-repositories/)
+- [Start working on GitHub Issues faster](https://github.blog/2022-03-21-start-working-on-github-issues-faster/)
+- [Validate all the things: improve your security with input validation!](https://github.blog/2022-03-21-validate-all-things-input-validation/)
+- [Entendendo o Github Actions](https://techcommunity.microsoft.com/t5/desenvolvedores-br/entendendo-o-github-actions/ba-p/3054580)
+- [Entendendo o Github Actions](https://techcommunity.microsoft.com/t5/desenvolvedores-br/entendendo-o-github-actions/ba-p/3054580)
+- [New updates to Group Managed Service Accounts &lpar;gMSA 1.3.0&rpar; on Azure Kubernetes Service](https://techcommunity.microsoft.com/t5/containers/new-updates-to-group-managed-service-accounts-gmsa-1-3-0-on/ba-p/3260600)
 <!-- AZUREINFOHUB:END -->
 
 
