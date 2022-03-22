@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Introducing the GHES repository cache](https://github.blog/2022-03-22-introducing-the-ghes-repository-cache/)
+- [Microsoft 365 PnP Weekly - Episode 158 - Patrick Rodgers &lpar;Microsoft&rpar;](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-158-patrick-rodgers-microsoft/ba-p/3262636)
 - [Start working on GitHub Issues faster](https://github.blog/2022-03-21-start-working-on-github-issues-faster/)
 - [Validate all the things: improve your security with input validation!](https://github.blog/2022-03-21-validate-all-things-input-validation/)
 - [Entendendo o Github Actions](https://techcommunity.microsoft.com/t5/desenvolvedores-br/entendendo-o-github-actions/ba-p/3054580)
-- [Entendendo o Github Actions](https://techcommunity.microsoft.com/t5/desenvolvedores-br/entendendo-o-github-actions/ba-p/3054580)
-- [New updates to Group Managed Service Accounts &lpar;gMSA 1.3.0&rpar; on Azure Kubernetes Service](https://techcommunity.microsoft.com/t5/containers/new-updates-to-group-managed-service-accounts-gmsa-1-3-0-on/ba-p/3260600)
 <!-- AZUREINFOHUB:END -->
 
 
