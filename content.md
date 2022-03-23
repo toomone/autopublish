@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Introducing the GHES repository cache](https://github.blog/2022-03-22-introducing-the-ghes-repository-cache/)
-- [Microsoft 365 PnP Weekly - Episode 158 - Patrick Rodgers &lpar;Microsoft&rpar;](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-158-patrick-rodgers-microsoft/ba-p/3262636)
-- [Start working on GitHub Issues faster](https://github.blog/2022-03-21-start-working-on-github-issues-faster/)
-- [Validate all the things: improve your security with input validation!](https://github.blog/2022-03-21-validate-all-things-input-validation/)
-- [Entendendo o Github Actions](https://techcommunity.microsoft.com/t5/desenvolvedores-br/entendendo-o-github-actions/ba-p/3054580)
+- [An update on recent service disruptions](https://github.blog/2022-03-23-an-update-on-recent-service-disruptions/)
+- [GitHub Actions: secure self-hosted runners by limiting them to specific workflows](https://github.blog/2022-03-23-github-actions-secure-self-hosted-runners-specific-workflows/)
+- [GitHub Actions: secure self-hosted runners by limiting them to specific workflows](https://github.blog/2022-03-23-github-actions-secure-self-hosted-runners-specific-workflows/)
+- [Microsoft CMMC Acceleration Update – March 2022](https://techcommunity.microsoft.com/t5/public-sector-blog/microsoft-cmmc-acceleration-update-march-2022/ba-p/3258999)
+- [Microsoft CMMC Acceleration Update – March 2022](https://techcommunity.microsoft.com/t5/public-sector-blog/microsoft-cmmc-acceleration-update-march-2022/ba-p/3258999)
 <!-- AZUREINFOHUB:END -->
 
 
