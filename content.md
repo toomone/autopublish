@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [An update on recent service disruptions](https://github.blog/2022-03-23-an-update-on-recent-service-disruptions/)
-- [GitHub Actions: secure self-hosted runners by limiting them to specific workflows](https://github.blog/2022-03-23-github-actions-secure-self-hosted-runners-specific-workflows/)
-- [GitHub Actions: secure self-hosted runners by limiting them to specific workflows](https://github.blog/2022-03-23-github-actions-secure-self-hosted-runners-specific-workflows/)
-- [Microsoft CMMC Acceleration Update – March 2022](https://techcommunity.microsoft.com/t5/public-sector-blog/microsoft-cmmc-acceleration-update-march-2022/ba-p/3258999)
-- [Microsoft CMMC Acceleration Update – March 2022](https://techcommunity.microsoft.com/t5/public-sector-blog/microsoft-cmmc-acceleration-update-march-2022/ba-p/3258999)
+- [SQL 911: A DBA’s Guidebook using Notebooks in Azure Data Studio | Data Exposed](https://techcommunity.microsoft.com/t5/video-hub/sql-911-a-dba-s-guidebook-using-notebooks-in-azure-data-studio/ba-p/3266097)
+- [SQL 911: A DBA’s Guidebook using Notebooks in Azure Data Studio | Data Exposed](https://techcommunity.microsoft.com/t5/azure-sql-blog/sql-911-a-dba-s-guidebook-using-notebooks-in-azure-data-studio/ba-p/3266116)
+- [Programmatically Find Next Available CIDR for Subnet](https://techcommunity.microsoft.com/t5/azure-networking-blog/programmatically-find-next-available-cidr-for-subnet/ba-p/3266016)
+- [Programmatically Find Next Available CIDR for Subnet](https://techcommunity.microsoft.com/t5/azure-networking-blog/programmatically-find-next-available-cidr-for-subnet/ba-p/3266016)
+- [Getting rid of credentials in Azure - Part 1](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/getting-rid-of-credentials-in-azure-part-1/ba-p/3265205)
 <!-- AZUREINFOHUB:END -->
 
 
