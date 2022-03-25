@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Unlock all the GitHub secrets within Next.Tech’s newest experience: Break the Code 2!](https://github.blog/2022-03-25-unlock-github-secrets-next-techs-break-the-code-2/)
+- [Friday Five: GitHub Advice, Azure Arc, More!](https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/friday-five-github-advice-azure-arc-more/ba-p/3260499)
+- [Viva Connections &amp; SharePoint Framework Community Call – 24th of March, 2022](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/viva-connections-amp-sharepoint-framework-community-call-24th-of/ba-p/3265811)
 - [SQL 911: A DBA’s Guidebook using Notebooks in Azure Data Studio | Data Exposed](https://techcommunity.microsoft.com/t5/video-hub/sql-911-a-dba-s-guidebook-using-notebooks-in-azure-data-studio/ba-p/3266097)
 - [SQL 911: A DBA’s Guidebook using Notebooks in Azure Data Studio | Data Exposed](https://techcommunity.microsoft.com/t5/azure-sql-blog/sql-911-a-dba-s-guidebook-using-notebooks-in-azure-data-studio/ba-p/3266116)
-- [Programmatically Find Next Available CIDR for Subnet](https://techcommunity.microsoft.com/t5/azure-networking-blog/programmatically-find-next-available-cidr-for-subnet/ba-p/3266016)
-- [Programmatically Find Next Available CIDR for Subnet](https://techcommunity.microsoft.com/t5/azure-networking-blog/programmatically-find-next-available-cidr-for-subnet/ba-p/3266016)
-- [Getting rid of credentials in Azure - Part 1](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/getting-rid-of-credentials-in-azure-part-1/ba-p/3265205)
 <!-- AZUREINFOHUB:END -->
 
 
