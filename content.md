@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Get rid of App registrations and Key Vault &lpar;Making good things even better&rpar;](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/get-rid-of-app-registrations-and-key-vault-making-good-things/ba-p/3268194)
-- [Unlock all the GitHub secrets within Next.Tech’s newest experience: Break the Code 2!](https://github.blog/2022-03-25-unlock-github-secrets-next-techs-break-the-code-2/)
-- [Friday Five: GitHub Advice, Azure Arc, More!](https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/friday-five-github-advice-azure-arc-more/ba-p/3260499)
-- [Viva Connections &amp; SharePoint Framework Community Call – 24th of March, 2022](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/viva-connections-amp-sharepoint-framework-community-call-24th-of/ba-p/3265811)
-- [SQL 911: A DBA’s Guidebook using Notebooks in Azure Data Studio | Data Exposed](https://techcommunity.microsoft.com/t5/video-hub/sql-911-a-dba-s-guidebook-using-notebooks-in-azure-data-studio/ba-p/3266097)
+- [“New Boards Hub” Public Preview](https://devblogs.microsoft.com/devops/new-boards-hub-public-preview/)
+- [How to secure your end-to-end supply chain on GitHub](https://github.blog/2022-03-28-how-to-secure-your-end-to-end-supply-chain-on-github/)
+- [Participate in the Microsoft Sentinel Hackathon Spring 2022!](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/participate-in-the-microsoft-sentinel-hackathon-spring-2022/ba-p/3269187)
+- [Automation to block compromised identity detected by Microsoft Defender for Resource Manager](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/automation-to-block-compromised-identity-detected-by-microsoft/ba-p/3269257)
+- [New transactable offers from SysKit, oak9, and Datometry in Azure Marketplace](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/new-transactable-offers-from-syskit-oak9-and-datometry-in-azure/ba-p/3175823)
 <!-- AZUREINFOHUB:END -->
 
 
