@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [“New Boards Hub” Public Preview](https://devblogs.microsoft.com/devops/new-boards-hub-public-preview/)
-- [How to secure your end-to-end supply chain on GitHub](https://github.blog/2022-03-28-how-to-secure-your-end-to-end-supply-chain-on-github/)
-- [Participate in the Microsoft Sentinel Hackathon Spring 2022!](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/participate-in-the-microsoft-sentinel-hackathon-spring-2022/ba-p/3269187)
-- [Automation to block compromised identity detected by Microsoft Defender for Resource Manager](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/automation-to-block-compromised-identity-detected-by-microsoft/ba-p/3269257)
-- [New transactable offers from SysKit, oak9, and Datometry in Azure Marketplace](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/new-transactable-offers-from-syskit-oak9-and-datometry-in-azure/ba-p/3175823)
+- [GitHub Copilot now available for Visual Studio 2022](https://github.blog/2022-03-29-github-copilot-now-available-for-visual-studio-2022/)
+- [Career tips for beginner developers](https://github.blog/2022-03-29-career-tips-for-beginner-developers/)
+- [A Solution Template for Soft Sensor Modeling on Azure - Part 1](https://techcommunity.microsoft.com/t5/ai-customer-engineering-team/a-solution-template-for-soft-sensor-modeling-on-azure-part-1/ba-p/3265959)
+- [Rewind the Metaverse with Data History for Azure Digital Twins](https://techcommunity.microsoft.com/t5/internet-of-things-blog/rewind-the-metaverse-with-data-history-for-azure-digital-twins/ba-p/3145153)
+- [New Microsoft 365 Platform Community &lpar;PnP&rpar; team members – March 2022](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/new-microsoft-365-platform-community-pnp-team-members-march-2022/ba-p/3269183)
 <!-- AZUREINFOHUB:END -->
 
 
