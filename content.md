@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [GitHub Copilot now available for Visual Studio 2022](https://github.blog/2022-03-29-github-copilot-now-available-for-visual-studio-2022/)
-- [Career tips for beginner developers](https://github.blog/2022-03-29-career-tips-for-beginner-developers/)
-- [A Solution Template for Soft Sensor Modeling on Azure - Part 1](https://techcommunity.microsoft.com/t5/ai-customer-engineering-team/a-solution-template-for-soft-sensor-modeling-on-azure-part-1/ba-p/3265959)
-- [Rewind the Metaverse with Data History for Azure Digital Twins](https://techcommunity.microsoft.com/t5/internet-of-things-blog/rewind-the-metaverse-with-data-history-for-azure-digital-twins/ba-p/3145153)
-- [New Microsoft 365 Platform Community &lpar;PnP&rpar; team members – March 2022](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/new-microsoft-365-platform-community-pnp-team-members-march-2022/ba-p/3269183)
+- [CICD in Synapse SQL: How to deliver your database objects across multiple environments](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/cicd-in-synapse-sql-how-to-deliver-your-database-objects-across/ba-p/3267507)
+- [Teaching Machine Learning System Efficiently with Active Learning](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/teaching-machine-learning-system-efficiently-with-active/ba-p/3269740)
+- [Teaching Machine Learning System Efficiently with Active Learning](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/teaching-machine-learning-system-efficiently-with-active/ba-p/3269740)
+- [Getting rid of credentials in Azure - Part 2 &lpar;EasyAuth&rpar;](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/getting-rid-of-credentials-in-azure-part-2-easyauth/ba-p/3270553)
+- [Getting rid of credentials in Azure - Part 2 &lpar;EasyAuth&rpar;](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/getting-rid-of-credentials-in-azure-part-2-easyauth/ba-p/3270553)
 <!-- AZUREINFOHUB:END -->
 
 
