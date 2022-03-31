@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [How GitHub does take home technical interviews](https://github.blog/2022-03-31-how-github-does-take-home-technical-interviews/)
+- [AzureHPC Lustre Marketplace Offer](https://techcommunity.microsoft.com/t5/azure-global/azurehpc-lustre-marketplace-offer/ba-p/3272689)
+- [Exporting AWS CloudWatch Logs to Azure Data Explorer](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/exporting-aws-cloudwatch-logs-to-azure-data-explorer/ba-p/3266199)
+- [CLI for Microsoft 365 v5.1](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/cli-for-microsoft-365-v5-1/ba-p/3271738)
 - [CICD in Synapse SQL: How to deliver your database objects across multiple environments](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/cicd-in-synapse-sql-how-to-deliver-your-database-objects-across/ba-p/3267507)
-- [Teaching Machine Learning System Efficiently with Active Learning](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/teaching-machine-learning-system-efficiently-with-active/ba-p/3269740)
-- [Teaching Machine Learning System Efficiently with Active Learning](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/teaching-machine-learning-system-efficiently-with-active/ba-p/3269740)
-- [Getting rid of credentials in Azure - Part 2 &lpar;EasyAuth&rpar;](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/getting-rid-of-credentials-in-azure-part-2-easyauth/ba-p/3270553)
-- [Getting rid of credentials in Azure - Part 2 &lpar;EasyAuth&rpar;](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/getting-rid-of-credentials-in-azure-part-2-easyauth/ba-p/3270553)
 <!-- AZUREINFOHUB:END -->
 
 
