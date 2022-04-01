@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Top Stories from the Microsoft DevOps Community – 2022.01.04](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2022-01-04/)
+- [DevOps Dojo: Lean Product – Part 1](https://devblogs.microsoft.com/devops/devops-dojo-lean-product-part-1/)
 - [“New Boards Hub” Public Preview](https://devblogs.microsoft.com/devops/new-boards-hub-public-preview/)
 - [Azure Artifacts feed continues to make product accessible to everyone](https://devblogs.microsoft.com/devops/azure-artifacts-feed-continues-to-make-product-accessible-to-everyone/)
 - [Azure Artifacts now provides native support to use packages from more repositories](https://devblogs.microsoft.com/devops/azure-artifacts-now-provides-native-support-to-use-packages-from-more-repositories/)
-- [Deprecating weak cryptographic standards (TLS 1.0 and 1.1) in Azure DevOps Services](https://devblogs.microsoft.com/devops/deprecating-weak-cryptographic-standards-tls-1-0-and-1-1-in-azure-devops-services/)
-- [AzureFunBytes Episode 70 – Intro to @Azure Stream Analytics with @fleid_bi](https://devblogs.microsoft.com/devops/azurefunbytes-episode-70-intro-to-azure-stream-analytics-with-fleid_bi/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
