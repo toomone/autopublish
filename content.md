@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Top Stories from the Microsoft DevOps Community – 2022.01.04](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2022-01-04/)
+- [DevOps Dojo: Lean Product – Part 1](https://devblogs.microsoft.com/devops/devops-dojo-lean-product-part-1/)
 - [How GitHub does take home technical interviews](https://github.blog/2022-03-31-how-github-does-take-home-technical-interviews/)
 - [AzureHPC Lustre Marketplace Offer](https://techcommunity.microsoft.com/t5/azure-global/azurehpc-lustre-marketplace-offer/ba-p/3272689)
 - [Exporting AWS CloudWatch Logs to Azure Data Explorer](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/exporting-aws-cloudwatch-logs-to-azure-data-explorer/ba-p/3266199)
-- [CLI for Microsoft 365 v5.1](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/cli-for-microsoft-365-v5-1/ba-p/3271738)
-- [CICD in Synapse SQL: How to deliver your database objects across multiple environments](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/cicd-in-synapse-sql-how-to-deliver-your-database-objects-across/ba-p/3267507)
 <!-- AZUREINFOHUB:END -->
 
 
