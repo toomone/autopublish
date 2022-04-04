@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [DevOps Dojo: Lean Product – Part 2](https://devblogs.microsoft.com/devops/devops-dojo-lean-product-part-2/)
+- [Proactively prevent secret leaks with GitHub Advanced Security secret scanning](https://github.blog/2022-04-04-push-protection-github-advanced-security/)
 - [Top Stories from the Microsoft DevOps Community – 2022.01.04](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2022-01-04/)
 - [DevOps Dojo: Lean Product – Part 1](https://devblogs.microsoft.com/devops/devops-dojo-lean-product-part-1/)
 - [How GitHub does take home technical interviews](https://github.blog/2022-03-31-how-github-does-take-home-technical-interviews/)
-- [AzureHPC Lustre Marketplace Offer](https://techcommunity.microsoft.com/t5/azure-global/azurehpc-lustre-marketplace-offer/ba-p/3272689)
-- [Exporting AWS CloudWatch Logs to Azure Data Explorer](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/exporting-aws-cloudwatch-logs-to-azure-data-explorer/ba-p/3266199)
 <!-- AZUREINFOHUB:END -->
 
 
