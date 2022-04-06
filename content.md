@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [GitHub Availability Report: March 2022](https://github.blog/2022-04-06-github-availability-report-march-2022/)
+- [Prevent the introduction of known vulnerabilities into your code](https://github.blog/2022-04-06-prevent-introduction-known-vulnerabilities-into-your-code/)
+- [How Dependabot empowers you to keep your projects secure](https://github.blog/2022-04-06-how-dependabot-empowers-you-to-keep-your-projects-secure/)
 - [4 ways we use GitHub Actions to build GitHub](https://github.blog/2022-04-05-4-ways-we-use-github-actions-to-build-github/)
 - [4 ways we use GitHub Actions to build GitHub](https://github.blog/2022-04-05-4-ways-we-use-github-actions-to-build-github/)
-- [DevOps Dojo: Lean Product – Part 2](https://devblogs.microsoft.com/devops/devops-dojo-lean-product-part-2/)
-- [Proactively prevent secret leaks with GitHub Advanced Security secret scanning](https://github.blog/2022-04-04-push-protection-github-advanced-security/)
-- [Top Stories from the Microsoft DevOps Community – 2022.01.04](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2022-01-04/)
 <!-- AZUREINFOHUB:END -->
 
 
