@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [Git Credential Manager: authentication for everyone](https://github.blog/2022-04-07-git-credential-manager-authentication-for-everyone/) (04/07/22)
+ - [Achieving SLSA 3 Compliance with GitHub Actions and Sigstore for Go modules](https://github.blog/2022-04-07-slsa-3-compliance-with-github-actions/) (04/07/22)
  - [GitHub Availability Report: March 2022](https://github.blog/2022-04-06-github-availability-report-march-2022/) (04/06/22)
  - [Prevent the introduction of known vulnerabilities into your code](https://github.blog/2022-04-06-prevent-introduction-known-vulnerabilities-into-your-code/) (04/06/22)
  - [How Dependabot empowers you to keep your projects secure](https://github.blog/2022-04-06-how-dependabot-empowers-you-to-keep-your-projects-secure/) (04/06/22)
- - [4 ways we use GitHub Actions to build GitHub](https://github.blog/2022-04-05-4-ways-we-use-github-actions-to-build-github/) (04/05/22)
- - [Proactively prevent secret leaks with GitHub Advanced Security secret scanning](https://github.blog/2022-04-04-push-protection-github-advanced-security/) (04/04/22)
 <!-- GITHUB:END -->
