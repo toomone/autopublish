@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Release Radar · March 2022 Edition](https://github.blog/2022-04-08-release-radar-mar-2022/)
+- [Top Stories from the Microsoft DevOps Community – 2022.08.04](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2022-08-04/)
 - [Git Credential Manager: authentication for everyone](https://github.blog/2022-04-07-git-credential-manager-authentication-for-everyone/)
 - [Achieving SLSA 3 Compliance with GitHub Actions and Sigstore for Go modules](https://github.blog/2022-04-07-slsa-3-compliance-with-github-actions/)
 - [Achieving SLSA 3 Compliance with GitHub Actions and Sigstore for Go modules](https://github.blog/2022-04-07-slsa-3-compliance-with-github-actions/)
-- [GitHub Availability Report: March 2022](https://github.blog/2022-04-06-github-availability-report-march-2022/)
-- [Prevent the introduction of known vulnerabilities into your code](https://github.blog/2022-04-06-prevent-introduction-known-vulnerabilities-into-your-code/)
 <!-- AZUREINFOHUB:END -->
 
 
