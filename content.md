@@ -12,11 +12,11 @@
 ## AZURE WEEKLY BLOG
 
 <!-- AZUREWEEKLY:START -->
+- [Azure Weekly Issue 367 - 10th April 2022](https://azureweekly.info/issue-367.html)
 - [Azure Weekly Issue 366 - 3rd April 2022](https://azureweekly.info/issue-366.html)
 - [Azure Weekly Issue 365 - 27th March 2022](https://azureweekly.info/issue-365.html)
 - [Azure Weekly Issue 364 - 20th March 2022](https://azureweekly.info/issue-364.html)
 - [Azure Weekly Issue 363 - 13th March 2022](https://azureweekly.info/issue-363.html)
-- [Azure Weekly Issue 362 - 6th March 2022](https://azureweekly.info/issue-362.html)
 <!-- AZUREWEEKLY:END -->
 
 ## AZURE INFOHUB BLOG 
