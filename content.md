@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Performance at GitHub: deferring stats with rack.after_reply](https://github.blog/2022-04-11-performance-at-github-deferring-stats-with-rack-after_reply/)
+- [Azure Synapse Analyzer Report to monitor and improve Synapse Dedicated Pool performance](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/azure-synapse-analyzer-report-to-monitor-and-improve-synapse/ba-p/3276960)
 - [Release Radar · March 2022 Edition](https://github.blog/2022-04-08-release-radar-mar-2022/)
 - [Top Stories from the Microsoft DevOps Community – 2022.08.04](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2022-08-04/)
 - [Git Credential Manager: authentication for everyone](https://github.blog/2022-04-07-git-credential-manager-authentication-for-everyone/)
-- [Achieving SLSA 3 Compliance with GitHub Actions and Sigstore for Go modules](https://github.blog/2022-04-07-slsa-3-compliance-with-github-actions/)
-- [Achieving SLSA 3 Compliance with GitHub Actions and Sigstore for Go modules](https://github.blog/2022-04-07-slsa-3-compliance-with-github-actions/)
 <!-- AZUREINFOHUB:END -->
 
 
