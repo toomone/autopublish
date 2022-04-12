@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [Git security vulnerability announced](https://github.blog/2022-04-12-git-security-vulnerability-announced/) (04/12/22)
+ - [What’s new in GitHub Discussions: Organization Discussions, polls, and more](https://github.blog/2022-04-12-whats-new-in-github-discussions-organization-discussions-polls-and-more/) (04/12/22)
  - [Performance at GitHub: deferring stats with rack.after_reply](https://github.blog/2022-04-11-performance-at-github-deferring-stats-with-rack-after_reply/) (04/11/22)
  - [Release Radar · March 2022 Edition](https://github.blog/2022-04-08-release-radar-mar-2022/) (04/08/22)
  - [Git Credential Manager: authentication for everyone](https://github.blog/2022-04-07-git-credential-manager-authentication-for-everyone/) (04/07/22)
- - [Achieving SLSA 3 Compliance with GitHub Actions and Sigstore for Go modules](https://github.blog/2022-04-07-slsa-3-compliance-with-github-actions/) (04/07/22)
- - [GitHub Availability Report: March 2022](https://github.blog/2022-04-06-github-availability-report-march-2022/) (04/06/22)
 <!-- GITHUB:END -->
