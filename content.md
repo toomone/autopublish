@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Released: Microsoft.Data.SqlClient 5.0 Preview 2](https://techcommunity.microsoft.com/t5/sql-server-blog/released-microsoft-data-sqlclient-5-0-preview-2/ba-p/3284958)
+- [Azure Marketplace new offers – April 13, 2022](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/azure-marketplace-new-offers-april-13-2022/ba-p/3175832)
 - [Git security vulnerability announced](https://github.blog/2022-04-12-git-security-vulnerability-announced/)
 - [What’s new in GitHub Discussions: Organization Discussions, polls, and more](https://github.blog/2022-04-12-whats-new-in-github-discussions-organization-discussions-polls-and-more/)
 - [Announcing Azure Terrafy and AzAPI Terraform Provider Previews](https://techcommunity.microsoft.com/t5/azure-tools-blog/announcing-azure-terrafy-and-azapi-terraform-provider-previews/ba-p/3270937)
-- [Microsoft 365 PnP Weekly - Episode 161 - David Warner &lpar;Microsoft&rpar;](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-pnp-weekly-episode-161-david-warner-microsoft/ba-p/3280056)
-- [Performance at GitHub: deferring stats with rack.after_reply](https://github.blog/2022-04-11-performance-at-github-deferring-stats-with-rack-after_reply/)
 <!-- AZUREINFOHUB:END -->
 
 
