@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Dependabot alerts now surface if your code is calling a vulnerability](https://github.blog/2022-04-14-dependabot-alerts-now-surface-if-code-is-calling-vulnerability/)
+- [How to query Azure Monitor Log Analytics in Logic Apps with a Managed Identity](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-to-query-azure-monitor-log-analytics-in-logic-apps-with-a/ba-p/3285498)
 - [Released: Microsoft.Data.SqlClient 5.0 Preview 2](https://techcommunity.microsoft.com/t5/sql-server-blog/released-microsoft-data-sqlclient-5-0-preview-2/ba-p/3284958)
 - [Azure Marketplace new offers – April 13, 2022](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/azure-marketplace-new-offers-april-13-2022/ba-p/3175832)
 - [Git security vulnerability announced](https://github.blog/2022-04-12-git-security-vulnerability-announced/)
-- [What’s new in GitHub Discussions: Organization Discussions, polls, and more](https://github.blog/2022-04-12-whats-new-in-github-discussions-organization-discussions-polls-and-more/)
-- [Announcing Azure Terrafy and AzAPI Terraform Provider Previews](https://techcommunity.microsoft.com/t5/azure-tools-blog/announcing-azure-terrafy-and-azapi-terraform-provider-previews/ba-p/3270937)
 <!-- AZUREINFOHUB:END -->
 
 
