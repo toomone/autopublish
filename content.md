@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Friday Five: Visual Studio, Teams Tips, More!](https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/friday-five-visual-studio-teams-tips-more/ba-p/3285966)
+- [Deploy apps to Azure-Arc enabled Kubernetes cluster using &#39;Cluster Connect&#39; and &#39;GitHub Action&#39;](https://techcommunity.microsoft.com/t5/azure-arc-blog/deploy-apps-to-azure-arc-enabled-kubernetes-cluster-using/ba-p/3286541)
+- [Deploy apps to Azure-Arc enabled Kubernetes cluster using &#39;Cluster Connect&#39; and &#39;GitHub Action&#39;](https://techcommunity.microsoft.com/t5/azure-arc-blog/deploy-apps-to-azure-arc-enabled-kubernetes-cluster-using/ba-p/3286541)
 - [Dependabot alerts now surface if your code is calling a vulnerability](https://github.blog/2022-04-14-dependabot-alerts-now-surface-if-code-is-calling-vulnerability/)
 - [How to query Azure Monitor Log Analytics in Logic Apps with a Managed Identity](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/how-to-query-azure-monitor-log-analytics-in-logic-apps-with-a/ba-p/3285498)
-- [Released: Microsoft.Data.SqlClient 5.0 Preview 2](https://techcommunity.microsoft.com/t5/sql-server-blog/released-microsoft-data-sqlclient-5-0-preview-2/ba-p/3284958)
-- [Azure Marketplace new offers – April 13, 2022](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/azure-marketplace-new-offers-april-13-2022/ba-p/3175832)
-- [Git security vulnerability announced](https://github.blog/2022-04-12-git-security-vulnerability-announced/)
 <!-- AZUREINFOHUB:END -->
 
 
