@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Security alert: Attack campaign involving stolen OAuth user tokens issued to two third-party integrators](https://github.blog/2022-04-15-security-alert-stolen-oauth-user-tokens/)
-- [Friday Five: Visual Studio, Teams Tips, More!](https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/friday-five-visual-studio-teams-tips-more/ba-p/3285966)
-- [Deploy apps to Azure-Arc enabled Kubernetes cluster using &#39;Cluster Connect&#39; and &#39;GitHub Action&#39;](https://techcommunity.microsoft.com/t5/azure-arc-blog/deploy-apps-to-azure-arc-enabled-kubernetes-cluster-using/ba-p/3286541)
-- [Deploy apps to Azure-Arc enabled Kubernetes cluster using &#39;Cluster Connect&#39; and &#39;GitHub Action&#39;](https://techcommunity.microsoft.com/t5/azure-arc-blog/deploy-apps-to-azure-arc-enabled-kubernetes-cluster-using/ba-p/3286541)
-- [Dependabot alerts now surface if your code is calling a vulnerability](https://github.blog/2022-04-14-dependabot-alerts-now-surface-if-code-is-calling-vulnerability/)
+- [Highlights from Git 2.36](https://github.blog/2022-04-18-highlights-from-git-2-36/)
+- [Introducing Azure Well-Architected Framework for Internet of Things &lpar;IoT&rpar;](https://techcommunity.microsoft.com/t5/azure-architecture-blog/introducing-azure-well-architected-framework-for-internet-of/ba-p/3288539)
+- [Introducing Azure Well-Architected Framework for Internet of Things &lpar;IoT&rpar;](https://techcommunity.microsoft.com/t5/azure-architecture-blog/introducing-azure-well-architected-framework-for-internet-of/ba-p/3288539)
+- [Enable HTTPS setting on Azure App service using Azure policy](https://techcommunity.microsoft.com/t5/azure-paas-blog/enable-https-setting-on-azure-app-service-using-azure-policy/ba-p/3286603)
+- [Enable HTTPS setting on Azure App service using Azure policy](https://techcommunity.microsoft.com/t5/azure-paas-blog/enable-https-setting-on-azure-app-service-using-azure-policy/ba-p/3286603)
 <!-- AZUREINFOHUB:END -->
 
 
