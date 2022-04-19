@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Highlights from Git 2.36](https://github.blog/2022-04-18-highlights-from-git-2-36/)
-- [Introducing Azure Well-Architected Framework for Internet of Things &lpar;IoT&rpar;](https://techcommunity.microsoft.com/t5/azure-architecture-blog/introducing-azure-well-architected-framework-for-internet-of/ba-p/3288539)
-- [Introducing Azure Well-Architected Framework for Internet of Things &lpar;IoT&rpar;](https://techcommunity.microsoft.com/t5/azure-architecture-blog/introducing-azure-well-architected-framework-for-internet-of/ba-p/3288539)
-- [Enable HTTPS setting on Azure App service using Azure policy](https://techcommunity.microsoft.com/t5/azure-paas-blog/enable-https-setting-on-azure-app-service-using-azure-policy/ba-p/3286603)
-- [Enable HTTPS setting on Azure App service using Azure policy](https://techcommunity.microsoft.com/t5/azure-paas-blog/enable-https-setting-on-azure-app-service-using-azure-policy/ba-p/3286603)
+- [Sharing security expertise through CodeQL packs &lpar;Part I&rpar;](https://github.blog/2022-04-19-sharing-security-expertise-through-codeql-packs-part-i/)
+- [See how Technical Sales team in HLS manage their open-source projects](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/see-how-technical-sales-team-in-hls-manage-their-open-source/ba-p/3289560)
+- [Become a Communication Compliance Ninja](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/become-a-communication-compliance-ninja/ba-p/3283283)
+- [Become a Insider Risk Management Ninja](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/become-a-insider-risk-management-ninja/ba-p/3282306)
+- [Microsoft 365 Platform Community &lpar;PnP&rpar; – April 2022 update](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-platform-community-pnp-april-2022-update/ba-p/3282997)
 <!-- AZUREINFOHUB:END -->
 
 
