@@ -46,11 +46,11 @@
 
 <!-- MSOPENSOURCEBLOG:START -->
 
+ - [Scaling-up PyTorch inference: Serving billions of daily NLP inferences with ONNX Runtime](https://cloudblogs.microsoft.com/opensource/2022/04/19/scaling-up-pytorch-inference-serving-billions-of-daily-nlp-inferences-with-onnx-runtime/) (04/19/22)
  - [Getting Linux based eBPF programs to run with eBPF for Windows](https://cloudblogs.microsoft.com/opensource/2022/02/22/getting-linux-based-ebpf-programs-to-run-with-ebpf-for-windows/) (02/22/22)
  - [Progress on making eBPF work on Windows](https://cloudblogs.microsoft.com/opensource/2021/11/29/progress-on-making-ebpf-work-on-windows/) (11/29/21)
  - [Announcing: Azure credits for open source projects](https://cloudblogs.microsoft.com/opensource/2021/09/28/announcing-azure-credits-for-open-source-projects/) (09/28/21)
  - [Join Microsoft and the Spring community at SpringOne 2021](https://cloudblogs.microsoft.com/opensource/2021/08/27/join-microsoft-and-the-spring-community-at-springone-2021/) (08/27/21)
- - [Microsoft expands support with The Eclipse Foundation](https://cloudblogs.microsoft.com/opensource/2021/08/03/microsoft-expands-support-with-the-eclipse-foundation/) (08/03/21)
 <!-- MSOPENSOURCEBLOG:END -->
 
 
