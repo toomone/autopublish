@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [Sharing security expertise through CodeQL packs &lpar;Part I&rpar;](https://github.blog/2022-04-19-sharing-security-expertise-through-codeql-packs-part-i/) (04/19/22)
  - [Highlights from Git 2.36](https://github.blog/2022-04-18-highlights-from-git-2-36/) (04/18/22)
  - [Security alert: Attack campaign involving stolen OAuth user tokens issued to two third-party integrators](https://github.blog/2022-04-15-security-alert-stolen-oauth-user-tokens/) (04/15/22)
  - [Dependabot alerts now surface if your code is calling a vulnerability](https://github.blog/2022-04-14-dependabot-alerts-now-surface-if-code-is-calling-vulnerability/) (04/14/22)
  - [Git security vulnerability announced](https://github.blog/2022-04-12-git-security-vulnerability-announced/) (04/12/22)
- - [What’s new in GitHub Discussions: Organization Discussions, polls, and more](https://github.blog/2022-04-12-whats-new-in-github-discussions-organization-discussions-polls-and-more/) (04/12/22)
 <!-- GITHUB:END -->
