@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Sharing security expertise through CodeQL packs &lpar;Part I&rpar;](https://github.blog/2022-04-19-sharing-security-expertise-through-codeql-packs-part-i/)
-- [See how Technical Sales team in HLS manage their open-source projects](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/see-how-technical-sales-team-in-hls-manage-their-open-source/ba-p/3289560)
-- [Become a Communication Compliance Ninja](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/become-a-communication-compliance-ninja/ba-p/3283283)
-- [Become a Insider Risk Management Ninja](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/become-a-insider-risk-management-ninja/ba-p/3282306)
-- [Microsoft 365 Platform Community &lpar;PnP&rpar; – April 2022 update](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/microsoft-365-platform-community-pnp-april-2022-update/ba-p/3282997)
+- [Organization profiles leading the way](https://github.blog/2022-04-20-organization-profiles-leading-the-way/)
+- [Opt-in to Auditing on Azure DevOps](https://devblogs.microsoft.com/devops/opt-in-to-auditing-on-azure-devops/)
+- [Codespaces for multi-repository and monorepo scenarios](https://github.blog/2022-04-20-codespaces-multi-repository-monorepo-scenarios/)
+- [Azure Marketplace new offers – April 20, 2022](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/azure-marketplace-new-offers-april-20-2022/ba-p/3175824)
+- [Azure Marketplace new offers – April 20, 2022](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/azure-marketplace-new-offers-april-20-2022/ba-p/3175824)
 <!-- AZUREINFOHUB:END -->
 
 
