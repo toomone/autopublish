@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Opt-in to Auditing on Azure DevOps](https://devblogs.microsoft.com/devops/opt-in-to-auditing-on-azure-devops/)
 - [Top Stories from the Microsoft DevOps Community – 2022.08.04](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2022-08-04/)
 - [DevOps Dojo: Lean Product – Part 2](https://devblogs.microsoft.com/devops/devops-dojo-lean-product-part-2/)
 - [Top Stories from the Microsoft DevOps Community – 2022.01.04](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2022-01-04/)
 - [DevOps Dojo: Lean Product – Part 1](https://devblogs.microsoft.com/devops/devops-dojo-lean-product-part-1/)
-- [“New Boards Hub” Public Preview](https://devblogs.microsoft.com/devops/new-boards-hub-public-preview/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
