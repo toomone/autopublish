@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Organization profiles leading the way](https://github.blog/2022-04-20-organization-profiles-leading-the-way/)
-- [Opt-in to Auditing on Azure DevOps](https://devblogs.microsoft.com/devops/opt-in-to-auditing-on-azure-devops/)
-- [Codespaces for multi-repository and monorepo scenarios](https://github.blog/2022-04-20-codespaces-multi-repository-monorepo-scenarios/)
-- [Azure Marketplace new offers – April 20, 2022](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/azure-marketplace-new-offers-april-20-2022/ba-p/3175824)
-- [Azure Marketplace new offers – April 20, 2022](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/azure-marketplace-new-offers-april-20-2022/ba-p/3175824)
+- [Your guide to GitHub InFocus: Improving the way software development teams work in 2022](https://github.blog/2022-04-21-guide-to-github-infocus-2022/)
+- [Improving Git push times through faster server side hooks](https://github.blog/2022-04-21-improving-git-push-times-through-faster-server-side-hooks/)
+- [Azure For Academics- GitHub Resources and content](https://techcommunity.microsoft.com/t5/educator-developer-blog/azure-for-academics-github-resources-and-content/ba-p/3291626)
+- [Technical Resources for Academic Communities](https://techcommunity.microsoft.com/t5/educator-developer-blog/technical-resources-for-academic-communities/ba-p/3291613)
+- [Office Add-ins community call – April 13, 2022](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/office-add-ins-community-call-april-13-2022/ba-p/3288498)
 <!-- AZUREINFOHUB:END -->
 
 
