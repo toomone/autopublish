@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Your guide to GitHub InFocus: Improving the way software development teams work in 2022](https://github.blog/2022-04-21-guide-to-github-infocus-2022/)
-- [Improving Git push times through faster server side hooks](https://github.blog/2022-04-21-improving-git-push-times-through-faster-server-side-hooks/)
-- [Azure For Academics- GitHub Resources and content](https://techcommunity.microsoft.com/t5/educator-developer-blog/azure-for-academics-github-resources-and-content/ba-p/3291626)
-- [Technical Resources for Academic Communities](https://techcommunity.microsoft.com/t5/educator-developer-blog/technical-resources-for-academic-communities/ba-p/3291613)
-- [Office Add-ins community call – April 13, 2022](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/office-add-ins-community-call-april-13-2022/ba-p/3288498)
+- [Removing the stigma of a CVE](https://github.blog/2022-04-22-removing-the-stigma-of-a-cve/)
+- [5 simple things every developer can do to ship more secure code](https://github.blog/2022-04-22-5-simple-things-every-developer-can-do-to-ship-more-secure-code/)
+- [Application Insights telemetry in Azure Functions](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/application-insights-telemetry-in-azure-functions/ba-p/3280138)
+- [Early technical preview of JDBC Driver 11.1.1 for SQL Server released](https://techcommunity.microsoft.com/t5/sql-server-blog/early-technical-preview-of-jdbc-driver-11-1-1-for-sql-server/ba-p/3291791)
+- [Viva Connections &amp; SharePoint Framework Community Call – 21st of April, 2022](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/viva-connections-amp-sharepoint-framework-community-call-21st-of/ba-p/3291431)
 <!-- AZUREINFOHUB:END -->
 
 
