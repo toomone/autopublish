@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Celebrating 40 years of ZX Spectrum ❤️ 💛 💚 💙](https://github.blog/2022-04-23-zx-spectrum-40-year-anniversary/)
+- [Top Stories from the Microsoft DevOps Community – 2022.22.04](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2022-22-04/)
+- [Special 4 NAB 2022: Sweet 16 Azure Video Indexer Features Every Media Library Should Leverage](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/special-4-nab-2022-sweet-16-azure-video-indexer-features-every/ba-p/3292863)
 - [Removing the stigma of a CVE](https://github.blog/2022-04-22-removing-the-stigma-of-a-cve/)
 - [5 simple things every developer can do to ship more secure code](https://github.blog/2022-04-22-5-simple-things-every-developer-can-do-to-ship-more-secure-code/)
-- [Application Insights telemetry in Azure Functions](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/application-insights-telemetry-in-azure-functions/ba-p/3280138)
-- [Early technical preview of JDBC Driver 11.1.1 for SQL Server released](https://techcommunity.microsoft.com/t5/sql-server-blog/early-technical-preview-of-jdbc-driver-11-1-1-for-sql-server/ba-p/3291791)
-- [Viva Connections &amp; SharePoint Framework Community Call – 21st of April, 2022](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/viva-connections-amp-sharepoint-framework-community-call-21st-of/ba-p/3291431)
 <!-- AZUREINFOHUB:END -->
 
 
