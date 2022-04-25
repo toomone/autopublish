@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Celebrating 40 years of ZX Spectrum ❤️ 💛 💚 💙](https://github.blog/2022-04-23-zx-spectrum-40-year-anniversary/)
-- [Top Stories from the Microsoft DevOps Community – 2022.22.04](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2022-22-04/)
-- [Special 4 NAB 2022: Sweet 16 Azure Video Indexer Features Every Media Library Should Leverage](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/special-4-nab-2022-sweet-16-azure-video-indexer-features-every/ba-p/3292863)
-- [Removing the stigma of a CVE](https://github.blog/2022-04-22-removing-the-stigma-of-a-cve/)
-- [5 simple things every developer can do to ship more secure code](https://github.blog/2022-04-22-5-simple-things-every-developer-can-do-to-ship-more-secure-code/)
+- [Get preemptive Log4j vulnerability protection via Check Point and Azure Marketplace](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/get-preemptive-log4j-vulnerability-protection-via-check-point/ba-p/3288535)
+- [Goodbye Tech Community, hello GitHub!](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/goodbye-tech-community-hello-github/ba-p/3250072)
+- [Como manter meu código seguro usando o GitHub](https://techcommunity.microsoft.com/t5/desenvolvedores-br/como-manter-meu-c%C3%B3digo-seguro-usando-o-github/ba-p/3290217)
+- [Como manter meu código seguro usando o GitHub](https://techcommunity.microsoft.com/t5/desenvolvedores-br/como-manter-meu-c%C3%B3digo-seguro-usando-o-github/ba-p/3290217)
+- [Deploy a Flask AI web app to Azure App Service](https://techcommunity.microsoft.com/t5/educator-developer-blog/deploy-a-flask-ai-web-app-to-azure-app-service/ba-p/3274448)
 <!-- AZUREINFOHUB:END -->
 
 
