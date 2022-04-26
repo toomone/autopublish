@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Get preemptive Log4j vulnerability protection via Check Point and Azure Marketplace](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/get-preemptive-log4j-vulnerability-protection-via-check-point/ba-p/3288535)
-- [Goodbye Tech Community, hello GitHub!](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/goodbye-tech-community-hello-github/ba-p/3250072)
-- [Como manter meu código seguro usando o GitHub](https://techcommunity.microsoft.com/t5/desenvolvedores-br/como-manter-meu-c%C3%B3digo-seguro-usando-o-github/ba-p/3290217)
-- [Como manter meu código seguro usando o GitHub](https://techcommunity.microsoft.com/t5/desenvolvedores-br/como-manter-meu-c%C3%B3digo-seguro-usando-o-github/ba-p/3290217)
-- [Deploy a Flask AI web app to Azure App Service](https://techcommunity.microsoft.com/t5/educator-developer-blog/deploy-a-flask-ai-web-app-to-azure-app-service/ba-p/3274448)
+- [GitHub Desktop 3.0 brings better integration for your pull requests](https://github.blog/2022-04-26-github-desktop-3-0-brings-better-integration-for-your-pull-requests/)
+- [Getting started with GitOps, Argo, and Azure Kubernetes Service](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/getting-started-with-gitops-argo-and-azure-kubernetes-service/ba-p/3288595)
+- [Optimize Retail Service in Travel &amp; Transportation with Azure Percept](https://techcommunity.microsoft.com/t5/internet-of-things-blog/optimize-retail-service-in-travel-amp-transportation-with-azure/ba-p/3277903)
+- [Announcing the Microsoft Sentinel: Cybersecurity Maturity Model Certification &lpar;CMMC&rpar; 2.0 Solution](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-the-microsoft-sentinel-cybersecurity-maturity-model/ba-p/3295095)
+- [The friend zone: friendly forks 101](https://github.blog/2022-04-25-the-friend-zone-friendly-forks-101/)
 <!-- AZUREINFOHUB:END -->
 
 
