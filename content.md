@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Getting rid of credentials in Azure - Part 3 &lpar;EasyAuth &amp; Managed Identity&rpar;](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/getting-rid-of-credentials-in-azure-part-3-easyauth-amp-managed/ba-p/3296909)
+- [Getting rid of credentials in Azure - Part 3 &lpar;EasyAuth &amp; Managed Identity&rpar;](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/getting-rid-of-credentials-in-azure-part-3-easyauth-amp-managed/ba-p/3296909)
 - [GitHub Desktop 3.0 brings better integration for your pull requests](https://github.blog/2022-04-26-github-desktop-3-0-brings-better-integration-for-your-pull-requests/)
 - [Getting started with GitOps, Argo, and Azure Kubernetes Service](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/getting-started-with-gitops-argo-and-azure-kubernetes-service/ba-p/3288595)
 - [Optimize Retail Service in Travel &amp; Transportation with Azure Percept](https://techcommunity.microsoft.com/t5/internet-of-things-blog/optimize-retail-service-in-travel-amp-transportation-with-azure/ba-p/3277903)
-- [Announcing the Microsoft Sentinel: Cybersecurity Maturity Model Certification &lpar;CMMC&rpar; 2.0 Solution](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-the-microsoft-sentinel-cybersecurity-maturity-model/ba-p/3295095)
-- [The friend zone: friendly forks 101](https://github.blog/2022-04-25-the-friend-zone-friendly-forks-101/)
 <!-- AZUREINFOHUB:END -->
 
 
