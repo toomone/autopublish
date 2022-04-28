@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Best practices to keep your projects secure on GitHub](https://github.blog/2022-04-28-best-practices-to-keep-your-projects-secure-on-github/)
+- [Announcing General Availability of Az.Tools.Predictor](https://techcommunity.microsoft.com/t5/azure-tools-blog/announcing-general-availability-of-az-tools-predictor/ba-p/3297956)
+- [Fill the Gap: EDDI for Multivariate Time Series Missing Value Imputation](https://techcommunity.microsoft.com/t5/ai-customer-engineering-team/fill-the-gap-eddi-for-multivariate-time-series-missing-value/ba-p/3289782)
 - [Getting rid of credentials in Azure - Part 3 &lpar;EasyAuth &amp; Managed Identity&rpar;](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/getting-rid-of-credentials-in-azure-part-3-easyauth-amp-managed/ba-p/3296909)
 - [Getting rid of credentials in Azure - Part 3 &lpar;EasyAuth &amp; Managed Identity&rpar;](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/getting-rid-of-credentials-in-azure-part-3-easyauth-amp-managed/ba-p/3296909)
-- [GitHub Desktop 3.0 brings better integration for your pull requests](https://github.blog/2022-04-26-github-desktop-3-0-brings-better-integration-for-your-pull-requests/)
-- [Getting started with GitOps, Argo, and Azure Kubernetes Service](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/getting-started-with-gitops-argo-and-azure-kubernetes-service/ba-p/3288595)
-- [Optimize Retail Service in Travel &amp; Transportation with Azure Percept](https://techcommunity.microsoft.com/t5/internet-of-things-blog/optimize-retail-service-in-travel-amp-transportation-with-azure/ba-p/3277903)
 <!-- AZUREINFOHUB:END -->
 
 
