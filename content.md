@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Best practices to keep your projects secure on GitHub](https://github.blog/2022-04-28-best-practices-to-keep-your-projects-secure-on-github/)
-- [Announcing General Availability of Az.Tools.Predictor](https://techcommunity.microsoft.com/t5/azure-tools-blog/announcing-general-availability-of-az-tools-predictor/ba-p/3297956)
-- [Fill the Gap: EDDI for Multivariate Time Series Missing Value Imputation](https://techcommunity.microsoft.com/t5/ai-customer-engineering-team/fill-the-gap-eddi-for-multivariate-time-series-missing-value/ba-p/3289782)
-- [Getting rid of credentials in Azure - Part 3 &lpar;EasyAuth &amp; Managed Identity&rpar;](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/getting-rid-of-credentials-in-azure-part-3-easyauth-amp-managed/ba-p/3296909)
-- [Getting rid of credentials in Azure - Part 3 &lpar;EasyAuth &amp; Managed Identity&rpar;](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/getting-rid-of-credentials-in-azure-part-3-easyauth-amp-managed/ba-p/3296909)
+- [Bringing code navigation to communities](https://github.blog/2022-04-29-bringing-code-navigation-to-communities/)
+- [April in HLS – Microsoft Teams Summit, Voices of Healthcare Cloud, Azure API for FHIR, and More](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/april-in-hls-microsoft-teams-summit-voices-of-healthcare-cloud/ba-p/3299012)
+- [New watchlist actions available for watchlist automation using Microsoft Sentinel SOAR](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-watchlist-actions-available-for-watchlist-automation-using/ba-p/3297851)
+- [[Relay] How to get the relay frontend IP and add it into firewall](https://techcommunity.microsoft.com/t5/azure-paas-blog/relay-how-to-get-the-relay-frontend-ip-and-add-it-into-firewall/ba-p/3298512)
+- [Simplify Azure Container Apps deployments with &quot;az containerapp up&quot;](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/simplify-azure-container-apps-deployments-with-quot-az/ba-p/3298436)
 <!-- AZUREINFOHUB:END -->
 
 
