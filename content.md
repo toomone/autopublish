@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [Being friendly: Strategies for friendly fork management](https://github.blog/2022-05-02-friend-zone-strategies-friendly-fork-management/) (05/02/22)
  - [Bringing code navigation to communities](https://github.blog/2022-04-29-bringing-code-navigation-to-communities/) (04/29/22)
  - [Best practices to keep your projects secure on GitHub](https://github.blog/2022-04-28-best-practices-to-keep-your-projects-secure-on-github/) (04/28/22)
  - [GitHub Desktop 3.0 brings better integration for your pull requests](https://github.blog/2022-04-26-github-desktop-3-0-brings-better-integration-for-your-pull-requests/) (04/26/22)
- - [Friendly forks 101](https://github.blog/2022-04-25-the-friend-zone-friendly-forks-101/) (04/25/22)
- - [Celebrating 40 years of ZX Spectrum ❤️ 💛 💚 💙](https://github.blog/2022-04-23-zx-spectrum-40-year-anniversary/) (04/23/22)
+ - [Being friendly: Friendly forks 101](https://github.blog/2022-04-25-the-friend-zone-friendly-forks-101/) (04/25/22)
 <!-- GITHUB:END -->
