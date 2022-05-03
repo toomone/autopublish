@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Reconfigure Azure DevOps Server to use Kerberos instead of NTLM](https://devblogs.microsoft.com/devops/reconfigure-azure-devops-server-to-use-kerberos-instead-of-ntlm/)
+- [Being friendly: Strategies for friendly fork management](https://github.blog/2022-05-02-friend-zone-strategies-friendly-fork-management/)
 - [Bringing code navigation to communities](https://github.blog/2022-04-29-bringing-code-navigation-to-communities/)
 - [April in HLS – Microsoft Teams Summit, Voices of Healthcare Cloud, Azure API for FHIR, and More](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/april-in-hls-microsoft-teams-summit-voices-of-healthcare-cloud/ba-p/3299012)
 - [New watchlist actions available for watchlist automation using Microsoft Sentinel SOAR](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-watchlist-actions-available-for-watchlist-automation-using/ba-p/3297851)
-- [[Relay] How to get the relay frontend IP and add it into firewall](https://techcommunity.microsoft.com/t5/azure-paas-blog/relay-how-to-get-the-relay-frontend-ip-and-add-it-into-firewall/ba-p/3298512)
-- [Simplify Azure Container Apps deployments with &quot;az containerapp up&quot;](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/simplify-azure-container-apps-deployments-with-quot-az/ba-p/3298436)
 <!-- AZUREINFOHUB:END -->
 
 
