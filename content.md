@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [GitHub Availability Report: April 2022](https://github.blog/2022-05-04-github-availability-report-april-2022/)
+- [Software security starts with the developer: Securing developer accounts with 2FA](https://github.blog/2022-05-04-software-security-starts-with-the-developer-securing-developer-accounts-with-2fa/)
 - [Reconfigure Azure DevOps Server to use Kerberos instead of NTLM](https://devblogs.microsoft.com/devops/reconfigure-azure-devops-server-to-use-kerberos-instead-of-ntlm/)
 - [Being friendly: Strategies for friendly fork management](https://github.blog/2022-05-02-friend-zone-strategies-friendly-fork-management/)
 - [Bringing code navigation to communities](https://github.blog/2022-04-29-bringing-code-navigation-to-communities/)
-- [April in HLS – Microsoft Teams Summit, Voices of Healthcare Cloud, Azure API for FHIR, and More](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/april-in-hls-microsoft-teams-summit-voices-of-healthcare-cloud/ba-p/3299012)
-- [New watchlist actions available for watchlist automation using Microsoft Sentinel SOAR](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-watchlist-actions-available-for-watchlist-automation-using/ba-p/3297851)
 <!-- AZUREINFOHUB:END -->
 
 
