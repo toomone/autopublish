@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [Today’s most common security vulnerabilities explained](https://github.blog/2022-05-06-todays-most-common-security-vulnerabilities-explained/) (05/06/22)
  - [20 of our favorite games + source code from Ludum Dare 50](https://github.blog/2022-05-05-ludum-dare-50/) (05/05/22)
  - [The ReadME Project Q&amp;A: What you need to know about teaching technical skills](https://github.blog/2022-05-05-the-readme-project-qa-what-you-need-to-know-about-teaching-technical-skills/) (05/05/22)
  - [GitHub Availability Report: April 2022](https://github.blog/2022-05-04-github-availability-report-april-2022/) (05/04/22)
  - [Software security starts with the developer: Securing developer accounts with 2FA](https://github.blog/2022-05-04-software-security-starts-with-the-developer-securing-developer-accounts-with-2fa/) (05/04/22)
- - [Being friendly: Strategies for friendly fork management](https://github.blog/2022-05-02-friend-zone-strategies-friendly-fork-management/) (05/02/22)
 <!-- GITHUB:END -->
