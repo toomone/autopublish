@@ -1,7 +1,7 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
-- [Reconfigure Azure DevOps Server to use Kerberos instead of NTLM](https://devblogs.microsoft.com/devops/reconfigure-azure-devops-server-to-use-kerberos-instead-of-ntlm/)
+- [Top Stories from the Microsoft DevOps Community – 2022.06.05](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2022-06-05/)
 - [Top Stories from the Microsoft DevOps Community – 2022.22.04](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2022-22-04/)
 - [Opt-in to Auditing on Azure DevOps](https://devblogs.microsoft.com/devops/opt-in-to-auditing-on-azure-devops/)
 - [Top Stories from the Microsoft DevOps Community – 2022.08.04](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2022-08-04/)
