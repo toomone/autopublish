@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [Enhanced 2FA experience for your npm account](https://github.blog/2022-05-10-enhanced-2fa-experience-for-your-npm-account/) (05/10/22)
  - [Supercharging GitHub Actions with Job Summaries](https://github.blog/2022-05-09-supercharging-github-actions-with-job-summaries/) (05/09/22)
  - [Prepare for next semester with GitHub Global Campus and Codespaces](https://github.blog/2022-05-09-prepare-for-next-semester-with-github-global-campus-and-codespaces/) (05/09/22)
  - [Today’s most common security vulnerabilities explained](https://github.blog/2022-05-06-todays-most-common-security-vulnerabilities-explained/) (05/06/22)
  - [20 of our favorite games + source code from Ludum Dare 50](https://github.blog/2022-05-05-ludum-dare-50/) (05/05/22)
- - [The ReadME Project Q&amp;A: What you need to know about teaching technical skills](https://github.blog/2022-05-05-the-readme-project-qa-what-you-need-to-know-about-teaching-technical-skills/) (05/05/22)
 <!-- GITHUB:END -->
