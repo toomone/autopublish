@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Enhanced 2FA experience for your npm account](https://github.blog/2022-05-10-enhanced-2fa-experience-for-your-npm-account/)
+- [Announcing Intro to Tech Skills sessions at Microsoft Build 2022!](https://techcommunity.microsoft.com/t5/student-developer-blog/announcing-intro-to-tech-skills-sessions-at-microsoft-build-2022/ba-p/3329133)
+- [Continued investments in supply chain security in support of the cybersecurity Executive Order](https://techcommunity.microsoft.com/t5/public-sector-blog/continued-investments-in-supply-chain-security-in-support-of-the/ba-p/3348709)
+- [Microsoft Sentinel – Continuous Threat Monitoring for GitHub New OOTB Content](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-continuous-threat-monitoring-for-github-new/ba-p/3343209)
 - [Supercharging GitHub Actions with Job Summaries](https://github.blog/2022-05-09-supercharging-github-actions-with-job-summaries/)
-- [Supercharging GitHub Actions with Job Summaries](https://github.blog/2022-05-09-supercharging-github-actions-with-job-summaries/)
-- [Prepare for next semester with GitHub Global Campus and Codespaces](https://github.blog/2022-05-09-prepare-for-next-semester-with-github-global-campus-and-codespaces/)
-- [Today’s most common security vulnerabilities explained](https://github.blog/2022-05-06-todays-most-common-security-vulnerabilities-explained/)
-- [Top Stories from the Microsoft DevOps Community – 2022.06.05](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2022-06-05/)
 <!-- AZUREINFOHUB:END -->
 
 
