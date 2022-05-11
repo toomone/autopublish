@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [Graduation is here! Celebrate the Class of 2022, and join GitHub on June 11 🎓](https://github.blog/2022-05-11-graduation-is-here-celebrate-the-class-of-2022-and-join-github-on-june-11/) (05/11/22)
+ - [Open Source Monthly – May 2022 Edition](https://github.blog/2022-05-11-open-source-monthly-may-2022-edition/) (05/11/22)
  - [Enhanced 2FA experience for your npm account](https://github.blog/2022-05-10-enhanced-2fa-experience-for-your-npm-account/) (05/10/22)
  - [Supercharging GitHub Actions with Job Summaries](https://github.blog/2022-05-09-supercharging-github-actions-with-job-summaries/) (05/09/22)
  - [Prepare for next semester with GitHub Global Campus and Codespaces](https://github.blog/2022-05-09-prepare-for-next-semester-with-github-global-campus-and-codespaces/) (05/09/22)
- - [Today’s most common security vulnerabilities explained](https://github.blog/2022-05-06-todays-most-common-security-vulnerabilities-explained/) (05/06/22)
- - [20 of our favorite games + source code from Ludum Dare 50](https://github.blog/2022-05-05-ludum-dare-50/) (05/05/22)
 <!-- GITHUB:END -->
