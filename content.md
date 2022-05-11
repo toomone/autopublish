@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Enhanced 2FA experience for your npm account](https://github.blog/2022-05-10-enhanced-2fa-experience-for-your-npm-account/)
-- [Announcing Intro to Tech Skills sessions at Microsoft Build 2022!](https://techcommunity.microsoft.com/t5/student-developer-blog/announcing-intro-to-tech-skills-sessions-at-microsoft-build-2022/ba-p/3329133)
-- [Continued investments in supply chain security in support of the cybersecurity Executive Order](https://techcommunity.microsoft.com/t5/public-sector-blog/continued-investments-in-supply-chain-security-in-support-of-the/ba-p/3348709)
-- [Microsoft Sentinel – Continuous Threat Monitoring for GitHub New OOTB Content](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-continuous-threat-monitoring-for-github-new/ba-p/3343209)
-- [Supercharging GitHub Actions with Job Summaries](https://github.blog/2022-05-09-supercharging-github-actions-with-job-summaries/)
+- [Graduation is here! Celebrate the Class of 2022, and join GitHub on June 11 🎓](https://github.blog/2022-05-11-graduation-is-here-celebrate-the-class-of-2022-and-join-github-on-june-11/)
+- [Open Source Monthly – May 2022 Edition](https://github.blog/2022-05-11-open-source-monthly-may-2022-edition/)
+- [How GitHub Actions handles CI/CD scale on short-running jobs with Ephemeral OS disk Reimage](https://techcommunity.microsoft.com/t5/azure-compute-blog/how-github-actions-handles-ci-cd-scale-on-short-running-jobs/ba-p/3321114)
+- [How GitHub Actions handles CI/CD scale on short-running jobs with Ephemeral OS disk Reimage](https://techcommunity.microsoft.com/t5/azure-compute-blog/how-github-actions-handles-ci-cd-scale-on-short-running-jobs/ba-p/3321114)
+- [Azure Terrafy – Import your existing Azure infrastructure into Terraform HCL](https://techcommunity.microsoft.com/t5/itops-talk-blog/azure-terrafy-import-your-existing-azure-infrastructure-into/ba-p/3357653)
 <!-- AZUREINFOHUB:END -->
 
 
