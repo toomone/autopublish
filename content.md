@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [New Release: SharePointDsc v5.2 has been published!](https://techcommunity.microsoft.com/t5/sharepointdsc-blog/new-release-sharepointdsc-v5-2-has-been-published/ba-p/3364961)
+- [Detecting and Remediating Impossible Travel](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/detecting-and-remediating-impossible-travel/ba-p/3366017)
 - [Graduation is here! Celebrate the Class of 2022, and join GitHub on June 11 🎓](https://github.blog/2022-05-11-graduation-is-here-celebrate-the-class-of-2022-and-join-github-on-june-11/)
+- [What’s new: Closer integration between Microsoft Sentinel and Microsoft 365 Defender](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-closer-integration-between-microsoft-sentinel-and/ba-p/3299675)
 - [Open Source Monthly – May 2022 Edition](https://github.blog/2022-05-11-open-source-monthly-may-2022-edition/)
-- [How GitHub Actions handles CI/CD scale on short-running jobs with Ephemeral OS disk Reimage](https://techcommunity.microsoft.com/t5/azure-compute-blog/how-github-actions-handles-ci-cd-scale-on-short-running-jobs/ba-p/3321114)
-- [How GitHub Actions handles CI/CD scale on short-running jobs with Ephemeral OS disk Reimage](https://techcommunity.microsoft.com/t5/azure-compute-blog/how-github-actions-handles-ci-cd-scale-on-short-running-jobs/ba-p/3321114)
-- [Azure Terrafy – Import your existing Azure infrastructure into Terraform HCL](https://techcommunity.microsoft.com/t5/itops-talk-blog/azure-terrafy-import-your-existing-azure-infrastructure-into/ba-p/3357653)
 <!-- AZUREINFOHUB:END -->
 
 
