@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Top Stories from the Microsoft DevOps Community – 13.05.2022](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-06-13-2022/)
+- [Hotfix: JDBC Driver 10.2.1 for SQL Server Released](https://techcommunity.microsoft.com/t5/sql-server-blog/hotfix-jdbc-driver-10-2-1-for-sql-server-released/ba-p/3367916)
+- [Getting full control over MSIX updates with the App Installer APIs](https://techcommunity.microsoft.com/t5/windows-dev-appconsult/getting-full-control-over-msix-updates-with-the-app-installer/ba-p/3371344)
 - [New Release: SharePointDsc v5.2 has been published!](https://techcommunity.microsoft.com/t5/sharepointdsc-blog/new-release-sharepointdsc-v5-2-has-been-published/ba-p/3364961)
 - [Detecting and Remediating Impossible Travel](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/detecting-and-remediating-impossible-travel/ba-p/3366017)
-- [Graduation is here! Celebrate the Class of 2022, and join GitHub on June 11 🎓](https://github.blog/2022-05-11-graduation-is-here-celebrate-the-class-of-2022-and-join-github-on-june-11/)
-- [What’s new: Closer integration between Microsoft Sentinel and Microsoft 365 Defender](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-closer-integration-between-microsoft-sentinel-and/ba-p/3299675)
-- [Open Source Monthly – May 2022 Edition](https://github.blog/2022-05-11-open-source-monthly-may-2022-edition/)
 <!-- AZUREINFOHUB:END -->
 
 
