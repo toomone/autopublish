@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Top Stories from the Microsoft DevOps Community – 13.05.2022](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-06-13-2022/)
 - [Top Stories from the Microsoft DevOps Community – 2022.06.05](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2022-06-05/)
 - [Top Stories from the Microsoft DevOps Community – 2022.22.04](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2022-22-04/)
 - [Opt-in to Auditing on Azure DevOps](https://devblogs.microsoft.com/devops/opt-in-to-auditing-on-azure-devops/)
 - [Top Stories from the Microsoft DevOps Community – 2022.08.04](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2022-08-04/)
-- [DevOps Dojo: Lean Product – Part 2](https://devblogs.microsoft.com/devops/devops-dojo-lean-product-part-2/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
