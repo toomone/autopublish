@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [How we’re using projects to build projects](https://github.blog/2022-05-16-how-were-using-projects-to-build-projects/)
+- [GitHub Achieves ISO/IEC 27001:2013 Certification!](https://github.blog/2022-05-16-github-achieves-iso-iec-270012013-certification/)
+- [Chinese and Japanese MVPs Celebrate Community Milestones](https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/chinese-and-japanese-mvps-celebrate-community-milestones/ba-p/3383692)
+- [Announcing the Microsoft Sentinel: NIST SP 800-53 Solution](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-the-microsoft-sentinel-nist-sp-800-53-solution/ba-p/3381485)
 - [Blazor WebAssembly for Headless CMS on Azure Static Web Apps](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/blazor-webassembly-for-headless-cms-on-azure-static-web-apps/ba-p/3348808)
-- [Blazor WebAssembly for Headless CMS on Azure Static Web Apps](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/blazor-webassembly-for-headless-cms-on-azure-static-web-apps/ba-p/3348808)
-- [Top Stories from the Microsoft DevOps Community – 13.05.2022](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-06-13-2022/)
-- [Hotfix: JDBC Driver 10.2.1 for SQL Server Released](https://techcommunity.microsoft.com/t5/sql-server-blog/hotfix-jdbc-driver-10-2-1-for-sql-server-released/ba-p/3367916)
-- [Getting full control over MSIX updates with the App Installer APIs](https://techcommunity.microsoft.com/t5/windows-dev-appconsult/getting-full-control-over-msix-updates-with-the-app-installer/ba-p/3371344)
 <!-- AZUREINFOHUB:END -->
 
 
