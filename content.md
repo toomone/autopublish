@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [How we’re using projects to build projects](https://github.blog/2022-05-16-how-were-using-projects-to-build-projects/)
-- [GitHub Achieves ISO/IEC 27001:2013 Certification!](https://github.blog/2022-05-16-github-achieves-iso-iec-270012013-certification/)
-- [Chinese and Japanese MVPs Celebrate Community Milestones](https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/chinese-and-japanese-mvps-celebrate-community-milestones/ba-p/3383692)
-- [Announcing the Microsoft Sentinel: NIST SP 800-53 Solution](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-the-microsoft-sentinel-nist-sp-800-53-solution/ba-p/3381485)
-- [Blazor WebAssembly for Headless CMS on Azure Static Web Apps](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/blazor-webassembly-for-headless-cms-on-azure-static-web-apps/ba-p/3348808)
+- [Azure DevOps Server 2020.1.2, 2020.0.2 and 2019.1.2 releases](https://devblogs.microsoft.com/devops/azure-devops-server-2020-1-2-2020-0-2-and-2019-1-2-releases/)
+- [ADLS Gen1 to ADLS Gen2 Migrations: Options and Best Practices](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/adls-gen1-to-adls-gen2-migrations-options-and-best-practices/ba-p/3301927)
+- [Copy Azure Compute Gallery Image Versions between Azure Clouds, Tenants, and Subscriptions](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/copy-azure-compute-gallery-image-versions-between-azure-clouds/ba-p/3373145)
+- [How to measure innersource across your organization](https://github.blog/2022-05-16-how-to-measure-innersource-across-your-organization/)
+- [Announcing Tournament of Teams - standalone edition!](https://techcommunity.microsoft.com/t5/driving-adoption-blog/announcing-tournament-of-teams-standalone-edition/ba-p/3354076)
 <!-- AZUREINFOHUB:END -->
 
 
