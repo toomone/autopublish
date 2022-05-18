@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Azure Artifacts introduces new Upstreaming capabilities](https://devblogs.microsoft.com/devops/azure-artifacts-introduces-new-upstreaming-capabilities/)
+- [DevOps for Java on Azure](https://devblogs.microsoft.com/devops/devops-for-java-on-azure/)
 - [May patches for Azure DevOps Server and Team Foundation Server](https://devblogs.microsoft.com/devops/may-patches-for-azure-devops-server-and-team-foundation-server/)
 - [Azure DevOps Server 2020.1.2, 2020.0.2 and 2019.1.2 releases](https://devblogs.microsoft.com/devops/azure-devops-server-2020-1-2-2020-0-2-and-2019-1-2-releases/)
 - [Top Stories from the Microsoft DevOps Community – 13.05.2022](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-06-13-2022/)
-- [Top Stories from the Microsoft DevOps Community – 2022.06.05](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2022-06-05/)
-- [Top Stories from the Microsoft DevOps Community – 2022.22.04](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2022-22-04/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
