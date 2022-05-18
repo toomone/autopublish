@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Azure DevOps Server 2020.1.2, 2020.0.2 and 2019.1.2 releases](https://devblogs.microsoft.com/devops/azure-devops-server-2020-1-2-2020-0-2-and-2019-1-2-releases/)
-- [ADLS Gen1 to ADLS Gen2 Migrations: Options and Best Practices](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/adls-gen1-to-adls-gen2-migrations-options-and-best-practices/ba-p/3301927)
-- [Copy Azure Compute Gallery Image Versions between Azure Clouds, Tenants, and Subscriptions](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/copy-azure-compute-gallery-image-versions-between-azure-clouds/ba-p/3373145)
-- [How to measure innersource across your organization](https://github.blog/2022-05-16-how-to-measure-innersource-across-your-organization/)
-- [Announcing Tournament of Teams - standalone edition!](https://techcommunity.microsoft.com/t5/driving-adoption-blog/announcing-tournament-of-teams-standalone-edition/ba-p/3354076)
+- [Securing and delivering high-quality code with innersource metrics](https://github.blog/2022-05-18-securing-and-delivering-high-quality-code-with-innersource-metrics/)
+- [Continuous schema migrations for MySQL databases](https://techcommunity.microsoft.com/t5/azure-database-for-mysql-blog/continuous-schema-migrations-for-mysql-databases/ba-p/3381362)
+- [Continuous schema migrations for MySQL databases](https://techcommunity.microsoft.com/t5/azure-database-for-mysql-blog/continuous-schema-migrations-for-mysql-databases/ba-p/3381362)
+- [Multi-stage Azure Static Web Apps deployments with Azure DevOps](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/multi-stage-azure-static-web-apps-deployments-with-azure-devops/ba-p/3390625)
+- [Multi-stage Azure Static Web Apps deployments with Azure DevOps](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/multi-stage-azure-static-web-apps-deployments-with-azure-devops/ba-p/3390625)
 <!-- AZUREINFOHUB:END -->
 
 
