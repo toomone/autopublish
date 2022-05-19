@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Securing and delivering high-quality code with innersource metrics](https://github.blog/2022-05-18-securing-and-delivering-high-quality-code-with-innersource-metrics/)
-- [Continuous schema migrations for MySQL databases](https://techcommunity.microsoft.com/t5/azure-database-for-mysql-blog/continuous-schema-migrations-for-mysql-databases/ba-p/3381362)
-- [Continuous schema migrations for MySQL databases](https://techcommunity.microsoft.com/t5/azure-database-for-mysql-blog/continuous-schema-migrations-for-mysql-databases/ba-p/3381362)
-- [Multi-stage Azure Static Web Apps deployments with Azure DevOps](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/multi-stage-azure-static-web-apps-deployments-with-azure-devops/ba-p/3390625)
-- [Multi-stage Azure Static Web Apps deployments with Azure DevOps](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/multi-stage-azure-static-web-apps-deployments-with-azure-devops/ba-p/3390625)
+- [Math support in Markdown](https://github.blog/2022-05-19-math-support-in-markdown/)
+- [How we’re continuing to enable all developers to build](https://github.blog/2022-05-19-how-were-continuing-to-enable-all-developers-to-build/)
+- [Updates to Azure Pipelines Runtime Variables Settings](https://devblogs.microsoft.com/devops/updates-to-azure-pipelines-runtime-variables-settings/)
+- [Microsoft Sentinel: NIST SP 800-53 Solution](https://techcommunity.microsoft.com/t5/public-sector-blog/microsoft-sentinel-nist-sp-800-53-solution/ba-p/3401307)
+- [Access to XAML controls in a React Native for Windows application](https://techcommunity.microsoft.com/t5/windows-dev-appconsult/access-to-xaml-controls-in-a-react-native-for-windows/ba-p/3400316)
 <!-- AZUREINFOHUB:END -->
 
 
