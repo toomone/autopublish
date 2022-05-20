@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Math support in Markdown](https://github.blog/2022-05-19-math-support-in-markdown/)
-- [How we’re continuing to enable all developers to build](https://github.blog/2022-05-19-how-were-continuing-to-enable-all-developers-to-build/)
-- [Updates to Azure Pipelines Runtime Variables Settings](https://devblogs.microsoft.com/devops/updates-to-azure-pipelines-runtime-variables-settings/)
-- [Microsoft Sentinel: NIST SP 800-53 Solution](https://techcommunity.microsoft.com/t5/public-sector-blog/microsoft-sentinel-nist-sp-800-53-solution/ba-p/3401307)
-- [Access to XAML controls in a React Native for Windows application](https://techcommunity.microsoft.com/t5/windows-dev-appconsult/access-to-xaml-controls-in-a-react-native-for-windows/ba-p/3400316)
+- [Release Radar · April 2022 Edition](https://github.blog/2022-05-20-release-radar-apr-2022/)
+- [Action needed by GitHub Connect customers using GHES 3.1 and older to adopt new authentication token format updates](https://github.blog/2022-05-20-action-needed-by-github-connect-customers-using-ghes-3-1-and-older-to-adopt-new-authentication-token-format-updates/)
+- [Deploying Java Applications to Azure using Continuous Delivery](https://devblogs.microsoft.com/devops/deploying-java-applications-to-azure-using-continuous-delivery/)
+- [Deploying Java Applications to Azure using Continuous Delivery](https://devblogs.microsoft.com/devops/deploying-java-applications-to-azure-using-continuous-delivery/)
+- [Deploying Java Applications to Azure using Continuous Delivery](https://devblogs.microsoft.com/devops/deploying-java-applications-to-azure-using-continuous-delivery/)
 <!-- AZUREINFOHUB:END -->
 
 
