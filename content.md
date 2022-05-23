@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [Eight years of the GitHub Security Bug Bounty program](https://github.blog/2022-05-23-eight-years-of-the-github-security-bug-bounty-program/) (05/23/22)
  - [Release Radar · April 2022 Edition](https://github.blog/2022-05-20-release-radar-apr-2022/) (05/20/22)
  - [Action needed by GitHub Connect customers using GHES 3.1 and older to adopt new authentication token format updates](https://github.blog/2022-05-20-action-needed-by-github-connect-customers-using-ghes-3-1-and-older-to-adopt-new-authentication-token-format-updates/) (05/20/22)
  - [Math support in Markdown](https://github.blog/2022-05-19-math-support-in-markdown/) (05/19/22)
  - [How we’re continuing to enable all developers to build](https://github.blog/2022-05-19-how-were-continuing-to-enable-all-developers-to-build/) (05/19/22)
- - [Securing and delivering high-quality code with innersource metrics](https://github.blog/2022-05-18-securing-and-delivering-high-quality-code-with-innersource-metrics/) (05/18/22)
 <!-- GITHUB:END -->
