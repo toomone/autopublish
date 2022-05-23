@@ -22,10 +22,10 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Eight years of the GitHub Security Bug Bounty program](https://github.blog/2022-05-23-eight-years-of-the-github-security-bug-bounty-program/)
+- [Semi-Automate ConfigMgr Firewall Settings](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/semi-automate-configmgr-firewall-settings/ba-p/3297385)
 - [Release Radar · April 2022 Edition](https://github.blog/2022-05-20-release-radar-apr-2022/)
 - [Action needed by GitHub Connect customers using GHES 3.1 and older to adopt new authentication token format updates](https://github.blog/2022-05-20-action-needed-by-github-connect-customers-using-ghes-3-1-and-older-to-adopt-new-authentication-token-format-updates/)
-- [Deploying Java Applications to Azure using Continuous Delivery](https://devblogs.microsoft.com/devops/deploying-java-applications-to-azure-using-continuous-delivery/)
-- [Deploying Java Applications to Azure using Continuous Delivery](https://devblogs.microsoft.com/devops/deploying-java-applications-to-azure-using-continuous-delivery/)
 - [Deploying Java Applications to Azure using Continuous Delivery](https://devblogs.microsoft.com/devops/deploying-java-applications-to-azure-using-continuous-delivery/)
 <!-- AZUREINFOHUB:END -->
 
