@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Eight years of the GitHub Security Bug Bounty program](https://github.blog/2022-05-23-eight-years-of-the-github-security-bug-bounty-program/)
-- [Semi-Automate ConfigMgr Firewall Settings](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/semi-automate-configmgr-firewall-settings/ba-p/3297385)
-- [Release Radar · April 2022 Edition](https://github.blog/2022-05-20-release-radar-apr-2022/)
-- [Action needed by GitHub Connect customers using GHES 3.1 and older to adopt new authentication token format updates](https://github.blog/2022-05-20-action-needed-by-github-connect-customers-using-ghes-3-1-and-older-to-adopt-new-authentication-token-format-updates/)
-- [Deploying Java Applications to Azure using Continuous Delivery](https://devblogs.microsoft.com/devops/deploying-java-applications-to-azure-using-continuous-delivery/)
+- [Improved REST API documentation](https://github.blog/2022-05-24-improved-rest-api-documentation/)
+- [Nginx for Azure - Now in Preview](https://techcommunity.microsoft.com/t5/integrations-on-azure-blog/nginx-for-azure-now-in-preview/ba-p/3407870)
+- [Open Source XDP for Windows](https://techcommunity.microsoft.com/t5/networking-blog/open-source-xdp-for-windows/ba-p/3421922)
+- [Streamline development and accelerate developer velocity on Azure SQL Database](https://techcommunity.microsoft.com/t5/azure-sql-blog/streamline-development-and-accelerate-developer-velocity-on/ba-p/3421726)
+- [Streamline development and accelerate developer velocity on Azure SQL Database](https://techcommunity.microsoft.com/t5/azure-sql-blog/streamline-development-and-accelerate-developer-velocity-on/ba-p/3421726)
 <!-- AZUREINFOHUB:END -->
 
 
