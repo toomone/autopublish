@@ -34,11 +34,11 @@
 
 <!-- AZUREUPDATES:START -->
 
+ - [Code, test, and ship your next app quickly and securely with Microsoft developer tools](https://azure.microsoft.com/blog/code-test-and-ship-your-next-app-quickly-and-securely-with-microsoft-developer-tools/) (05/24/22)
+ - [Scale your cloud-native apps and accelerate app modernization with Azure, the best cloud for your apps](https://azure.microsoft.com/blog/scale-your-cloudnative-apps-and-accelerate-app-modernization-with-azure-the-best-cloud-for-your-apps/) (05/24/22)
+ - [Introducing the Microsoft Intelligent Data Platform](https://azure.microsoft.com/blog/introducing-the-microsoft-intelligent-data-platform/) (05/24/22)
  - [Enhance your data visualizations with Azure Managed Grafana—now in preview](https://azure.microsoft.com/blog/enhance-your-data-visualizations-with-azure-managed-grafana-now-in-preview/) (04/18/22)
  - [Azure Spring Cloud Enterprise is now available in preview](https://azure.microsoft.com/blog/azure-spring-cloud-enterprise-is-now-available-in-preview/) (02/16/22)
- - [Elastic and Microsoft Azure: Unified Observability for Spring Boot applications](https://azure.microsoft.com/blog/elastic-and-microsoft-azure-unified-observability-for-spring-boot-applications/) (01/19/22)
- - [Introducing Azure Load Testing: Optimize app performance at scale](https://azure.microsoft.com/blog/introducing-azure-load-testing-optimize-app-performance-at-scale/) (11/30/21)
- - [Advancing safe deployment with AIOps—introducing Gandalf](https://azure.microsoft.com/blog/advancing-safe-deployment-with-aiops-introducing-gandalf/) (06/30/21)
 <!-- AZUREUPDATES:END -->
 
 
