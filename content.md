@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [How we use Dependabot to secure GitHub](https://github.blog/2022-05-25-how-we-use-dependabot-to-secure-github/) (05/25/22)
  - [Improved REST API documentation](https://github.blog/2022-05-24-improved-rest-api-documentation/) (05/24/22)
  - [GitHub Sponsors launches in India](https://github.blog/2022-05-23-github-sponsors-launches-in-india/) (05/24/22)
  - [Eight years of the GitHub Security Bug Bounty program](https://github.blog/2022-05-23-eight-years-of-the-github-security-bug-bounty-program/) (05/23/22)
  - [Release Radar · April 2022 Edition](https://github.blog/2022-05-20-release-radar-apr-2022/) (05/20/22)
- - [Action needed by GitHub Connect customers using GHES 3.1 and older to adopt new authentication token format updates](https://github.blog/2022-05-20-action-needed-by-github-connect-customers-using-ghes-3-1-and-older-to-adopt-new-authentication-token-format-updates/) (05/20/22)
 <!-- GITHUB:END -->
