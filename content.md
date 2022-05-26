@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [How we use Dependabot to secure GitHub](https://github.blog/2022-05-25-how-we-use-dependabot-to-secure-github/)
 - [Azure Static Web Apps CLI is now GA &lpar;global access&rpar;](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/azure-static-web-apps-cli-is-now-ga-global-access/ba-p/3429213)
 - [Increase engagement and discoverability of your data with Microsoft Graph connectors](https://techcommunity.microsoft.com/t5/microsoft-search-blog/increase-engagement-and-discoverability-of-your-data-with/ba-p/3417102)
 - [Introducing AI for Beginners Curriculum](https://techcommunity.microsoft.com/t5/educator-developer-blog/introducing-ai-for-beginners-curriculum/ba-p/3427972)
 - [Generating and Visualizing H3 Indexed Data with Kusto and Python](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/generating-and-visualizing-h3-indexed-data-with-kusto-and-python/ba-p/3426922)
-- [Azure Spring Cloud is now Azure Spring Apps](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-spring-cloud-is-now-azure-spring-apps/ba-p/3425255)
 <!-- AZUREINFOHUB:END -->
 
 
