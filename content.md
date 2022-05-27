@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Build 2022: Azure Video Indexer Enhancements](https://techcommunity.microsoft.com/t5/ai-applied-ai-blog/build-2022-azure-video-indexer-enhancements/ba-p/3434118)
+- [Spack in a Multi-User HPC Environment on Azure](https://techcommunity.microsoft.com/t5/azure-global/spack-in-a-multi-user-hpc-environment-on-azure/ba-p/3438261)
+- [npm security update: Attack campaign using stolen OAuth tokens](https://github.blog/2022-05-26-npm-security-update-oauth-tokens/)
+- [Trigger Condition and Evaluation Workflow of Azure Policy](https://techcommunity.microsoft.com/t5/azure-paas-blog/trigger-condition-and-evaluation-workflow-of-azure-policy/ba-p/3436597)
 - [How we use Dependabot to secure GitHub](https://github.blog/2022-05-25-how-we-use-dependabot-to-secure-github/)
-- [Azure Static Web Apps CLI is now GA &lpar;global access&rpar;](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/azure-static-web-apps-cli-is-now-ga-global-access/ba-p/3429213)
-- [Increase engagement and discoverability of your data with Microsoft Graph connectors](https://techcommunity.microsoft.com/t5/microsoft-search-blog/increase-engagement-and-discoverability-of-your-data-with/ba-p/3417102)
-- [Introducing AI for Beginners Curriculum](https://techcommunity.microsoft.com/t5/educator-developer-blog/introducing-ai-for-beginners-curriculum/ba-p/3427972)
-- [Generating and Visualizing H3 Indexed Data with Kusto and Python](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/generating-and-visualizing-h3-indexed-data-with-kusto-and-python/ba-p/3426922)
 <!-- AZUREINFOHUB:END -->
 
 
