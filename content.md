@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Build 2022: Azure Video Indexer Enhancements](https://techcommunity.microsoft.com/t5/ai-applied-ai-blog/build-2022-azure-video-indexer-enhancements/ba-p/3434118)
-- [Spack in a Multi-User HPC Environment on Azure](https://techcommunity.microsoft.com/t5/azure-global/spack-in-a-multi-user-hpc-environment-on-azure/ba-p/3438261)
-- [npm security update: Attack campaign using stolen OAuth tokens](https://github.blog/2022-05-26-npm-security-update-oauth-tokens/)
-- [Trigger Condition and Evaluation Workflow of Azure Policy](https://techcommunity.microsoft.com/t5/azure-paas-blog/trigger-condition-and-evaluation-workflow-of-azure-policy/ba-p/3436597)
-- [How we use Dependabot to secure GitHub](https://github.blog/2022-05-25-how-we-use-dependabot-to-secure-github/)
+- [DevOps Nirvana – Part 1](https://techcommunity.microsoft.com/t5/azure-devops-blog/devops-nirvana-part-1/ba-p/3439942)
+- [DevOps Nirvana – Part 1](https://techcommunity.microsoft.com/t5/azure-devops-blog/devops-nirvana-part-1/ba-p/3439942)
+- [DevOps Nirvana – Part 1](https://techcommunity.microsoft.com/t5/azure-devops-blog/devops-nirvana-part-1/ba-p/3439942)
+- [My Visual Guide to #MSBuild Keynote: 10 Things To Know](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/my-visual-guide-to-msbuild-keynote-10-things-to-know/ba-p/3440545)
+- [Microsoft Docs updates and news following the Microsoft Build 2022 announcements!](https://techcommunity.microsoft.com/t5/community-ninjas-blog/microsoft-docs-updates-and-news-following-the-microsoft-build/ba-p/3436392)
 <!-- AZUREINFOHUB:END -->
 
 
