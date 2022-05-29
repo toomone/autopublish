@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Azure Video Indexer supports monitoring of Audit logs](https://techcommunity.microsoft.com/t5/ai-applied-ai-blog/azure-video-indexer-supports-monitoring-of-audit-logs/ba-p/3376530)
 - [DevOps Nirvana – Part 1](https://techcommunity.microsoft.com/t5/azure-devops-blog/devops-nirvana-part-1/ba-p/3439942)
 - [DevOps Nirvana – Part 1](https://techcommunity.microsoft.com/t5/azure-devops-blog/devops-nirvana-part-1/ba-p/3439942)
 - [DevOps Nirvana – Part 1](https://techcommunity.microsoft.com/t5/azure-devops-blog/devops-nirvana-part-1/ba-p/3439942)
 - [My Visual Guide to #MSBuild Keynote: 10 Things To Know](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/my-visual-guide-to-msbuild-keynote-10-things-to-know/ba-p/3440545)
-- [Microsoft Docs updates and news following the Microsoft Build 2022 announcements!](https://techcommunity.microsoft.com/t5/community-ninjas-blog/microsoft-docs-updates-and-news-following-the-microsoft-build/ba-p/3436392)
 <!-- AZUREINFOHUB:END -->
 
 
