@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Azure Data Factory CI/CD with GitHub Actions](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/azure-data-factory-ci-cd-with-github-actions/ba-p/3444374)
+- [Azure Data Factory CI/CD with GitHub Actions](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/azure-data-factory-ci-cd-with-github-actions/ba-p/3444374)
+- [Azure Data Factory CI/CD with GitHub Actions](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/azure-data-factory-ci-cd-with-github-actions/ba-p/3444374)
 - [Azure Video Indexer supports monitoring of Audit logs](https://techcommunity.microsoft.com/t5/ai-applied-ai-blog/azure-video-indexer-supports-monitoring-of-audit-logs/ba-p/3376530)
 - [DevOps Nirvana – Part 1](https://techcommunity.microsoft.com/t5/azure-devops-blog/devops-nirvana-part-1/ba-p/3439942)
-- [DevOps Nirvana – Part 1](https://techcommunity.microsoft.com/t5/azure-devops-blog/devops-nirvana-part-1/ba-p/3439942)
-- [DevOps Nirvana – Part 1](https://techcommunity.microsoft.com/t5/azure-devops-blog/devops-nirvana-part-1/ba-p/3439942)
-- [My Visual Guide to #MSBuild Keynote: 10 Things To Know](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/my-visual-guide-to-msbuild-keynote-10-things-to-know/ba-p/3440545)
 <!-- AZUREINFOHUB:END -->
 
 
