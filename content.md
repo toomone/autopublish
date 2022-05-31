@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [GitHub Enterprise Server 3.5 is now generally available](https://github.blog/2022-05-31-github-enterprise-server-3-5-is-now-generally-available/)
+- [May in HLS – Memorial Day, Microsoft Accessibility Tools, Microsoft Build, Viva, and More](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/may-in-hls-memorial-day-microsoft-accessibility-tools-microsoft/ba-p/3451900)
+- [Export Historical Log Data from Microsoft Sentinel](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/export-historical-log-data-from-microsoft-sentinel/ba-p/3413418)
+- [Top games + source code from Gamedev.js Jam 2022](https://github.blog/2022-05-31-top-games-source-code-from-gamedev-js-jam-2022/)
 - [Azure Data Factory CI/CD with GitHub Actions](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/azure-data-factory-ci-cd-with-github-actions/ba-p/3444374)
-- [Azure Data Factory CI/CD with GitHub Actions](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/azure-data-factory-ci-cd-with-github-actions/ba-p/3444374)
-- [Azure Data Factory CI/CD with GitHub Actions](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/azure-data-factory-ci-cd-with-github-actions/ba-p/3444374)
-- [Azure Video Indexer supports monitoring of Audit logs](https://techcommunity.microsoft.com/t5/ai-applied-ai-blog/azure-video-indexer-supports-monitoring-of-audit-logs/ba-p/3376530)
-- [DevOps Nirvana – Part 1](https://techcommunity.microsoft.com/t5/azure-devops-blog/devops-nirvana-part-1/ba-p/3439942)
 <!-- AZUREINFOHUB:END -->
 
 
