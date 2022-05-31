@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [GitHub Enterprise Server 3.5 is now generally available](https://github.blog/2022-05-31-github-enterprise-server-3-5-is-now-generally-available/) (05/31/22)
+ - [Top games + source code from Gamedev.js Jam 2022](https://github.blog/2022-05-31-top-games-source-code-from-gamedev-js-jam-2022/) (05/31/22)
  - [npm security update: Attack campaign using stolen OAuth tokens](https://github.blog/2022-05-26-npm-security-update-oauth-tokens/) (05/27/22)
  - [How we use Dependabot to secure GitHub](https://github.blog/2022-05-25-how-we-use-dependabot-to-secure-github/) (05/25/22)
  - [Improved REST API documentation](https://github.blog/2022-05-24-improved-rest-api-documentation/) (05/24/22)
- - [GitHub Sponsors launches in India](https://github.blog/2022-05-23-github-sponsors-launches-in-india/) (05/24/22)
- - [Eight years of the GitHub Security Bug Bounty program](https://github.blog/2022-05-23-eight-years-of-the-github-security-bug-bounty-program/) (05/23/22)
 <!-- GITHUB:END -->
