@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
- - [GitHub Enterprise Server 3.5 is now generally available](https://github.blog/2022-05-31-github-enterprise-server-3-5-is-now-generally-available/) (05/31/22)
- - [Top games + source code from Gamedev.js Jam 2022](https://github.blog/2022-05-31-top-games-source-code-from-gamedev-js-jam-2022/) (05/31/22)
- - [npm security update: Attack campaign using stolen OAuth tokens](https://github.blog/2022-05-26-npm-security-update-oauth-tokens/) (05/27/22)
- - [How we use Dependabot to secure GitHub](https://github.blog/2022-05-25-how-we-use-dependabot-to-secure-github/) (05/25/22)
- - [Improved REST API documentation](https://github.blog/2022-05-24-improved-rest-api-documentation/) (05/24/22)
+ - [GitHub Team or Free? How to choose the right plan](https://github.blog/2022-06-01-github-team-or-free-how-to-choose-the-right-plan/) (06/01/22)
+ - [Welcome to Maintainer Month! 🎉](https://github.blog/2022-06-01-welcome-to-maintainer-month/) (06/01/22)
+ - [GitHub Availability Report: May 2022](https://github.blog/2022-06-01-github-availability-report-may-2022/) (06/01/22)
+ - [Connecting to a private network from GitHub-hosted Actions runners](https://github.blog/2022-06-01-connecting-to-a-private-network-from-github-hosted-actions-runners/) (06/01/22)
+ - [GitHub Sponsors launches in Brazil](https://github.blog/2022-06-01-github-sponsors-launches-in-brazil/) (06/01/22)
 <!-- GITHUB:END -->
