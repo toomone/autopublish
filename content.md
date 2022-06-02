@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Azure DevOps Server 2022 Deprecation of Reporting Services](https://devblogs.microsoft.com/devops/azure-devops-server-2022-deprecation-of-reporting-services/)
+- [Work Item Revision Limits](https://devblogs.microsoft.com/devops/work-item-revision-limits/)
 - [Deploying Java Applications to Azure using Continuous Delivery](https://devblogs.microsoft.com/devops/deploying-java-applications-to-azure-using-continuous-delivery/)
 - [Deploy a Java Application to Azure using Continuous Integration](https://devblogs.microsoft.com/devops/deploy-a-java-application-to-azure-using-continuous-integration/)
 - [Updates to Azure Pipelines Runtime Variables Settings [Updated]](https://devblogs.microsoft.com/devops/updates-to-azure-pipelines-runtime-variables-settings/)
-- [Deploy a Java application to Azure App Service using GitHub Actions](https://devblogs.microsoft.com/devops/deploy-a-java-application-to-azure-app-service-using-github-actions/)
-- [Azure Artifacts introduces new Upstreaming capabilities](https://devblogs.microsoft.com/devops/azure-artifacts-introduces-new-upstreaming-capabilities/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
