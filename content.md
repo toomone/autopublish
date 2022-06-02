@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [What’s new in security and user management for GitHub Enterprise](https://github.blog/2022-06-02-whats-new-in-security-and-user-management-for-github-enterprise/) (06/02/22)
  - [GitHub Team or Free? How to choose the right plan](https://github.blog/2022-06-01-github-team-or-free-how-to-choose-the-right-plan/) (06/01/22)
  - [Welcome to Maintainer Month! 🎉](https://github.blog/2022-06-01-welcome-to-maintainer-month/) (06/01/22)
  - [GitHub Availability Report: May 2022](https://github.blog/2022-06-01-github-availability-report-may-2022/) (06/01/22)
  - [Connecting to a private network from GitHub-hosted Actions runners](https://github.blog/2022-06-01-connecting-to-a-private-network-from-github-hosted-actions-runners/) (06/01/22)
- - [GitHub Sponsors launches in Brazil](https://github.blog/2022-06-01-github-sponsors-launches-in-brazil/) (06/01/22)
 <!-- GITHUB:END -->
