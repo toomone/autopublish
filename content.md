@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Azure DevOps Server 2022 Deprecation of Reporting Services](https://devblogs.microsoft.com/devops/azure-devops-server-2022-deprecation-of-reporting-services/)
+- [What’s new in security and user management for GitHub Enterprise](https://github.blog/2022-06-02-whats-new-in-security-and-user-management-for-github-enterprise/)
+- [Work Item Revision Limits](https://devblogs.microsoft.com/devops/work-item-revision-limits/)
 - [GitHub Team or Free? How to choose the right plan](https://github.blog/2022-06-01-github-team-or-free-how-to-choose-the-right-plan/)
 - [Welcome to Maintainer Month! 🎉](https://github.blog/2022-06-01-welcome-to-maintainer-month/)
-- [GitHub Availability Report: May 2022](https://github.blog/2022-06-01-github-availability-report-may-2022/)
-- [Connecting to a private network from GitHub-hosted Actions runners](https://github.blog/2022-06-01-connecting-to-a-private-network-from-github-hosted-actions-runners/)
-- [GitHub Sponsors launches in Brazil](https://github.blog/2022-06-01-github-sponsors-launches-in-brazil/)
 <!-- AZUREINFOHUB:END -->
 
 
