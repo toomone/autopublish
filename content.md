@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [A beginner’s guide to CI/CD and automation on GitHub](https://github.blog/2022-06-03-a-beginners-guide-to-ci-cd-and-automation-on-github/) (06/03/22)
+ - [Making technical interviews better for everyone](https://github.blog/2022-06-03-making-technical-interviews-better-for-everyone/) (06/03/22)
  - [What’s new in security and user management for GitHub Enterprise](https://github.blog/2022-06-02-whats-new-in-security-and-user-management-for-github-enterprise/) (06/02/22)
+ - [GitHub All In: Our first student cohort and what’s next](https://github.blog/2022-06-02-github-all-in-our-first-student-cohort-and-whats-next/) (06/02/22)
  - [GitHub Team or Free? How to choose the right plan](https://github.blog/2022-06-01-github-team-or-free-how-to-choose-the-right-plan/) (06/01/22)
- - [Welcome to Maintainer Month! 🎉](https://github.blog/2022-06-01-welcome-to-maintainer-month/) (06/01/22)
- - [GitHub Availability Report: May 2022](https://github.blog/2022-06-01-github-availability-report-may-2022/) (06/01/22)
- - [Connecting to a private network from GitHub-hosted Actions runners](https://github.blog/2022-06-01-connecting-to-a-private-network-from-github-hosted-actions-runners/) (06/01/22)
 <!-- GITHUB:END -->
