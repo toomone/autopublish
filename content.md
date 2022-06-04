@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Top Stories from the Microsoft DevOps Community – 04.06.2022](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-04-06-2022/)
 - [A beginner’s guide to CI/CD and automation on GitHub](https://github.blog/2022-06-03-a-beginners-guide-to-ci-cd-and-automation-on-github/)
 - [Making technical interviews better for everyone](https://github.blog/2022-06-03-making-technical-interviews-better-for-everyone/)
 - [Azure DevOps Server 2022 Deprecation of Reporting Services](https://devblogs.microsoft.com/devops/azure-devops-server-2022-deprecation-of-reporting-services/)
 - [What’s new in security and user management for GitHub Enterprise](https://github.blog/2022-06-02-whats-new-in-security-and-user-management-for-github-enterprise/)
-- [GitHub All In: Our first student cohort and what’s next](https://github.blog/2022-06-02-github-all-in-our-first-student-cohort-and-whats-next/)
 <!-- AZUREINFOHUB:END -->
 
 
