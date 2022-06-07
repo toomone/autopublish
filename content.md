@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [One developer’s journey bringing Dependabot to GitHub Enterprise Server](https://github.blog/2022-06-07-one-developers-journey-bringing-dependabot-to-github-enterprise-server/) (06/07/22)
  - [Introducing GitHub Skills](https://github.blog/2022-06-06-introducing-github-skills/) (06/06/22)
  - [GitHub brings supply chain security features to the Rust community](https://github.blog/2022-06-06-github-brings-supply-chain-security-features-to-the-rust-community/) (06/06/22)
  - [A beginner’s guide to CI/CD and automation on GitHub](https://github.blog/2022-06-03-a-beginners-guide-to-ci-cd-and-automation-on-github/) (06/03/22)
  - [Making technical interviews better for everyone](https://github.blog/2022-06-03-making-technical-interviews-better-for-everyone/) (06/03/22)
- - [What’s new in security and user management for GitHub Enterprise](https://github.blog/2022-06-02-whats-new-in-security-and-user-management-for-github-enterprise/) (06/02/22)
 <!-- GITHUB:END -->
