@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [One developer’s journey bringing Dependabot to GitHub Enterprise Server](https://github.blog/2022-06-07-one-developers-journey-bringing-dependabot-to-github-enterprise-server/)
+- [DevOps Dojo: Lean Product – Part 3](https://devblogs.microsoft.com/devops/devops-dojo-lean-product-part-3/)
 - [Introducing GitHub Skills](https://github.blog/2022-06-06-introducing-github-skills/)
 - [GitHub brings supply chain security features to the Rust community](https://github.blog/2022-06-06-github-brings-supply-chain-security-features-to-the-rust-community/)
 - [Top Stories from the Microsoft DevOps Community – 04.06.2022](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-04-06-2022/)
-- [A beginner’s guide to CI/CD and automation on GitHub](https://github.blog/2022-06-03-a-beginners-guide-to-ci-cd-and-automation-on-github/)
-- [Making technical interviews better for everyone](https://github.blog/2022-06-03-making-technical-interviews-better-for-everyone/)
 <!-- AZUREINFOHUB:END -->
 
 
