@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [DevOps Dojo – OKRs &lpar;Objectives and Key Results&rpar;](https://devblogs.microsoft.com/devops/devops-dojo-okrs-objectives-and-key-results/)
+- [Sunsetting Atom](https://github.blog/2022-06-08-sunsetting-atom/)
+- [Start your open source journey with Community Exchange](https://github.blog/2022-06-08-start-your-open-source-journey-with-community-exchange/)
 - [One developer’s journey bringing Dependabot to GitHub Enterprise Server](https://github.blog/2022-06-07-one-developers-journey-bringing-dependabot-to-github-enterprise-server/)
 - [DevOps Dojo: Lean Product – Part 3](https://devblogs.microsoft.com/devops/devops-dojo-lean-product-part-3/)
-- [Introducing GitHub Skills](https://github.blog/2022-06-06-introducing-github-skills/)
-- [GitHub brings supply chain security features to the Rust community](https://github.blog/2022-06-06-github-brings-supply-chain-security-features-to-the-rust-community/)
-- [Top Stories from the Microsoft DevOps Community – 04.06.2022](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-04-06-2022/)
 <!-- AZUREINFOHUB:END -->
 
 
