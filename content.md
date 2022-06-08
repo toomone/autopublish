@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [DevOps Dojo – OKRs (Objectives and Key Results)](https://devblogs.microsoft.com/devops/devops-dojo-okrs-objectives-and-key-results/)
 - [DevOps Dojo: Lean Product – Part 3](https://devblogs.microsoft.com/devops/devops-dojo-lean-product-part-3/)
 - [Top Stories from the Microsoft DevOps Community – 04.06.2022](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-04-06-2022/)
 - [Azure DevOps Server 2022 Deprecation of Reporting Services](https://devblogs.microsoft.com/devops/azure-devops-server-2022-deprecation-of-reporting-services/)
 - [Work Item Revision Limits](https://devblogs.microsoft.com/devops/work-item-revision-limits/)
-- [Deploying Java Applications to Azure using Continuous Delivery](https://devblogs.microsoft.com/devops/deploying-java-applications-to-azure-using-continuous-delivery/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
