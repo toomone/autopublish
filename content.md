@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [Sunsetting Atom](https://github.blog/2022-06-08-sunsetting-atom/) (06/08/22)
+ - [Start your open source journey with Community Exchange](https://github.blog/2022-06-08-start-your-open-source-journey-with-community-exchange/) (06/08/22)
  - [One developer’s journey bringing Dependabot to GitHub Enterprise Server](https://github.blog/2022-06-07-one-developers-journey-bringing-dependabot-to-github-enterprise-server/) (06/07/22)
  - [Introducing GitHub Skills](https://github.blog/2022-06-06-introducing-github-skills/) (06/06/22)
  - [GitHub brings supply chain security features to the Rust community](https://github.blog/2022-06-06-github-brings-supply-chain-security-features-to-the-rust-community/) (06/06/22)
- - [A beginner’s guide to CI/CD and automation on GitHub](https://github.blog/2022-06-03-a-beginners-guide-to-ci-cd-and-automation-on-github/) (06/03/22)
- - [Making technical interviews better for everyone](https://github.blog/2022-06-03-making-technical-interviews-better-for-everyone/) (06/03/22)
 <!-- GITHUB:END -->
