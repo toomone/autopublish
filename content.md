@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Dependabot Updates hit GA in GHES](https://github.blog/2022-06-09-dependabot-updates-hit-ga-in-ghes/)
+- [Introducing Entitlements: GitHub’s open source Identity and Access Management solution](https://github.blog/2022-06-09-introducing-entitlements-githubs-open-source-identity-and-access-management-solution/)
+- [Introducing Achievements: recognizing the many stages of a developer’s coding journey](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/)
+- [Copy a work item type using Azure DevOps API’s](https://devblogs.microsoft.com/devops/copy-a-work-item-type-using-azure-devops-apis-undocumented/)
 - [DevOps Dojo – OKRs &lpar;Objectives and Key Results&rpar;](https://devblogs.microsoft.com/devops/devops-dojo-okrs-objectives-and-key-results/)
-- [Sunsetting Atom](https://github.blog/2022-06-08-sunsetting-atom/)
-- [Start your open source journey with Community Exchange](https://github.blog/2022-06-08-start-your-open-source-journey-with-community-exchange/)
-- [One developer’s journey bringing Dependabot to GitHub Enterprise Server](https://github.blog/2022-06-07-one-developers-journey-bringing-dependabot-to-github-enterprise-server/)
-- [DevOps Dojo: Lean Product – Part 3](https://devblogs.microsoft.com/devops/devops-dojo-lean-product-part-3/)
 <!-- AZUREINFOHUB:END -->
 
 
