@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [Dependabot Updates hit GA in GHES](https://github.blog/2022-06-09-dependabot-updates-hit-ga-in-ghes/) (06/09/22)
+ - [Introducing Entitlements: GitHub’s open source Identity and Access Management solution](https://github.blog/2022-06-09-introducing-entitlements-githubs-open-source-identity-and-access-management-solution/) (06/09/22)
+ - [Introducing Achievements: recognizing the many stages of a developer’s coding journey](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/) (06/09/22)
  - [Sunsetting Atom](https://github.blog/2022-06-08-sunsetting-atom/) (06/08/22)
  - [Start your open source journey with Community Exchange](https://github.blog/2022-06-08-start-your-open-source-journey-with-community-exchange/) (06/08/22)
- - [One developer’s journey bringing Dependabot to GitHub Enterprise Server](https://github.blog/2022-06-07-one-developers-journey-bringing-dependabot-to-github-enterprise-server/) (06/07/22)
- - [Introducing GitHub Skills](https://github.blog/2022-06-06-introducing-github-skills/) (06/06/22)
- - [GitHub brings supply chain security features to the Rust community](https://github.blog/2022-06-06-github-brings-supply-chain-security-features-to-the-rust-community/) (06/06/22)
 <!-- GITHUB:END -->
