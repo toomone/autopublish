@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Dependabot Updates hit GA in GHES](https://github.blog/2022-06-09-dependabot-updates-hit-ga-in-ghes/)
-- [Introducing Entitlements: GitHub’s open source Identity and Access Management solution](https://github.blog/2022-06-09-introducing-entitlements-githubs-open-source-identity-and-access-management-solution/)
-- [Introducing Achievements: recognizing the many stages of a developer’s coding journey](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/)
-- [Copy a work item type using Azure DevOps API’s](https://devblogs.microsoft.com/devops/copy-a-work-item-type-using-azure-devops-apis-undocumented/)
-- [DevOps Dojo – OKRs &lpar;Objectives and Key Results&rpar;](https://devblogs.microsoft.com/devops/devops-dojo-okrs-objectives-and-key-results/)
+- [Implementing a robust digital identity](https://github.blog/2022-06-10-implementing-a-robust-digital-identity/)
+- [How we think about browsers](https://github.blog/2022-06-10-how-we-think-about-browsers/)
+- [Machine Learning Operations v2: Unifying MLOps at Microsoft](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/machine-learning-operations-v2-unifying-mlops-at-microsoft/ba-p/3494482)
+- [Machine Learning Operations v2: Unifying MLOps at Microsoft](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/machine-learning-operations-v2-unifying-mlops-at-microsoft/ba-p/3494482)
+- [Machine Learning Operations v2: Unifying MLOps at Microsoft](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/machine-learning-operations-v2-unifying-mlops-at-microsoft/ba-p/3494482)
 <!-- AZUREINFOHUB:END -->
 
 
