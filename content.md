@@ -22,9 +22,9 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Azure Orphan Resources](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/azure-orphan-resources/ba-p/3492198)
 - [Implementing a robust digital identity](https://github.blog/2022-06-10-implementing-a-robust-digital-identity/)
 - [How we think about browsers](https://github.blog/2022-06-10-how-we-think-about-browsers/)
-- [Machine Learning Operations v2: Unifying MLOps at Microsoft](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/machine-learning-operations-v2-unifying-mlops-at-microsoft/ba-p/3494482)
 - [Machine Learning Operations v2: Unifying MLOps at Microsoft](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/machine-learning-operations-v2-unifying-mlops-at-microsoft/ba-p/3494482)
 - [Machine Learning Operations v2: Unifying MLOps at Microsoft](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/machine-learning-operations-v2-unifying-mlops-at-microsoft/ba-p/3494482)
 <!-- AZUREINFOHUB:END -->
