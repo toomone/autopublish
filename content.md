@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [Open Source Monthly: June 2022 Edition](https://github.blog/2022-06-13-open-source-monthly-june-2022-edition/) (06/13/22)
  - [Implementing a robust digital identity](https://github.blog/2022-06-10-implementing-a-robust-digital-identity/) (06/10/22)
  - [How we think about browsers](https://github.blog/2022-06-10-how-we-think-about-browsers/) (06/10/22)
  - [Dependabot Updates hit GA in GHES](https://github.blog/2022-06-09-dependabot-updates-hit-ga-in-ghes/) (06/09/22)
  - [Introducing Entitlements: GitHub’s open source Identity and Access Management solution](https://github.blog/2022-06-09-introducing-entitlements-githubs-open-source-identity-and-access-management-solution/) (06/09/22)
- - [Introducing Achievements: recognizing the many stages of a developer’s coding journey](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/) (06/09/22)
 <!-- GITHUB:END -->
