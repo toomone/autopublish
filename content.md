@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Open Source Monthly: June 2022 Edition](https://github.blog/2022-06-13-open-source-monthly-june-2022-edition/)
+- [Receive Email Notification when new IDPS rules get Created via Logic Apps](https://techcommunity.microsoft.com/t5/azure-network-security-blog/receive-email-notification-when-new-idps-rules-get-created-via/ba-p/3499588)
+- [Day 1 of 30 Days of Learning Data Analysis Using Power BI for Students](https://techcommunity.microsoft.com/t5/educator-developer-blog/day-1-of-30-days-of-learning-data-analysis-using-power-bi-for/ba-p/3497932)
+- [30Days of Learning Data Analysis Track - Landing Page](https://techcommunity.microsoft.com/t5/educator-developer-blog/30days-of-learning-data-analysis-track-landing-page/ba-p/3497797)
 - [Azure Orphan Resources](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/azure-orphan-resources/ba-p/3492198)
-- [Implementing a robust digital identity](https://github.blog/2022-06-10-implementing-a-robust-digital-identity/)
-- [How we think about browsers](https://github.blog/2022-06-10-how-we-think-about-browsers/)
-- [Machine Learning Operations v2: Unifying MLOps at Microsoft](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/machine-learning-operations-v2-unifying-mlops-at-microsoft/ba-p/3494482)
-- [Machine Learning Operations v2: Unifying MLOps at Microsoft](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/machine-learning-operations-v2-unifying-mlops-at-microsoft/ba-p/3494482)
 <!-- AZUREINFOHUB:END -->
 
 
