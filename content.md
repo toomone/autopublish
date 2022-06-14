@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Open Source Monthly: June 2022 Edition](https://github.blog/2022-06-13-open-source-monthly-june-2022-edition/)
-- [Receive Email Notification when new IDPS rules get Created via Logic Apps](https://techcommunity.microsoft.com/t5/azure-network-security-blog/receive-email-notification-when-new-idps-rules-get-created-via/ba-p/3499588)
-- [Day 1 of 30 Days of Learning Data Analysis Using Power BI for Students](https://techcommunity.microsoft.com/t5/educator-developer-blog/day-1-of-30-days-of-learning-data-analysis-using-power-bi-for/ba-p/3497932)
-- [30Days of Learning Data Analysis Track - Landing Page](https://techcommunity.microsoft.com/t5/educator-developer-blog/30days-of-learning-data-analysis-track-landing-page/ba-p/3497797)
-- [Azure Orphan Resources](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/azure-orphan-resources/ba-p/3492198)
+- [Accelerating GitHub theme creation with color tooling](https://github.blog/2022-06-14-accelerating-github-theme-creation-with-color-tooling/)
+- [How can the United States build its Open Source Software policy?](https://github.blog/2022-06-14-how-can-the-united-states-build-its-open-source-software-policy/)
+- [Building IoT apps using Postgres, Citus, and Azure](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/building-iot-apps-using-postgres-citus-and-azure/ba-p/3501175)
+- [CI/CD for Power Platform using GitHub Actions](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/ci-cd-for-power-platform-using-github-actions/ba-p/3506293)
+- [CI/CD for Power Platform using GitHub Actions](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/ci-cd-for-power-platform-using-github-actions/ba-p/3506293)
 <!-- AZUREINFOHUB:END -->
 
 
