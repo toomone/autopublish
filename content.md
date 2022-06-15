@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [Prebuilding codespaces is generally available](https://github.blog/2022-06-15-prebuilding-codespaces-is-generally-available/) (06/15/22)
+ - [GitHub now publishes malware advisories in the GitHub Advisory Database](https://github.blog/2022-06-15-github-now-publishes-malware-advisories-in-the-github-advisory-database/) (06/15/22)
  - [Accelerating GitHub theme creation with color tooling](https://github.blog/2022-06-14-accelerating-github-theme-creation-with-color-tooling/) (06/14/22)
  - [How can the United States build its Open Source Software policy?](https://github.blog/2022-06-14-how-can-the-united-states-build-its-open-source-software-policy/) (06/14/22)
  - [Open Source Monthly: June 2022 Edition](https://github.blog/2022-06-13-open-source-monthly-june-2022-edition/) (06/13/22)
- - [Implementing a robust digital identity](https://github.blog/2022-06-10-implementing-a-robust-digital-identity/) (06/10/22)
- - [How we think about browsers](https://github.blog/2022-06-10-how-we-think-about-browsers/) (06/10/22)
 <!-- GITHUB:END -->
