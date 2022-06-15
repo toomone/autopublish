@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Accelerating GitHub theme creation with color tooling](https://github.blog/2022-06-14-accelerating-github-theme-creation-with-color-tooling/)
-- [How can the United States build its Open Source Software policy?](https://github.blog/2022-06-14-how-can-the-united-states-build-its-open-source-software-policy/)
-- [Building IoT apps using Postgres, Citus, and Azure](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/building-iot-apps-using-postgres-citus-and-azure/ba-p/3501175)
-- [CI/CD for Power Platform using GitHub Actions](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/ci-cd-for-power-platform-using-github-actions/ba-p/3506293)
-- [CI/CD for Power Platform using GitHub Actions](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/ci-cd-for-power-platform-using-github-actions/ba-p/3506293)
+- [Prebuilding codespaces is generally available](https://github.blog/2022-06-15-prebuilding-codespaces-is-generally-available/)
+- [GitHub now publishes malware advisories in the GitHub Advisory Database](https://github.blog/2022-06-15-github-now-publishes-malware-advisories-in-the-github-advisory-database/)
+- [Login to Azure in GitHub Actions](https://techcommunity.microsoft.com/t5/educator-developer-blog/login-to-azure-in-github-actions/ba-p/3511537)
+- [Login to Azure in GitHub Actions](https://techcommunity.microsoft.com/t5/educator-developer-blog/login-to-azure-in-github-actions/ba-p/3511537)
+- [Working with templates in Microsoft Lists](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/working-with-templates-in-microsoft-lists/ba-p/3508266)
 <!-- AZUREINFOHUB:END -->
 
 
