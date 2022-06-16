@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [The Android kernel mitigations obstacle race](https://github.blog/2022-06-16-the-android-kernel-mitigations-obstacle-race/)
+- [Azure Marketplace new offers – June 16, 2022](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/azure-marketplace-new-offers-june-16-2022/ba-p/3292640)
+- [Git Merge 2022](https://github.blog/2022-06-15-git-merge-2022/)
 - [Prebuilding codespaces is generally available](https://github.blog/2022-06-15-prebuilding-codespaces-is-generally-available/)
-- [GitHub now publishes malware advisories in the GitHub Advisory Database](https://github.blog/2022-06-15-github-now-publishes-malware-advisories-in-the-github-advisory-database/)
-- [Login to Azure in GitHub Actions](https://techcommunity.microsoft.com/t5/educator-developer-blog/login-to-azure-in-github-actions/ba-p/3511537)
-- [Login to Azure in GitHub Actions](https://techcommunity.microsoft.com/t5/educator-developer-blog/login-to-azure-in-github-actions/ba-p/3511537)
-- [Working with templates in Microsoft Lists](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/working-with-templates-in-microsoft-lists/ba-p/3508266)
+- [30 Days of Learning - Power Platform Track: All you need to know](https://techcommunity.microsoft.com/t5/educator-developer-blog/30-days-of-learning-power-platform-track-all-you-need-to-know/ba-p/3504533)
 <!-- AZUREINFOHUB:END -->
 
 
