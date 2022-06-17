@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [The Android kernel mitigations obstacle race](https://github.blog/2022-06-16-the-android-kernel-mitigations-obstacle-race/)
-- [Azure Marketplace new offers – June 16, 2022](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/azure-marketplace-new-offers-june-16-2022/ba-p/3292640)
-- [Git Merge 2022](https://github.blog/2022-06-15-git-merge-2022/)
-- [Prebuilding codespaces is generally available](https://github.blog/2022-06-15-prebuilding-codespaces-is-generally-available/)
-- [30 Days of Learning - Power Platform Track: All you need to know](https://techcommunity.microsoft.com/t5/educator-developer-blog/30-days-of-learning-power-platform-track-all-you-need-to-know/ba-p/3504533)
+- [Creating a more comprehensive dependency graph with build time detection](https://github.blog/2022-06-17-creating-comprehensive-dependency-graph-build-time-detection/)
+- [Prevent surprises in Azure billing with automation!](https://techcommunity.microsoft.com/t5/educator-developer-blog/prevent-surprises-in-azure-billing-with-automation/ba-p/3522127)
+- [Prevent surprises in Azure billing with automation!](https://techcommunity.microsoft.com/t5/educator-developer-blog/prevent-surprises-in-azure-billing-with-automation/ba-p/3522127)
+- [Top Stores from the Microsoft DevOps Community – 17.06.2022](https://devblogs.microsoft.com/devops/top-stores-from-the-microsoft-devops-community-17-06-2022/)
+- [Friday Five: Azure Portal, GitHub Tips, More!](https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/friday-five-azure-portal-github-tips-more/ba-p/3518430)
 <!-- AZUREINFOHUB:END -->
 
 
