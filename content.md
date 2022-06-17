@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [Creating a more comprehensive dependency graph with build time detection](https://github.blog/2022-06-17-creating-comprehensive-dependency-graph-build-time-detection/) (06/17/22)
  - [Release Radar · May 2022 Edition](https://github.blog/2022-06-16-release-radar-may-2022/) (06/16/22)
  - [The Android kernel mitigations obstacle race](https://github.blog/2022-06-16-the-android-kernel-mitigations-obstacle-race/) (06/16/22)
  - [Git Merge 2022](https://github.blog/2022-06-15-git-merge-2022/) (06/16/22)
  - [Prebuilding codespaces is generally available](https://github.blog/2022-06-15-prebuilding-codespaces-is-generally-available/) (06/15/22)
- - [GitHub now publishes malware advisories in the GitHub Advisory Database](https://github.blog/2022-06-15-github-now-publishes-malware-advisories-in-the-github-advisory-database/) (06/15/22)
 <!-- GITHUB:END -->
