@@ -23,10 +23,10 @@
 
 <!-- AZUREINFOHUB:START -->
 - [Creating a more comprehensive dependency graph with build time detection](https://github.blog/2022-06-17-creating-comprehensive-dependency-graph-build-time-detection/)
+- [Released: Microsoft.Data.SqlClient 5.0 Preview 3](https://techcommunity.microsoft.com/t5/sql-server-blog/released-microsoft-data-sqlclient-5-0-preview-3/ba-p/3522399)
 - [Prevent surprises in Azure billing with automation!](https://techcommunity.microsoft.com/t5/educator-developer-blog/prevent-surprises-in-azure-billing-with-automation/ba-p/3522127)
 - [Prevent surprises in Azure billing with automation!](https://techcommunity.microsoft.com/t5/educator-developer-blog/prevent-surprises-in-azure-billing-with-automation/ba-p/3522127)
 - [Top Stores from the Microsoft DevOps Community – 17.06.2022](https://devblogs.microsoft.com/devops/top-stores-from-the-microsoft-devops-community-17-06-2022/)
-- [Friday Five: Azure Portal, GitHub Tips, More!](https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/friday-five-azure-portal-github-tips-more/ba-p/3518430)
 <!-- AZUREINFOHUB:END -->
 
 
