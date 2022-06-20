@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [DevOps Dojo – UX/Accessibility](https://devblogs.microsoft.com/devops/devops-dojo-ux-accessibility/)
 - [Top Stores from the Microsoft DevOps Community – 17.06.2022](https://devblogs.microsoft.com/devops/top-stores-from-the-microsoft-devops-community-17-06-2022/)
 - [Copy a work item type using Azure DevOps API’s](https://devblogs.microsoft.com/devops/copy-a-work-item-type-using-azure-devops-apis-undocumented/)
 - [DevOps Dojo – OKRs (Objectives and Key Results)](https://devblogs.microsoft.com/devops/devops-dojo-okrs-objectives-and-key-results/)
 - [DevOps Dojo: Lean Product – Part 3](https://devblogs.microsoft.com/devops/devops-dojo-lean-product-part-3/)
-- [Top Stories from the Microsoft DevOps Community – 04.06.2022](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-04-06-2022/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
