@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Creating a more comprehensive dependency graph with build time detection](https://github.blog/2022-06-17-creating-comprehensive-dependency-graph-build-time-detection/)
-- [Released: Microsoft.Data.SqlClient 5.0 Preview 3](https://techcommunity.microsoft.com/t5/sql-server-blog/released-microsoft-data-sqlclient-5-0-preview-3/ba-p/3522399)
-- [Prevent surprises in Azure billing with automation!](https://techcommunity.microsoft.com/t5/educator-developer-blog/prevent-surprises-in-azure-billing-with-automation/ba-p/3522127)
-- [Prevent surprises in Azure billing with automation!](https://techcommunity.microsoft.com/t5/educator-developer-blog/prevent-surprises-in-azure-billing-with-automation/ba-p/3522127)
-- [Top Stores from the Microsoft DevOps Community – 17.06.2022](https://devblogs.microsoft.com/devops/top-stores-from-the-microsoft-devops-community-17-06-2022/)
+- [DevOps Dojo – UX/Accessibility](https://devblogs.microsoft.com/devops/devops-dojo-ux-accessibility/)
+- [GitHub enables the development of functional safety applications by adding support for coding standards AUTOSAR C++  and CERT C++](https://github.blog/2022-06-20-adding-support-for-coding-standards-autosar-c-and-cert-c/)
+- [Day 8 of 30 Days of Learning Data Analysis Using Power BI for Students](https://techcommunity.microsoft.com/t5/educator-developer-blog/day-8-of-30-days-of-learning-data-analysis-using-power-bi-for/ba-p/3529938)
+- [Episode 427 - SONiC](http://azpodcast.azurewebsites.net/post/Episode-427-SONiC)
+- [Day 6 of 30 Days of Learning Data Analysis Using Power BI for Students](https://techcommunity.microsoft.com/t5/educator-developer-blog/day-6-of-30-days-of-learning-data-analysis-using-power-bi-for/ba-p/3528991)
 <!-- AZUREINFOHUB:END -->
 
 
