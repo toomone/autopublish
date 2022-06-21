@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [GitHub Copilot is generally available to all developers](https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/) (06/21/22)
  - [GitHub enables the development of functional safety applications by adding support for coding standards AUTOSAR C++  and CERT C++](https://github.blog/2022-06-20-adding-support-for-coding-standards-autosar-c-and-cert-c/) (06/20/22)
  - [Creating a more comprehensive dependency graph with build time detection](https://github.blog/2022-06-17-creating-comprehensive-dependency-graph-build-time-detection/) (06/17/22)
  - [Release Radar · May 2022 Edition](https://github.blog/2022-06-16-release-radar-may-2022/) (06/16/22)
  - [The Android kernel mitigations obstacle race](https://github.blog/2022-06-16-the-android-kernel-mitigations-obstacle-race/) (06/16/22)
- - [Git Merge 2022](https://github.blog/2022-06-15-git-merge-2022/) (06/16/22)
 <!-- GITHUB:END -->
