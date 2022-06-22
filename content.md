@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [GitHub Copilot is generally available to all developers](https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/)
-- [Azure Landing Zones | Architectural Blueprint, Tooling &amp; Best Practices](https://techcommunity.microsoft.com/t5/microsoft-mechanics-blog/azure-landing-zones-architectural-blueprint-tooling-amp-best/ba-p/3530857)
-- [New API backend options in Azure Static Web Apps](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/new-api-backend-options-in-azure-static-web-apps/ba-p/3516882)
-- [New API backend options in Azure Static Web Apps](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/new-api-backend-options-in-azure-static-web-apps/ba-p/3516882)
-- [CICD Automation in Synapse Analytics: taking advantage of custom parameters in Workspace Templates](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/cicd-automation-in-synapse-analytics-taking-advantage-of-custom/ba-p/3513546)
+- [What’s new in Codespaces for Organizations](https://github.blog/2022-06-22-whats-new-in-codespaces-for-organizations/)
+- [Introducing BlindAI: An Open-Source and privacy-friendly AI deployment solution](https://techcommunity.microsoft.com/t5/azure-confidential-computing/introducing-blindai-an-open-source-and-privacy-friendly-ai/ba-p/3519306)
+- [Automation for responding to Microsoft Defender for Key Vault alerts](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/automation-for-responding-to-microsoft-defender-for-key-vault/ba-p/3539417)
+- [Azure Marketplace new offers – June 22, 2022](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/azure-marketplace-new-offers-june-22-2022/ba-p/3292642)
+- [Day 10 of 30 Days of Learning Data Analysis Using Power BI for Students](https://techcommunity.microsoft.com/t5/educator-developer-blog/day-10-of-30-days-of-learning-data-analysis-using-power-bi-for/ba-p/3537583)
 <!-- AZUREINFOHUB:END -->
 
 
