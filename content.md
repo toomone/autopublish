@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [What’s new in Codespaces for Organizations](https://github.blog/2022-06-22-whats-new-in-codespaces-for-organizations/)
-- [Introducing BlindAI: An Open-Source and privacy-friendly AI deployment solution](https://techcommunity.microsoft.com/t5/azure-confidential-computing/introducing-blindai-an-open-source-and-privacy-friendly-ai/ba-p/3519306)
-- [Automation for responding to Microsoft Defender for Key Vault alerts](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/automation-for-responding-to-microsoft-defender-for-key-vault/ba-p/3539417)
-- [Azure Marketplace new offers – June 22, 2022](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/azure-marketplace-new-offers-june-22-2022/ba-p/3292642)
-- [Day 10 of 30 Days of Learning Data Analysis Using Power BI for Students](https://techcommunity.microsoft.com/t5/educator-developer-blog/day-10-of-30-days-of-learning-data-analysis-using-power-bi-for/ba-p/3537583)
+- [Azure Tips and Tricks - Remove Azure Secrets committed to GitHub](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/azure-tips-and-tricks-remove-azure-secrets-committed-to-github/ba-p/3545349)
+- [Azure Tips and Tricks - How to get started with Azure Container Apps](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/azure-tips-and-tricks-how-to-get-started-with-azure-container/ba-p/3545026)
+- [Azure Tips and Tricks - How to get started with Azure Container Apps](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/azure-tips-and-tricks-how-to-get-started-with-azure-container/ba-p/3545026)
+- [Early technical preview of JDBC Driver 11.1.2 for SQL Server released](https://techcommunity.microsoft.com/t5/sql-server-blog/early-technical-preview-of-jdbc-driver-11-1-2-for-sql-server/ba-p/3535697)
+- [Announcing GA launch of Kafka Trigger extension on Azure Functions](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/announcing-ga-launch-of-kafka-trigger-extension-on-azure/ba-p/3499015)
 <!-- AZUREINFOHUB:END -->
 
 
