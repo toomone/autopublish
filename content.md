@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Azure Tips and Tricks - Remove Azure Secrets committed to GitHub](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/azure-tips-and-tricks-remove-azure-secrets-committed-to-github/ba-p/3545349)
-- [Azure Tips and Tricks - How to get started with Azure Container Apps](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/azure-tips-and-tricks-how-to-get-started-with-azure-container/ba-p/3545026)
-- [Azure Tips and Tricks - How to get started with Azure Container Apps](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/azure-tips-and-tricks-how-to-get-started-with-azure-container/ba-p/3545026)
-- [Early technical preview of JDBC Driver 11.1.2 for SQL Server released](https://techcommunity.microsoft.com/t5/sql-server-blog/early-technical-preview-of-jdbc-driver-11-1-2-for-sql-server/ba-p/3535697)
-- [Announcing GA launch of Kafka Trigger extension on Azure Functions](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/announcing-ga-launch-of-kafka-trigger-extension-on-azure/ba-p/3499015)
+- [Thank you to our maintainers](https://github.blog/2022-06-24-thank-you-to-our-maintainers/)
+- [Microsoft Defender for Office 365 Ninja Training:  June 2022 Update](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/microsoft-defender-for-office-365-ninja-training-june-2022/ba-p/3507251)
+- [Friday Five: WinUI 3, SharePoint, More!](https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/friday-five-winui-3-sharepoint-more/ba-p/3546080)
+- [Introduction to Data Analysis Expression &lpar;DAX&rpar; for Beginners](https://techcommunity.microsoft.com/t5/educator-developer-blog/introduction-to-data-analysis-expression-dax-for-beginners/ba-p/3542815)
+- [Azure Tips and Tricks - Setup an Azure Pipeline with Node.js](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/azure-tips-and-tricks-setup-an-azure-pipeline-with-node-js/ba-p/3545930)
 <!-- AZUREINFOHUB:END -->
 
 
