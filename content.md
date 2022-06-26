@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Create A Hackathon Submission Platform For Free With GitHub](https://techcommunity.microsoft.com/t5/educator-developer-blog/create-a-hackathon-submission-platform-for-free-with-github/ba-p/3551579)
 - [Thank you to our maintainers](https://github.blog/2022-06-24-thank-you-to-our-maintainers/)
 - [Microsoft Defender for Office 365 Ninja Training:  June 2022 Update](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/microsoft-defender-for-office-365-ninja-training-june-2022/ba-p/3507251)
 - [Friday Five: WinUI 3, SharePoint, More!](https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/friday-five-winui-3-sharepoint-more/ba-p/3546080)
 - [Introduction to Data Analysis Expression &lpar;DAX&rpar; for Beginners](https://techcommunity.microsoft.com/t5/educator-developer-blog/introduction-to-data-analysis-expression-dax-for-beginners/ba-p/3542815)
-- [Azure Tips and Tricks - Setup an Azure Pipeline with Node.js](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/azure-tips-and-tricks-setup-an-azure-pipeline-with-node-js/ba-p/3545930)
 <!-- AZUREINFOHUB:END -->
 
 
