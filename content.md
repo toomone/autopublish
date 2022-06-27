@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [GitHub Advisory Database now supports Erlang and Elixir packages!](https://github.blog/2022-06-27-github-advisory-database-now-supports-erlang-and-elixir-packages/) (06/27/22)
+ - [Highlights from Git 2.37](https://github.blog/2022-06-27-highlights-from-git-2-37/) (06/27/22)
  - [Thank you to our maintainers](https://github.blog/2022-06-24-thank-you-to-our-maintainers/) (06/24/22)
  - [What’s new in Codespaces for Organizations](https://github.blog/2022-06-22-whats-new-in-codespaces-for-organizations/) (06/22/22)
  - [GitHub Copilot is generally available to all developers](https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/) (06/21/22)
- - [GitHub enables the development of functional safety applications by adding support for coding standards AUTOSAR C++  and CERT C++](https://github.blog/2022-06-20-adding-support-for-coding-standards-autosar-c-and-cert-c/) (06/20/22)
- - [Creating a more comprehensive dependency graph with build time detection](https://github.blog/2022-06-17-creating-comprehensive-dependency-graph-build-time-detection/) (06/17/22)
 <!-- GITHUB:END -->
