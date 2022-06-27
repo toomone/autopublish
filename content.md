@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Create A Hackathon Submission Platform For Free With GitHub](https://techcommunity.microsoft.com/t5/educator-developer-blog/create-a-hackathon-submission-platform-for-free-with-github/ba-p/3551579)
-- [Thank you to our maintainers](https://github.blog/2022-06-24-thank-you-to-our-maintainers/)
-- [Microsoft Defender for Office 365 Ninja Training:  June 2022 Update](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/microsoft-defender-for-office-365-ninja-training-june-2022/ba-p/3507251)
-- [Friday Five: WinUI 3, SharePoint, More!](https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/friday-five-winui-3-sharepoint-more/ba-p/3546080)
-- [Introduction to Data Analysis Expression &lpar;DAX&rpar; for Beginners](https://techcommunity.microsoft.com/t5/educator-developer-blog/introduction-to-data-analysis-expression-dax-for-beginners/ba-p/3542815)
+- [GitHub Advisory Database now supports Erlang and Elixir packages!](https://github.blog/2022-06-27-github-advisory-database-now-supports-erlang-and-elixir-packages/)
+- [Highlights from Git 2.37](https://github.blog/2022-06-27-highlights-from-git-2-37/)
+- [Strengthen the security posture of your SaaS apps with Defender for Cloud Apps](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/strengthen-the-security-posture-of-your-saas-apps-with-defender/ba-p/3554893)
+- [A welcome to the In-Country MLSA Peer Mentorship Program](https://techcommunity.microsoft.com/t5/educator-developer-blog/a-welcome-to-the-in-country-mlsa-peer-mentorship-program/ba-p/3554574)
+- [Build, Scale &amp; Operate Kubernetes Workloads in Azure | 2022 Updates](https://techcommunity.microsoft.com/t5/microsoft-mechanics-blog/build-scale-amp-operate-kubernetes-workloads-in-azure-2022/ba-p/3552164)
 <!-- AZUREINFOHUB:END -->
 
 
