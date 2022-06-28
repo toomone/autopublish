@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [Improving Git protocol security on GitHub Enterprise Server](https://github.blog/2022-06-28-improving-git-protocol-security-on-github-enterprise-server/) (06/28/22)
  - [GitHub Advisory Database now supports Erlang and Elixir packages!](https://github.blog/2022-06-27-github-advisory-database-now-supports-erlang-and-elixir-packages/) (06/27/22)
  - [Highlights from Git 2.37](https://github.blog/2022-06-27-highlights-from-git-2-37/) (06/27/22)
  - [Thank you to our maintainers](https://github.blog/2022-06-24-thank-you-to-our-maintainers/) (06/24/22)
  - [What’s new in Codespaces for Organizations](https://github.blog/2022-06-22-whats-new-in-codespaces-for-organizations/) (06/22/22)
- - [GitHub Copilot is generally available to all developers](https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/) (06/21/22)
 <!-- GITHUB:END -->
