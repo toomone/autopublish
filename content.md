@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Improving Git protocol security on GitHub Enterprise Server](https://github.blog/2022-06-28-improving-git-protocol-security-on-github-enterprise-server/)
+- [30DaysOfLearning: Data Science Summary](https://techcommunity.microsoft.com/t5/educator-developer-blog/30daysoflearning-data-science-summary/ba-p/3557884)
+- [MRTK3 Public Preview!](https://techcommunity.microsoft.com/t5/mixed-reality-blog/mrtk3-public-preview/ba-p/3556892)
 - [GitHub Advisory Database now supports Erlang and Elixir packages!](https://github.blog/2022-06-27-github-advisory-database-now-supports-erlang-and-elixir-packages/)
 - [Highlights from Git 2.37](https://github.blog/2022-06-27-highlights-from-git-2-37/)
-- [Strengthen the security posture of your SaaS apps with Defender for Cloud Apps](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/strengthen-the-security-posture-of-your-saas-apps-with-defender/ba-p/3554893)
-- [A welcome to the In-Country MLSA Peer Mentorship Program](https://techcommunity.microsoft.com/t5/educator-developer-blog/a-welcome-to-the-in-country-mlsa-peer-mentorship-program/ba-p/3554574)
-- [Build, Scale &amp; Operate Kubernetes Workloads in Azure | 2022 Updates](https://techcommunity.microsoft.com/t5/microsoft-mechanics-blog/build-scale-amp-operate-kubernetes-workloads-in-azure-2022/ba-p/3552164)
 <!-- AZUREINFOHUB:END -->
 
 
