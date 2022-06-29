@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Improving Git protocol security on GitHub Enterprise Server](https://github.blog/2022-06-28-improving-git-protocol-security-on-github-enterprise-server/)
-- [30DaysOfLearning: Data Science Summary](https://techcommunity.microsoft.com/t5/educator-developer-blog/30daysoflearning-data-science-summary/ba-p/3557884)
-- [MRTK3 Public Preview!](https://techcommunity.microsoft.com/t5/mixed-reality-blog/mrtk3-public-preview/ba-p/3556892)
-- [GitHub Advisory Database now supports Erlang and Elixir packages!](https://github.blog/2022-06-27-github-advisory-database-now-supports-erlang-and-elixir-packages/)
-- [Highlights from Git 2.37](https://github.blog/2022-06-27-highlights-from-git-2-37/)
+- [The Chromium super &lpar;inline cache&rpar; type confusion](https://github.blog/2022-06-29-the-chromium-super-inline-cache-type-confusion/)
+- [Improve Git monorepo performance with a file system monitor](https://github.blog/2022-06-29-improve-git-monorepo-performance-with-a-file-system-monitor/)
+- [Introduction to Power BI Service and Building Interactive Dashboard](https://techcommunity.microsoft.com/t5/educator-developer-blog/introduction-to-power-bi-service-and-building-interactive/ba-p/3560976)
+- [Simplify and accelerate development and deployment of computer vision solutions for manufacturing](https://techcommunity.microsoft.com/t5/internet-of-things-blog/simplify-and-accelerate-development-and-deployment-of-computer/ba-p/3546418)
+- [Azure Marketplace new offers – June 29, 2022](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/azure-marketplace-new-offers-june-29-2022/ba-p/3292641)
 <!-- AZUREINFOHUB:END -->
 
 
