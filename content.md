@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [Write Better Commits, Build Better Projects](https://github.blog/2022-06-30-write-better-commits-build-better-projects/) (06/30/22)
+ - [What to do when your open source project becomes a community?](https://github.blog/2022-06-30-what-to-do-when-your-open-source-project-becomes-a-community/) (06/30/22)
+ - [Announcing the summer 2022 MLH Fellowship GitHub Contributors](https://github.blog/2022-06-30-announcing-the-summer-2022-mlh-fellowship-github-contributors/) (06/30/22)
  - [The Chromium super &lpar;inline cache&rpar; type confusion](https://github.blog/2022-06-29-the-chromium-super-inline-cache-type-confusion/) (06/29/22)
  - [Improve Git monorepo performance with a file system monitor](https://github.blog/2022-06-29-improve-git-monorepo-performance-with-a-file-system-monitor/) (06/29/22)
- - [Improving Git protocol security on GitHub Enterprise Server](https://github.blog/2022-06-28-improving-git-protocol-security-on-github-enterprise-server/) (06/28/22)
- - [GitHub Advisory Database now supports Erlang and Elixir packages!](https://github.blog/2022-06-27-github-advisory-database-now-supports-erlang-and-elixir-packages/) (06/27/22)
- - [Highlights from Git 2.37](https://github.blog/2022-06-27-highlights-from-git-2-37/) (06/27/22)
 <!-- GITHUB:END -->
