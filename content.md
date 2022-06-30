@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [The Chromium super &lpar;inline cache&rpar; type confusion](https://github.blog/2022-06-29-the-chromium-super-inline-cache-type-confusion/)
-- [Improve Git monorepo performance with a file system monitor](https://github.blog/2022-06-29-improve-git-monorepo-performance-with-a-file-system-monitor/)
-- [Introduction to Power BI Service and Building Interactive Dashboard](https://techcommunity.microsoft.com/t5/educator-developer-blog/introduction-to-power-bi-service-and-building-interactive/ba-p/3560976)
-- [Simplify and accelerate development and deployment of computer vision solutions for manufacturing](https://techcommunity.microsoft.com/t5/internet-of-things-blog/simplify-and-accelerate-development-and-deployment-of-computer/ba-p/3546418)
-- [Azure Marketplace new offers – June 29, 2022](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/azure-marketplace-new-offers-june-29-2022/ba-p/3292641)
+- [Write Better Commits, Build Better Projects](https://github.blog/2022-06-30-write-better-commits-build-better-projects/)
+- [What to do when your open source project becomes a community?](https://github.blog/2022-06-30-what-to-do-when-your-open-source-project-becomes-a-community/)
+- [Announcing the summer 2022 MLH Fellowship GitHub Contributors](https://github.blog/2022-06-30-announcing-the-summer-2022-mlh-fellowship-github-contributors/)
+- [Azure Communication Services UI Library Now Available for iOS and Android](https://techcommunity.microsoft.com/t5/azure-communication-services/azure-communication-services-ui-library-now-available-for-ios/ba-p/3556319)
+- [PostgreSQL v14 is now available in Flexible Server PostgreSQL!](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/postgresql-v14-is-now-available-in-flexible-server-postgresql/ba-p/3563025)
 <!-- AZUREINFOHUB:END -->
 
 
