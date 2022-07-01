@@ -34,8 +34,8 @@
 
 <!-- AZUREUPDATES:START -->
 
- - [MLOPs Blog Series Part 3: Testing scalability of secure machine learning systems using MLOps](https://azure.microsoft.com/blog/mlops-blog-series-part-3-testing-scalability-of-secure-machine-learning-systems-using-mlops/) (06/30/22)
- - [MLOPs Blog Series Part 2: Testing robustness of secure machine learning systems using machine learning ops](https://azure.microsoft.com/blog/mlops-blog-series-part-2-testing-robustness-of-secure-machine-learning-systems-using-machine-learning-ops/) (06/22/22)
+ - [MLOps Blog Series Part 3: Testing scalability of secure machine learning systems using MLOps](https://azure.microsoft.com/blog/mlops-blog-series-part-3-testing-scalability-of-secure-machine-learning-systems-using-mlops/) (06/30/22)
+ - [MLOps Blog Series Part 2: Testing robustness of secure machine learning systems using machine learning ops](https://azure.microsoft.com/blog/mlops-blog-series-part-2-testing-robustness-of-secure-machine-learning-systems-using-machine-learning-ops/) (06/22/22)
  - [MLOps Blog Series Part 1: The art of testing machine learning systems using MLOps](https://azure.microsoft.com/blog/mlops-blog-series-part-1-the-art-of-testing-machine-learning-systems-using-mlops/) (06/14/22)
  - [Code, test, and ship your next app quickly and securely with Microsoft developer tools](https://azure.microsoft.com/blog/code-test-and-ship-your-next-app-quickly-and-securely-with-microsoft-developer-tools/) (05/24/22)
  - [Scale your cloud-native apps and accelerate app modernization with Azure, the best cloud for your apps](https://azure.microsoft.com/blog/scale-your-cloudnative-apps-and-accelerate-app-modernization-with-azure-the-best-cloud-for-your-apps/) (05/24/22)
