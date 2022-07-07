@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [Top tips for creating a healthy and sustainable open source community](https://github.blog/2022-07-07-healthy-and-sustainable-communities/) (07/07/22)
  - [GitHub Availability Report: June 2022](https://github.blog/2022-07-06-github-availability-report-june-2022/) (07/06/22)
  - [Managing a game dev community with GitHub Actions](https://github.blog/2022-07-06-managing-a-game-dev-community/) (07/06/22)
  - [Extend your dependency information in the GitHub Dependency Graph with new GitHub Actions](https://github.blog/2022-07-01-extend-your-dependency-information-in-the-github-dependency-graph-with-new-github-actions/) (07/01/22)
  - [How the GitHub Security Team uses projects and GitHub Actions for planning, tracking, and more](https://github.blog/2022-07-01-how-the-github-security-team-uses-projects-and-github-actions-for-planning-tracking-and-more/) (07/01/22)
- - [Write Better Commits, Build Better Projects](https://github.blog/2022-06-30-write-better-commits-build-better-projects/) (06/30/22)
 <!-- GITHUB:END -->
