@@ -22,10 +22,10 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Top tips for creating a healthy and sustainable open source community](https://github.blog/2022-07-07-healthy-and-sustainable-communities/)
 - [GitHub Availability Report: June 2022](https://github.blog/2022-07-06-github-availability-report-june-2022/)
 - [Managing a game dev community with GitHub Actions](https://github.blog/2022-07-06-managing-a-game-dev-community/)
 - [Managing a game dev community with GitHub Actions](https://github.blog/2022-07-06-managing-a-game-dev-community/)
-- [Extend your dependency information in the GitHub Dependency Graph with new GitHub Actions](https://github.blog/2022-07-01-extend-your-dependency-information-in-the-github-dependency-graph-with-new-github-actions/)
 - [Extend your dependency information in the GitHub Dependency Graph with new GitHub Actions](https://github.blog/2022-07-01-extend-your-dependency-information-in-the-github-dependency-graph-with-new-github-actions/)
 <!-- AZUREINFOHUB:END -->
 
