@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Enable File Sharing with the Azure Communication Services UI Library and Azure Blob Storage](https://techcommunity.microsoft.com/t5/azure-communication-services/enable-file-sharing-with-the-azure-communication-services-ui/ba-p/3494206)
+- [More Fun with Azure Container Apps and Compose Files](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/more-fun-with-azure-container-apps-and-compose-files/ba-p/3570234)
+- [What&#39;s New in Notebooks - MSTICPy v2.0.0](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-in-notebooks-msticpy-v2-0-0/ba-p/3565877)
 - [Top tips for creating a healthy and sustainable open source community](https://github.blog/2022-07-07-healthy-and-sustainable-communities/)
 - [GitHub Availability Report: June 2022](https://github.blog/2022-07-06-github-availability-report-june-2022/)
-- [Managing a game dev community with GitHub Actions](https://github.blog/2022-07-06-managing-a-game-dev-community/)
-- [Managing a game dev community with GitHub Actions](https://github.blog/2022-07-06-managing-a-game-dev-community/)
-- [Extend your dependency information in the GitHub Dependency Graph with new GitHub Actions](https://github.blog/2022-07-01-extend-your-dependency-information-in-the-github-dependency-graph-with-new-github-actions/)
 <!-- AZUREINFOHUB:END -->
 
 
