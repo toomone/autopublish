@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Enable File Sharing with the Azure Communication Services UI Library and Azure Blob Storage](https://techcommunity.microsoft.com/t5/azure-communication-services/enable-file-sharing-with-the-azure-communication-services-ui/ba-p/3494206)
-- [More Fun with Azure Container Apps and Compose Files](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/more-fun-with-azure-container-apps-and-compose-files/ba-p/3570234)
-- [What&#39;s New in Notebooks - MSTICPy v2.0.0](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-in-notebooks-msticpy-v2-0-0/ba-p/3565877)
-- [Top tips for creating a healthy and sustainable open source community](https://github.blog/2022-07-07-healthy-and-sustainable-communities/)
-- [GitHub Availability Report: June 2022](https://github.blog/2022-07-06-github-availability-report-june-2022/)
+- [Content archived for Azure DevOps previous versions](https://devblogs.microsoft.com/devops/content-archived-for-azure-devops-previous-versions/)
+- [July patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/july-patches-for-azure-devops-server/)
+- [Securing supply chain systems with ledger in Azure SQL: Lenovo&#39;s story](https://techcommunity.microsoft.com/t5/azure-sql-blog/securing-supply-chain-systems-with-ledger-in-azure-sql-lenovo-s/ba-p/3568969)
+- [Can I create an Azure Container Apps in Terraform? Yes, you can!](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/can-i-create-an-azure-container-apps-in-terraform-yes-you-can/ba-p/3570694)
+- [拡張セキュリティ更新プログラム &lpar;ESU&rpar; について](https://techcommunity.microsoft.com/t5/sql-server-support-blog/%E6%8B%A1%E5%BC%B5%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%9B%B4%E6%96%B0%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0-esu-%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/ba-p/3570535)
 <!-- AZUREINFOHUB:END -->
 
 
