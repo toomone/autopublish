@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [AKS on Azure Stack HCI and Windows Server - June 2022 update](https://techcommunity.microsoft.com/t5/azure-stack-blog/aks-on-azure-stack-hci-and-windows-server-june-2022-update/ba-p/3571633)
-- [Content archived for Azure DevOps previous versions](https://devblogs.microsoft.com/devops/content-archived-for-azure-devops-previous-versions/)
-- [July patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/july-patches-for-azure-devops-server/)
-- [Securing supply chain systems with ledger in Azure SQL: Lenovo&#39;s story](https://techcommunity.microsoft.com/t5/azure-sql-blog/securing-supply-chain-systems-with-ledger-in-azure-sql-lenovo-s/ba-p/3568969)
-- [Can I create an Azure Container Apps in Terraform? Yes, you can!](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/can-i-create-an-azure-container-apps-in-terraform-yes-you-can/ba-p/3570694)
+- [Azure Boards Summer Update](https://devblogs.microsoft.com/devops/azure-boards-summer-update-2/)
+- [Research: How GitHub Copilot helps improve developer productivity](https://github.blog/2022-07-14-research-how-github-copilot-helps-improve-developer-productivity/)
+- [#Peer Mentorship: Git &amp; GitHub Workshop](https://techcommunity.microsoft.com/t5/educator-developer-blog/peer-mentorship-git-amp-github-workshop/ba-p/3572919)
+- [#Peer Mentorship: Git &amp; GitHub Workshop](https://techcommunity.microsoft.com/t5/educator-developer-blog/peer-mentorship-git-amp-github-workshop/ba-p/3572919)
+- [Updated HashiCorp Terraform Provider for Azure Stack Hub](https://techcommunity.microsoft.com/t5/azure-stack-blog/updated-hashicorp-terraform-provider-for-azure-stack-hub/ba-p/3566941)
 <!-- AZUREINFOHUB:END -->
 
 
