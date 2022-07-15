@@ -24,9 +24,9 @@
 <!-- AZUREINFOHUB:START -->
 - [Azure Boards Summer Update](https://devblogs.microsoft.com/devops/azure-boards-summer-update-2/)
 - [Research: How GitHub Copilot helps improve developer productivity](https://github.blog/2022-07-14-research-how-github-copilot-helps-improve-developer-productivity/)
+- [Meet a recent Microsoft Learn Student Ambassador graduate: Felix Omuok](https://techcommunity.microsoft.com/t5/student-developer-blog/meet-a-recent-microsoft-learn-student-ambassador-graduate-felix/ba-p/3573526)
 - [#Peer Mentorship: Git &amp; GitHub Workshop](https://techcommunity.microsoft.com/t5/educator-developer-blog/peer-mentorship-git-amp-github-workshop/ba-p/3572919)
 - [#Peer Mentorship: Git &amp; GitHub Workshop](https://techcommunity.microsoft.com/t5/educator-developer-blog/peer-mentorship-git-amp-github-workshop/ba-p/3572919)
-- [Updated HashiCorp Terraform Provider for Azure Stack Hub](https://techcommunity.microsoft.com/t5/azure-stack-blog/updated-hashicorp-terraform-provider-for-azure-stack-hub/ba-p/3566941)
 <!-- AZUREINFOHUB:END -->
 
 
