@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Azure Boards Summer Update](https://devblogs.microsoft.com/devops/azure-boards-summer-update-2/)
-- [Research: How GitHub Copilot helps improve developer productivity](https://github.blog/2022-07-14-research-how-github-copilot-helps-improve-developer-productivity/)
-- [Meet a recent Microsoft Learn Student Ambassador graduate: Felix Omuok](https://techcommunity.microsoft.com/t5/student-developer-blog/meet-a-recent-microsoft-learn-student-ambassador-graduate-felix/ba-p/3573526)
-- [#Peer Mentorship: Git &amp; GitHub Workshop](https://techcommunity.microsoft.com/t5/educator-developer-blog/peer-mentorship-git-amp-github-workshop/ba-p/3572919)
-- [#Peer Mentorship: Git &amp; GitHub Workshop](https://techcommunity.microsoft.com/t5/educator-developer-blog/peer-mentorship-git-amp-github-workshop/ba-p/3572919)
+- [Open Source Monthly: July 2022 Edition](https://github.blog/2022-07-18-open-source-monthly-july-2022-edition/)
+- [Carbon Footprint Management with Data-Driven AI and IoT](https://techcommunity.microsoft.com/t5/ai-applied-ai-blog/carbon-footprint-management-with-data-driven-ai-and-iot/ba-p/3511954)
+- [Microsoft Purview Information Protection now includes enhanced security for detection of credentials](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-purview-information-protection-now-includes-enhanced/ba-p/3563124)
+- [Microsoft Purview Information Protection now includes enhanced security for detection of credentials](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-purview-information-protection-now-includes-enhanced/ba-p/3563124)
+- [Announcing the Test Base developer community on GitHub](https://techcommunity.microsoft.com/t5/test-base-blog/announcing-the-test-base-developer-community-on-github/ba-p/3575192)
 <!-- AZUREINFOHUB:END -->
 
 
