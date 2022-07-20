@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Here’s how academic research is shaping GitHub Discussions](https://github.blog/2022-07-20-heres-how-academic-research-is-shaping-github-discussions/)
+- [Using Power Apps to build a safety mobile application with SharePoint and Twilio](https://techcommunity.microsoft.com/t5/educator-developer-blog/using-power-apps-to-build-a-safety-mobile-application-with/ba-p/3576905)
 - [6 strategic ways to level up your CI/CD pipeline](https://github.blog/2022-07-19-6-strategic-ways-to-level-up-your-ci-cd-pipeline/)
 - [Data pre-processing for Azure Data Explorer with Apache Spark](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/data-pre-processing-for-azure-data-explorer-with-apache-spark/ba-p/2727993)
 - [Announcing Public Preview for Microsoft Azure Monitor for SAP solutions](https://techcommunity.microsoft.com/t5/running-sap-applications-on-the/announcing-public-preview-for-microsoft-azure-monitor-for-sap/ba-p/3575745)
-- [What’s new in Test Base for Microsoft 365: Inspire 2022 edition](https://techcommunity.microsoft.com/t5/test-base-blog/what-s-new-in-test-base-for-microsoft-365-inspire-2022-edition/ba-p/3576500)
-- [Educators eager to save class setup time and enable students welcome to Visual Studio Code Server](https://techcommunity.microsoft.com/t5/educator-developer-blog/educators-eager-to-save-class-setup-time-and-enable-students/ba-p/3576259)
 <!-- AZUREINFOHUB:END -->
 
 
