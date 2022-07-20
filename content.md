@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [Here’s how academic research is shaping GitHub Discussions](https://github.blog/2022-07-20-heres-how-academic-research-is-shaping-github-discussions/) (07/20/22)
  - [6 strategic ways to level up your CI/CD pipeline](https://github.blog/2022-07-19-6-strategic-ways-to-level-up-your-ci-cd-pipeline/) (07/19/22)
  - [Open Source Monthly: July 2022 Edition](https://github.blog/2022-07-18-open-source-monthly-july-2022-edition/) (07/18/22)
  - [Research: How GitHub Copilot helps improve developer productivity](https://github.blog/2022-07-14-research-how-github-copilot-helps-improve-developer-productivity/) (07/14/22)
  - [Top tips for creating a healthy and sustainable open source community](https://github.blog/2022-07-07-healthy-and-sustainable-communities/) (07/07/22)
- - [GitHub Availability Report: June 2022](https://github.blog/2022-07-06-github-availability-report-june-2022/) (07/06/22)
 <!-- GITHUB:END -->
