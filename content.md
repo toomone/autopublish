@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Tips &amp; tricks for using GitHub projects for personal productivity](https://github.blog/2022-07-21-tips-tricks-for-using-github-projects-for-personal-productivity/)
 - [Here’s how academic research is shaping GitHub Discussions](https://github.blog/2022-07-20-heres-how-academic-research-is-shaping-github-discussions/)
 - [Using Power Apps to build a safety mobile application with SharePoint and Twilio](https://techcommunity.microsoft.com/t5/educator-developer-blog/using-power-apps-to-build-a-safety-mobile-application-with/ba-p/3576905)
 - [6 strategic ways to level up your CI/CD pipeline](https://github.blog/2022-07-19-6-strategic-ways-to-level-up-your-ci-cd-pipeline/)
 - [Data pre-processing for Azure Data Explorer with Apache Spark](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/data-pre-processing-for-azure-data-explorer-with-apache-spark/ba-p/2727993)
-- [Announcing Public Preview for Microsoft Azure Monitor for SAP solutions](https://techcommunity.microsoft.com/t5/running-sap-applications-on-the/announcing-public-preview-for-microsoft-azure-monitor-for-sap/ba-p/3575745)
 <!-- AZUREINFOHUB:END -->
 
 
