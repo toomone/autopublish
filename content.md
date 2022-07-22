@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [End to end analytical pipeline demo with Synapse](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/end-to-end-analytical-pipeline-demo-with-synapse/ba-p/3579029)
+- [Host your website on Azure Static Web Apps for free](https://techcommunity.microsoft.com/t5/educator-developer-blog/host-your-website-on-azure-static-web-apps-for-free/ba-p/3579709)
+- [Renewing Azure Certification Without Any Additional Cost](https://techcommunity.microsoft.com/t5/community-ninjas-blog/renewing-azure-certification-without-any-additional-cost/ba-p/3574926)
+- [Meet a recent Microsoft Learn Student Ambassador graduate: Momina Dar](https://techcommunity.microsoft.com/t5/student-developer-blog/meet-a-recent-microsoft-learn-student-ambassador-graduate-momina/ba-p/3579467)
 - [Tips &amp; tricks for using GitHub projects for personal productivity](https://github.blog/2022-07-21-tips-tricks-for-using-github-projects-for-personal-productivity/)
-- [Here’s how academic research is shaping GitHub Discussions](https://github.blog/2022-07-20-heres-how-academic-research-is-shaping-github-discussions/)
-- [Using Power Apps to build a safety mobile application with SharePoint and Twilio](https://techcommunity.microsoft.com/t5/educator-developer-blog/using-power-apps-to-build-a-safety-mobile-application-with/ba-p/3576905)
-- [6 strategic ways to level up your CI/CD pipeline](https://github.blog/2022-07-19-6-strategic-ways-to-level-up-your-ci-cd-pipeline/)
-- [Data pre-processing for Azure Data Explorer with Apache Spark](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/data-pre-processing-for-azure-data-explorer-with-apache-spark/ba-p/2727993)
 <!-- AZUREINFOHUB:END -->
 
 
