@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Launching GitHub Community: Powered by GitHub Discussions](https://github.blog/2022-07-26-launching-github-community-powered-by-github-discussions/)
+- [Introducing even more security enhancements to npm](https://github.blog/2022-07-26-introducing-even-more-security-enhancements-to-npm/)
+- [General Availability: Azure Sphere version 22.07 new and updated features](https://techcommunity.microsoft.com/t5/internet-of-things-blog/general-availability-azure-sphere-version-22-07-new-and-updated/ba-p/3583033)
+- [&lpar;Guest Blog&rpar; From MRTK2 to MRTK3 - going cross platform with HoloLens 2 and Quest 2](https://techcommunity.microsoft.com/t5/mixed-reality-blog/guest-blog-from-mrtk2-to-mrtk3-going-cross-platform-with/ba-p/3577325)
 - [End to end analytical pipeline demo with Synapse](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/end-to-end-analytical-pipeline-demo-with-synapse/ba-p/3579029)
-- [Host your website on Azure Static Web Apps for free](https://techcommunity.microsoft.com/t5/educator-developer-blog/host-your-website-on-azure-static-web-apps-for-free/ba-p/3579709)
-- [Renewing Azure Certification Without Any Additional Cost](https://techcommunity.microsoft.com/t5/community-ninjas-blog/renewing-azure-certification-without-any-additional-cost/ba-p/3574926)
-- [Meet a recent Microsoft Learn Student Ambassador graduate: Momina Dar](https://techcommunity.microsoft.com/t5/student-developer-blog/meet-a-recent-microsoft-learn-student-ambassador-graduate-momina/ba-p/3579467)
-- [Tips &amp; tricks for using GitHub projects for personal productivity](https://github.blog/2022-07-21-tips-tricks-for-using-github-projects-for-personal-productivity/)
 <!-- AZUREINFOHUB:END -->
 
 
