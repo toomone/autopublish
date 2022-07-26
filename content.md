@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [Launching GitHub Community: Powered by GitHub Discussions](https://github.blog/2022-07-26-launching-github-community-powered-by-github-discussions/) (07/26/22)
+ - [Introducing even more security enhancements to npm](https://github.blog/2022-07-26-introducing-even-more-security-enhancements-to-npm/) (07/26/22)
  - [Tips &amp; tricks for using GitHub Projects for personal productivity](https://github.blog/2022-07-21-tips-tricks-for-using-github-projects-for-personal-productivity/) (07/21/22)
  - [Here’s how academic research is shaping GitHub Discussions](https://github.blog/2022-07-20-heres-how-academic-research-is-shaping-github-discussions/) (07/20/22)
  - [6 strategic ways to level up your CI/CD pipeline](https://github.blog/2022-07-19-6-strategic-ways-to-level-up-your-ci-cd-pipeline/) (07/19/22)
- - [Open Source Monthly: July 2022 Edition](https://github.blog/2022-07-18-open-source-monthly-july-2022-edition/) (07/18/22)
- - [Research: How GitHub Copilot helps improve developer productivity](https://github.blog/2022-07-14-research-how-github-copilot-helps-improve-developer-productivity/) (07/14/22)
 <!-- GITHUB:END -->
