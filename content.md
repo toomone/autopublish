@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Release Radar · June 2022 Edition](https://github.blog/2022-07-27-release-radar-jun-2022/)
-- [Corrupting memory without memory corruption](https://github.blog/2022-07-27-corrupting-memory-without-memory-corruption/)
-- [Planning next to your code – GitHub Projects is now generally available](https://github.blog/2022-07-27-planning-next-to-your-code-github-projects-is-now-generally-available/)
-- [Azure Marketplace new offers – July 27, 2022](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/azure-marketplace-new-offers-july-27-2022/ba-p/3568085)
-- [Launching GitHub Community: Powered by GitHub Discussions](https://github.blog/2022-07-26-launching-github-community-powered-by-github-discussions/)
+- [Marketing for maintainers: Promote your project to users and contributors](https://github.blog/2022-07-28-marketing-for-maintainers-how-to-promote-your-project-to-both-users-and-contributors/)
+- [GitHub Sponsors available in 30 new regions](https://github.blog/2022-07-28-github-sponsors-available-in-30-new-regions-2/)
+- [Announcing machine learning features in Microsoft Purview Data Loss Prevention](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/announcing-machine-learning-features-in-microsoft-purview-data/ba-p/3583916)
+- [Microsoft open sources its software bill of materials &lpar;SBOM&rpar; generation tool](https://techcommunity.microsoft.com/t5/public-sector-blog/microsoft-open-sources-its-software-bill-of-materials-sbom/ba-p/3584117)
+- [Implementing Consumer Data Right &lpar;CDR&rpar; Solutions on Azure](https://techcommunity.microsoft.com/t5/azure-architecture-blog/implementing-consumer-data-right-cdr-solutions-on-azure/ba-p/3096375)
 <!-- AZUREINFOHUB:END -->
 
 
