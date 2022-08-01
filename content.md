@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Controlling Blazor Environments on Static Web Apps](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/controlling-blazor-environments-on-static-web-apps/ba-p/3587397)
+- [Controlling Blazor Environments on Static Web Apps](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/controlling-blazor-environments-on-static-web-apps/ba-p/3587397)
 - [Converting Palo Alto policies to Azure Firewall](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/converting-palo-alto-policies-to-azure-firewall/ba-p/3585992)
 - [Marketing for maintainers: Promote your project to users and contributors](https://github.blog/2022-07-28-marketing-for-maintainers-how-to-promote-your-project-to-both-users-and-contributors/)
 - [GitHub Sponsors available in 30 new regions](https://github.blog/2022-07-28-github-sponsors-available-in-30-new-regions-2/)
-- [Announcing machine learning features in Microsoft Purview Data Loss Prevention](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/announcing-machine-learning-features-in-microsoft-purview-data/ba-p/3583916)
-- [Microsoft open sources its software bill of materials &lpar;SBOM&rpar; generation tool](https://techcommunity.microsoft.com/t5/public-sector-blog/microsoft-open-sources-its-software-bill-of-materials-sbom/ba-p/3584117)
 <!-- AZUREINFOHUB:END -->
 
 
