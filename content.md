@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [New Boards Hub, Sprint 208 Update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-208-update/)
 - [Azure Boards Summer Update](https://devblogs.microsoft.com/devops/azure-boards-summer-update-2/)
 - [Content archived for Azure DevOps previous versions](https://devblogs.microsoft.com/devops/content-archived-for-azure-devops-previous-versions/)
 - [July patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/july-patches-for-azure-devops-server/)
 - [DevOps Dojo – UX/Accessibility](https://devblogs.microsoft.com/devops/devops-dojo-ux-accessibility/)
-- [Top Stores from the Microsoft DevOps Community – 17.06.2022](https://devblogs.microsoft.com/devops/top-stores-from-the-microsoft-devops-community-17-06-2022/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
