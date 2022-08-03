@@ -12,7 +12,7 @@
 ## AZURE WEEKLY BLOG
 
 <!-- AZUREWEEKLY:START -->
-- [Azure Weekly Issue 380 - 28th July 2022](https://azureweekly.info/issue-380.html)
+- [Azure Weekly Issue 380 - 31st July 2022](https://azureweekly.info/issue-380.html)
 - [Azure Weekly Issue 379 - 24th July 2022](https://azureweekly.info/issue-379.html)
 - [Azure Weekly Issue 378 - 10th July 2022](https://azureweekly.info/issue-378.html)
 - [Azure Weekly Issue 377 - 3rd July 2022](https://azureweekly.info/issue-377.html)
