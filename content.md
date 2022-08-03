@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [GitHub Availability Report: July 2022](https://github.blog/2022-08-03-github-availability-report-july-2022/)
 - [New Boards Hub, Sprint 208 Update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-208-update/)
 - [Streamline virtual hackathon events with the new Hackathon in the Cloud Experience](https://github.blog/2022-08-02-streamline-virtual-hackathon-events-with-the-new-hackathon-in-the-cloud-experience/)
 - [Controlling Blazor Environments on Static Web Apps](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/controlling-blazor-environments-on-static-web-apps/ba-p/3587397)
 - [Controlling Blazor Environments on Static Web Apps](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/controlling-blazor-environments-on-static-web-apps/ba-p/3587397)
-- [Converting Palo Alto policies to Azure Firewall](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/converting-palo-alto-policies-to-azure-firewall/ba-p/3585992)
 <!-- AZUREINFOHUB:END -->
 
 
