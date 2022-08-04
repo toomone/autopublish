@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [5 simple things you can do with GitHub Packages to level up your workflows](https://github.blog/2022-08-04-5-simple-things-you-can-do-with-github-packages-to-level-up-your-workflows/) (08/04/22)
  - [GitHub Availability Report: July 2022](https://github.blog/2022-08-03-github-availability-report-july-2022/) (08/03/22)
  - [Streamline virtual hackathon events with the new Hackathon in the Cloud Experience](https://github.blog/2022-08-02-streamline-virtual-hackathon-events-with-the-new-hackathon-in-the-cloud-experience/) (08/02/22)
  - [Marketing for maintainers: Promote your project to users and contributors](https://github.blog/2022-07-28-marketing-for-maintainers-how-to-promote-your-project-to-both-users-and-contributors/) (07/28/22)
  - [GitHub Sponsors available in 30 new regions](https://github.blog/2022-07-28-github-sponsors-available-in-30-new-regions-2/) (07/28/22)
- - [Release Radar · June 2022 Edition](https://github.blog/2022-07-27-release-radar-jun-2022/) (07/27/22)
 <!-- GITHUB:END -->
