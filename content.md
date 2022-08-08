@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [New request for comments on improving npm security with Sigstore is now open](https://github.blog/2022-08-08-new-request-for-comments-on-improving-npm-security-with-sigstore-is-now-open/) (08/08/22)
+ - [All GitHub Enterprise users now have access to the security overview](https://github.blog/2022-08-08-all-github-enterprise-users-now-have-access-to-the-security-overview/) (08/08/22)
  - [Release Radar · July 2022 Edition](https://github.blog/2022-08-05-release-radar-jul-2022/) (08/05/22)
  - [5 simple things you can do with GitHub Packages to level up your workflows](https://github.blog/2022-08-04-5-simple-things-you-can-do-with-github-packages-to-level-up-your-workflows/) (08/04/22)
  - [GitHub Availability Report: July 2022](https://github.blog/2022-08-03-github-availability-report-july-2022/) (08/03/22)
- - [Streamline virtual hackathon events with the new Hackathon in the Cloud Experience](https://github.blog/2022-08-02-streamline-virtual-hackathon-events-with-the-new-hackathon-in-the-cloud-experience/) (08/02/22)
- - [Marketing for maintainers: Promote your project to users and contributors](https://github.blog/2022-07-28-marketing-for-maintainers-how-to-promote-your-project-to-both-users-and-contributors/) (07/28/22)
 <!-- GITHUB:END -->
