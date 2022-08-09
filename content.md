@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Introducing Azure DevOps Server 2022 RC1](https://devblogs.microsoft.com/devops/introducing-azure-devops-server-2022-rc1/)
+- [August patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/august-patches-for-azure-devops-server-2/)
+- [Dependabot now alerts for vulnerable GitHub Actions](https://github.blog/2022-08-09-dependabot-now-alerts-for-vulnerable-github-actions/)
+- [Dependabot now alerts for vulnerable GitHub Actions](https://github.blog/2022-08-09-dependabot-now-alerts-for-vulnerable-github-actions/)
 - [New request for comments on improving npm security with Sigstore is now open](https://github.blog/2022-08-08-new-request-for-comments-on-improving-npm-security-with-sigstore-is-now-open/)
-- [All GitHub Enterprise users now have access to the security overview](https://github.blog/2022-08-08-all-github-enterprise-users-now-have-access-to-the-security-overview/)
-- [Release Radar · July 2022 Edition](https://github.blog/2022-08-05-release-radar-jul-2022/)
-- [5 simple things you can do with GitHub Packages to level up your workflows](https://github.blog/2022-08-04-5-simple-things-you-can-do-with-github-packages-to-level-up-your-workflows/)
-- [GitHub Availability Report: July 2022](https://github.blog/2022-08-03-github-availability-report-july-2022/)
 <!-- AZUREINFOHUB:END -->
 
 
