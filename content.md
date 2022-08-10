@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [GitHub Pages now uses Actions by default](https://github.blog/2022-08-10-github-pages-now-uses-actions-by-default/) (08/10/22)
  - [Dependabot now alerts for vulnerable GitHub Actions](https://github.blog/2022-08-09-dependabot-now-alerts-for-vulnerable-github-actions/) (08/09/22)
  - [New request for comments on improving npm security with Sigstore is now open](https://github.blog/2022-08-08-new-request-for-comments-on-improving-npm-security-with-sigstore-is-now-open/) (08/08/22)
  - [All GitHub Enterprise users now have access to the security overview](https://github.blog/2022-08-08-all-github-enterprise-users-now-have-access-to-the-security-overview/) (08/08/22)
  - [Release Radar · July 2022 Edition](https://github.blog/2022-08-05-release-radar-jul-2022/) (08/05/22)
- - [5 simple things you can do with GitHub Packages to level up your workflows](https://github.blog/2022-08-04-5-simple-things-you-can-do-with-github-packages-to-level-up-your-workflows/) (08/04/22)
 <!-- GITHUB:END -->
