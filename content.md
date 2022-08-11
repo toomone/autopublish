@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [GitHub Pages now uses Actions by default](https://github.blog/2022-08-10-github-pages-now-uses-actions-by-default/)
-- [GitHub Pages now uses Actions by default](https://github.blog/2022-08-10-github-pages-now-uses-actions-by-default/)
-- [Azure Marketplace New Offers - August 10, 2022](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/azure-marketplace-new-offers-august-10-2022/ba-p/3568088)
-- [Azure Marketplace New Offers - August 10, 2022](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/azure-marketplace-new-offers-august-10-2022/ba-p/3568088)
-- [PsRule: Introduction to Infrastructure As Code &lpar;IAC&rpar; Testing](https://techcommunity.microsoft.com/t5/itops-talk-blog/psrule-introduction-to-infrastructure-as-code-iac-testing/ba-p/3580746)
+- [Redpoint&#39;s Erica Brescia supports Tech Founders](https://www.hanselminutes.com/)
+- [Defender for Cloud Onboarding workbook](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-for-cloud-onboarding-workbook/ba-p/3597457)
+- [Detect Masqueraded Process Name Anomalies using an ML notebook](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/detect-masqueraded-process-name-anomalies-using-an-ml-notebook/ba-p/3596405)
+- [Watch new demos of how-to deploy Node.js apps to Azure App Service](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/watch-new-demos-of-how-to-deploy-node-js-apps-to-azure-app/ba-p/3595404)
+- [Watch new demos of how-to deploy Node.js apps to Azure App Service](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/watch-new-demos-of-how-to-deploy-node-js-apps-to-azure-app/ba-p/3595404)
 <!-- AZUREINFOHUB:END -->
 
 
