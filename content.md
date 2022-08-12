@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Released: Microsoft.Data.SqlClient 3.1.1](https://techcommunity.microsoft.com/t5/sql-server-blog/released-microsoft-data-sqlclient-3-1-1/ba-p/3598668)
+- [Building .NET Serverless applications with isolated model in Azure Functions and Visual Studio 2022](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/building-net-serverless-applications-with-isolated-model-in/ba-p/3598425)
+- [New ingestion-SampleData-as-a-service solution, for a great Demos and simulation](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-ingestion-sampledata-as-a-service-solution-for-a-great-demos/ba-p/3598500)
 - [Redpoint&#39;s Erica Brescia supports Tech Founders](https://www.hanselminutes.com/)
 - [Defender for Cloud Onboarding workbook](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-for-cloud-onboarding-workbook/ba-p/3597457)
-- [Detect Masqueraded Process Name Anomalies using an ML notebook](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/detect-masqueraded-process-name-anomalies-using-an-ml-notebook/ba-p/3596405)
-- [Watch new demos of how-to deploy Node.js apps to Azure App Service](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/watch-new-demos-of-how-to-deploy-node-js-apps-to-azure-app/ba-p/3595404)
-- [Watch new demos of how-to deploy Node.js apps to Azure App Service](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/watch-new-demos-of-how-to-deploy-node-js-apps-to-azure-app/ba-p/3595404)
 <!-- AZUREINFOHUB:END -->
 
 
