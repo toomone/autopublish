@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Released: Microsoft.Data.SqlClient 3.1.1](https://techcommunity.microsoft.com/t5/sql-server-blog/released-microsoft-data-sqlclient-3-1-1/ba-p/3598668)
-- [Building .NET Serverless applications with isolated model in Azure Functions and Visual Studio 2022](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/building-net-serverless-applications-with-isolated-model-in/ba-p/3598425)
-- [New ingestion-SampleData-as-a-service solution, for a great Demos and simulation](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-ingestion-sampledata-as-a-service-solution-for-a-great-demos/ba-p/3598500)
-- [Redpoint&#39;s Erica Brescia supports Tech Founders](https://www.hanselminutes.com/)
-- [Defender for Cloud Onboarding workbook](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/defender-for-cloud-onboarding-workbook/ba-p/3597457)
+- [The next step for LGTM.com: GitHub code scanning!](https://github.blog/2022-08-15-the-next-step-for-lgtm-com-github-code-scanning/)
+- [Use GitHub Codespaces to learn Machine Learning](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/use-github-codespaces-to-learn-machine-learning/ba-p/3600209)
+- [Hybrid Dev, Compute &amp; Management Updates with Azure Arc](https://techcommunity.microsoft.com/t5/microsoft-mechanics-blog/hybrid-dev-compute-amp-management-updates-with-azure-arc/ba-p/3598508)
+- [Over the air updates for MCUs with Azure Device Update](https://techcommunity.microsoft.com/t5/internet-of-things-blog/over-the-air-updates-for-mcus-with-azure-device-update/ba-p/3592702)
+- [Developing custom activities in Data Factory / Synapse Analytics](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/developing-custom-activities-in-data-factory-synapse-analytics/ba-p/3595076)
 <!-- AZUREINFOHUB:END -->
 
 
