@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [2022 Transparency Report: January to June](https://github.blog/2022-08-16-2022-transparency-report-january-to-june/)
+- [Tackle the pitfalls of GitHub Classroom with Azure serverless services](https://techcommunity.microsoft.com/t5/educator-developer-blog/tackle-the-pitfalls-of-github-classroom-with-azure-serverless/ba-p/3600682)
+- [Tackle the pitfalls of GitHub Classroom with Azure serverless services](https://techcommunity.microsoft.com/t5/educator-developer-blog/tackle-the-pitfalls-of-github-classroom-with-azure-serverless/ba-p/3600682)
+- [GraphQL on Azure: Part 9 - REST to GraphQL](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/graphql-on-azure-part-9-rest-to-graphql/ba-p/3600647)
 - [The next step for LGTM.com: GitHub code scanning!](https://github.blog/2022-08-15-the-next-step-for-lgtm-com-github-code-scanning/)
-- [Use GitHub Codespaces to learn Machine Learning](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/use-github-codespaces-to-learn-machine-learning/ba-p/3600209)
-- [Hybrid Dev, Compute &amp; Management Updates with Azure Arc](https://techcommunity.microsoft.com/t5/microsoft-mechanics-blog/hybrid-dev-compute-amp-management-updates-with-azure-arc/ba-p/3598508)
-- [Over the air updates for MCUs with Azure Device Update](https://techcommunity.microsoft.com/t5/internet-of-things-blog/over-the-air-updates-for-mcus-with-azure-device-update/ba-p/3592702)
-- [Developing custom activities in Data Factory / Synapse Analytics](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/developing-custom-activities-in-data-factory-synapse-analytics/ba-p/3595076)
 <!-- AZUREINFOHUB:END -->
 
 
