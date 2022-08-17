@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [2022 Transparency Report: January to June](https://github.blog/2022-08-16-2022-transparency-report-january-to-june/)
-- [Tackle the pitfalls of GitHub Classroom with Azure serverless services](https://techcommunity.microsoft.com/t5/educator-developer-blog/tackle-the-pitfalls-of-github-classroom-with-azure-serverless/ba-p/3600682)
-- [Tackle the pitfalls of GitHub Classroom with Azure serverless services](https://techcommunity.microsoft.com/t5/educator-developer-blog/tackle-the-pitfalls-of-github-classroom-with-azure-serverless/ba-p/3600682)
-- [GraphQL on Azure: Part 9 - REST to GraphQL](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/graphql-on-azure-part-9-rest-to-graphql/ba-p/3600647)
-- [The next step for LGTM.com: GitHub code scanning!](https://github.blog/2022-08-15-the-next-step-for-lgtm-com-github-code-scanning/)
+- [GitHub Discussions is now available on GitHub Enterprise Server](https://github.blog/2022-08-17-github-discussions-is-now-available-on-github-enterprise-server/)
+- [GitHub Enterprise Server 3.6 is now generally available](https://github.blog/2022-08-17-github-enterprise-server-3-6-is-now-generally-available/)
+- [Azure Marketplace new offers – August 17, 2022](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/azure-marketplace-new-offers-august-17-2022/ba-p/3568089)
+- [Hunting for Teams Phishing with Microsoft Sentinel, Defender, Microsoft Graph and MSTICPy](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/hunting-for-teams-phishing-with-microsoft-sentinel-defender/ba-p/3601746)
+- [Meet Community Friends at Microsoft Build 2022 After Party in Korea](https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/meet-community-friends-at-microsoft-build-2022-after-party-in/ba-p/3600565)
 <!-- AZUREINFOHUB:END -->
 
 
