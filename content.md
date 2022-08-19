@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Getting secrets from Key Vault in YAML pipeline](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/getting-secrets-from-key-vault-in-yaml-pipeline/ba-p/3604759)
+- [Getting secrets from Key Vault in YAML pipeline](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/getting-secrets-from-key-vault-in-yaml-pipeline/ba-p/3604759)
+- [What’s new in Microsoft Endpoint Manager - 2208 &lpar;August&rpar; edition](https://techcommunity.microsoft.com/t5/microsoft-endpoint-manager-blog/what-s-new-in-microsoft-endpoint-manager-2208-august-edition/ba-p/3603889)
 - [GitHub Discussions is now available on GitHub Enterprise Server](https://github.blog/2022-08-17-github-discussions-is-now-available-on-github-enterprise-server/)
 - [GitHub Enterprise Server 3.6 is now generally available](https://github.blog/2022-08-17-github-enterprise-server-3-6-is-now-generally-available/)
-- [Azure Marketplace new offers – August 17, 2022](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/azure-marketplace-new-offers-august-17-2022/ba-p/3568089)
-- [Hunting for Teams Phishing with Microsoft Sentinel, Defender, Microsoft Graph and MSTICPy](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/hunting-for-teams-phishing-with-microsoft-sentinel-defender/ba-p/3601746)
-- [Meet Community Friends at Microsoft Build 2022 After Party in Korea](https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/meet-community-friends-at-microsoft-build-2022-after-party-in/ba-p/3600565)
 <!-- AZUREINFOHUB:END -->
 
 
