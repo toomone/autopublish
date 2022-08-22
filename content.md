@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Skilling up on Azure? Explore this quarter’s key new resources](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/skilling-up-on-azure-explore-this-quarter-s-key-new-resources/ba-p/3595137)
+- [Microsoft Docs from the inside - interview with Nick Doelman](https://techcommunity.microsoft.com/t5/community-ninjas-blog/microsoft-docs-from-the-inside-interview-with-nick-doelman/ba-p/3581448)
 - [Getting secrets from Key Vault in YAML pipeline](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/getting-secrets-from-key-vault-in-yaml-pipeline/ba-p/3604759)
 - [Getting secrets from Key Vault in YAML pipeline](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/getting-secrets-from-key-vault-in-yaml-pipeline/ba-p/3604759)
 - [What’s new in Microsoft Endpoint Manager - 2208 &lpar;August&rpar; edition](https://techcommunity.microsoft.com/t5/microsoft-endpoint-manager-blog/what-s-new-in-microsoft-endpoint-manager-2208-august-edition/ba-p/3603889)
-- [GitHub Discussions is now available on GitHub Enterprise Server](https://github.blog/2022-08-17-github-discussions-is-now-available-on-github-enterprise-server/)
-- [GitHub Enterprise Server 3.6 is now generally available](https://github.blog/2022-08-17-github-enterprise-server-3-6-is-now-generally-available/)
 <!-- AZUREINFOHUB:END -->
 
 
