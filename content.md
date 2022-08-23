@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [The full lineup for Git Merge 2022 revealed](https://github.blog/2022-08-23-the-full-lineup-for-git-merge-2022-revealed/) (08/23/22)
  - [GitHub Discussions is now available on GitHub Enterprise Server](https://github.blog/2022-08-17-github-discussions-is-now-available-on-github-enterprise-server/) (08/17/22)
  - [GitHub Enterprise Server 3.6 is now generally available](https://github.blog/2022-08-17-github-enterprise-server-3-6-is-now-generally-available/) (08/17/22)
  - [2022 Transparency Report: January to June](https://github.blog/2022-08-16-2022-transparency-report-january-to-june/) (08/16/22)
  - [The next step for LGTM.com: GitHub code scanning!](https://github.blog/2022-08-15-the-next-step-for-lgtm-com-github-code-scanning/) (08/15/22)
- - [GitHub Pages now uses Actions by default](https://github.blog/2022-08-10-github-pages-now-uses-actions-by-default/) (08/10/22)
 <!-- GITHUB:END -->
