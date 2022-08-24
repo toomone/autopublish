@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Developing a quantum-ready workforce - Microsoft Quantum Educators Programme](https://techcommunity.microsoft.com/t5/educator-developer-blog/developing-a-quantum-ready-workforce-microsoft-quantum-educators/ba-p/3608054)
+- [The History of Microsoft Azure](https://techcommunity.microsoft.com/t5/educator-developer-blog/the-history-of-microsoft-azure/ba-p/3574204)
+- [Apollo 11 VR Exhibit with Azure Text to Speech &amp; MRTK](https://techcommunity.microsoft.com/t5/mixed-reality-blog/apollo-11-vr-exhibit-with-azure-text-to-speech-amp-mrtk/ba-p/3606561)
 - [The full lineup for Git Merge 2022 revealed](https://github.blog/2022-08-23-the-full-lineup-for-git-merge-2022-revealed/)
 - [Trying Out Machine Learning](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/trying-out-machine-learning/ba-p/3607424)
-- [CI/CD improvements related to pipeline triggers deployment](https://techcommunity.microsoft.com/t5/azure-data-factory-blog/ci-cd-improvements-related-to-pipeline-triggers-deployment/ba-p/3605064)
-- [Skilling up on Azure? Explore this quarter’s key new resources](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/skilling-up-on-azure-explore-this-quarter-s-key-new-resources/ba-p/3595137)
-- [Microsoft Docs from the inside - interview with Nick Doelman](https://techcommunity.microsoft.com/t5/community-ninjas-blog/microsoft-docs-from-the-inside-interview-with-nick-doelman/ba-p/3581448)
 <!-- AZUREINFOHUB:END -->
 
 
