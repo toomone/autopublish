@@ -59,9 +59,9 @@
 
 <!-- GITHUB:START -->
 
+ - [Keeping your skillset fresh as a developer](https://github.blog/2022-08-25-keeping-your-skillset-fresh-as-a-developer/) (08/25/22)
+ - [Introducing Trilogy: a new database adapter for Ruby on Rails](https://github.blog/2022-08-25-introducing-trilogy-a-new-database-adapter-for-ruby-on-rails/) (08/25/22)
+ - [Open Source Monthly: August 2022 Edition](https://github.blog/2022-08-25-open-source-monthly-august-2022-edition/) (08/25/22)
  - [The full lineup for Git Merge 2022 revealed](https://github.blog/2022-08-23-the-full-lineup-for-git-merge-2022-revealed/) (08/23/22)
  - [GitHub Discussions is now available on GitHub Enterprise Server](https://github.blog/2022-08-17-github-discussions-is-now-available-on-github-enterprise-server/) (08/17/22)
- - [GitHub Enterprise Server 3.6 is now generally available](https://github.blog/2022-08-17-github-enterprise-server-3-6-is-now-generally-available/) (08/17/22)
- - [2022 Transparency Report: January to June](https://github.blog/2022-08-16-2022-transparency-report-january-to-june/) (08/16/22)
- - [The next step for LGTM.com: GitHub code scanning!](https://github.blog/2022-08-15-the-next-step-for-lgtm-com-github-code-scanning/) (08/15/22)
 <!-- GITHUB:END -->
