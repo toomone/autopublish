@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Developing a quantum-ready workforce - Microsoft Quantum Educators Programme](https://techcommunity.microsoft.com/t5/educator-developer-blog/developing-a-quantum-ready-workforce-microsoft-quantum-educators/ba-p/3608054)
-- [The History of Microsoft Azure](https://techcommunity.microsoft.com/t5/educator-developer-blog/the-history-of-microsoft-azure/ba-p/3574204)
-- [Apollo 11 VR Exhibit with Azure Text to Speech &amp; MRTK](https://techcommunity.microsoft.com/t5/mixed-reality-blog/apollo-11-vr-exhibit-with-azure-text-to-speech-amp-mrtk/ba-p/3606561)
-- [The full lineup for Git Merge 2022 revealed](https://github.blog/2022-08-23-the-full-lineup-for-git-merge-2022-revealed/)
-- [Trying Out Machine Learning](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/trying-out-machine-learning/ba-p/3607424)
+- [Keeping your skillset fresh as a developer](https://github.blog/2022-08-25-keeping-your-skillset-fresh-as-a-developer/)
+- [Introducing Trilogy: a new database adapter for Ruby on Rails](https://github.blog/2022-08-25-introducing-trilogy-a-new-database-adapter-for-ruby-on-rails/)
+- [Open Source Monthly: August 2022 Edition](https://github.blog/2022-08-25-open-source-monthly-august-2022-edition/)
+- [Join the Java on Azure Team at VMware Explore 2022](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/join-the-java-on-azure-team-at-vmware-explore-2022/ba-p/3609682)
+- [Search for practitioners, route messages, and manage queues in healthcare scenarios](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/search-for-practitioners-route-messages-and-manage-queues-in/ba-p/3608996)
 <!-- AZUREINFOHUB:END -->
 
 
