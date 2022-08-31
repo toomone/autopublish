@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [New Boards Hub, Sprint 209 Update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-209-update/)
 - [Introducing Azure DevOps Server 2022 RC1](https://devblogs.microsoft.com/devops/introducing-azure-devops-server-2022-rc1/)
 - [August patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/august-patches-for-azure-devops-server-2/)
 - [New Boards Hub, Sprint 208 Update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-208-update/)
 - [Azure Boards Summer Update](https://devblogs.microsoft.com/devops/azure-boards-summer-update-2/)
-- [Content archived for Azure DevOps previous versions](https://devblogs.microsoft.com/devops/content-archived-for-azure-devops-previous-versions/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
