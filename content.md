@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Azure DevOps Graph connectors for Microsoft Search](https://devblogs.microsoft.com/devops/azure-devops-graph-connectors-for-microsoft-search/)
 - [New Boards Hub, Sprint 209 Update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-209-update/)
 - [Introducing Azure DevOps Server 2022 RC1](https://devblogs.microsoft.com/devops/introducing-azure-devops-server-2022-rc1/)
 - [August patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/august-patches-for-azure-devops-server-2/)
 - [New Boards Hub, Sprint 208 Update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-208-update/)
-- [Azure Boards Summer Update](https://devblogs.microsoft.com/devops/azure-boards-summer-update-2/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
