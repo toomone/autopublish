@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Keeping your skillset fresh as a developer](https://github.blog/2022-08-25-keeping-your-skillset-fresh-as-a-developer/)
-- [Introducing Trilogy: a new database adapter for Ruby on Rails](https://github.blog/2022-08-25-introducing-trilogy-a-new-database-adapter-for-ruby-on-rails/)
-- [Open Source Monthly: August 2022 Edition](https://github.blog/2022-08-25-open-source-monthly-august-2022-edition/)
-- [Join the Java on Azure Team at VMware Explore 2022](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/join-the-java-on-azure-team-at-vmware-explore-2022/ba-p/3609682)
-- [Search for practitioners, route messages, and manage queues in healthcare scenarios](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/search-for-practitioners-route-messages-and-manage-queues-in/ba-p/3608996)
+- [Azure DevOps Graph connectors for Microsoft Search](https://devblogs.microsoft.com/devops/azure-devops-graph-connectors-for-microsoft-search/)
+- [Steve Smith: Domain-Driven Design and Architecture](https://traffic.libsyn.com/secure/azuredevops/ADP_209_00-5-45.mp3?dest-id=768873)
+- [New Boards Hub, Sprint 209 Update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-209-update/)
+- [LunchBytes - Using Terraform with Azure DevOps](https://www.youtube.com/watch?v=PM2MBTP7_-A)
+- [Mathias Brandewinder: Math and Machine Learning using .NET - Episode 208](https://traffic.libsyn.com/secure/azuredevops/ADP_208.mp3?dest-id=768873)
 <!-- AZUREINFOHUB:END -->
 
 
