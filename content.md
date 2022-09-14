@@ -22,7 +22,7 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Rocky Lhotka: CSLA - Episode 210](http://feed.azuredevops.show/rocky-lhotka-csla-episode-210)
+- [Rocky Lhotka: CSLA - Episode 210](https://traffic.libsyn.com/secure/azuredevops/ADP_210_00-5-22.mp3?dest-id=768873)
 - [Azure DevOps Graph connectors for Microsoft Search](https://devblogs.microsoft.com/devops/azure-devops-graph-connectors-for-microsoft-search/)
 - [Steve Smith: Domain-Driven Design and Architecture](https://traffic.libsyn.com/secure/azuredevops/ADP_209_00-5-45.mp3?dest-id=768873)
 - [New Boards Hub, Sprint 209 Update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-209-update/)
