@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Microsoft Tech Days: Putting the Ops into DevOps](https://www.youtube.com/watch?v=tE8qunBdxjI)
 - [Microsoft Tech Days: Putting the Ops into DevOps](https://www.youtube.com/watch?v=livDgr-1oRU)
-- [Scott Hunter: Microsoft’s Azure &amp; .NET strategy](http://feed.azuredevops.show/scott-hunter-microsofts-azure-net-strategy)
+- [Scott Hunter: Microsoft’s Azure &amp; .NET strategy](https://traffic.libsyn.com/secure/azuredevops/ADP_211_00-08-36.mp3?dest-id=768873)
 - [New Boards Hub, Sprint 210 Update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-210-update/)
 - [Rocky Lhotka: CSLA - Episode 210](https://traffic.libsyn.com/secure/azuredevops/ADP_210_00-5-22.mp3?dest-id=768873)
-- [Azure DevOps Graph connectors for Microsoft Search](https://devblogs.microsoft.com/devops/azure-devops-graph-connectors-for-microsoft-search/)
 <!-- AZUREINFOHUB:END -->
 
 
