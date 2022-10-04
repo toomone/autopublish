@@ -22,7 +22,7 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Rob Richardson: Web Services in .NET 6 - Episode 213](http://feed.azuredevops.show/rob-richardson-web-services-in-net-6-episode-213)
+- [Rob Richardson: Web Services in .NET 6 - Episode 213](https://traffic.libsyn.com/secure/azuredevops/ADP_213_00-05-23.mp3?dest-id=768873)
 - [Mark Miller: The Science of Great UI in Software - Episode 212](https://traffic.libsyn.com/secure/azuredevops/ADP_212_00-05-19.mp3?dest-id=768873)
 - [Microsoft Tech Days: Putting the Ops into DevOps](https://www.youtube.com/watch?v=tE8qunBdxjI)
 - [Microsoft Tech Days: Putting the Ops into DevOps](https://www.youtube.com/watch?v=livDgr-1oRU)
