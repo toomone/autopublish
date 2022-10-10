@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Publishing extensions to Marketplace issue resolved](https://devblogs.microsoft.com/devops/publishing-extensions-to-marketplace-issue-resolved/)
+- [Setup Azure DevOps projects for ALM Accelerator for Power Platform](https://www.youtube.com/watch?v=oe7zPIoSWpo)
+- [Alvin Ashcraft: Windows SDKs - Episode 214](http://feed.azuredevops.show/alvin-ashcraft-windows-sdks-episode-214)
 - [#113 - The one with SAP Release Management using Azure DevOps &lpar;Jaganmohan Reddy, Ram Gudupalli&rpar; |](https://www.youtube.com/watch?v=G83GbqxmV-k)
 - [New Boards Hub, Sprint 211 Update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-211-update/)
-- [Rob Richardson: Web Services in .NET 6 - Episode 213](https://traffic.libsyn.com/secure/azuredevops/ADP_213_00-05-23.mp3?dest-id=768873)
-- [Mark Miller: The Science of Great UI in Software - Episode 212](https://traffic.libsyn.com/secure/azuredevops/ADP_212_00-05-19.mp3?dest-id=768873)
-- [Microsoft Tech Days: Putting the Ops into DevOps](https://www.youtube.com/watch?v=tE8qunBdxjI)
 <!-- AZUREINFOHUB:END -->
 
 
