@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Publishing extensions to Marketplace issue resolved](https://devblogs.microsoft.com/devops/publishing-extensions-to-marketplace-issue-resolved/)
 - [New Boards Hub, Sprint 211 Update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-211-update/)
 - [New Boards Hub, Sprint 210 Update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-210-update/)
 - [Azure DevOps Graph connectors for Microsoft Search](https://devblogs.microsoft.com/devops/azure-devops-graph-connectors-for-microsoft-search/)
 - [New Boards Hub, Sprint 209 Update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-209-update/)
-- [Introducing Azure DevOps Server 2022 RC1](https://devblogs.microsoft.com/devops/introducing-azure-devops-server-2022-rc1/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
