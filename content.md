@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Integrate security into your developer workflow with GitHub Advanced Security for Azure DevOps](https://devblogs.microsoft.com/devops/integrate-security-into-your-developer-workflow-with-github-advanced-security-for-azure-devops/)
 - [Publishing extensions to Marketplace issue resolved](https://devblogs.microsoft.com/devops/publishing-extensions-to-marketplace-issue-resolved/)
 - [Setup Azure DevOps projects for ALM Accelerator for Power Platform](https://www.youtube.com/watch?v=oe7zPIoSWpo)
 - [Alvin Ashcraft: Windows SDKs - Episode 214](http://feed.azuredevops.show/alvin-ashcraft-windows-sdks-episode-214)
 - [#113 - The one with SAP Release Management using Azure DevOps &lpar;Jaganmohan Reddy, Ram Gudupalli&rpar; |](https://www.youtube.com/watch?v=G83GbqxmV-k)
-- [New Boards Hub, Sprint 211 Update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-211-update/)
 <!-- AZUREINFOHUB:END -->
 
 
