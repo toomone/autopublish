@@ -12,11 +12,11 @@
 ## AZURE WEEKLY BLOG
 
 <!-- AZUREWEEKLY:START -->
+- [Azure Weekly Issue 391 - 16th October 2022](https://azureweekly.info/issue-391.html)
 - [Azure Weekly Issue 390 - 9th October 2022](https://azureweekly.info/issue-390.html)
 - [Azure Weekly Issue 389 - 2nd October 2022](https://azureweekly.info/issue-389.html)
 - [Azure Weekly Issue 388 - 25th September 2022](https://azureweekly.info/issue-388.html)
 - [Azure Weekly Issue 387 - 18th September 2022](https://azureweekly.info/issue-387.html)
-- [Azure Weekly Issue 386 - 11th September 2022](https://azureweekly.info/issue-386.html)
 <!-- AZUREWEEKLY:END -->
 
 ## AZURE INFOHUB BLOG 
