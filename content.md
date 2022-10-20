@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Azure DevOps Roadmap update](https://devblogs.microsoft.com/devops/azure-devops-roadmap-update/)
 - [October patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/october-patches-for-azure-devops-server-2/)
 - [Integrate security into your developer workflow with GitHub Advanced Security for Azure DevOps](https://devblogs.microsoft.com/devops/integrate-security-into-your-developer-workflow-with-github-advanced-security-for-azure-devops/)
 - [Publishing extensions to Marketplace issue resolved](https://devblogs.microsoft.com/devops/publishing-extensions-to-marketplace-issue-resolved/)
 - [New Boards Hub, Sprint 211 Update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-211-update/)
-- [New Boards Hub, Sprint 210 Update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-210-update/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
