@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Azure DevOps Roadmap update](https://devblogs.microsoft.com/devops/azure-devops-roadmap-update/)
 - [October patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/october-patches-for-azure-devops-server-2/)
 - [Azure DevOps: Zero to Hero Tutorial](https://www.youtube.com/watch?v=DoWhZO7nbCY)
 - [Ted Newart: Getting the Most Out of In-Person Conferences - Episode 215](http://feed.azuredevops.show/ted-newart-getting-the-most-out-of-in-person-conferences-episode-215)
 - [Building 25+ years of SysInternals: Exploring ZoomIt | BRK200H](https://www.youtube.com/watch?v=VrE5DrDrdpQ)
-- [Integrate security into your developer workflow with GitHub Advanced Security for Azure DevOps](https://devblogs.microsoft.com/devops/integrate-security-into-your-developer-workflow-with-github-advanced-security-for-azure-devops/)
 <!-- AZUREINFOHUB:END -->
 
 
