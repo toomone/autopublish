@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [New Boards Hub, Sprint 212 Update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-212-update/)
 - [Azure DevOps Server 2022 RC2 now available](https://devblogs.microsoft.com/devops/azure-devops-server-2022-rc2-now-available/)
 - [Azure DevOps Roadmap update](https://devblogs.microsoft.com/devops/azure-devops-roadmap-update/)
 - [October patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/october-patches-for-azure-devops-server-2/)
 - [Integrate security into your developer workflow with GitHub Advanced Security for Azure DevOps](https://devblogs.microsoft.com/devops/integrate-security-into-your-developer-workflow-with-github-advanced-security-for-azure-devops/)
-- [Publishing extensions to Marketplace issue resolved](https://devblogs.microsoft.com/devops/publishing-extensions-to-marketplace-issue-resolved/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
