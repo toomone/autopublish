@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [New Boards Hub, Sprint 212 Update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-212-update/)
 - [Deploying Azure Resources using Azure DevOps](https://www.youtube.com/watch?v=pX6dikcOeRY)
 - [Azure DevOps Server 2022 RC2 now available](https://devblogs.microsoft.com/devops/azure-devops-server-2022-rc2-now-available/)
 - [Isaac Abraham: Farmer for Azure Deployments - Episode 216](http://feed.azuredevops.show/isaac-abraham-farmer-for-azure-deployments-episode-216)
 - [Building 25+ years of SysInternals: Exploring ZoomIt | BRK200H](https://www.youtube.com/watch?v=W2bNgFrj3Iw)
-- [Azure DevOps Roadmap update](https://devblogs.microsoft.com/devops/azure-devops-roadmap-update/)
 <!-- AZUREINFOHUB:END -->
 
 
