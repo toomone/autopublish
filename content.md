@@ -22,7 +22,7 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Nicholas Blumhardt: Structured Logging - Episode 217](http://feed.azuredevops.show/nicholas-blumhardt-structured-logging-episode-217)
+- [Nicholas Blumhardt: Structured Logging - Episode 217](https://traffic.libsyn.com/secure/azuredevops/ADP_217.mp3?dest-id=768873)
 - [New Boards Hub, Sprint 212 Update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-212-update/)
 - [Deploying Azure Resources using Azure DevOps](https://www.youtube.com/watch?v=pX6dikcOeRY)
 - [Azure DevOps Server 2022 RC2 now available](https://devblogs.microsoft.com/devops/azure-devops-server-2022-rc2-now-available/)
