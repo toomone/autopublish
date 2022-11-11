@@ -23,10 +23,10 @@
 
 <!-- AZUREINFOHUB:START -->
 - [All Azure DevOps REST APIs now support PAT scopes](https://devblogs.microsoft.com/devops/all-azure-devops-rest-apis-now-support-pat-scopes/)
+- [MLOps on Enterprise Scale using Azure ML Workspace and MLFlow.](https://www.youtube.com/watch?v=qZYUiMGvrOQ)
 - [Dave McKinstry: The Evolution of DevOps - Episode 218](https://traffic.libsyn.com/secure/azuredevops/ADP_218_00-05-31.mp3?dest-id=768873)
 - [Nicholas Blumhardt: Structured Logging - Episode 217](https://traffic.libsyn.com/secure/azuredevops/ADP_217.mp3?dest-id=768873)
-- [New Boards Hub, Sprint 212 Update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-212-update/)
-- [Deploying Azure Resources using Azure DevOps](https://www.youtube.com/watch?v=pX6dikcOeRY)
+- [aMS 2ª Edição São Paulo](https://www.youtube.com/watch?v=cTQZ9xeay8Y)
 <!-- AZUREINFOHUB:END -->
 
 
