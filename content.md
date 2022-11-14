@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Donovan Brown: Microservices DevOps - Episode 219](http://feed.azuredevops.show/donovan-brown-microservices-devops-episode-219)
+- [Episode 446 - Security &amp; L7 DDoS protection @ Edge, DNS Security, and Private DNS](http://azpodcast.azurewebsites.net/post/Episode-446-Security-L7-DDoS-protection-Edge-DNS-Security-and-Private-DNS)
 - [All Azure DevOps REST APIs now support PAT scopes](https://devblogs.microsoft.com/devops/all-azure-devops-rest-apis-now-support-pat-scopes/)
 - [MLOps on Enterprise Scale using Azure ML Workspace and MLFlow.](https://www.youtube.com/watch?v=qZYUiMGvrOQ)
 - [Dave McKinstry: The Evolution of DevOps - Episode 218](https://traffic.libsyn.com/secure/azuredevops/ADP_218_00-05-31.mp3?dest-id=768873)
-- [Nicholas Blumhardt: Structured Logging - Episode 217](https://traffic.libsyn.com/secure/azuredevops/ADP_217.mp3?dest-id=768873)
-- [aMS 2ª Edição São Paulo](https://www.youtube.com/watch?v=cTQZ9xeay8Y)
 <!-- AZUREINFOHUB:END -->
 
 
