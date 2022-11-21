@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Matthew Renze: Developing Your AI Strategy - Episode 220](http://feed.azuredevops.show/matthew-renze-developing-your-ai-strategy-episode-220)
 - [New Boards Hub, Sprint 213 Update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-213-update/)
 - [Azure DevOps client libraries migrated to MSAL](https://devblogs.microsoft.com/devops/azure-devops-client-libraries-migrated-to-msal/)
 - [.NET 7, Docker, K8S and Azure DevOps | .NET Conf 2022](https://www.youtube.com/watch?v=A73n-hhsm4I)
 - [Donovan Brown: Microservices DevOps - Episode 219](https://traffic.libsyn.com/secure/azuredevops/ADP_219_00-06-43.mp3?dest-id=768873)
-- [Episode 446 - Security &amp; L7 DDoS protection @ Edge, DNS Security, and Private DNS](http://azpodcast.azurewebsites.net/post/Episode-446-Security-L7-DDoS-protection-Edge-DNS-Security-and-Private-DNS)
 <!-- AZUREINFOHUB:END -->
 
 
