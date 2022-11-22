@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Matthew Renze: Developing Your AI Strategy - Episode 220](http://feed.azuredevops.show/matthew-renze-developing-your-ai-strategy-episode-220)
+- [Matthew Renze: Developing Your AI Strategy - Episode 220](https://traffic.libsyn.com/secure/azuredevops/ADP_220_00-05-46.mp3?dest-id=768873)
+- [Introducing more ways to deploy Azure Container Apps](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/introducing-more-ways-to-deploy-azure-container-apps/ba-p/3678390)
 - [New Boards Hub, Sprint 213 Update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-213-update/)
 - [Azure DevOps client libraries migrated to MSAL](https://devblogs.microsoft.com/devops/azure-devops-client-libraries-migrated-to-msal/)
 - [.NET 7, Docker, K8S and Azure DevOps | .NET Conf 2022](https://www.youtube.com/watch?v=A73n-hhsm4I)
-- [Donovan Brown: Microservices DevOps - Episode 219](https://traffic.libsyn.com/secure/azuredevops/ADP_219_00-06-43.mp3?dest-id=768873)
 <!-- AZUREINFOHUB:END -->
 
 
