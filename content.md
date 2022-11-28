@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Brady Gaster: Orleans - Episode 221](http://feed.azuredevops.show/brady-gaster-orleans-episode-221)
 - [How to use Azure DevOps to publish cloud service extended support](https://techcommunity.microsoft.com/t5/azure-paas-blog/how-to-use-azure-devops-to-publish-cloud-service-extended/ba-p/3675180)
 - [Upgrade of .NET agent for Azure Pipelines](https://devblogs.microsoft.com/devops/upgrade-of-net-agent-for-azure-pipelines/)
 - [Matthew Renze: Developing Your AI Strategy - Episode 220](https://traffic.libsyn.com/secure/azuredevops/ADP_220_00-05-46.mp3?dest-id=768873)
 - [Introducing more ways to deploy Azure Container Apps](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/introducing-more-ways-to-deploy-azure-container-apps/ba-p/3678390)
-- [New Boards Hub, Sprint 213 Update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-213-update/)
 <!-- AZUREINFOHUB:END -->
 
 
