@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Jeff Fritz: Evolving Cloud Architecture - Episode 222](http://feed.azuredevops.show/jeff-fritz-evolving-cloud-architecture-episode-222)
 - [Running Tests with Azure Pipelines &lpar;9 of 12&rpar; | Automated Software Testing](https://www.youtube.com/watch?v=Ja034np9KhU)
 - [Brady Gaster: Orleans - Episode 221](https://traffic.libsyn.com/secure/azuredevops/ADP_221.mp3?dest-id=768873)
 - [How to use Azure DevOps to publish cloud service extended support](https://techcommunity.microsoft.com/t5/azure-paas-blog/how-to-use-azure-devops-to-publish-cloud-service-extended/ba-p/3675180)
 - [Upgrade of .NET agent for Azure Pipelines](https://devblogs.microsoft.com/devops/upgrade-of-net-agent-for-azure-pipelines/)
-- [Matthew Renze: Developing Your AI Strategy - Episode 220](https://traffic.libsyn.com/secure/azuredevops/ADP_220_00-05-46.mp3?dest-id=768873)
 <!-- AZUREINFOHUB:END -->
 
 
