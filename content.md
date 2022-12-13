@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [December patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/december-patches-for-azure-devops-server-2/)
 - [New Boards Hub, Sprint 214 Update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-214-update/)
-- [David Pine: NET Content Development - Episode 223](http://feed.azuredevops.show/david-pine-net-content-development-episode-223)
+- [David Pine: NET Content Development - Episode 223](https://traffic.libsyn.com/secure/azuredevops/ADP_223.mp3?dest-id=768873)
 - [Pipelines for Power Platform - Power CAT Live](https://www.youtube.com/watch?v=uILb28j4lso)
 - [Now available: Azure DevOps Server 2022 RTW](https://devblogs.microsoft.com/devops/now-available-azure-devops-server-2022-rtw/)
-- [Jeff Fritz: Evolving Cloud Architecture - Episode 222](http://feed.azuredevops.show/jeff-fritz-evolving-cloud-architecture-episode-222)
 <!-- AZUREINFOHUB:END -->
 
 
