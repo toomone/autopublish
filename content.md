@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Eduardo Maltez: Full-system testing using Selenium - Episode 224](http://feed.azuredevops.show/eduardo-maltez-full-system-testing-using-selenium-episode-224)
 - [WordPress on Azure App Service - Top features you must know about](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/wordpress-on-azure-app-service-top-features-you-must-know-about/ba-p/3697873)
 - [December patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/december-patches-for-azure-devops-server-2/)
 - [New Boards Hub, Sprint 214 Update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-214-update/)
 - [David Pine: NET Content Development - Episode 223](https://traffic.libsyn.com/secure/azuredevops/ADP_223.mp3?dest-id=768873)
-- [Pipelines for Power Platform - Power CAT Live](https://www.youtube.com/watch?v=uILb28j4lso)
 <!-- AZUREINFOHUB:END -->
 
 
