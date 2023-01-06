@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Node runner update guidance for Azure Pipelines task authors](https://devblogs.microsoft.com/devops/node-runner-update-guidance-for-azure-pipelines-task-authors/)
 - [A 2023 Happy New Year and 2022 Review - Episode 226](http://feed.azuredevops.show/a-2023-happy-new-year-and-2022-review-episode-226)
 - [Troy Vinson: Learning From the Rackspace Security Breach with Troy Vinson - Episode 225](http://feed.azuredevops.show/troy-vinson-learning-from-the-rackspace-security-breach-with-troy-vinson-episode-225)
 - [Azure Functions OpenAPI Extension Update](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-functions-openapi-extension-update/ba-p/3702128)
 - [Eduardo Maltez: Full-system testing using Selenium - Episode 224](http://feed.azuredevops.show/eduardo-maltez-full-system-testing-using-selenium-episode-224)
-- [WordPress on Azure App Service - Top features you must know about](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/wordpress-on-azure-app-service-top-features-you-must-know-about/ba-p/3697873)
 <!-- AZUREINFOHUB:END -->
 
 
