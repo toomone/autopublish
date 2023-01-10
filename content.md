@@ -22,10 +22,10 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Marco Rossignoli: Automated Code Coverage Measurement - Episode 227](http://feed.azuredevops.show/marco-rossignoli-automated-code-coverage-measurement-episode-227)
+- [Marco Rossignoli: Automated Code Coverage Measurement - Episode 227](https://traffic.libsyn.com/secure/azuredevops/ADP_227.mp3?dest-id=768873)
 - [Node runner update guidance for Azure Pipelines task authors](https://devblogs.microsoft.com/devops/node-runner-update-guidance-for-azure-pipelines-task-authors/)
-- [A 2023 Happy New Year and 2022 Review - Episode 226](http://feed.azuredevops.show/a-2023-happy-new-year-and-2022-review-episode-226)
-- [Troy Vinson: Learning From the Rackspace Security Breach with Troy Vinson - Episode 225](http://feed.azuredevops.show/troy-vinson-learning-from-the-rackspace-security-breach-with-troy-vinson-episode-225)
+- [A 2023 Happy New Year and 2022 Review - Episode 226](https://traffic.libsyn.com/secure/azuredevops/ADP_226.mp3?dest-id=768873)
+- [Troy Vinson: Learning From the Rackspace Security Breach with Troy Vinson - Episode 225](https://traffic.libsyn.com/secure/azuredevops/ADP_225.mp3?dest-id=768873)
 - [Azure Functions OpenAPI Extension Update](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-functions-openapi-extension-update/ba-p/3702128)
 <!-- AZUREINFOHUB:END -->
 
