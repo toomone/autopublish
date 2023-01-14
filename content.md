@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Secure DevOps &lpar;DevSecOps&rpar;](https://www.youtube.com/watch?v=EIxmBGJtaxM)
 - [Organization profile image](https://devblogs.microsoft.com/devops/organization-profile-image/)
 - [Marco Rossignoli: Automated Code Coverage Measurement - Episode 227](https://traffic.libsyn.com/secure/azuredevops/ADP_227.mp3?dest-id=768873)
 - [Node runner update guidance for Azure Pipelines task authors](https://devblogs.microsoft.com/devops/node-runner-update-guidance-for-azure-pipelines-task-authors/)
 - [A 2023 Happy New Year and 2022 Review - Episode 226](https://traffic.libsyn.com/secure/azuredevops/ADP_226.mp3?dest-id=768873)
-- [Troy Vinson: Learning From the Rackspace Security Breach with Troy Vinson - Episode 225](https://traffic.libsyn.com/secure/azuredevops/ADP_225.mp3?dest-id=768873)
 <!-- AZUREINFOHUB:END -->
 
 
