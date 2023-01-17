@@ -22,7 +22,7 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Brian Lagunas: Modern Web - Episode 228](http://feed.azuredevops.show/brian-lagunas-modern-web-episode-228)
+- [Brian Lagunas: Modern Web - Episode 228](https://traffic.libsyn.com/secure/azuredevops/ADP_228.mp3?dest-id=768873)
 - [Secure DevOps &lpar;DevSecOps&rpar;](https://www.youtube.com/watch?v=EIxmBGJtaxM)
 - [Organization profile image](https://devblogs.microsoft.com/devops/organization-profile-image/)
 - [Marco Rossignoli: Automated Code Coverage Measurement - Episode 227](https://traffic.libsyn.com/secure/azuredevops/ADP_227.mp3?dest-id=768873)
