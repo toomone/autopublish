@@ -23,10 +23,10 @@
 
 <!-- AZUREINFOHUB:START -->
 - [New Boards Hub, Sprint 216 update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-216-update/)
+- [New Boards Hub, Sprint 216 update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-216-update/)
 - [Introduction to Azure Fundamentals](https://www.youtube.com/watch?v=M9celDKz7Jw)
 - [Brian Lagunas: Modern Web - Episode 228](https://traffic.libsyn.com/secure/azuredevops/ADP_228.mp3?dest-id=768873)
 - [Secure DevOps &lpar;DevSecOps&rpar;](https://www.youtube.com/watch?v=EIxmBGJtaxM)
-- [Organization profile image](https://devblogs.microsoft.com/devops/organization-profile-image/)
 <!-- AZUREINFOHUB:END -->
 
 
