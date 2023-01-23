@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Stephanie Herr: Database DevOps with Stephanie Herr - Episode 229](http://feed.azuredevops.show/stephanie-herr-database-devops-with-stephanie-herr-episode-229)
 - [New Boards Hub, Sprint 216 update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-216-update/)
 - [New Boards Hub, Sprint 216 update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-216-update/)
 - [Introduction to Azure Fundamentals](https://www.youtube.com/watch?v=M9celDKz7Jw)
 - [Brian Lagunas: Modern Web - Episode 228](https://traffic.libsyn.com/secure/azuredevops/ADP_228.mp3?dest-id=768873)
-- [Secure DevOps &lpar;DevSecOps&rpar;](https://www.youtube.com/watch?v=EIxmBGJtaxM)
 <!-- AZUREINFOHUB:END -->
 
 
