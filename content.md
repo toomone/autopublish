@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Disable creation of classic pipelines](https://devblogs.microsoft.com/devops/disable-creation-of-classic-pipelines/)
 - [Azure DevOps Server 2022 Patch 1](https://devblogs.microsoft.com/devops/azure-devops-server-2022-patch-1/)
 - [New Boards Hub, Sprint 216 update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-216-update/)
 - [Organization profile image](https://devblogs.microsoft.com/devops/organization-profile-image/)
 - [Node runner update guidance for Azure Pipelines task authors](https://devblogs.microsoft.com/devops/node-runner-update-guidance-for-azure-pipelines-task-authors/)
-- [December patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/december-patches-for-azure-devops-server-2/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
