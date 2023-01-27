@@ -22,10 +22,10 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Learn Azure DevOps from Zero to Hero](https://devblogs.microsoft.com/devops/learn-azure-devops-from-zero-to-hero/)
 - [Disable creation of classic pipelines](https://devblogs.microsoft.com/devops/disable-creation-of-classic-pipelines/)
 - [Azure DevOps Server 2022 Patch 1](https://devblogs.microsoft.com/devops/azure-devops-server-2022-patch-1/)
 - [Stephanie Herr: Database DevOps with Stephanie Herr - Episode 229](https://traffic.libsyn.com/secure/azuredevops/ADP_229.mp3?dest-id=768873)
-- [New Boards Hub, Sprint 216 update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-216-update/)
 - [New Boards Hub, Sprint 216 update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-216-update/)
 <!-- AZUREINFOHUB:END -->
 
