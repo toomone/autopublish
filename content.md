@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Philip Japikse: Professional C# in .NET  - Episode 230](http://feed.azuredevops.show/philip-japikse-professional-c-in-net-episode-230)
+- [Lab Guide - AKS Workload Managed Identity](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/lab-guide-aks-workload-managed-identity/ba-p/3728630)
+- [Lab Guide - AKS Workload Identity](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/lab-guide-aks-workload-identity/ba-p/3728630)
 - [Learn Azure DevOps from Zero to Hero](https://devblogs.microsoft.com/devops/learn-azure-devops-from-zero-to-hero/)
 - [Disable creation of classic pipelines](https://devblogs.microsoft.com/devops/disable-creation-of-classic-pipelines/)
-- [Azure DevOps Server 2022 Patch 1](https://devblogs.microsoft.com/devops/azure-devops-server-2022-patch-1/)
-- [Stephanie Herr: Database DevOps with Stephanie Herr - Episode 229](https://traffic.libsyn.com/secure/azuredevops/ADP_229.mp3?dest-id=768873)
-- [New Boards Hub, Sprint 216 update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-216-update/)
 <!-- AZUREINFOHUB:END -->
 
 
