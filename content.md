@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Create Azure DevOps Management Reports](https://www.youtube.com/watch?v=gqUFAAByPfU)
 - [Philip Japikse: Professional C# in .NET  - Episode 230](http://feed.azuredevops.show/philip-japikse-professional-c-in-net-episode-230)
 - [Lab Guide - AKS Workload Managed Identity](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/lab-guide-aks-workload-managed-identity/ba-p/3728630)
 - [Lab Guide - AKS Workload Identity](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/lab-guide-aks-workload-identity/ba-p/3728630)
 - [Learn Azure DevOps from Zero to Hero](https://devblogs.microsoft.com/devops/learn-azure-devops-from-zero-to-hero/)
-- [Disable creation of classic pipelines](https://devblogs.microsoft.com/devops/disable-creation-of-classic-pipelines/)
 <!-- AZUREINFOHUB:END -->
 
 
