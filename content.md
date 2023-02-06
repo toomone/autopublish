@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Colin Bowern: Deployments and Ops using Octopus Deploy - Episode 231](http://feed.azuredevops.show/colin-bowern-deployments-and-ops-using-octopus-deploy-episode-231)
 - [Customers using Red Hat Enterprise Linux &lpar;RHEL&rpar; 6 should upgrade the OS on Self-hosted agents](https://devblogs.microsoft.com/devops/customers-using-red-hat-enterprise-linux-rhel-6-should-upgrade-the-os-on-self-hosted-agents/)
 - [DevSecOps on Azure](https://www.youtube.com/watch?v=qI8MRbNGKlM)
 - [Introduction to Azure AI Fundamentals](https://www.youtube.com/watch?v=WNdwkm_q5nk)
 - [Get Started with Azure DevOps](https://www.youtube.com/watch?v=elwl6Jqno8g)
-- [AppDev.Hero: Implement CI with Azure Pipelines and GitHub Actions - Hybrid Event](https://www.youtube.com/watch?v=WfDyOAr1LXk)
 <!-- AZUREINFOHUB:END -->
 
 
