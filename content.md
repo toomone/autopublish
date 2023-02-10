@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Creating Azure DevOps Management Reports](https://www.youtube.com/watch?v=uHtDZHyKXxI)
 - [ALM em Power Platform – Agilidade e Governança](https://www.youtube.com/watch?v=g_ZKxb9PiXE)
 - [Learn Live - Control and govern your Azure environment by deploying your infrastructure as code](https://www.youtube.com/watch?v=8kD8JvczHjM)
 - [Colin Bowern: Deployments and Ops using Octopus Deploy - Episode 231](http://feed.azuredevops.show/colin-bowern-deployments-and-ops-using-octopus-deploy-episode-231)
 - [Customers using Red Hat Enterprise Linux &lpar;RHEL&rpar; 6 should upgrade the OS on Self-hosted agents](https://devblogs.microsoft.com/devops/customers-using-red-hat-enterprise-linux-rhel-6-should-upgrade-the-os-on-self-hosted-agents/)
-- [DevSecOps on Azure](https://www.youtube.com/watch?v=qI8MRbNGKlM)
 <!-- AZUREINFOHUB:END -->
 
 
