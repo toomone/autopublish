@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Integrate Azure Load Testing into GitHub Actions](https://www.youtube.com/watch?v=URRCP2RnCAA)
+- [Lars Klint: Microsoft Azure State of the Art - Episode 232](http://feed.azuredevops.show/lars-klint-microsoft-azure-state-of-the-art-episode-232)
 - [Creating Azure DevOps Management Reports](https://www.youtube.com/watch?v=uHtDZHyKXxI)
 - [ALM em Power Platform – Agilidade e Governança](https://www.youtube.com/watch?v=g_ZKxb9PiXE)
 - [Learn Live - Control and govern your Azure environment by deploying your infrastructure as code](https://www.youtube.com/watch?v=8kD8JvczHjM)
-- [Colin Bowern: Deployments and Ops using Octopus Deploy - Episode 231](http://feed.azuredevops.show/colin-bowern-deployments-and-ops-using-octopus-deploy-episode-231)
-- [Customers using Red Hat Enterprise Linux &lpar;RHEL&rpar; 6 should upgrade the OS on Self-hosted agents](https://devblogs.microsoft.com/devops/customers-using-red-hat-enterprise-linux-rhel-6-should-upgrade-the-os-on-self-hosted-agents/)
 <!-- AZUREINFOHUB:END -->
 
 
