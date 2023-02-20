@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Christian Wenz: ASP.NET Core Security - Episode 233](http://feed.azuredevops.show/christian-wenz-aspnet-core-security-episode-233)
 - [Jornada Integrada DevSecOps com Github &amp; Azure](https://www.youtube.com/watch?v=pd08fUrpCw8)
 - [New Boards Hub, Sprint 217 update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-217-update/)
 - [Integrate Azure Load Testing into Azure DevOps](https://www.youtube.com/watch?v=zE5qg3YDYas)
 - [February patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/february-patches-for-azure-devops-server-2/)
-- [Integrate Azure Load Testing into GitHub Actions](https://www.youtube.com/watch?v=URRCP2RnCAA)
 <!-- AZUREINFOHUB:END -->
 
 
