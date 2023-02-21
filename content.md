@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Christian Wenz: ASP.NET Core Security - Episode 233](http://feed.azuredevops.show/christian-wenz-aspnet-core-security-episode-233)
+- [Announcing the reliable web app pattern for .NET](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/announcing-the-reliable-web-app-pattern-for-net/ba-p/3745270)
+- [Reminder: Azure Load Testing AMA, February 22, 9:00 AM Pacific Time](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/reminder-azure-load-testing-ama-february-22-9-00-am-pacific-time/ba-p/3748341)
+- [Christian Wenz: ASP.NET Core Security - Episode 233](https://traffic.libsyn.com/secure/azuredevops/ADP_233.mp3?dest-id=768873)
 - [Jornada Integrada DevSecOps com Github &amp; Azure](https://www.youtube.com/watch?v=pd08fUrpCw8)
 - [New Boards Hub, Sprint 217 update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-217-update/)
-- [Integrate Azure Load Testing into Azure DevOps](https://www.youtube.com/watch?v=zE5qg3YDYas)
-- [February patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/february-patches-for-azure-devops-server-2/)
 <!-- AZUREINFOHUB:END -->
 
 
