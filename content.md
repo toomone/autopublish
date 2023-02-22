@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [End of support for Azure Pipelines agents running on CentOS 6, Debian 4.9, Fedora 32, Ubuntu 16, macOS 10.14, and older versions](https://devblogs.microsoft.com/devops/azdo-end-of-support-v2-net-agent/)
 - [Announcing the reliable web app pattern for .NET](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/announcing-the-reliable-web-app-pattern-for-net/ba-p/3745270)
 - [Reminder: Azure Load Testing AMA, February 22, 9:00 AM Pacific Time](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/reminder-azure-load-testing-ama-february-22-9-00-am-pacific-time/ba-p/3748341)
 - [Christian Wenz: ASP.NET Core Security - Episode 233](https://traffic.libsyn.com/secure/azuredevops/ADP_233.mp3?dest-id=768873)
 - [Jornada Integrada DevSecOps com Github &amp; Azure](https://www.youtube.com/watch?v=pd08fUrpCw8)
-- [New Boards Hub, Sprint 217 update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-217-update/)
 <!-- AZUREINFOHUB:END -->
 
 
