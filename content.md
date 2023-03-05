@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Create Azure DevOps Management Reports](https://devblogs.microsoft.com/devops/create-azure-devops-management-reports/)
 - [Retrospectives: The Hidden Gem Enabling Teams to Thrive – Part 1](https://devblogs.microsoft.com/devops/retrospectives-the-hidden-gem-enabling-teams-to-thrive-part-1/)
 - [End of support for Azure Pipelines agents running on CentOS 6, Debian 4.9, Fedora 32, Ubuntu 16, macOS 10.14, and older versions](https://devblogs.microsoft.com/devops/azdo-end-of-support-v2-net-agent/)
 - [New Boards Hub, Sprint 217 update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-217-update/)
 - [Updated: February patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/february-patches-for-azure-devops-server-2/)
-- [Customers using Red Hat Enterprise Linux (RHEL) 6 should upgrade the OS on Self-hosted agents](https://devblogs.microsoft.com/devops/customers-using-red-hat-enterprise-linux-rhel-6-should-upgrade-the-os-on-self-hosted-agents/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
