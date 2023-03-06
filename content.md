@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [How to build, test and deploy your application using Azure and GitHub](https://devblogs.microsoft.com/devops/how-to-build-test-and-deploy-your-application-using-azure-and-github/)
+- [Christoph Vollmer: Automated Testing Techniques - Episode 235](http://feed.azuredevops.show/christoph-vollmer-automated-testing-techniques-episode-235)
 - [Create Azure DevOps Management Reports](https://devblogs.microsoft.com/devops/create-azure-devops-management-reports/)
 - [Retrospectives: The Hidden Gem Enabling Teams to Thrive – Part 1](https://devblogs.microsoft.com/devops/retrospectives-the-hidden-gem-enabling-teams-to-thrive-part-1/)
 - [Retrospectives: Be Agile and Thrive](https://www.youtube.com/watch?v=CqTVIOzBRno)
-- [Christian Clausen: When to Refactor - Episode 234](http://feed.azuredevops.show/christian-clausen-when-to-refactor-episode-234)
-- [End of support for Azure Pipelines agents running on CentOS 6, Debian 4.9, Fedora 32, Ubuntu 16, macOS 10.14, and older versions](https://devblogs.microsoft.com/devops/azdo-end-of-support-v2-net-agent/)
 <!-- AZUREINFOHUB:END -->
 
 
