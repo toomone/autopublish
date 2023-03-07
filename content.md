@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [New Boards Hub, Sprint 218 Update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-218-update/)
+- [Integrate Azure Load Testing into Azure DevOps](https://devblogs.microsoft.com/devops/integrate-azure-load-testing-into-azure-devops/)
 - [How to build, test and deploy your application using Azure and GitHub](https://devblogs.microsoft.com/devops/how-to-build-test-and-deploy-your-application-using-azure-and-github/)
 - [Christoph Vollmer: Automated Testing Techniques - Episode 235](http://feed.azuredevops.show/christoph-vollmer-automated-testing-techniques-episode-235)
 - [Create Azure DevOps Management Reports](https://devblogs.microsoft.com/devops/create-azure-devops-management-reports/)
-- [Retrospectives: The Hidden Gem Enabling Teams to Thrive – Part 1](https://devblogs.microsoft.com/devops/retrospectives-the-hidden-gem-enabling-teams-to-thrive-part-1/)
-- [Retrospectives: Be Agile and Thrive](https://www.youtube.com/watch?v=CqTVIOzBRno)
 <!-- AZUREINFOHUB:END -->
 
 
