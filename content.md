@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Write Your Bicep Files in Visual Studio](https://devblogs.microsoft.com/devops/write-your-bicep-files-in-visual-studio/)
 - [New Boards Hub, Sprint 218 Update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-218-update/)
 - [Integrate Azure Load Testing into Azure DevOps](https://devblogs.microsoft.com/devops/integrate-azure-load-testing-into-azure-devops/)
 - [How to build, test and deploy your application using Azure and GitHub](https://devblogs.microsoft.com/devops/how-to-build-test-and-deploy-your-application-using-azure-and-github/)
 - [Create Azure DevOps Management Reports](https://devblogs.microsoft.com/devops/create-azure-devops-management-reports/)
-- [Retrospectives: The Hidden Gem Enabling Teams to Thrive – Part 1](https://devblogs.microsoft.com/devops/retrospectives-the-hidden-gem-enabling-teams-to-thrive-part-1/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
