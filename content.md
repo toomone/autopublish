@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Grant Fritchey: SQL Server Performance Tuning - Episode 236](http://feed.azuredevops.show/grant-fritchey-sql-server-performance-tuning-episode-236)
 - [Let&#39;s Get Technical Indonesia   Performance improvement on  NET 7 0 menggunakan BenchmarkDotnet 2023](https://www.youtube.com/watch?v=_fDsrODGUGM)
 - [Write Your Bicep Files in Visual Studio](https://devblogs.microsoft.com/devops/write-your-bicep-files-in-visual-studio/)
 - [New Boards Hub, Sprint 218 Update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-218-update/)
 - [Integrate Azure Load Testing into Azure DevOps](https://devblogs.microsoft.com/devops/integrate-azure-load-testing-into-azure-devops/)
-- [How to build, test and deploy your application using Azure and GitHub](https://devblogs.microsoft.com/devops/how-to-build-test-and-deploy-your-application-using-azure-and-github/)
 <!-- AZUREINFOHUB:END -->
 
 
