@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [The Power of Azure DevOps and Terraform: Streamlining Infrastructure Management](https://www.youtube.com/watch?v=RFLzYsHZ2iQ)
 - [How to Deploy Power Platform with Azure DevOps](https://www.youtube.com/watch?v=iHpSuw8Ap48)
 - [Grant Fritchey: SQL Server Performance Tuning - Episode 236](http://feed.azuredevops.show/grant-fritchey-sql-server-performance-tuning-episode-236)
 - [Let&#39;s Get Technical Indonesia   Performance improvement on  NET 7 0 menggunakan BenchmarkDotnet 2023](https://www.youtube.com/watch?v=_fDsrODGUGM)
 - [Write Your Bicep Files in Visual Studio](https://devblogs.microsoft.com/devops/write-your-bicep-files-in-visual-studio/)
-- [New Boards Hub, Sprint 218 Update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-218-update/)
 <!-- AZUREINFOHUB:END -->
 
 
