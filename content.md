@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Toni Solarin-Sodara: Developer Tools for Test Automation - Episode 237](http://feed.azuredevops.show/toni-solarin-sodara-developer-tools-for-test-automation-episode-237)
 - [The Power of Azure DevOps and Terraform: Streamlining Infrastructure Management](https://www.youtube.com/watch?v=RFLzYsHZ2iQ)
 - [How to Deploy Power Platform with Azure DevOps](https://www.youtube.com/watch?v=iHpSuw8Ap48)
 - [Grant Fritchey: SQL Server Performance Tuning - Episode 236](http://feed.azuredevops.show/grant-fritchey-sql-server-performance-tuning-episode-236)
 - [Let&#39;s Get Technical Indonesia   Performance improvement on  NET 7 0 menggunakan BenchmarkDotnet 2023](https://www.youtube.com/watch?v=_fDsrODGUGM)
-- [Write Your Bicep Files in Visual Studio](https://devblogs.microsoft.com/devops/write-your-bicep-files-in-visual-studio/)
 <!-- AZUREINFOHUB:END -->
 
 
