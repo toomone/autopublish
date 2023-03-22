@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [New Boards Hub Update, Sprint 219](https://devblogs.microsoft.com/devops/new-boards-hub-update-sprint-219/)
 - [March patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/march-patches-for-azure-devops-server/)
 - [Certification – Is It Even Relevant, Should You Certify, What Will You Learn &amp; How Do You Pass?](https://techcommunity.microsoft.com/t5/azure-architecture-blog/certification-is-it-even-relevant-should-you-certify-what-will/ba-p/3773494)
 - [Toni Solarin-Sodara: Developer Tools for Test Automation - Episode 237](http://feed.azuredevops.show/toni-solarin-sodara-developer-tools-for-test-automation-episode-237)
 - [The Power of Azure DevOps and Terraform: Streamlining Infrastructure Management](https://www.youtube.com/watch?v=RFLzYsHZ2iQ)
-- [How to Deploy Power Platform with Azure DevOps](https://www.youtube.com/watch?v=iHpSuw8Ap48)
 <!-- AZUREINFOHUB:END -->
 
 
