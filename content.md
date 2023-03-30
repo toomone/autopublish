@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Introducing Service Principal and Managed Identity support on Azure DevOps](https://devblogs.microsoft.com/devops/introducing-service-principal-and-managed-identity-support-on-azure-devops/)
 - [New Boards Hub Update, Sprint 219](https://devblogs.microsoft.com/devops/new-boards-hub-update-sprint-219/)
 - [March patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/march-patches-for-azure-devops-server/)
 - [Write Your Bicep Files in Visual Studio](https://devblogs.microsoft.com/devops/write-your-bicep-files-in-visual-studio/)
 - [New Boards Hub, Sprint 218 Update](https://devblogs.microsoft.com/devops/new-boards-hub-sprint-218-update/)
-- [Integrate Azure Load Testing into Azure DevOps](https://devblogs.microsoft.com/devops/integrate-azure-load-testing-into-azure-devops/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
