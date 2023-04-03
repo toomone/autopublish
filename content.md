@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Kubernetes with Thomas Vitale - Episode 239](http://feed.azuredevops.show/kubernetes-with-thomas-vitale-episode-239)
 - [Introducing Service Principal and Managed Identity support on Azure DevOps](https://devblogs.microsoft.com/devops/introducing-service-principal-and-managed-identity-support-on-azure-devops/)
 - [Automated Secure Infrastructure for Self Hosted Integration Runtime in Azure Data Factory Terraform](https://techcommunity.microsoft.com/t5/integrations-on-azure-blog/automated-secure-infrastructure-for-self-hosted-integration/ba-p/3636883)
 - [Chris Sainty: Blazor in Action - Episode 238](http://feed.azuredevops.show/chris-sainty-blazor-in-action-episode-238)
 - [Attaching a file to a DevOps Work Item](https://techcommunity.microsoft.com/t5/integrations-on-azure-blog/attaching-a-file-to-a-devops-work-item/ba-p/3747394)
-- [New Boards Hub Update, Sprint 219](https://devblogs.microsoft.com/devops/new-boards-hub-update-sprint-219/)
 <!-- AZUREINFOHUB:END -->
 
 
