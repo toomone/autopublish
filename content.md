@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Announcing Azure DevOps Server 2022.0.1 RC](https://devblogs.microsoft.com/devops/announcing-azure-devops-server-2022-0-1-rc/)
 - [Bojan Magusic: Azure Security  - Episode 240](http://feed.azuredevops.show/bojan-magusic-azure-security-episode-240)
 - [Microservices no Azure Container Apps+ DevOps com Agile](https://www.youtube.com/watch?v=OKv7t6V64Qo)
 - [Kubernetes with Thomas Vitale - Episode 239](http://feed.azuredevops.show/kubernetes-with-thomas-vitale-episode-239)
 - [Introducing Service Principal and Managed Identity support on Azure DevOps](https://devblogs.microsoft.com/devops/introducing-service-principal-and-managed-identity-support-on-azure-devops/)
-- [Automated Secure Infrastructure for Self Hosted Integration Runtime in Azure Data Factory Terraform](https://techcommunity.microsoft.com/t5/integrations-on-azure-blog/automated-secure-infrastructure-for-self-hosted-integration/ba-p/3636883)
 <!-- AZUREINFOHUB:END -->
 
 
