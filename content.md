@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Entregando PaaS com DevOps: Azure App Service e Pipelines](https://www.youtube.com/watch?v=_2bA2jkYTuk)
+- [Service Connection guidance for AKS customers using Kubernetes tasks](https://devblogs.microsoft.com/devops/service-connection-guidance-for-aks-customers-using-kubernetes-tasks/)
+- [تعرف على الحوسبة السحابية: أنواعها ومزاياها](https://www.youtube.com/watch?v=cNFV9QA44eM)
+- [مبادرة المرأة في مجال التكنولوجيا - الحلقة الثالثة](https://www.youtube.com/watch?v=AKzgQz7N79E)
 - [Azure DevOps 2023 Q2 Roadmap update](https://devblogs.microsoft.com/devops/azure-devops-2023-q2-roadmap-update/)
-- [Announcing Azure DevOps Server 2022.0.1 RC](https://devblogs.microsoft.com/devops/announcing-azure-devops-server-2022-0-1-rc/)
-- [Bojan Magusic: Azure Security  - Episode 240](http://feed.azuredevops.show/bojan-magusic-azure-security-episode-240)
-- [Microservices no Azure Container Apps+ DevOps com Agile](https://www.youtube.com/watch?v=OKv7t6V64Qo)
-- [Kubernetes with Thomas Vitale - Episode 239](http://feed.azuredevops.show/kubernetes-with-thomas-vitale-episode-239)
 <!-- AZUREINFOHUB:END -->
 
 
