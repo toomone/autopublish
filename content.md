@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Service Connection guidance for AKS customers using Kubernetes tasks](https://devblogs.microsoft.com/devops/service-connection-guidance-for-aks-customers-using-kubernetes-tasks/)
 - [Azure DevOps 2023 Q2 Roadmap update ](https://devblogs.microsoft.com/devops/azure-devops-2023-q2-roadmap-update/)
 - [Announcing Azure DevOps Server 2022.0.1 RC](https://devblogs.microsoft.com/devops/announcing-azure-devops-server-2022-0-1-rc/)
 - [Introducing Service Principal and Managed Identity support on Azure DevOps](https://devblogs.microsoft.com/devops/introducing-service-principal-and-managed-identity-support-on-azure-devops/)
 - [New Boards Hub Update, Sprint 219](https://devblogs.microsoft.com/devops/new-boards-hub-update-sprint-219/)
-- [March patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/march-patches-for-azure-devops-server/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
