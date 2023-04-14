@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [New Boards Hub Update, Sprint 220](https://devblogs.microsoft.com/devops/new-boards-hub-update-sprint-220/)
 - [Entregando PaaS com DevOps: Azure App Service e Pipelines](https://www.youtube.com/watch?v=_2bA2jkYTuk)
 - [Service Connection guidance for AKS customers using Kubernetes tasks](https://devblogs.microsoft.com/devops/service-connection-guidance-for-aks-customers-using-kubernetes-tasks/)
 - [تعرف على الحوسبة السحابية: أنواعها ومزاياها](https://www.youtube.com/watch?v=cNFV9QA44eM)
 - [مبادرة المرأة في مجال التكنولوجيا - الحلقة الثالثة](https://www.youtube.com/watch?v=AKzgQz7N79E)
-- [Azure DevOps 2023 Q2 Roadmap update](https://devblogs.microsoft.com/devops/azure-devops-2023-q2-roadmap-update/)
 <!-- AZUREINFOHUB:END -->
 
 
