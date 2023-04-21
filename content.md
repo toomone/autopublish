@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Let&#39;s Get Technical – Thailand: Publish a static web app with Microsoft Azure and GitHub](https://www.youtube.com/watch?v=ES4aHZjiaKg)
 - [Tim Corey: Learning Programming - Episode 241](http://feed.azuredevops.show/tim-corey-learning-programming-episode-241)
 - [Deploy app service with private endpoint enabled via Azure DevOps](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/deploy-app-service-with-private-endpoint-enabled-via-azure/ba-p/3789370)
 - [New Boards Hub Update, Sprint 220](https://devblogs.microsoft.com/devops/new-boards-hub-update-sprint-220/)
 - [Entregando PaaS com DevOps: Azure App Service e Pipelines](https://www.youtube.com/watch?v=_2bA2jkYTuk)
-- [Service Connection guidance for AKS customers using Kubernetes tasks](https://devblogs.microsoft.com/devops/service-connection-guidance-for-aks-customers-using-kubernetes-tasks/)
 <!-- AZUREINFOHUB:END -->
 
 
