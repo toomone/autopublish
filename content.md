@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Use Power Automate to update Azure DevOps queries](https://devblogs.microsoft.com/devops/use-power-automate-to-update-azure-devops-queries/)
 - [New Boards Hub Update, Sprint 220](https://devblogs.microsoft.com/devops/new-boards-hub-update-sprint-220/)
 - [Service Connection guidance for AKS customers using Kubernetes tasks](https://devblogs.microsoft.com/devops/service-connection-guidance-for-aks-customers-using-kubernetes-tasks/)
 - [Azure DevOps 2023 Q2 Roadmap update ](https://devblogs.microsoft.com/devops/azure-devops-2023-q2-roadmap-update/)
 - [Announcing Azure DevOps Server 2022.0.1 RC](https://devblogs.microsoft.com/devops/announcing-azure-devops-server-2022-0-1-rc/)
-- [Introducing Service Principal and Managed Identity support on Azure DevOps](https://devblogs.microsoft.com/devops/introducing-service-principal-and-managed-identity-support-on-azure-devops/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
