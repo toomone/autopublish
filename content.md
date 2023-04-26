@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Working on Low code assets in VS Code ... yes it is possible!](https://www.youtube.com/watch?v=6vQ7pEAITEU)
+- [What is a Cloud Adoption Security Review?](https://techcommunity.microsoft.com/t5/azure-architecture-blog/what-is-a-cloud-adoption-security-review/ba-p/3805547)
 - [Use Power Automate to update Azure DevOps queries](https://devblogs.microsoft.com/devops/use-power-automate-to-update-azure-devops-queries/)
 - [Start Your Cloud Journey with Azure App Service](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/start-your-cloud-journey-with-azure-app-service/ba-p/3804037)
 - [Donovan Brown is Retiring -  Episode 242](http://feed.azuredevops.show/donovan-brown-is-retiring-episode-242)
-- [Let&#39;s Get Technical – Thailand: Publish a static web app with Microsoft Azure and GitHub](https://www.youtube.com/watch?v=ES4aHZjiaKg)
-- [Tim Corey: Learning Programming - Episode 241](http://feed.azuredevops.show/tim-corey-learning-programming-episode-241)
 <!-- AZUREINFOHUB:END -->
 
 
