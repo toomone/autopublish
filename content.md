@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [New Boards Hub Update, Sprint 221](https://devblogs.microsoft.com/devops/new-boards-hub-update-sprint-221/)
+- [Andy Roberts: Data in a Development World - Episode 243](http://feed.azuredevops.show/andy-roberts-data-in-a-development-world-episode-243)
+- [Deploy Logic App Standard with Terraform and Azure DevOps pipelines](https://techcommunity.microsoft.com/t5/integrations-on-azure-blog/deploy-logic-app-standard-with-terraform-and-azure-devops/ba-p/3807734)
 - [Working on Low code assets in VS Code ... yes it is possible!](https://www.youtube.com/watch?v=6vQ7pEAITEU)
 - [What is a Cloud Adoption Security Review?](https://techcommunity.microsoft.com/t5/azure-architecture-blog/what-is-a-cloud-adoption-security-review/ba-p/3805547)
-- [Use Power Automate to update Azure DevOps queries](https://devblogs.microsoft.com/devops/use-power-automate-to-update-azure-devops-queries/)
-- [Start Your Cloud Journey with Azure App Service](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/start-your-cloud-journey-with-azure-app-service/ba-p/3804037)
-- [Donovan Brown is Retiring -  Episode 242](http://feed.azuredevops.show/donovan-brown-is-retiring-episode-242)
 <!-- AZUREINFOHUB:END -->
 
 
