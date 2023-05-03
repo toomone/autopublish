@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Building CICD pipeline with Azure devops](https://www.youtube.com/watch?v=f3R1VsL19kM)
 - [New Boards Hub Update, Sprint 221](https://devblogs.microsoft.com/devops/new-boards-hub-update-sprint-221/)
 - [Andy Roberts: Data in a Development World - Episode 243](http://feed.azuredevops.show/andy-roberts-data-in-a-development-world-episode-243)
 - [Deploy Logic App Standard with Terraform and Azure DevOps pipelines](https://techcommunity.microsoft.com/t5/integrations-on-azure-blog/deploy-logic-app-standard-with-terraform-and-azure-devops/ba-p/3807734)
 - [Working on Low code assets in VS Code ... yes it is possible!](https://www.youtube.com/watch?v=6vQ7pEAITEU)
-- [What is a Cloud Adoption Security Review?](https://techcommunity.microsoft.com/t5/azure-architecture-blog/what-is-a-cloud-adoption-security-review/ba-p/3805547)
 <!-- AZUREINFOHUB:END -->
 
 
