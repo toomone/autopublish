@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Now available: Azure DevOps Server 2022.0.1](https://devblogs.microsoft.com/devops/now-available-azure-devops-server-2022-0-1/)
 - [MAUI applications in .NET 7 with Maddy Montaquila - Episode 244](http://feed.azuredevops.show/maui-applications-in-net-7-with-maddy-montaquila-episode-244)
 - [Building CICD pipeline with Azure devops](https://www.youtube.com/watch?v=f3R1VsL19kM)
 - [New Boards Hub Update, Sprint 221](https://devblogs.microsoft.com/devops/new-boards-hub-update-sprint-221/)
 - [Andy Roberts: Data in a Development World - Episode 243](http://feed.azuredevops.show/andy-roberts-data-in-a-development-world-episode-243)
-- [Deploy Logic App Standard with Terraform and Azure DevOps pipelines](https://techcommunity.microsoft.com/t5/integrations-on-azure-blog/deploy-logic-app-standard-with-terraform-and-azure-devops/ba-p/3807734)
 <!-- AZUREINFOHUB:END -->
 
 
