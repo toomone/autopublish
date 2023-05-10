@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Azure API Management: Streamline Testing with Postman &amp; Azure DevOps](https://techcommunity.microsoft.com/t5/azure-architecture-blog/azure-api-management-streamline-testing-with-postman-amp-azure/ba-p/3817205)
 - [Now available: Azure DevOps Server 2022.0.1](https://devblogs.microsoft.com/devops/now-available-azure-devops-server-2022-0-1/)
 - [MAUI applications in .NET 7 with Maddy Montaquila - Episode 244](http://feed.azuredevops.show/maui-applications-in-net-7-with-maddy-montaquila-episode-244)
 - [Building CICD pipeline with Azure devops](https://www.youtube.com/watch?v=f3R1VsL19kM)
 - [New Boards Hub Update, Sprint 221](https://devblogs.microsoft.com/devops/new-boards-hub-update-sprint-221/)
-- [Andy Roberts: Data in a Development World - Episode 243](http://feed.azuredevops.show/andy-roberts-data-in-a-development-world-episode-243)
 <!-- AZUREINFOHUB:END -->
 
 
