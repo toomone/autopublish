@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [GitHub Advanced Security for Azure DevOps public preview starts now!](https://devblogs.microsoft.com/devops/github-advanced-security-for-azure-devops-public-preview-starts-now/)
 - [Azure DevOps Achieves ISO 26262 ASIL D level of Certification](https://devblogs.microsoft.com/devops/azure-devops-achieves-iso-26262-asil-d-level-of-certification/)
 - [Now available: Azure DevOps Server 2022.0.1](https://devblogs.microsoft.com/devops/now-available-azure-devops-server-2022-0-1/)
 - [New Boards Hub Update, Sprint 221](https://devblogs.microsoft.com/devops/new-boards-hub-update-sprint-221/)
 - [Use Power Automate to update Azure DevOps queries](https://devblogs.microsoft.com/devops/use-power-automate-to-update-azure-devops-queries/)
-- [New Boards Hub Update, Sprint 220](https://devblogs.microsoft.com/devops/new-boards-hub-update-sprint-220/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
