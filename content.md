@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Microsoft Edge: State of web developer tools | OD39](https://www.youtube.com/watch?v=gLSEZ4QRMlY)
 - [GitHub Advanced Security for Azure DevOps public preview starts now!](https://devblogs.microsoft.com/devops/github-advanced-security-for-azure-devops-public-preview-starts-now/)
 - [Cloud-native at Build 2023](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/cloud-native-at-build-2023/ba-p/3827929)
 - [Toi Wright: Blazor WebAssembly - Episode 246](http://feed.azuredevops.show/toi-wright-blazor-webassembly-episode-246)
 - [Azure DevOps Achieves ISO 26262 ASIL D level of Certification](https://devblogs.microsoft.com/devops/azure-devops-achieves-iso-26262-asil-d-level-of-certification/)
-- [Modern Databases with Ryan Booz - Episode 245](http://feed.azuredevops.show/modern-databases-with-ryan-booz-episode-245)
 <!-- AZUREINFOHUB:END -->
 
 
