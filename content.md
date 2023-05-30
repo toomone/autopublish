@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [New Boards Hub Update, Sprint 222](https://devblogs.microsoft.com/devops/new-boards-hub-update-sprint-222/)
 - [René Schumacher: The DevOps Mindset - Episode 247](http://feed.azuredevops.show/ren-schumacher-the-devops-mindset-episode-247)
 - [Improved Flaky Test Management in Azure Pipelines](https://devblogs.microsoft.com/devops/improved-flaky-test-management-in-azure-pipelines/)
 - [Securing organizations pipelines and integrations in Azure DevOps Q&amp;A | DIS261H](https://www.youtube.com/watch?v=ByIgEdK69po)
 - [Ship-It safely with GitHub Advanced Security | BRK262H](https://www.youtube.com/watch?v=zCKZMilzWUk)
-- [Microsoft Edge: State of web developer tools | OD39](https://www.youtube.com/watch?v=gLSEZ4QRMlY)
 <!-- AZUREINFOHUB:END -->
 
 
