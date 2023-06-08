@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [The evolution of quality assurance and how Azure Test Plans is driving the future of manual testing](https://devblogs.microsoft.com/devops/the-evolution-of-quality-assurance-and-how-azure-test-plans-is-driving-the-future-of-manual-testing/)
 - [Sagar Lad: Data DevOps and Security - Episode 248](http://feed.azuredevops.show/sagar-lad-data-devops-and-security-episode-248)
 - [Markdown editor for comments &lpar;preview&rpar;](https://devblogs.microsoft.com/devops/markdown-editor-for-comments-preview/)
 - [New Boards Hub Update, Sprint 222](https://devblogs.microsoft.com/devops/new-boards-hub-update-sprint-222/)
 - [René Schumacher: The DevOps Mindset - Episode 247](http://feed.azuredevops.show/ren-schumacher-the-devops-mindset-episode-247)
-- [Improved Flaky Test Management in Azure Pipelines](https://devblogs.microsoft.com/devops/improved-flaky-test-management-in-azure-pipelines/)
 <!-- AZUREINFOHUB:END -->
 
 
