@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [AI Ethics with Matthew Renze - Episode 249](http://feed.azuredevops.show/ai-ethics-with-matthew-renze-episode-249)
+- [AI Ethics with Matthew Renze - Episode 249](https://traffic.libsyn.com/secure/azuredevops/ADP_249.mp3?dest-id=768873)
 - [Updates to Approvals and Checks](https://devblogs.microsoft.com/devops/updates-to-approvals-and-checks/)
+- [Deliver quality services with Infrastructure as Code &lpar;IaC&rpar; on Azure DevOps](https://www.youtube.com/watch?v=U1atTktRpYs)
 - [The evolution of quality assurance and how Azure Test Plans is driving the future of manual testing](https://devblogs.microsoft.com/devops/the-evolution-of-quality-assurance-and-how-azure-test-plans-is-driving-the-future-of-manual-testing/)
-- [Sagar Lad: Data DevOps and Security - Episode 248](http://feed.azuredevops.show/sagar-lad-data-devops-and-security-episode-248)
-- [Markdown editor for comments &lpar;preview&rpar;](https://devblogs.microsoft.com/devops/markdown-editor-for-comments-preview/)
+- [Sagar Lad: Data DevOps and Security - Episode 248](https://traffic.libsyn.com/secure/azuredevops/ADP_248.mp3?dest-id=768873)
 <!-- AZUREINFOHUB:END -->
 
 
