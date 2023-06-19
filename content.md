@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [New Boards Hub Update, Sprint 223](https://devblogs.microsoft.com/devops/new-boards-hub-update-sprint-223/)
 - [June patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/june-patches-for-azure-devops-server-2/)
 - [Updates to Approvals and Checks](https://devblogs.microsoft.com/devops/updates-to-approvals-and-checks/)
 - [The evolution of quality assurance and how Azure Test Plans is driving the future of manual testing](https://devblogs.microsoft.com/devops/the-evolution-of-quality-assurance-and-how-azure-test-plans-is-driving-the-future-of-manual-testing/)
 - [Markdown editor for comments (preview)](https://devblogs.microsoft.com/devops/markdown-editor-for-comments-preview/)
-- [New Boards Hub Update, Sprint 222](https://devblogs.microsoft.com/devops/new-boards-hub-update-sprint-222/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
