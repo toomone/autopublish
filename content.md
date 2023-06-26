@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Leading teams through DevOps with Kevin LaBranche - Episode 251](http://feed.azuredevops.show/leading-teams-through-devops-with-kevin-labranche-episode-251)
 - [Azure Logic Apps Community Day - On Demand Resources](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-logic-apps-community-day-on-demand-resources/ba-p/3855572)
 - [New Boards Hub Update, Sprint 223](https://devblogs.microsoft.com/devops/new-boards-hub-update-sprint-223/)
 - [Greg Leonardo: Responsible AI - Episode 250](http://feed.azuredevops.show/greg-leonardo-responsible-ai-episode-250)
 - [Announcing landing zone accelerator for Azure Container Apps](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/announcing-landing-zone-accelerator-for-azure-container-apps/ba-p/3843989)
-- [June patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/june-patches-for-azure-devops-server-2/)
 <!-- AZUREINFOHUB:END -->
 
 
