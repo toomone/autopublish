@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Automating AKS cluster creation using Bicep and Azure DevOps | #Techespresso](https://www.youtube.com/watch?v=WqbBQ_K7sKc)
+- [Automating AKS cluster creation using Bicep and Azure DevOps | #Techespresso](https://www.youtube.com/watch?v=vuvEWE5pnQY)
 - [Choose an image for your organization](https://devblogs.microsoft.com/devops/choose-an-image-for-your-organization/)
 - [Azure Load Testing: You can run load tests from command-line now](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-load-testing-you-can-run-load-tests-from-command-line-now/ba-p/3857629)
 - [Leading teams through DevOps with Kevin LaBranche - Episode 251](http://feed.azuredevops.show/leading-teams-through-devops-with-kevin-labranche-episode-251)
-- [Azure Logic Apps Community Day - On Demand Resources](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-logic-apps-community-day-on-demand-resources/ba-p/3855572)
-- [New Boards Hub Update, Sprint 223](https://devblogs.microsoft.com/devops/new-boards-hub-update-sprint-223/)
 <!-- AZUREINFOHUB:END -->
 
 
