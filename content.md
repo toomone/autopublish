@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Contoso Traders, cloud testing demo overview](https://www.youtube.com/watch?v=7JletmiT3io)
 - [Automating AKS cluster creation using Bicep and Azure DevOps | #Techespresso](https://www.youtube.com/watch?v=WqbBQ_K7sKc)
 - [Automating AKS cluster creation using Bicep and Azure DevOps | #Techespresso](https://www.youtube.com/watch?v=vuvEWE5pnQY)
 - [Choose an image for your organization](https://devblogs.microsoft.com/devops/choose-an-image-for-your-organization/)
 - [Azure Load Testing: You can run load tests from command-line now](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-load-testing-you-can-run-load-tests-from-command-line-now/ba-p/3857629)
-- [Leading teams through DevOps with Kevin LaBranche - Episode 251](http://feed.azuredevops.show/leading-teams-through-devops-with-kevin-labranche-episode-251)
 <!-- AZUREINFOHUB:END -->
 
 
