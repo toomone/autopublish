@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Mike Brind on Razor Pages in Action - Episode 253](http://feed.azuredevops.show/mike-brind-on-razor-pages-in-action-episode-253)
 - [Brian Lagunas on Establishing Quality - Episode 252](http://feed.azuredevops.show/brian-lagunas-on-establishing-quality-episode-252)
 - [Contoso Traders, cloud testing demo overview](https://www.youtube.com/watch?v=7JletmiT3io)
 - [Automating AKS cluster creation using Bicep and Azure DevOps | #Techespresso](https://www.youtube.com/watch?v=WqbBQ_K7sKc)
 - [Automating AKS cluster creation using Bicep and Azure DevOps | #Techespresso](https://www.youtube.com/watch?v=vuvEWE5pnQY)
-- [Choose an image for your organization](https://devblogs.microsoft.com/devops/choose-an-image-for-your-organization/)
 <!-- AZUREINFOHUB:END -->
 
 
