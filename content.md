@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Improvements to code coverage experience under test automation](https://devblogs.microsoft.com/devops/improvements-to-code-coverage-experience-under-test-automation/)
 - [New Boards Hub Path to GA](https://devblogs.microsoft.com/devops/new-boards-hub-path-to-ga/)
 - [Azure DevOps 2023 Q3 Roadmap update](https://devblogs.microsoft.com/devops/azure-devops-2023-q3-roadmap-update/)
 - [New Boards Hub Update, Sprint 224](https://devblogs.microsoft.com/devops/new-boards-hub-update-sprint-224/)
 - [Choose an image for your organization](https://devblogs.microsoft.com/devops/choose-an-image-for-your-organization/)
-- [New Boards Hub Update, Sprint 223](https://devblogs.microsoft.com/devops/new-boards-hub-update-sprint-223/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
