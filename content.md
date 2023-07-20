@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Improvements to code coverage experience under test automation](https://devblogs.microsoft.com/devops/improvements-to-code-coverage-experience-under-test-automation/)
+- [Implementing GitHub Advanced Security for Azure DevOps](https://www.youtube.com/watch?v=Rdlo33QYvXk)
 - [New Boards Hub Path to GA](https://devblogs.microsoft.com/devops/new-boards-hub-path-to-ga/)
 - [Mitchel Sellers: Architecting .NET MAUI - Episode 254](http://feed.azuredevops.show/mitchel-sellers-architecting-net-maui-episode-254)
 - [Azure DevOps 2023 Q3 Roadmap update](https://devblogs.microsoft.com/devops/azure-devops-2023-q3-roadmap-update/)
-- [Integrate Azure Load Testing with CI/CD &amp; JMeter-based Tests | #AzureLoadTesting](https://www.youtube.com/watch?v=Oo0XthhTuMQ)
-- [Panel: Azure DevOps vs. GitHub Actions](https://www.youtube.com/watch?v=8g4qLzkpjeE)
 <!-- AZUREINFOHUB:END -->
 
 
