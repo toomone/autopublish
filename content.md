@@ -12,11 +12,11 @@
 ## AZURE WEEKLY BLOG
 
 <!-- AZUREWEEKLY:START -->
+- [Azure Weekly Issue 428 - 23rd July 2023](https://azureweekly.info/issue-428.html)
 - [Azure Weekly Issue 427 - 16th July 2023](https://azureweekly.info/issue-427.html)
 - [Azure Weekly Issue 426 - 9th July 2023](https://azureweekly.info/issue-426.html)
 - [Azure Weekly Issue 425 - 2nd July 2023](https://azureweekly.info/issue-425.html)
 - [Azure Weekly Issue 424 - 25th June 2023](https://azureweekly.info/issue-424.html)
-- [Azure Weekly Issue 423 - 18th June 2023](https://azureweekly.info/issue-423.html)
 <!-- AZUREWEEKLY:END -->
 
 ## AZURE INFOHUB BLOG 
