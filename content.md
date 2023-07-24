@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Giorgi Dalakishvili: Beyond Relational Data with Entity Framework - Episode 255](http://feed.azuredevops.show/giorgi-dalakishvili-beyond-relational-data-with-entity-framework-episode-255)
 - [Improvements to code coverage experience under test automation](https://devblogs.microsoft.com/devops/improvements-to-code-coverage-experience-under-test-automation/)
 - [Azure Optimization Mindset - Drive Business Value with Optimization](https://techcommunity.microsoft.com/t5/azure-architecture-blog/azure-optimization-mindset-drive-business-value-with/ba-p/3880321)
 - [Implementing GitHub Advanced Security for Azure DevOps](https://www.youtube.com/watch?v=Rdlo33QYvXk)
 - [New Boards Hub Path to GA](https://devblogs.microsoft.com/devops/new-boards-hub-path-to-ga/)
-- [Mitchel Sellers: Architecting .NET MAUI - Episode 254](http://feed.azuredevops.show/mitchel-sellers-architecting-net-maui-episode-254)
 <!-- AZUREINFOHUB:END -->
 
 
