@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [This Month In Azure Static Web Apps | July 2023](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/this-month-in-azure-static-web-apps-july-2023/ba-p/3883710)
 - [Giorgi Dalakishvili: Beyond Relational Data with Entity Framework - Episode 255](http://feed.azuredevops.show/giorgi-dalakishvili-beyond-relational-data-with-entity-framework-episode-255)
 - [Improvements to code coverage experience under test automation](https://devblogs.microsoft.com/devops/improvements-to-code-coverage-experience-under-test-automation/)
 - [Azure Optimization Mindset - Drive Business Value with Optimization](https://techcommunity.microsoft.com/t5/azure-architecture-blog/azure-optimization-mindset-drive-business-value-with/ba-p/3880321)
 - [Implementing GitHub Advanced Security for Azure DevOps](https://www.youtube.com/watch?v=Rdlo33QYvXk)
-- [New Boards Hub Path to GA](https://devblogs.microsoft.com/devops/new-boards-hub-path-to-ga/)
 <!-- AZUREINFOHUB:END -->
 
 
