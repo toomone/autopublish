@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Resilient App series at the Microsoft Reactor](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/resilient-app-series-at-the-microsoft-reactor/ba-p/3885070)
 - [Automating End-to-End testing with Playwright and Azure Pipelines](https://techcommunity.microsoft.com/t5/azure-architecture-blog/automating-end-to-end-testing-with-playwright-and-azure/ba-p/3883704)
 - [This Month In Azure Static Web Apps | July 2023](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/this-month-in-azure-static-web-apps-july-2023/ba-p/3883710)
 - [Giorgi Dalakishvili: Beyond Relational Data with Entity Framework - Episode 255](http://feed.azuredevops.show/giorgi-dalakishvili-beyond-relational-data-with-entity-framework-episode-255)
 - [Improvements to code coverage experience under test automation](https://devblogs.microsoft.com/devops/improvements-to-code-coverage-experience-under-test-automation/)
-- [Azure Optimization Mindset - Drive Business Value with Optimization](https://techcommunity.microsoft.com/t5/azure-architecture-blog/azure-optimization-mindset-drive-business-value-with/ba-p/3880321)
 <!-- AZUREINFOHUB:END -->
 
 
