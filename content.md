@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Damian Brady: GitHub Copilot - Episode 258](http://feed.azuredevops.show/damian-brady-github-copilot-episode-258)
 - [August patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/august-patches-for-azure-devops-server-3/)
 - [Glenn Burnside: Managing Developers - Episode 257](http://feed.azuredevops.show/glenn-burnside-managing-developers-episode-257)
 - [Keynote: The Future of Development - AI and the Cloud](https://www.youtube.com/watch?v=m5eJ9KIRlrw)
 - [Dennis van der Stelt: Microservices and Distributed Systems - Episode 256](http://feed.azuredevops.show/dennis-van-der-stelt-microservices-and-distributed-systems-episode-256)
-- [Resilient App series at the Microsoft Reactor](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/resilient-app-series-at-the-microsoft-reactor/ba-p/3885070)
 <!-- AZUREINFOHUB:END -->
 
 
