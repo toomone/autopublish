@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Build Right and Fast: Landing Zone Accelerator for Spring Apps - Now Generally Available!](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/build-right-and-fast-landing-zone-accelerator-for-spring-apps/ba-p/3903517)
+- [Bob Walker: Painless Operations - Episode 259](http://feed.azuredevops.show/bob-walker-painless-operations-episode-259)
 - [Damian Brady: GitHub Copilot - Episode 258](http://feed.azuredevops.show/damian-brady-github-copilot-episode-258)
 - [August patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/august-patches-for-azure-devops-server-3/)
 - [Glenn Burnside: Managing Developers - Episode 257](http://feed.azuredevops.show/glenn-burnside-managing-developers-episode-257)
-- [Keynote: The Future of Development - AI and the Cloud](https://www.youtube.com/watch?v=m5eJ9KIRlrw)
-- [Dennis van der Stelt: Microservices and Distributed Systems - Episode 256](http://feed.azuredevops.show/dennis-van-der-stelt-microservices-and-distributed-systems-episode-256)
 <!-- AZUREINFOHUB:END -->
 
 
