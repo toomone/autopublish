@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Jeremy Miller: Parallelism in Software - Episode 261](http://feed.azuredevops.show/jeremy-miller-parallelism-in-software-episode-261)
 - [Nathaniel Schutta: Thinking Architecturally - Episode 260](http://feed.azuredevops.show/nathaniel-schutta-thinking-architecturally-episode-260)
 - [Introducing Azure Artifacts support for Rust Crates](https://devblogs.microsoft.com/devops/introducing-azure-artifacts-support-for-rust-crates/)
 - [Build Right and Fast: Landing Zone Accelerator for Spring Apps - Now Generally Available!](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/build-right-and-fast-landing-zone-accelerator-for-spring-apps/ba-p/3903517)
 - [Bob Walker: Painless Operations - Episode 259](http://feed.azuredevops.show/bob-walker-painless-operations-episode-259)
-- [Damian Brady: GitHub Copilot - Episode 258](http://feed.azuredevops.show/damian-brady-github-copilot-episode-258)
 <!-- AZUREINFOHUB:END -->
 
 
