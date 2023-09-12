@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [September patches for Azure DevOps Server and Team Foundation Server](https://devblogs.microsoft.com/devops/september-patches-for-azure-devops-server-2/)
 - [Public preview of Workload identity federation for Azure Pipelines](https://devblogs.microsoft.com/devops/public-preview-of-workload-identity-federation-for-azure-pipelines/)
 - [Introducing Azure Artifacts support for Rust Crates](https://devblogs.microsoft.com/devops/introducing-azure-artifacts-support-for-rust-crates/)
 - [August patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/august-patches-for-azure-devops-server-3/)
 - [Improvements to code coverage experience under test automation](https://devblogs.microsoft.com/devops/improvements-to-code-coverage-experience-under-test-automation/)
-- [New Boards Hub Path to GA](https://devblogs.microsoft.com/devops/new-boards-hub-path-to-ga/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
