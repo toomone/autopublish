@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [J. Tower: Modernization Strangler Fig Pattern - Episode 263](http://feed.azuredevops.show/j-tower-modernization-strangler-fig-pattern-episode-263)
 - [September patches for Azure DevOps Server and Team Foundation Server](https://devblogs.microsoft.com/devops/september-patches-for-azure-devops-server-2/)
 - [Build image with containerised self-hosted Azure DevOps agent and private Azure Container Registry](https://techcommunity.microsoft.com/t5/azure-architecture-blog/build-image-with-containerised-self-hosted-azure-devops-agent/ba-p/3919105)
 - [Public preview of Workload identity federation for Azure Pipelines](https://devblogs.microsoft.com/devops/public-preview-of-workload-identity-federation-for-azure-pipelines/)
 - [Chris &quot;Woody&quot; Woodruff: Network Programming - Episode 262](http://feed.azuredevops.show/chris-woody-woodruff-network-programming-episode-262)
-- [Jeremy Miller: Parallelism in Software - Episode 261](http://feed.azuredevops.show/jeremy-miller-parallelism-in-software-episode-261)
 <!-- AZUREINFOHUB:END -->
 
 
