@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Now Generally Available: GitHub Advanced Security for Azure DevOps is ready for you to use](https://devblogs.microsoft.com/devops/now-generally-available-github-advanced-security-for-azure-devops-is-ready-for-you-to-use/)
 - [Introducing Azure DevOps Server 2022 Update 1 RC1](https://devblogs.microsoft.com/devops/introducing-azure-devops-server-2022-update-1-rc1/)
 - [September patches for Azure DevOps Server and Team Foundation Server](https://devblogs.microsoft.com/devops/september-patches-for-azure-devops-server-2/)
 - [Public preview of Workload identity federation for Azure Pipelines](https://devblogs.microsoft.com/devops/public-preview-of-workload-identity-federation-for-azure-pipelines/)
 - [Introducing Azure Artifacts support for Rust Crates](https://devblogs.microsoft.com/devops/introducing-azure-artifacts-support-for-rust-crates/)
-- [August patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/august-patches-for-azure-devops-server-3/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
