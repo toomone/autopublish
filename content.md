@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Managed identity and service principal support for Azure DevOps now in General Availability (GA)](https://devblogs.microsoft.com/devops/managed-identity-and-service-principal-support-for-azure-devops-now-in-general-availability-ga/)
 - [New Boards Hub Rollout Update](https://devblogs.microsoft.com/devops/new-boards-hub-rollout-update/)
 - [Now Generally Available: GitHub Advanced Security for Azure DevOps is ready for you to use](https://devblogs.microsoft.com/devops/now-generally-available-github-advanced-security-for-azure-devops-is-ready-for-you-to-use/)
 - [Introducing Azure DevOps Server 2022 Update 1 RC1](https://devblogs.microsoft.com/devops/introducing-azure-devops-server-2022-update-1-rc1/)
 - [September patches for Azure DevOps Server and Team Foundation Server](https://devblogs.microsoft.com/devops/september-patches-for-azure-devops-server-2/)
-- [Public preview of Workload identity federation for Azure Pipelines](https://devblogs.microsoft.com/devops/public-preview-of-workload-identity-federation-for-azure-pipelines/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
