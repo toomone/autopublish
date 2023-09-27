@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Managed identity and service principal support for Azure DevOps now in General Availability &lpar;GA&rpar;](https://devblogs.microsoft.com/devops/managed-identity-and-service-principal-support-for-azure-devops-now-in-general-availability-ga/)
+- [Using the Azure Pipeline to Build and Deploy a Database Project | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=-y-T8jT2Zwk)
 - [New Boards Hub Rollout Update](https://devblogs.microsoft.com/devops/new-boards-hub-rollout-update/)
 - [Jimmy Bogard: .NET 7 and Azure Modernization - Episode 264](http://feed.azuredevops.show/jimmy-bogard-net-7-and-azure-modernization-episode-264)
 - [Now Generally Available: GitHub Advanced Security for Azure DevOps is ready for you to use](https://devblogs.microsoft.com/devops/now-generally-available-github-advanced-security-for-azure-devops-is-ready-for-you-to-use/)
-- [Introducing Azure DevOps Server 2022 Update 1 RC1](https://devblogs.microsoft.com/devops/introducing-azure-devops-server-2022-update-1-rc1/)
-- [Automate your load tests with CI/CD in just a few clicks](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/automate-your-load-tests-with-ci-cd-in-just-a-few-clicks/ba-p/3931185)
 <!-- AZUREINFOHUB:END -->
 
 
