@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Team Work Item Automation Rules &lpar;Private Preview&rpar;](https://devblogs.microsoft.com/devops/team-backlog-automation-rules-private-preview/)
+- [Jay Harris: Overcoming Tough Problems in Software Projects - Episode 265](http://feed.azuredevops.show/jay-harris-overcoming-tough-problems-in-software-projects-episode-265)
 - [New Azure DevOps scopes now available for Microsoft Identity OAuth delegated flow apps](https://devblogs.microsoft.com/devops/new-azure-devops-scopes-now-available-for-microsoft-identity-oauth-delegated-flow-apps/)
 - [Managed identity and service principal support for Azure DevOps now in General Availability &lpar;GA&rpar;](https://devblogs.microsoft.com/devops/managed-identity-and-service-principal-support-for-azure-devops-now-in-general-availability-ga/)
 - [Using the Azure Pipeline to Build and Deploy a Database Project | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=-y-T8jT2Zwk)
-- [New Boards Hub Rollout Update](https://devblogs.microsoft.com/devops/new-boards-hub-rollout-update/)
-- [Jimmy Bogard: .NET 7 and Azure Modernization - Episode 264](http://feed.azuredevops.show/jimmy-bogard-net-7-and-azure-modernization-episode-264)
 <!-- AZUREINFOHUB:END -->
 
 
