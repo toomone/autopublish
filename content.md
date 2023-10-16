@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Jeff Julian: IoT with Meadow and Wilderness Labs - Episode 267](http://feed.azuredevops.show/jeff-julian-iot-with-meadow-and-wilderness-labs-episode-267)
 - [October patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/october-patches-for-azure-devops-server-3/)
 - [Shawn Wildermuth: Web Service APIs in .NET 7 - Episode 266](http://feed.azuredevops.show/shawn-wildermuth-web-service-apis-in-net-7-episode-266)
 - [Team Work Item Automation Rules &lpar;Private Preview&rpar;](https://devblogs.microsoft.com/devops/team-backlog-automation-rules-private-preview/)
 - [Jay Harris: Overcoming Tough Problems in Software Projects - Episode 265](http://feed.azuredevops.show/jay-harris-overcoming-tough-problems-in-software-projects-episode-265)
-- [New Azure DevOps scopes now available for Microsoft Identity OAuth delegated flow apps](https://devblogs.microsoft.com/devops/new-azure-devops-scopes-now-available-for-microsoft-identity-oauth-delegated-flow-apps/)
 <!-- AZUREINFOHUB:END -->
 
 
