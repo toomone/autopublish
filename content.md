@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Improved Code Coverage Tab Experience](https://devblogs.microsoft.com/devops/improved-code-coverage-tab-experience/)
 - [October patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/october-patches-for-azure-devops-server-3/)
 - [Team Work Item Automation Rules (Private Preview)](https://devblogs.microsoft.com/devops/team-backlog-automation-rules-private-preview/)
 - [New Azure DevOps scopes now available for Microsoft Identity OAuth delegated flow apps](https://devblogs.microsoft.com/devops/new-azure-devops-scopes-now-available-for-microsoft-identity-oauth-delegated-flow-apps/)
 - [Managed identity and service principal support for Azure DevOps now in General Availability (GA)](https://devblogs.microsoft.com/devops/managed-identity-and-service-principal-support-for-azure-devops-now-in-general-availability-ga/)
-- [New Boards Hub Rollout Update](https://devblogs.microsoft.com/devops/new-boards-hub-rollout-update/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
