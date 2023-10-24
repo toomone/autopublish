@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Introducing Work Item Chart Filtering in Azure DevOps Dashboards](https://devblogs.microsoft.com/devops/introducing-work-item-chart-filtering-in-azure-devops-dashboards/)
 - [Mike Martin: Architecting Azure - Episode 268](http://feed.azuredevops.show/mike-martin-architecting-azure-episode-268)
 - [Improved Code Coverage Tab Experience](https://devblogs.microsoft.com/devops/improved-code-coverage-tab-experience/)
 - [Jeff Julian: IoT with Meadow and Wilderness Labs - Episode 267](http://feed.azuredevops.show/jeff-julian-iot-with-meadow-and-wilderness-labs-episode-267)
 - [October patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/october-patches-for-azure-devops-server-3/)
-- [Shawn Wildermuth: Web Service APIs in .NET 7 - Episode 266](http://feed.azuredevops.show/shawn-wildermuth-web-service-apis-in-net-7-episode-266)
 <!-- AZUREINFOHUB:END -->
 
 
