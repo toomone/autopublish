@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [#165 - The one with Configuration Editor with SDAF &lpar;Kimmo Forss &amp; Hemanth Damecharla&rpar;](https://www.youtube.com/watch?v=RwSMUcUU_fk)
 - [Introducing Work Item Chart Filtering in Azure DevOps Dashboards](https://devblogs.microsoft.com/devops/introducing-work-item-chart-filtering-in-azure-devops-dashboards/)
 - [Mike Martin: Architecting Azure - Episode 268](http://feed.azuredevops.show/mike-martin-architecting-azure-episode-268)
 - [Improved Code Coverage Tab Experience](https://devblogs.microsoft.com/devops/improved-code-coverage-tab-experience/)
 - [Jeff Julian: IoT with Meadow and Wilderness Labs - Episode 267](http://feed.azuredevops.show/jeff-julian-iot-with-meadow-and-wilderness-labs-episode-267)
-- [October patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/october-patches-for-azure-devops-server-3/)
 <!-- AZUREINFOHUB:END -->
 
 
