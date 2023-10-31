@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Azure DevOps Server 2022.1 RC2 now available](https://devblogs.microsoft.com/devops/azure-devops-server-2022-1-rc2-now-available/)
+- [Azure Boards + GitHub Integration Improvements](https://devblogs.microsoft.com/devops/azure-boards-github-integration-improvements/)
 - [Matthew Casperson: Platform Engineering - Episode 269](http://feed.azuredevops.show/matthew-casperson-platform-engineering-episode-269)
 - [#165 - The one with Configuration Editor with SDAF &lpar;Kimmo Forss &amp; Hemanth Damecharla&rpar;](https://www.youtube.com/watch?v=RwSMUcUU_fk)
 - [Introducing Work Item Chart Filtering in Azure DevOps Dashboards](https://devblogs.microsoft.com/devops/introducing-work-item-chart-filtering-in-azure-devops-dashboards/)
-- [Mike Martin: Architecting Azure - Episode 268](http://feed.azuredevops.show/mike-martin-architecting-azure-episode-268)
-- [Improved Code Coverage Tab Experience](https://devblogs.microsoft.com/devops/improved-code-coverage-tab-experience/)
 <!-- AZUREINFOHUB:END -->
 
 
