@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Azure DevOps Server 2022.1 RC2 now available](https://devblogs.microsoft.com/devops/azure-devops-server-2022-1-rc2-now-available/)
+- [Azure Boards + GitHub Integration Improvements](https://devblogs.microsoft.com/devops/azure-boards-github-integration-improvements/)
 - [Introducing Work Item Chart Filtering in Azure DevOps Dashboards](https://devblogs.microsoft.com/devops/introducing-work-item-chart-filtering-in-azure-devops-dashboards/)
 - [Improved Code Coverage Tab Experience](https://devblogs.microsoft.com/devops/improved-code-coverage-tab-experience/)
 - [October patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/october-patches-for-azure-devops-server-3/)
-- [Team Work Item Automation Rules (Private Preview)](https://devblogs.microsoft.com/devops/team-backlog-automation-rules-private-preview/)
-- [New Azure DevOps scopes now available for Microsoft Identity OAuth delegated flow apps](https://devblogs.microsoft.com/devops/new-azure-devops-scopes-now-available-for-microsoft-identity-oauth-delegated-flow-apps/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
