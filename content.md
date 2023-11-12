@@ -12,11 +12,11 @@
 ## AZURE WEEKLY BLOG
 
 <!-- AZUREWEEKLY:START -->
+- [Azure Weekly Issue 444 - 12th November 2023](https://azureweekly.info/issue-444.html)
 - [Azure Weekly Issue 443 - 5th November 2023](https://azureweekly.info/issue-443.html)
 - [Azure Weekly Issue 442 - 29th October 2023](https://azureweekly.info/issue-442.html)
 - [Azure Weekly Issue 441 - 22nd October 2023](https://azureweekly.info/issue-441.html)
 - [Azure Weekly Issue 440 - 15th October 2023](https://azureweekly.info/issue-440.html)
-- [Azure Weekly Issue 439 - 8th October 2023](https://azureweekly.info/issue-439.html)
 <!-- AZUREWEEKLY:END -->
 
 ## AZURE INFOHUB BLOG 
