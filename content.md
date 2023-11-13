@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Martin Thwaites: Building Software for Production - Episode 271](http://feed.azuredevops.show/martin-thwaites-building-software-for-production-episode-271)
+- [Azure Spring Apps product updates in Q3 2023](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-spring-apps-product-updates-in-q3-2023/ba-p/3976871)
 - [Jeremy Clark: Design Patterns - Episode 270](http://feed.azuredevops.show/jeremy-clark-design-patterns-episode-270)
 - [Git Partial Clone Now Supported in Azure DevOps](https://devblogs.microsoft.com/devops/git-partial-clone-now-supported-in-azure-devops/)
 - [Azure DevOps Server 2022.1 RC2 now available](https://devblogs.microsoft.com/devops/azure-devops-server-2022-1-rc2-now-available/)
-- [Azure Boards + GitHub Integration Improvements](https://devblogs.microsoft.com/devops/azure-boards-github-integration-improvements/)
-- [Matthew Casperson: Platform Engineering - Episode 269](http://feed.azuredevops.show/matthew-casperson-platform-engineering-episode-269)
 <!-- AZUREINFOHUB:END -->
 
 
