@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [November patches for Azure DevOps Server and Team Foundation Server](https://devblogs.microsoft.com/devops/november-patches-for-azure-devops-server-and-team-foundation-server/)
 - [Git Partial Clone Now Supported in Azure DevOps](https://devblogs.microsoft.com/devops/git-partial-clone-now-supported-in-azure-devops/)
 - [Azure DevOps Server 2022.1 RC2 now available](https://devblogs.microsoft.com/devops/azure-devops-server-2022-1-rc2-now-available/)
 - [Azure Boards + GitHub Integration Improvements](https://devblogs.microsoft.com/devops/azure-boards-github-integration-improvements/)
 - [Introducing Work Item Chart Filtering in Azure DevOps Dashboards](https://devblogs.microsoft.com/devops/introducing-work-item-chart-filtering-in-azure-devops-dashboards/)
-- [Improved Code Coverage Tab Experience](https://devblogs.microsoft.com/devops/improved-code-coverage-tab-experience/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
