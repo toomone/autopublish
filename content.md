@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Azure App Service at Ignite 2023](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-app-service-at-ignite-2023/ba-p/3977578)
+- [New capabilities help simplify and streamline the experience with Microsoft Dev Box](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/new-capabilities-help-simplify-and-streamline-the-experience/ba-p/3981481)
 - [Martin Thwaites: Building Software for Production - Episode 271](http://feed.azuredevops.show/martin-thwaites-building-software-for-production-episode-271)
 - [Azure Spring Apps product updates in Q3 2023](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-spring-apps-product-updates-in-q3-2023/ba-p/3976871)
-- [Jeremy Clark: Design Patterns - Episode 270](http://feed.azuredevops.show/jeremy-clark-design-patterns-episode-270)
-- [Git Partial Clone Now Supported in Azure DevOps](https://devblogs.microsoft.com/devops/git-partial-clone-now-supported-in-azure-devops/)
-- [Azure DevOps Server 2022.1 RC2 now available](https://devblogs.microsoft.com/devops/azure-devops-server-2022-1-rc2-now-available/)
+- [Build .NET MAUI Apps with DevOps | .NET Conf 2023](https://www.youtube.com/watch?v=PattkMhmnzE)
 <!-- AZUREINFOHUB:END -->
 
 
