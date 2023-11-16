@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Azure DevOps’ First Consensus Assessment Initiative Questionnaire &lpar;CAIQ&rpar; Now Available](https://devblogs.microsoft.com/devops/azure-devops-first-consensus-assessment-initiative-questionnaire-caiq-now-available/)
 - [Azure App Service at Ignite 2023](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-app-service-at-ignite-2023/ba-p/3977578)
 - [New capabilities help simplify and streamline the experience with Microsoft Dev Box](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/new-capabilities-help-simplify-and-streamline-the-experience/ba-p/3981481)
+- [November patches for Azure DevOps Server and Team Foundation Server](https://devblogs.microsoft.com/devops/november-patches-for-azure-devops-server-and-team-foundation-server/)
 - [Martin Thwaites: Building Software for Production - Episode 271](http://feed.azuredevops.show/martin-thwaites-building-software-for-production-episode-271)
-- [Azure Spring Apps product updates in Q3 2023](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-spring-apps-product-updates-in-q3-2023/ba-p/3976871)
-- [Build .NET MAUI Apps with DevOps | .NET Conf 2023](https://www.youtube.com/watch?v=PattkMhmnzE)
 <!-- AZUREINFOHUB:END -->
 
 
