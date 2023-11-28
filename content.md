@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Azure DevOps Server 2022.1 RTW now available](https://devblogs.microsoft.com/devops/azure-devops-server-2022-1-rtw-now-available/)
 - [Maarten Balliauw: Developer Tools - Episode 273](http://feed.azuredevops.show/maarten-balliauw-developer-tools-episode-273)
 - [New Boards Hub, Fall Update](https://devblogs.microsoft.com/devops/new-boards-hub-fall-update/)
 - [Scott Hunter: .NET8 - Episode 272](http://feed.azuredevops.show/scott-hunter-net8-episode-272)
 - [Azure DevOps’ First Consensus Assessment Initiative Questionnaire &lpar;CAIQ&rpar; Now Available](https://devblogs.microsoft.com/devops/azure-devops-first-consensus-assessment-initiative-questionnaire-caiq-now-available/)
-- [Azure App Service at Ignite 2023](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-app-service-at-ignite-2023/ba-p/3977578)
 <!-- AZUREINFOHUB:END -->
 
 
