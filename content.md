@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Daniel Roth: Blazor with .NET 8 - Episode 274](http://feed.azuredevops.show/daniel-roth-blazor-with-net-8-episode-274)
 - [Work Items in Visual Studio](https://devblogs.microsoft.com/devops/work-items-in-visual-studio/)
 - [Azure DevOps Server 2022.1 RTW now available](https://devblogs.microsoft.com/devops/azure-devops-server-2022-1-rtw-now-available/)
 - [Maarten Balliauw: Developer Tools - Episode 273](http://feed.azuredevops.show/maarten-balliauw-developer-tools-episode-273)
 - [New Boards Hub, Fall Update](https://devblogs.microsoft.com/devops/new-boards-hub-fall-update/)
-- [Scott Hunter: .NET8 - Episode 272](http://feed.azuredevops.show/scott-hunter-net8-episode-272)
 <!-- AZUREINFOHUB:END -->
 
 
