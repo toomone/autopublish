@@ -2,7 +2,7 @@
 
 <!-- DEVBLOGDEVOPS:START -->
 - [Work Items in Visual Studio](https://devblogs.microsoft.com/devops/work-items-in-visual-studio/)
-- [Azure DevOps Server 2022.1 RTW now available](https://devblogs.microsoft.com/devops/azure-devops-server-2022-1-rtw-now-available/)
+- [Updated: Azure DevOps Server 2022.1 RTW now available](https://devblogs.microsoft.com/devops/azure-devops-server-2022-1-rtw-now-available/)
 - [New Boards Hub, Fall Update](https://devblogs.microsoft.com/devops/new-boards-hub-fall-update/)
 - [Azure DevOps’ First Consensus Assessment Initiative Questionnaire (CAIQ) Now Available](https://devblogs.microsoft.com/devops/azure-devops-first-consensus-assessment-initiative-questionnaire-caiq-now-available/)
 - [November patches for Azure DevOps Server and Team Foundation Server](https://devblogs.microsoft.com/devops/november-patches-for-azure-devops-server-and-team-foundation-server/)
