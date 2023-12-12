@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [December patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/december-patches-for-azure-devops-server-3/)
 - [Azure DevOps for Unreal Engine game development](https://devblogs.microsoft.com/devops/azure-devops-for-unreal-engine-game-development/)
 - [Clark Sell: Developer Education and Networking - Episode 275](http://feed.azuredevops.show/clark-sell-developer-education-and-networking-episode-275)
 - [Invoking Azure DevOps REST APIs with Service Principal and Managed Identities](https://www.youtube.com/watch?v=_wWNus0OmP8)
 - [Daniel Roth: Blazor with .NET 8 - Episode 274](http://feed.azuredevops.show/daniel-roth-blazor-with-net-8-episode-274)
-- [Work Items in Visual Studio](https://devblogs.microsoft.com/devops/work-items-in-visual-studio/)
 <!-- AZUREINFOHUB:END -->
 
 
