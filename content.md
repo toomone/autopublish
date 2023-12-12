@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [December patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/december-patches-for-azure-devops-server-3/)
 - [Azure DevOps for Unreal Engine game development](https://devblogs.microsoft.com/devops/azure-devops-for-unreal-engine-game-development/)
 - [Work Items in Visual Studio](https://devblogs.microsoft.com/devops/work-items-in-visual-studio/)
 - [Updated: Azure DevOps Server 2022.1 RTW now available](https://devblogs.microsoft.com/devops/azure-devops-server-2022-1-rtw-now-available/)
 - [New Boards Hub, Fall Update](https://devblogs.microsoft.com/devops/new-boards-hub-fall-update/)
-- [Azure DevOps’ First Consensus Assessment Initiative Questionnaire (CAIQ) Now Available](https://devblogs.microsoft.com/devops/azure-devops-first-consensus-assessment-initiative-questionnaire-caiq-now-available/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
