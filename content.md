@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Carl Franklin: Why.NET Rocks - Episode 277](http://feed.azuredevops.show/carl-franklin-whynet-rocks-episode-277)
 - [Azure Container Apps Jobs in a secure Landing Zone](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-container-apps-jobs-in-a-secure-landing-zone/ba-p/4013357)
 - [Steve Smith: .NET 8 and Architecture - Episode 276](http://feed.azuredevops.show/steve-smith-net-8-and-architecture-episode-276)
 - [Updates to Azure DevOps Demo Generator and Labs](https://devblogs.microsoft.com/devops/updates-to-azure-devops-demo-generator-and-labs/)
 - [December patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/december-patches-for-azure-devops-server-3/)
-- [Azure DevOps for Unreal Engine game development](https://devblogs.microsoft.com/devops/azure-devops-for-unreal-engine-game-development/)
 <!-- AZUREINFOHUB:END -->
 
 
