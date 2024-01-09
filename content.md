@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Creating a Visual Studio Code Extension](https://www.youtube.com/watch?v=cHQo26fdx_o)
 - [2024 Kickoff - Episode 279](http://feed.azuredevops.show/2024-kickoff-episode-279)
 - [Jeff Fritz: .NET Conf Recap - Episode 278](http://feed.azuredevops.show/jeff-fritz-net-conf-recap-episode-278)
 - [Carl Franklin: Why.NET Rocks - Episode 277](http://feed.azuredevops.show/carl-franklin-whynet-rocks-episode-277)
 - [Azure Container Apps Jobs in a secure Landing Zone](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-container-apps-jobs-in-a-secure-landing-zone/ba-p/4013357)
-- [Steve Smith: .NET 8 and Architecture - Episode 276](http://feed.azuredevops.show/steve-smith-net-8-and-architecture-episode-276)
 <!-- AZUREINFOHUB:END -->
 
 
