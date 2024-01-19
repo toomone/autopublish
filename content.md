@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Final notice of alternate credentials deprecation](https://devblogs.microsoft.com/devops/final-notice-of-alternate-credentials-deprecation/)
 - [Azure DevOps Server Product Lifecycle and Servicing](https://devblogs.microsoft.com/devops/azure-devops-server-product-lifecycle-and-servicing/)
 - [Updates to Azure DevOps Demo Generator and Labs](https://devblogs.microsoft.com/devops/updates-to-azure-devops-demo-generator-and-labs/)
 - [December patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/december-patches-for-azure-devops-server-3/)
 - [Work Items in Visual Studio](https://devblogs.microsoft.com/devops/work-items-in-visual-studio/)
-- [Updated: Azure DevOps Server 2022.1 RTW now available](https://devblogs.microsoft.com/devops/azure-devops-server-2022-1-rtw-now-available/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
