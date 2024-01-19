@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Final notice of alternate credentials deprecation](https://devblogs.microsoft.com/devops/final-notice-of-alternate-credentials-deprecation/)
 - [Azure DevOps Server Product Lifecycle and Servicing](https://devblogs.microsoft.com/devops/azure-devops-server-product-lifecycle-and-servicing/)
 - [Scott Hanselman: Semantic Kernel - Episode 280](http://feed.azuredevops.show/scott-hanselman-semantic-kernel-episode-280)
 - [Creating a Visual Studio Code Extension](https://www.youtube.com/watch?v=cHQo26fdx_o)
 - [2024 Kickoff - Episode 279](http://feed.azuredevops.show/2024-kickoff-episode-279)
-- [Jeff Fritz: .NET Conf Recap - Episode 278](http://feed.azuredevops.show/jeff-fritz-net-conf-recap-episode-278)
 <!-- AZUREINFOHUB:END -->
 
 
