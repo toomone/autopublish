@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Infra in Azure for Developers - The How &lpar;Part 1&rpar;](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/infra-in-azure-for-developers-the-how-part-1/ba-p/4036531)
+- [Andrew Lock: Containers in .NET 8 - Episode 281](http://feed.azuredevops.show/andrew-lock-containers-in-net-8-episode-281)
 - [Final notice of alternate credentials deprecation](https://devblogs.microsoft.com/devops/final-notice-of-alternate-credentials-deprecation/)
 - [Azure DevOps Server Product Lifecycle and Servicing](https://devblogs.microsoft.com/devops/azure-devops-server-product-lifecycle-and-servicing/)
 - [Scott Hanselman: Semantic Kernel - Episode 280](http://feed.azuredevops.show/scott-hanselman-semantic-kernel-episode-280)
-- [Creating a Visual Studio Code Extension](https://www.youtube.com/watch?v=cHQo26fdx_o)
-- [2024 Kickoff - Episode 279](http://feed.azuredevops.show/2024-kickoff-episode-279)
 <!-- AZUREINFOHUB:END -->
 
 
