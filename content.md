@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [New Boards Hub Update, January 2024](https://devblogs.microsoft.com/devops/new-boards-hub-update-january-2024/)
+- [New version of Publish Code Coverage Results task](https://devblogs.microsoft.com/devops/new-pccr-task/)
 - [Final notice of alternate credentials deprecation](https://devblogs.microsoft.com/devops/final-notice-of-alternate-credentials-deprecation/)
 - [Azure DevOps Server Product Lifecycle and Servicing](https://devblogs.microsoft.com/devops/azure-devops-server-product-lifecycle-and-servicing/)
 - [Updates to Azure DevOps Demo Generator and Labs](https://devblogs.microsoft.com/devops/updates-to-azure-devops-demo-generator-and-labs/)
-- [December patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/december-patches-for-azure-devops-server-3/)
-- [Work Items in Visual Studio](https://devblogs.microsoft.com/devops/work-items-in-visual-studio/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
