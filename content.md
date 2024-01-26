@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [New Boards Hub Update, January 2024](https://devblogs.microsoft.com/devops/new-boards-hub-update-january-2024/)
+- [New version of Publish Code Coverage Results task](https://devblogs.microsoft.com/devops/new-pccr-task/)
 - [Using Azure Load Testing to test Multi-Tenant services](https://techcommunity.microsoft.com/t5/azure-architecture-blog/using-azure-load-testing-to-test-multi-tenant-services/ba-p/4037435)
 - [Load Testing Azure Event Hubs services with restricted public access](https://techcommunity.microsoft.com/t5/azure-architecture-blog/load-testing-azure-event-hubs-services-with-restricted-public/ba-p/4037388)
 - [Azure credit usage scenarios for Visual Studio subscribers | Bits &amp; Pieces ep3](https://www.youtube.com/watch?v=mEIL_ZX19b0)
-- [Infra in Azure for Developers - The How &lpar;Part 1&rpar;](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/infra-in-azure-for-developers-the-how-part-1/ba-p/4036531)
-- [Andrew Lock: Containers in .NET 8 - Episode 281](http://feed.azuredevops.show/andrew-lock-containers-in-net-8-episode-281)
 <!-- AZUREINFOHUB:END -->
 
 
