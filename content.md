@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Regenerating secrets for Azure DevOps OAuth applications](https://devblogs.microsoft.com/devops/regenerating-secrets-for-azure-devops-oauth-applications/)
+- [Azure Boards + GitHub improvements in private preview](https://devblogs.microsoft.com/devops/azure-boards-github-improvements-in-private-preview/)
 - [New Boards Hub Update, January 2024](https://devblogs.microsoft.com/devops/new-boards-hub-update-january-2024/)
 - [New version of Publish Code Coverage Results task](https://devblogs.microsoft.com/devops/new-pccr-task/)
 - [Final notice of alternate credentials deprecation](https://devblogs.microsoft.com/devops/final-notice-of-alternate-credentials-deprecation/)
-- [Azure DevOps Server Product Lifecycle and Servicing](https://devblogs.microsoft.com/devops/azure-devops-server-product-lifecycle-and-servicing/)
-- [Updates to Azure DevOps Demo Generator and Labs](https://devblogs.microsoft.com/devops/updates-to-azure-devops-demo-generator-and-labs/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
