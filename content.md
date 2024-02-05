@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Regenerating secrets for Azure DevOps OAuth applications](https://devblogs.microsoft.com/devops/regenerating-secrets-for-azure-devops-oauth-applications/)
+- [Azure Boards + GitHub improvements in private preview](https://devblogs.microsoft.com/devops/azure-boards-github-improvements-in-private-preview/)
+- [Uncle Bob Martin: Clean Code and How to Do Software Well  - Episode 283](http://feed.azuredevops.show/uncle-bob-martin-clean-code-and-how-to-do-software-well-episode-283)
 - [Greg Leonardo: Optimizing Cloud Budgets in Azure - Episode 282](http://feed.azuredevops.show/greg-leonardo-optimizing-cloud-budgets-in-azure-episode-282)
 - [New Boards Hub Update, January 2024](https://devblogs.microsoft.com/devops/new-boards-hub-update-january-2024/)
-- [New version of Publish Code Coverage Results task](https://devblogs.microsoft.com/devops/new-pccr-task/)
-- [Using Azure Load Testing to test Multi-Tenant services](https://techcommunity.microsoft.com/t5/azure-architecture-blog/using-azure-load-testing-to-test-multi-tenant-services/ba-p/4037435)
-- [Load Testing Azure Event Hubs services with restricted public access](https://techcommunity.microsoft.com/t5/azure-architecture-blog/load-testing-azure-event-hubs-services-with-restricted-public/ba-p/4037388)
 <!-- AZUREINFOHUB:END -->
 
 
