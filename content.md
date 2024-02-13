@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [February patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/february-patches-for-azure-devops-server-3/)
+- [Workload identity federation for Azure deployments is now generally available](https://devblogs.microsoft.com/devops/workload-identity-federation-for-azure-deployments-is-now-generally-available/)
 - [Paul Yuknewicz: Cloud Native &amp; Serverless - Episode 284](http://feed.azuredevops.show/paul-yuknewicz-cloud-native-serverless-episode-284)
 - [Regenerating secrets for Azure DevOps OAuth applications](https://devblogs.microsoft.com/devops/regenerating-secrets-for-azure-devops-oauth-applications/)
 - [Azure Boards + GitHub improvements in private preview](https://devblogs.microsoft.com/devops/azure-boards-github-improvements-in-private-preview/)
-- [Uncle Bob Martin: Clean Code and How to Do Software Well  - Episode 283](http://feed.azuredevops.show/uncle-bob-martin-clean-code-and-how-to-do-software-well-episode-283)
-- [Greg Leonardo: Optimizing Cloud Budgets in Azure - Episode 282](http://feed.azuredevops.show/greg-leonardo-optimizing-cloud-budgets-in-azure-episode-282)
 <!-- AZUREINFOHUB:END -->
 
 
