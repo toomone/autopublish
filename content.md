@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [End of SSH-RSA support for Azure Repos](https://devblogs.microsoft.com/devops/ssh-rsa-deprecation/)
+- [JUnit Attachments Support for Publish Test Results](https://devblogs.microsoft.com/devops/junit-attachments-support-for-publish-test-results/)
 - [February patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/february-patches-for-azure-devops-server-3/)
 - [Workload identity federation for Azure deployments is now generally available](https://devblogs.microsoft.com/devops/workload-identity-federation-for-azure-deployments-is-now-generally-available/)
 - [Paul Yuknewicz: Cloud Native &amp; Serverless - Episode 284](http://feed.azuredevops.show/paul-yuknewicz-cloud-native-serverless-episode-284)
-- [Regenerating secrets for Azure DevOps OAuth applications](https://devblogs.microsoft.com/devops/regenerating-secrets-for-azure-devops-oauth-applications/)
-- [Azure Boards + GitHub improvements in private preview](https://devblogs.microsoft.com/devops/azure-boards-github-improvements-in-private-preview/)
 <!-- AZUREINFOHUB:END -->
 
 
