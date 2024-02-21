@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Azure Inside 2#: Mastering Governance &amp; Management](https://www.youtube.com/watch?v=BiQU-MYEYJs)
 - [Accelerate developer onboarding with the configuration-as-code customization in Microsoft Dev Box](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/accelerate-developer-onboarding-with-the-configuration-as-code/ba-p/4062416)
 - [Kent Beck: Tidy First - Episode 285](http://feed.azuredevops.show/kent-beck-tidy-first-episode-285)
 - [Azure Pipelines deprecated tasks retirement schedule](https://devblogs.microsoft.com/devops/azure-pipelines-deprecated-tasks-retirement-schedule/)
 - [End of SSH-RSA support for Azure Repos](https://devblogs.microsoft.com/devops/ssh-rsa-deprecation/)
-- [JUnit Attachments Support for Publish Test Results](https://devblogs.microsoft.com/devops/junit-attachments-support-for-publish-test-results/)
 <!-- AZUREINFOHUB:END -->
 
 
