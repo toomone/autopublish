@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [March patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/march-patches-for-azure-devops-server-2/)
 - [Rockford Lhotka: Philosophy on Architecture - Episode 288](http://feed.azuredevops.show/rockford-lhotka-philosophy-on-architecture-episode-288)
 - [Jared Parsons: Designing C# and Testing a Compiler - Episode 287](http://feed.azuredevops.show/jared-parsons-designing-c-and-testing-a-compiler-episode-287)
 - [Azure Inside 3#: Operate &amp; Optimize Cloud workloads](https://www.youtube.com/watch?v=01w-quSm_8g)
 - [Michael Washington: Azure OpenAI - Episode 286](http://feed.azuredevops.show/michael-washington-azure-openai-episode-286)
-- [Azure Inside 2#: Mastering Governance &amp; Management](https://www.youtube.com/watch?v=BiQU-MYEYJs)
 <!-- AZUREINFOHUB:END -->
 
 
