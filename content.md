@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [March patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/march-patches-for-azure-devops-server-2/)
 - [Azure Pipelines deprecated tasks retirement schedule](https://devblogs.microsoft.com/devops/azure-pipelines-deprecated-tasks-retirement-schedule/)
 - [End of SSH-RSA support for Azure Repos](https://devblogs.microsoft.com/devops/ssh-rsa-deprecation/)
 - [JUnit Attachments Support for Publish Test Results](https://devblogs.microsoft.com/devops/junit-attachments-support-for-publish-test-results/)
 - [February patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/february-patches-for-azure-devops-server-3/)
-- [Workload identity federation for Azure deployments is now generally available](https://devblogs.microsoft.com/devops/workload-identity-federation-for-azure-deployments-is-now-generally-available/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
