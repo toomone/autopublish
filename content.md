@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [New Boards Hub on as default](https://devblogs.microsoft.com/devops/new-boards-hub-on-as-default/)
+- [Quick Copy and Import Test Case by Plan or Suite ID](https://devblogs.microsoft.com/devops/id-search-in-azure-test-plans/)
 - [March patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/march-patches-for-azure-devops-server-2/)
 - [Azure Pipelines deprecated tasks retirement schedule](https://devblogs.microsoft.com/devops/azure-pipelines-deprecated-tasks-retirement-schedule/)
 - [End of SSH-RSA support for Azure Repos](https://devblogs.microsoft.com/devops/ssh-rsa-deprecation/)
-- [JUnit Attachments Support for Publish Test Results](https://devblogs.microsoft.com/devops/junit-attachments-support-for-publish-test-results/)
-- [February patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/february-patches-for-azure-devops-server-3/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
