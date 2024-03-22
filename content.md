@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Integrating Security into CI/CD Pipelines](https://www.youtube.com/watch?v=H6x8l86sqiQ)
 - [New Boards Hub on as default](https://devblogs.microsoft.com/devops/new-boards-hub-on-as-default/)
 - [Quick Copy and Import Test Case by Plan or Suite ID](https://devblogs.microsoft.com/devops/id-search-in-azure-test-plans/)
 - [Richard Lander: Containerization and Linux - Episode 289](http://feed.azuredevops.show/richard-lander-containerization-and-linux-episode-289)
 - [March patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/march-patches-for-azure-devops-server-2/)
-- [Rockford Lhotka: Philosophy on Architecture - Episode 288](http://feed.azuredevops.show/rockford-lhotka-philosophy-on-architecture-episode-288)
 <!-- AZUREINFOHUB:END -->
 
 
