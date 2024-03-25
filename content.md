@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Mark Miller: Voice User Interface - Episode 290](http://feed.azuredevops.show/mark-miller-voice-user-interface-episode-290)
 - [Integrating Security into CI/CD Pipelines](https://www.youtube.com/watch?v=H6x8l86sqiQ)
 - [New Boards Hub on as default](https://devblogs.microsoft.com/devops/new-boards-hub-on-as-default/)
 - [Quick Copy and Import Test Case by Plan or Suite ID](https://devblogs.microsoft.com/devops/id-search-in-azure-test-plans/)
 - [Richard Lander: Containerization and Linux - Episode 289](http://feed.azuredevops.show/richard-lander-containerization-and-linux-episode-289)
-- [March patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/march-patches-for-azure-devops-server-2/)
 <!-- AZUREINFOHUB:END -->
 
 
