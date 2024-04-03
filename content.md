@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [End of Support for Microsoft products reliant on older Azure DevOps authentication](https://devblogs.microsoft.com/devops/end-of-support-for-microsoft-products-reliant-on-older-azure-devops-authentication/)
 - [Mads Torgersen: The Latest in C# - Episode 291](http://feed.azuredevops.show/mads-torgersen-the-latest-in-c-episode-291)
 - [Deploy Logic App Standard to storage account with private endpoints using Terraform](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/deploy-logic-app-standard-to-storage-account-with-private/ba-p/4101998)
 - [Lunch Bytes I Defender for DevOps and More](https://www.youtube.com/watch?v=G032CUrI9pQ)
 - [Mark Miller: Voice User Interface - Episode 290](http://feed.azuredevops.show/mark-miller-voice-user-interface-episode-290)
-- [Integrating Security into CI/CD Pipelines](https://www.youtube.com/watch?v=H6x8l86sqiQ)
 <!-- AZUREINFOHUB:END -->
 
 
