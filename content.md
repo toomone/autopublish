@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [End of Support for Microsoft products reliant on older Azure DevOps authentication](https://devblogs.microsoft.com/devops/end-of-support-for-microsoft-products-reliant-on-older-azure-devops-authentication/)
 - [New Boards Hub on as default](https://devblogs.microsoft.com/devops/new-boards-hub-on-as-default/)
 - [Quick Copy and Import Test Case by Plan or Suite ID](https://devblogs.microsoft.com/devops/id-search-in-azure-test-plans/)
 - [March patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/march-patches-for-azure-devops-server-2/)
 - [Azure Pipelines deprecated tasks retirement schedule](https://devblogs.microsoft.com/devops/azure-pipelines-deprecated-tasks-retirement-schedule/)
-- [End of SSH-RSA support for Azure Repos](https://devblogs.microsoft.com/devops/ssh-rsa-deprecation/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
