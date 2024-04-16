@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Leverage Azure OpenAI with Copilot Studio | #MVPConnect](https://www.youtube.com/watch?v=DkKgUtADBw4)
 - [Novo Nordisk accelerates life-changing research using Azure DevOps and GitHub](https://www.youtube.com/watch?v=tsaZM9ipnRw)
+- [Glenn Condron: .NET Web Development - Episode 293](http://feed.azuredevops.show/glenn-condron-net-web-development-episode-293)
 - [Richard Hundhausen: Product Ownership - Episode 292](http://feed.azuredevops.show/richard-hundhausen-product-ownership-episode-292)
 - [AB links on GitHub pull request and scale improvements for large organizations](https://devblogs.microsoft.com/devops/ab-links-on-github-pull-request-and-scale-improvements/)
-- [End of Support for Microsoft products reliant on older Azure DevOps authentication](https://devblogs.microsoft.com/devops/end-of-support-for-microsoft-products-reliant-on-older-azure-devops-authentication/)
-- [Mads Torgersen: The Latest in C# - Episode 291](http://feed.azuredevops.show/mads-torgersen-the-latest-in-c-episode-291)
 <!-- AZUREINFOHUB:END -->
 
 
