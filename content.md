@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Raziel Tabib: GitOps - Episode 294](http://feed.azuredevops.show/raziel-tabib-gitops-episode-294)
 - [Delve into Microsoft Copilot for Azure | #MVPConnect](https://www.youtube.com/watch?v=W5x_8SwTy5Y)
 - [Leverage Azure OpenAI with Copilot Studio | #MVPConnect](https://www.youtube.com/watch?v=DkKgUtADBw4)
 - [Novo Nordisk accelerates life-changing research using Azure DevOps and GitHub](https://www.youtube.com/watch?v=tsaZM9ipnRw)
 - [Glenn Condron: .NET Web Development - Episode 293](http://feed.azuredevops.show/glenn-condron-net-web-development-episode-293)
-- [Richard Hundhausen: Product Ownership - Episode 292](http://feed.azuredevops.show/richard-hundhausen-product-ownership-episode-292)
 <!-- AZUREINFOHUB:END -->
 
 
