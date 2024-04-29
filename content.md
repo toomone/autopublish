@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Improving the DevOps Experience for Azure Logic Apps Standard](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/improving-the-devops-experience-for-azure-logic-apps-standard/ba-p/4125536)
+- [Brady Gaster: .NET Cloud Native - Episode 295](http://feed.azuredevops.show/brady-gaster-net-cloud-native-episode-295)
 - [Raziel Tabib: GitOps - Episode 294](http://feed.azuredevops.show/raziel-tabib-gitops-episode-294)
 - [Delve into Microsoft Copilot for Azure | #MVPConnect](https://www.youtube.com/watch?v=W5x_8SwTy5Y)
 - [Leverage Azure OpenAI with Copilot Studio | #MVPConnect](https://www.youtube.com/watch?v=DkKgUtADBw4)
-- [Novo Nordisk accelerates life-changing research using Azure DevOps and GitHub](https://www.youtube.com/watch?v=tsaZM9ipnRw)
-- [Glenn Condron: .NET Web Development - Episode 293](http://feed.azuredevops.show/glenn-condron-net-web-development-episode-293)
 <!-- AZUREINFOHUB:END -->
 
 
