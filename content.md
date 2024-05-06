@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Philip Japikse: Migrating from .NET Framework to .NET 8 - Episode 296](http://feed.azuredevops.show/philip-japikse-migrating-from-net-framework-to-net-8-episode-296)
 - [Improving the DevOps Experience for Azure Logic Apps Standard](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/improving-the-devops-experience-for-azure-logic-apps-standard/ba-p/4125536)
 - [Brady Gaster: .NET Cloud Native - Episode 295](http://feed.azuredevops.show/brady-gaster-net-cloud-native-episode-295)
 - [Raziel Tabib: GitOps - Episode 294](http://feed.azuredevops.show/raziel-tabib-gitops-episode-294)
 - [Delve into Microsoft Copilot for Azure | #MVPConnect](https://www.youtube.com/watch?v=W5x_8SwTy5Y)
-- [Leverage Azure OpenAI with Copilot Studio | #MVPConnect](https://www.youtube.com/watch?v=DkKgUtADBw4)
 <!-- AZUREINFOHUB:END -->
 
 
