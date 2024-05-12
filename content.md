@@ -12,11 +12,11 @@
 ## AZURE WEEKLY BLOG
 
 <!-- AZUREWEEKLY:START -->
+- [Azure Weekly Issue 466 - 12th May 2024](https://azureweekly.info/issue-466.html)
 - [Azure Weekly Issue 465 - 5th May 2024](https://azureweekly.info/issue-465.html)
 - [Azure Weekly Issue 464 - 28th April 2024](https://azureweekly.info/issue-464.html)
 - [Azure Weekly Issue 463 - 21st April 2024](https://azureweekly.info/issue-463.html)
 - [Azure Weekly Issue 462 - 14th April 2024](https://azureweekly.info/issue-462.html)
-- [Azure Weekly Issue 461 - 7th April 2024](https://azureweekly.info/issue-461.html)
 <!-- AZUREWEEKLY:END -->
 
 ## AZURE INFOHUB BLOG 
