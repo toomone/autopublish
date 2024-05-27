@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Managing A Software Engineering Department: Ted Neward  - Episode 299](http://feed.azuredevops.show/-episode-299)
+- [Deepen strategic enterprise collaboration with Mural and Microsoft | StudioFP105](https://www.youtube.com/watch?v=QfZ3fI-9nDo)
+- [Bake Security into your workflow with GitHub Advanced Security and AI | BRK220](https://www.youtube.com/watch?v=aIP80lrDObE)
 - [Unlock your team&#39;s potential with Mural Microsoft Teams and Copilot | ODFP624](https://www.youtube.com/watch?v=hpOiykr9o9o)
 - [Dan Garfield: GitOps with Kubernetes - Episode 298](http://feed.azuredevops.show/dan-garfield-gitops-with-kubernetes-episode-298)
-- [Richard Campbell: The Future of Software - Episode 297](http://feed.azuredevops.show/richard-campbell-the-future-of-software-episode-297)
-- [Azure DevOps Server 2022 Update 2 RC now available](https://devblogs.microsoft.com/devops/azure-devops-server-2022-update-2-rc-now-available/)
-- [Philip Japikse: Migrating from .NET Framework to .NET 8 - Episode 296](http://feed.azuredevops.show/philip-japikse-migrating-from-net-framework-to-net-8-episode-296)
 <!-- AZUREINFOHUB:END -->
 
 
