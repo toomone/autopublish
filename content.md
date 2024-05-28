@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [May patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/may-patches-for-azure-devops-server-2/)
 - [Managing A Software Engineering Department: Ted Neward  - Episode 299](http://feed.azuredevops.show/-episode-299)
 - [Deepen strategic enterprise collaboration with Mural and Microsoft | StudioFP105](https://www.youtube.com/watch?v=QfZ3fI-9nDo)
 - [Bake Security into your workflow with GitHub Advanced Security and AI | BRK220](https://www.youtube.com/watch?v=aIP80lrDObE)
 - [Unlock your team&#39;s potential with Mural Microsoft Teams and Copilot | ODFP624](https://www.youtube.com/watch?v=hpOiykr9o9o)
-- [Dan Garfield: GitOps with Kubernetes - Episode 298](http://feed.azuredevops.show/dan-garfield-gitops-with-kubernetes-episode-298)
 <!-- AZUREINFOHUB:END -->
 
 
