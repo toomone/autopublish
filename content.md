@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Jim Leonardo: Leading Software Teams - Episode 300](http://feed.azuredevops.show/jim-leonardo-leading-software-teams-episode-300)
 - [May patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/may-patches-for-azure-devops-server-2/)
 - [Managing A Software Engineering Department: Ted Neward  - Episode 299](http://feed.azuredevops.show/-episode-299)
 - [Deepen strategic enterprise collaboration with Mural and Microsoft | StudioFP105](https://www.youtube.com/watch?v=QfZ3fI-9nDo)
 - [Bake Security into your workflow with GitHub Advanced Security and AI | BRK220](https://www.youtube.com/watch?v=aIP80lrDObE)
-- [Unlock your team&#39;s potential with Mural Microsoft Teams and Copilot | ODFP624](https://www.youtube.com/watch?v=hpOiykr9o9o)
 <!-- AZUREINFOHUB:END -->
 
 
