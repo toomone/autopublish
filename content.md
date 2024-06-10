@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Scott Forsyth: Gen AI or Generative Artificial Intelligence - Episode 301](http://feed.azuredevops.show/scott-forsyth-gen-ai-or-generative-artificial-intelligence-episode-301)
+- [Test &amp; Feedback Extension in Manifest V3](https://devblogs.microsoft.com/devops/test-feedback-extension-v3/)
 - [Jim Leonardo: Leading Software Teams - Episode 300](http://feed.azuredevops.show/jim-leonardo-leading-software-teams-episode-300)
 - [May patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/may-patches-for-azure-devops-server-2/)
 - [Managing A Software Engineering Department: Ted Neward  - Episode 299](http://feed.azuredevops.show/-episode-299)
-- [Deepen strategic enterprise collaboration with Mural and Microsoft | StudioFP105](https://www.youtube.com/watch?v=QfZ3fI-9nDo)
-- [Bake Security into your workflow with GitHub Advanced Security and AI | BRK220](https://www.youtube.com/watch?v=aIP80lrDObE)
 <!-- AZUREINFOHUB:END -->
 
 
