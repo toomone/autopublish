@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Test & Feedback Extension in Manifest V3](https://devblogs.microsoft.com/devops/test-feedback-extension-v3/)
 - [May patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/may-patches-for-azure-devops-server-2/)
 - [Azure DevOps Server 2022 Update 2 RC now available](https://devblogs.microsoft.com/devops/azure-devops-server-2022-update-2-rc-now-available/)
 - [AB links on GitHub pull request and scale improvements for large organizations](https://devblogs.microsoft.com/devops/ab-links-on-github-pull-request-and-scale-improvements/)
 - [End of Support for Microsoft products reliant on older Azure DevOps authentication](https://devblogs.microsoft.com/devops/end-of-support-for-microsoft-products-reliant-on-older-azure-devops-authentication/)
-- [New Boards Hub on as default](https://devblogs.microsoft.com/devops/new-boards-hub-on-as-default/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
