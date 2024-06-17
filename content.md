@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Martin Hinshelwood: Migration Azure DevOps Server to the Cloud - Episode 302](http://feed.azuredevops.show/martin-hinshelwood-migration-azure-devops-server-to-the-cloud-episode-302)
 - [June patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/june-patches-for-azure-devops-server-3/)
 - [Building your own copilot with Copilot Studio | #MVPConnect](https://www.youtube.com/watch?v=ZM0yu0XdEqY)
 - [Scott Forsyth: Gen AI or Generative Artificial Intelligence - Episode 301](http://feed.azuredevops.show/scott-forsyth-gen-ai-or-generative-artificial-intelligence-episode-301)
 - [Test &amp; Feedback Extension in Manifest V3](https://devblogs.microsoft.com/devops/test-feedback-extension-v3/)
-- [Jim Leonardo: Leading Software Teams - Episode 300](http://feed.azuredevops.show/jim-leonardo-leading-software-teams-episode-300)
 <!-- AZUREINFOHUB:END -->
 
 
