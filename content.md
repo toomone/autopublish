@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Mitch Denny: .NET Aspire Architecture - Episode 304](http://feed.azuredevops.show/mitch-denny-net-aspire-architecture-episode-304)
 - [Lumen Tech boosts dev productivity and gains with GitHub Copilot, Azure DevOps, and Visual Studio](https://www.youtube.com/watch?v=IQi7kU2XLnc)
 - [Étienne Tremblay: Setting up for DevOps properly - Episode 303](http://feed.azuredevops.show/tienne-tremblay-setting-up-for-devops-properly-episode-303)
 - [Season of AI: Core AI](https://www.youtube.com/watch?v=cb0SqU9tRXU)
 - [Introducing Downloadable HTML report for Azure Load Testing](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/introducing-downloadable-html-report-for-azure-load-testing/ba-p/4172241)
-- [Martin Hinshelwood: Migration Azure DevOps Server to the Cloud - Episode 302](http://feed.azuredevops.show/martin-hinshelwood-migration-azure-devops-server-to-the-cloud-episode-302)
 <!-- AZUREINFOHUB:END -->
 
 
