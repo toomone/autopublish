@@ -12,11 +12,11 @@
 ## AZURE WEEKLY BLOG
 
 <!-- AZUREWEEKLY:START -->
-- [Azure Weekly Issue 473 - 30th June 2024](https://azureweekly.info/issue-473.html)
-- [Azure Weekly Issue 472 - 23rd June 2024](https://azureweekly.info/issue-472.html)
-- [Azure Weekly Issue 471 - 16th June 2024](https://azureweekly.info/issue-471.html)
-- [Azure Weekly Issue 470 - 9th June 2024](https://azureweekly.info/issue-470.html)
-- [Azure Weekly Issue 469 - 2nd June 2024](https://azureweekly.info/issue-469.html)
+- [#477 - 28th July 2024](https://azureweekly.info/issue-477.html)
+- [#476 - 21st July 2024](https://azureweekly.info/issue-476.html)
+- [#475 - 14th July 2024](https://azureweekly.info/issue-475.html)
+- [#474 - 7th July 2024](https://azureweekly.info/issue-474.html)
+- [#473 - 30th June 2024](https://azureweekly.info/issue-473.html)
 <!-- AZUREWEEKLY:END -->
 
 ## AZURE INFOHUB BLOG 
