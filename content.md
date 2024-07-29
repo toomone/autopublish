@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Mitch Denny: .NET Aspire Architecture - Episode 304](http://feed.azuredevops.show/mitch-denny-net-aspire-architecture-episode-304)
-- [Lumen Tech boosts dev productivity and gains with GitHub Copilot, Azure DevOps, and Visual Studio](https://www.youtube.com/watch?v=IQi7kU2XLnc)
-- [Étienne Tremblay: Setting up for DevOps properly - Episode 303](http://feed.azuredevops.show/tienne-tremblay-setting-up-for-devops-properly-episode-303)
-- [Season of AI: Core AI](https://www.youtube.com/watch?v=cb0SqU9tRXU)
-- [Introducing Downloadable HTML report for Azure Load Testing](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/introducing-downloadable-html-report-for-azure-load-testing/ba-p/4172241)
+- [Gene Kim: Wiring a Winning Software Organization - Episode 308](http://feed.azuredevops.show/gene-kim-wiring-a-winning-software-organization-episode-308)
+- [Update on Azure Boards + GitHub Integration](https://devblogs.microsoft.com/devops/update-on-azure-boards-github-integration/)
+- [Enhancing Security and Scalability with Reusable Workflows in GitHub and Pipeline Templates in Azure](https://techcommunity.microsoft.com/t5/microsoft-developer-community/enhancing-security-and-scalability-with-reusable-workflows-in/ba-p/4200152)
+- [Craig Loewen: Windows Subsystem for Linux - Episode 307](http://feed.azuredevops.show/craig-loewen-windows-subsystem-for-linux-episode-307)
+- [Unlock Limitless Coding Potential: Discover the Visual Studio Subscription Advantage!](https://www.youtube.com/watch?v=K-0ZPCTYvq0)
 <!-- AZUREINFOHUB:END -->
 
 
