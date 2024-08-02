@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Announcing Public Preview of Managed DevOps Pools (MDP) for Azure DevOps](https://devblogs.microsoft.com/devops/managed-devops-pools/)
 - [Update on Azure Boards + GitHub Integration](https://devblogs.microsoft.com/devops/update-on-azure-boards-github-integration/)
 - [Azure DevOps Server 2022.2 RTW now available](https://devblogs.microsoft.com/devops/azure-devops-server-2022-2-rtw-now-available/)
 - [June patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/june-patches-for-azure-devops-server-3/)
 - [Test & Feedback Extension in Manifest V3](https://devblogs.microsoft.com/devops/test-feedback-extension-v3/)
-- [May patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/may-patches-for-azure-devops-server-2/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
