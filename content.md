@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Announcing Public Preview of Managed DevOps Pools &lpar;MDP&rpar; for Azure DevOps](https://devblogs.microsoft.com/devops/managed-devops-pools/)
 - [Gene Kim: Wiring a Winning Software Organization - Episode 308](http://feed.azuredevops.show/gene-kim-wiring-a-winning-software-organization-episode-308)
 - [Update on Azure Boards + GitHub Integration](https://devblogs.microsoft.com/devops/update-on-azure-boards-github-integration/)
 - [Enhancing Security and Scalability with Reusable Workflows in GitHub and Pipeline Templates in Azure](https://techcommunity.microsoft.com/t5/microsoft-developer-community/enhancing-security-and-scalability-with-reusable-workflows-in/ba-p/4200152)
 - [Craig Loewen: Windows Subsystem for Linux - Episode 307](http://feed.azuredevops.show/craig-loewen-windows-subsystem-for-linux-episode-307)
-- [Unlock Limitless Coding Potential: Discover the Visual Studio Subscription Advantage!](https://www.youtube.com/watch?v=K-0ZPCTYvq0)
 <!-- AZUREINFOHUB:END -->
 
 
