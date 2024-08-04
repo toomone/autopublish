@@ -12,11 +12,11 @@
 ## AZURE WEEKLY BLOG
 
 <!-- AZUREWEEKLY:START -->
+- [#478 - 4th August 2024](https://azureweekly.info/issue-478.html)
 - [#477 - 28th July 2024](https://azureweekly.info/issue-477.html)
 - [#476 - 21st July 2024](https://azureweekly.info/issue-476.html)
 - [#475 - 14th July 2024](https://azureweekly.info/issue-475.html)
 - [#474 - 7th July 2024](https://azureweekly.info/issue-474.html)
-- [#473 - 30th June 2024](https://azureweekly.info/issue-473.html)
 <!-- AZUREWEEKLY:END -->
 
 ## AZURE INFOHUB BLOG 
