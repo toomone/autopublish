@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [New Azure DevOps Server Roadmap](https://devblogs.microsoft.com/devops/new-azure-devops-server-roadmap/)
+- [David Starr: Azure Cloud Marketplaces - Episode 311](http://feed.azuredevops.show/david-starr-azure-cloud-marketplaces-episode-311)
 - [Brian Randell: GitHub and DevOps - Episode 310](http://feed.azuredevops.show/brian-randell-github-and-devops-episode-310)
 - [Jason Haley: Azure Services For Artificial Intelligence - Episode 309](http://feed.azuredevops.show/jason-haley-azure-services-for-artificial-intelligence-episode-309)
 - [Announcing Public Preview of Managed DevOps Pools &lpar;MDP&rpar; for Azure DevOps](https://devblogs.microsoft.com/devops/managed-devops-pools/)
-- [Gene Kim: Wiring a Winning Software Organization - Episode 308](http://feed.azuredevops.show/gene-kim-wiring-a-winning-software-organization-episode-308)
-- [Update on Azure Boards + GitHub Integration](https://devblogs.microsoft.com/devops/update-on-azure-boards-github-integration/)
 <!-- AZUREINFOHUB:END -->
 
 
