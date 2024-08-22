@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Introducing Object Limit Tracker in Azure DevOps](https://devblogs.microsoft.com/devops/introducing-object-limit-tracker-in-azure-devops/)
+- [Azure Test Plans: Introducing Test &amp; Feedback](https://www.youtube.com/watch?v=6cGr_JDObxQ)
+- [This Month in Azure Static Web Apps | 07/2024](https://techcommunity.microsoft.com/t5/microsoft-developer-community/this-month-in-azure-static-web-apps-07-2024/ba-p/4221305)
 - [New Boards Hub Rollout Update](https://devblogs.microsoft.com/devops/new-boards-hub-rollout-update-2/)
 - [New Azure DevOps Server Roadmap](https://devblogs.microsoft.com/devops/new-azure-devops-server-roadmap/)
-- [David Starr: Azure Cloud Marketplaces - Episode 311](http://feed.azuredevops.show/david-starr-azure-cloud-marketplaces-episode-311)
-- [Brian Randell: GitHub and DevOps - Episode 310](http://feed.azuredevops.show/brian-randell-github-and-devops-episode-310)
-- [Jason Haley: Azure Services For Artificial Intelligence - Episode 309](http://feed.azuredevops.show/jason-haley-azure-services-for-artificial-intelligence-episode-309)
 <!-- AZUREINFOHUB:END -->
 
 
