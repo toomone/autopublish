@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Introducing Object Limit Tracker in Azure DevOps](https://devblogs.microsoft.com/devops/introducing-object-limit-tracker-in-azure-devops/)
 - [New Boards Hub Rollout Update](https://devblogs.microsoft.com/devops/new-boards-hub-rollout-update-2/)
 - [New Azure DevOps Server Roadmap](https://devblogs.microsoft.com/devops/new-azure-devops-server-roadmap/)
 - [Announcing Public Preview of Managed DevOps Pools (MDP) for Azure DevOps](https://devblogs.microsoft.com/devops/managed-devops-pools/)
 - [Update on Azure Boards + GitHub Integration](https://devblogs.microsoft.com/devops/update-on-azure-boards-github-integration/)
-- [Updated: Azure DevOps Server 2022.2 RTW now available](https://devblogs.microsoft.com/devops/azure-devops-server-2022-2-rtw-now-available/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
