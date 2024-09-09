@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Kent Beck: Tidy First - Episode 314](http://feed.azuredevops.show/kent-beck-tidy-first-episode-314)
 - [Matt Gordon: Database DevOps - Episode 313](http://feed.azuredevops.show/matt-gordon-database-devops-episode-313)
 - [The Importance of Implementing SAST Scanning for Infrastructure as Code](https://techcommunity.microsoft.com/t5/microsoft-developer-community/the-importance-of-implementing-sast-scanning-for-infrastructure/ba-p/4219084)
 - [Henry Quillin: What it’s Like as a Computer Science Student - Episode 312](http://feed.azuredevops.show/henry-quillin-what-its-like-as-a-computer-science-student-episode-312)
 - [Introducing Object Limit Tracker in Azure DevOps](https://devblogs.microsoft.com/devops/introducing-object-limit-tracker-in-azure-devops/)
-- [Azure Test Plans: Introducing Test &amp; Feedback](https://www.youtube.com/watch?v=6cGr_JDObxQ)
 <!-- AZUREINFOHUB:END -->
 
 
