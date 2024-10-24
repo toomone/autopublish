@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Using Entra profile information in Azure DevOps](https://devblogs.microsoft.com/devops/using-entra-profile-information-in-azure-devops/)
 - [Introducing Pull Request Annotation for CodeQL and Dependency Scanning in GitHub Advanced Security for Azure DevOps](https://devblogs.microsoft.com/devops/introducing-pull-request-annotation-for-codeql-and-dependency-scanning-in-github-advanced-security-for-azure-devops/)
 - [Deprecation of the macOS-12 Hosted Pipeline Image](https://devblogs.microsoft.com/devops/upcoming-deprecation-of-macos-12-hosted-pipeline-image/)
 - [Azure Boards, September Update](https://devblogs.microsoft.com/devops/azure-boards-september-update/)
 - [Introducing Object Limit Tracker in Azure DevOps](https://devblogs.microsoft.com/devops/introducing-object-limit-tracker-in-azure-devops/)
-- [New Boards Hub Rollout Update](https://devblogs.microsoft.com/devops/new-boards-hub-rollout-update-2/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
