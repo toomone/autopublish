@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Erik Darling: Database Technical Debt - Episode 315](http://feed.azuredevops.show/erik-darling-database-technical-debt-episode-315)
-- [Kent Beck: Tidy First - Episode 314](http://feed.azuredevops.show/kent-beck-tidy-first-episode-314)
-- [Matt Gordon: Database DevOps - Episode 313](http://feed.azuredevops.show/matt-gordon-database-devops-episode-313)
-- [The Importance of Implementing SAST Scanning for Infrastructure as Code](https://techcommunity.microsoft.com/t5/microsoft-developer-community/the-importance-of-implementing-sast-scanning-for-infrastructure/ba-p/4219084)
-- [Henry Quillin: What it’s Like as a Computer Science Student - Episode 312](http://feed.azuredevops.show/henry-quillin-what-its-like-as-a-computer-science-student-episode-312)
+- [Using Entra profile information in Azure DevOps](https://devblogs.microsoft.com/devops/using-entra-profile-information-in-azure-devops/)
+- [Jeff Wouters: PowerShell Programming - Episode 320](http://feed.azuredevops.show/jeff-wouters-powershell-programming-episode-320)
+- [Introducing Pull Request Annotation for CodeQL and Dependency Scanning in GitHub Advanced Security for Azure DevOps](https://devblogs.microsoft.com/devops/introducing-pull-request-annotation-for-codeql-and-dependency-scanning-in-github-advanced-security-for-azure-devops/)
+- [Database Hygiene: Grant Fritchey - Episode 319](http://feed.azuredevops.show/database-hygiene-grant-fritchey-episode-319)
+- [Introducing the SDK-style SQL projects in Visual Studio | Data Exposed](https://www.youtube.com/watch?v=z8or_71GUf4)
 <!-- AZUREINFOHUB:END -->
 
 
