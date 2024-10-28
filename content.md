@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Bob Ward: SQL Server - Episode 321](http://feed.azuredevops.show/bob-ward-sql-server-episode-321)
 - [Using Entra profile information in Azure DevOps](https://devblogs.microsoft.com/devops/using-entra-profile-information-in-azure-devops/)
 - [Jeff Wouters: PowerShell Programming - Episode 320](http://feed.azuredevops.show/jeff-wouters-powershell-programming-episode-320)
 - [Introducing Pull Request Annotation for CodeQL and Dependency Scanning in GitHub Advanced Security for Azure DevOps](https://devblogs.microsoft.com/devops/introducing-pull-request-annotation-for-codeql-and-dependency-scanning-in-github-advanced-security-for-azure-devops/)
 - [Database Hygiene: Grant Fritchey - Episode 319](http://feed.azuredevops.show/database-hygiene-grant-fritchey-episode-319)
-- [Introducing the SDK-style SQL projects in Visual Studio | Data Exposed](https://www.youtube.com/watch?v=z8or_71GUf4)
 <!-- AZUREINFOHUB:END -->
 
 
