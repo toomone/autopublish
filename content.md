@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Configure File in Azure Static Web Apps](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/configure-file-in-azure-static-web-apps/ba-p/4283470)
 - [No new Azure DevOps OAuth apps beginning February 2025](https://devblogs.microsoft.com/devops/no-new-azure-devops-oauth-apps-beginning-february-2025/)
 - [Bob Ward: SQL Server - Episode 321](http://feed.azuredevops.show/bob-ward-sql-server-episode-321)
 - [Using Entra profile information in Azure DevOps](https://devblogs.microsoft.com/devops/using-entra-profile-information-in-azure-devops/)
 - [Jeff Wouters: PowerShell Programming - Episode 320](http://feed.azuredevops.show/jeff-wouters-powershell-programming-episode-320)
-- [Introducing Pull Request Annotation for CodeQL and Dependency Scanning in GitHub Advanced Security for Azure DevOps](https://devblogs.microsoft.com/devops/introducing-pull-request-annotation-for-codeql-and-dependency-scanning-in-github-advanced-security-for-azure-devops/)
 <!-- AZUREINFOHUB:END -->
 
 
