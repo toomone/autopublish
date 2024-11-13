@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [November Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/november-patches-for-azure-devops-server/)
 - [David Morton: What is a Data Scientist - Episode 323](http://feed.azuredevops.show/david-morton-what-is-a-data-scientist-episode-323)
 - [David Fowler: Architecture of .NET Aspire - Episode 322](http://feed.azuredevops.show/david-fowler-architecture-of-net-aspire-episode-322)
 - [Configure File in Azure Static Web Apps](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/configure-file-in-azure-static-web-apps/ba-p/4283470)
 - [No new Azure DevOps OAuth apps beginning February 2025](https://devblogs.microsoft.com/devops/no-new-azure-devops-oauth-apps-beginning-february-2025/)
-- [Bob Ward: SQL Server - Episode 321](http://feed.azuredevops.show/bob-ward-sql-server-episode-321)
 <!-- AZUREINFOHUB:END -->
 
 
