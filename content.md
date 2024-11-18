@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Announcing the General Availability of Managed DevOps Pools &lpar;MDP&rpar; for Azure DevOps](https://devblogs.microsoft.com/devops/managed-devops-pools-ga/)
+- [John Callaway: Blazor and IoT - Episode 324](http://feed.azuredevops.show/john-callaway-blazor-and-iot-episode-324)
 - [November Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/november-patches-for-azure-devops-server/)
 - [David Morton: What is a Data Scientist - Episode 323](http://feed.azuredevops.show/david-morton-what-is-a-data-scientist-episode-323)
 - [David Fowler: Architecture of .NET Aspire - Episode 322](http://feed.azuredevops.show/david-fowler-architecture-of-net-aspire-episode-322)
-- [Configure File in Azure Static Web Apps](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/configure-file-in-azure-static-web-apps/ba-p/4283470)
-- [No new Azure DevOps OAuth apps beginning February 2025](https://devblogs.microsoft.com/devops/no-new-azure-devops-oauth-apps-beginning-february-2025/)
 <!-- AZUREINFOHUB:END -->
 
 
