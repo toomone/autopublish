@@ -4,7 +4,7 @@
 - [Getting the most out of Azure DevOps and GitHub](https://devblogs.microsoft.com/devops/getting-the-most-out-of-azure-devops-and-github/)
 - [Announcing the General Availability of Managed DevOps Pools (MDP) for Azure DevOps](https://devblogs.microsoft.com/devops/managed-devops-pools-ga/)
 - [November Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/november-patches-for-azure-devops-server/)
-- [No new Azure DevOps OAuth apps beginning February 2025](https://devblogs.microsoft.com/devops/no-new-azure-devops-oauth-apps-beginning-february-2025/)
+- [No new Azure DevOps OAuth apps beginning March 2025](https://devblogs.microsoft.com/devops/no-new-azure-devops-oauth-apps-beginning-february-2025/)
 - [Using Entra profile information in Azure DevOps](https://devblogs.microsoft.com/devops/using-entra-profile-information-in-azure-devops/)
 <!-- DEVBLOGDEVOPS:END -->
 
