@@ -12,11 +12,11 @@
 ## AZURE WEEKLY BLOG
 
 <!-- AZUREWEEKLY:START -->
+- [#494 - 24th November 2024](https://azureweekly.info/issue-494.html)
 - [#493 - 17th November 2024](https://azureweekly.info/issue-493.html)
 - [#492 - 10th November 2024](https://azureweekly.info/issue-492.html)
 - [#491 - 3rd November 2024](https://azureweekly.info/issue-491.html)
 - [#490 - 27th October 2024](https://azureweekly.info/issue-490.html)
-- [#489 - 20th October 2024](https://azureweekly.info/issue-489.html)
 <!-- AZUREWEEKLY:END -->
 
 ## AZURE INFOHUB BLOG 
