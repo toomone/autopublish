@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Mads Torgersen: C# Insights with Language Designer - Episode 325](http://feed.azuredevops.show/mads-torgersen-c-insights-with-language-designer-episode-325)
 - [Getting the most out of Azure DevOps and GitHub](https://devblogs.microsoft.com/wp-content/uploads/2024/11/boards-github-short-demo.mp4)
 - [Announcing the General Availability of Managed DevOps Pools &lpar;MDP&rpar; for Azure DevOps](https://devblogs.microsoft.com/devops/managed-devops-pools-ga/)
 - [John Callaway: Blazor and IoT - Episode 324](http://feed.azuredevops.show/john-callaway-blazor-and-iot-episode-324)
 - [November Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/november-patches-for-azure-devops-server/)
-- [David Morton: What is a Data Scientist - Episode 323](http://feed.azuredevops.show/david-morton-what-is-a-data-scientist-episode-323)
 <!-- AZUREINFOHUB:END -->
 
 
