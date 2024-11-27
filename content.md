@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Using TensorFlow on Azure Web App](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/using-tensorflow-on-azure-web-app/ba-p/4339260)
+- [Getting the most out of Azure DevOps and GitHub | BRK139](https://www.youtube.com/watch?v=StErpNHidzU)
+- [Using OpenAI on Azure Web App](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/using-openai-on-azure-web-app/ba-p/4334985)
 - [Mads Torgersen: C# Insights with Language Designer - Episode 325](http://feed.azuredevops.show/mads-torgersen-c-insights-with-language-designer-episode-325)
-- [Getting the most out of Azure DevOps and GitHub](https://devblogs.microsoft.com/wp-content/uploads/2024/11/boards-github-short-demo.mp4)
-- [Announcing the General Availability of Managed DevOps Pools &lpar;MDP&rpar; for Azure DevOps](https://devblogs.microsoft.com/devops/managed-devops-pools-ga/)
-- [John Callaway: Blazor and IoT - Episode 324](http://feed.azuredevops.show/john-callaway-blazor-and-iot-episode-324)
-- [November Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/november-patches-for-azure-devops-server/)
+- [Azure Integration Services Unveils New Features at Microsoft Ignite 2024](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-integration-services-unveils-new-features-at-microsoft/ba-p/4304649)
 <!-- AZUREINFOHUB:END -->
 
 
