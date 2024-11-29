@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [ALM for Power Platform - Zero to Hero](https://www.youtube.com/watch?v=dpKQ6JBCS4k)
 - [Using TensorFlow on Azure Web App](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/using-tensorflow-on-azure-web-app/ba-p/4339260)
 - [Getting the most out of Azure DevOps and GitHub | BRK139](https://www.youtube.com/watch?v=StErpNHidzU)
 - [Using OpenAI on Azure Web App](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/using-openai-on-azure-web-app/ba-p/4334985)
 - [Mads Torgersen: C# Insights with Language Designer - Episode 325](http://feed.azuredevops.show/mads-torgersen-c-insights-with-language-designer-episode-325)
-- [Azure Integration Services Unveils New Features at Microsoft Ignite 2024](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-integration-services-unveils-new-features-at-microsoft/ba-p/4304649)
 <!-- AZUREINFOHUB:END -->
 
 
