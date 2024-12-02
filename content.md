@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Greg Leonardo: The latest in Azure &amp; AI - Episode 326](http://feed.azuredevops.show/greg-leonardo-the-latest-in-azure-ai-episode-326)
 - [ALM for Power Platform - Zero to Hero](https://www.youtube.com/watch?v=dpKQ6JBCS4k)
 - [Using TensorFlow on Azure Web App](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/using-tensorflow-on-azure-web-app/ba-p/4339260)
 - [Getting the most out of Azure DevOps and GitHub | BRK139](https://www.youtube.com/watch?v=StErpNHidzU)
 - [Using OpenAI on Azure Web App](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/using-openai-on-azure-web-app/ba-p/4334985)
-- [Mads Torgersen: C# Insights with Language Designer - Episode 325](http://feed.azuredevops.show/mads-torgersen-c-insights-with-language-designer-episode-325)
 <!-- AZUREINFOHUB:END -->
 
 
