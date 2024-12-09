@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Ravi Ram: TechBash &amp; Community Conferences - Episode 327](http://feed.azuredevops.show/ravi-ram-techbash-community-conferences-episode-327)
 - [Microsoft DevLabs Extensions](https://devblogs.microsoft.com/devops/microsoft-devlabs-extensions/)
 - [Highlights for developers from Microsoft Ignite &amp; .NET Conf](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/highlights-for-developers-from-microsoft-ignite-net-conf/ba-p/4351503)
 - [Greg Leonardo: The latest in Azure &amp; AI - Episode 326](http://feed.azuredevops.show/greg-leonardo-the-latest-in-azure-ai-episode-326)
 - [ALM for Power Platform - Zero to Hero](https://www.youtube.com/watch?v=dpKQ6JBCS4k)
-- [Using TensorFlow on Azure Web App](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/using-tensorflow-on-azure-web-app/ba-p/4339260)
 <!-- AZUREINFOHUB:END -->
 
 
