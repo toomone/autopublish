@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [New Boards Hub Rollout Expectations](https://devblogs.microsoft.com/devops/new-boards-hub-rollout-expectations/)
+- [This Month in Azure Static Web Apps | 10/2024](https://techcommunity.microsoft.com/t5/microsoft-developer-community/this-month-in-azure-static-web-apps-10-2024/ba-p/4352064)
 - [.NET Conf 2024 - Edição de Final de Ano - São Paulo-SP](https://www.youtube.com/watch?v=hiqYueFjdXQ)
 - [Ravi Ram: TechBash &amp; Community Conferences - Episode 327](http://feed.azuredevops.show/ravi-ram-techbash-community-conferences-episode-327)
 - [Microsoft DevLabs Extensions](https://devblogs.microsoft.com/devops/microsoft-devlabs-extensions/)
-- [Highlights for developers from Microsoft Ignite &amp; .NET Conf](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/highlights-for-developers-from-microsoft-ignite-net-conf/ba-p/4351503)
-- [Greg Leonardo: The latest in Azure &amp; AI - Episode 326](http://feed.azuredevops.show/greg-leonardo-the-latest-in-azure-ai-episode-326)
 <!-- AZUREINFOHUB:END -->
 
 
