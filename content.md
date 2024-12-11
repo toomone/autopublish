@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [New Boards Hub Rollout Expectations](https://devblogs.microsoft.com/devops/new-boards-hub-rollout-expectations/)
 - [Microsoft DevLabs Extensions](https://devblogs.microsoft.com/devops/microsoft-devlabs-extensions/)
 - [Getting the most out of Azure DevOps and GitHub](https://devblogs.microsoft.com/devops/getting-the-most-out-of-azure-devops-and-github/)
 - [Announcing the General Availability of Managed DevOps Pools (MDP) for Azure DevOps](https://devblogs.microsoft.com/devops/managed-devops-pools-ga/)
 - [November Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/november-patches-for-azure-devops-server/)
-- [No new Azure DevOps OAuth apps beginning March 2025](https://devblogs.microsoft.com/devops/no-new-azure-devops-oauth-apps-beginning-february-2025/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
