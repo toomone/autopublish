@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Azure Cloud Security](https://www.youtube.com/watch?v=RPgrOeyN-nI)
+- [Azure Cloud Security](https://www.youtube.com/watch?v=KSrAIbViUTY)
 - [Sam Basu: Using AI for the User Interface - Episode 329](http://feed.azuredevops.show/sam-basu-using-ai-for-the-user-interface-episode-329)
 - [Jeff Fritz: .NET 9 and Beyond - Episode 328](http://feed.azuredevops.show/jeff-fritz-net-9-and-beyond-episode-328)
 - [New Boards Hub Rollout Expectations](https://devblogs.microsoft.com/devops/new-boards-hub-rollout-expectations/)
-- [This Month in Azure Static Web Apps | 10/2024](https://techcommunity.microsoft.com/t5/microsoft-developer-community/this-month-in-azure-static-web-apps-10-2024/ba-p/4352064)
-- [.NET Conf 2024 - Edição de Final de Ano - São Paulo-SP](https://www.youtube.com/watch?v=hiqYueFjdXQ)
 <!-- AZUREINFOHUB:END -->
 
 
