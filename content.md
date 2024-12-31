@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Aaron Powell: .NET Aspire Community Toolkit - Episode 330](http://feed.azuredevops.show/aaron-powell-net-aspire-community-toolkit-episode-330)
 - [Azure Cloud Security](https://www.youtube.com/watch?v=RPgrOeyN-nI)
 - [Azure Cloud Security](https://www.youtube.com/watch?v=KSrAIbViUTY)
 - [Sam Basu: Using AI for the User Interface - Episode 329](http://feed.azuredevops.show/sam-basu-using-ai-for-the-user-interface-episode-329)
 - [Jeff Fritz: .NET 9 and Beyond - Episode 328](http://feed.azuredevops.show/jeff-fritz-net-9-and-beyond-episode-328)
-- [New Boards Hub Rollout Expectations](https://devblogs.microsoft.com/devops/new-boards-hub-rollout-expectations/)
 <!-- AZUREINFOHUB:END -->
 
 
