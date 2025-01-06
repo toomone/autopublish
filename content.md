@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Reducing personal access token (PAT) usage across Azure DevOps](https://devblogs.microsoft.com/devops/reducing-pat-usage-across-azure-devops/)
 - [Important: Switching CDN providers](https://devblogs.microsoft.com/devops/important-switching-cdn-providers/)
 - [New Boards Hub Rollout Expectations](https://devblogs.microsoft.com/devops/new-boards-hub-rollout-expectations/)
 - [Microsoft DevLabs Extensions](https://devblogs.microsoft.com/devops/microsoft-devlabs-extensions/)
 - [Getting the most out of Azure DevOps and GitHub](https://devblogs.microsoft.com/devops/getting-the-most-out-of-azure-devops-and-github/)
-- [Announcing the General Availability of Managed DevOps Pools (MDP) for Azure DevOps](https://devblogs.microsoft.com/devops/managed-devops-pools-ga/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
