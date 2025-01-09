@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Provide remote access to Azure NetApp Files volumes using F5 Distributed Cloud](https://techcommunity.microsoft.com/t5/azure-architecture-blog/provide-remote-access-to-azure-netapp-files-volumes-using-f5/ba-p/4355988)
 - [Reducing PAT usage across Azure DevOps](https://devblogs.microsoft.com/devops/reducing-pat-usage-across-azure-devops/)
 - [Brady Gaster: Upgrading .NET apps - Episode 331](http://feed.azuredevops.show/brady-gaster-upgrading-net-apps-episode-331)
 - [Important: Switching CDN providers](https://devblogs.microsoft.com/devops/important-switching-cdn-providers/)
 - [Aaron Powell: .NET Aspire Community Toolkit - Episode 330](http://feed.azuredevops.show/aaron-powell-net-aspire-community-toolkit-episode-330)
-- [Azure Cloud Security](https://www.youtube.com/watch?v=RPgrOeyN-nI)
 <!-- AZUREINFOHUB:END -->
 
 
