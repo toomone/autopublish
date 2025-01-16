@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Level Up Application Security on Azure DevOps](https://www.youtube.com/watch?v=QOFOEiWmVfU)
 - [James Montemagno: .NET Aspire with Azd - Episode 332](http://feed.azuredevops.show/james-montemagno-net-aspire-with-azd-episode-332)
 - [Provide remote access to Azure NetApp Files volumes using F5 Distributed Cloud](https://techcommunity.microsoft.com/t5/azure-architecture-blog/provide-remote-access-to-azure-netapp-files-volumes-using-f5/ba-p/4355988)
 - [Reducing PAT usage across Azure DevOps](https://devblogs.microsoft.com/devops/reducing-pat-usage-across-azure-devops/)
 - [Brady Gaster: Upgrading .NET apps - Episode 331](http://feed.azuredevops.show/brady-gaster-upgrading-net-apps-episode-331)
-- [Important: Switching CDN providers](https://devblogs.microsoft.com/devops/important-switching-cdn-providers/)
 <!-- AZUREINFOHUB:END -->
 
 
