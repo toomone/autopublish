@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [This Month in Azure Static Web Apps | November and December 2024 - Special Edition](https://techcommunity.microsoft.com/t5/microsoft-developer-community/this-month-in-azure-static-web-apps-november-and-december-2024/ba-p/4366873)
 - [Azure DevOps - Agent pool report and replace.](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-devops-agent-pool-report-and-replace/ba-p/4368536)
 - [Ryan Booz: The State of the Database in 2025 - Episode 333](http://feed.azuredevops.show/ryan-booz-the-state-of-the-database-in-2025-episode-333)
 - [Level Up Application Security on Azure DevOps](https://www.youtube.com/watch?v=QOFOEiWmVfU)
 - [James Montemagno: .NET Aspire with Azd - Episode 332](http://feed.azuredevops.show/james-montemagno-net-aspire-with-azd-episode-332)
-- [Provide remote access to Azure NetApp Files volumes using F5 Distributed Cloud](https://techcommunity.microsoft.com/t5/azure-architecture-blog/provide-remote-access-to-azure-netapp-files-volumes-using-f5/ba-p/4355988)
 <!-- AZUREINFOHUB:END -->
 
 
