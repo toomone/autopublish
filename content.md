@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Changes to provisioning Azure DevOps projects using the Azure DevOps Demo Generator](https://devblogs.microsoft.com/devops/changes-to-provisioning-azure-devops-projects-using-the-azure-devops-demo-generator/)
+- [Scott Ambler: The State of Agile - Episode 334](http://feed.azuredevops.show/scott-ambler-the-state-of-agile-episode-334)
 - [Unlocking the Full Potential of Azure Cosmos DB: Achieving High Performance and Cost Efficiency](https://www.youtube.com/watch?v=Fm0-ayZXPis)
 - [This Month in Azure Static Web Apps | November and December 2024 - Special Edition](https://techcommunity.microsoft.com/t5/microsoft-developer-community/this-month-in-azure-static-web-apps-november-and-december-2024/ba-p/4366873)
 - [Azure DevOps - Agent pool report and replace.](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-devops-agent-pool-report-and-replace/ba-p/4368536)
-- [Ryan Booz: The State of the Database in 2025 - Episode 333](http://feed.azuredevops.show/ryan-booz-the-state-of-the-database-in-2025-episode-333)
-- [Level Up Application Security on Azure DevOps](https://www.youtube.com/watch?v=QOFOEiWmVfU)
 <!-- AZUREINFOHUB:END -->
 
 
