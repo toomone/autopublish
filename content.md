@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Full web support for conditional access policies across Azure DevOps and partner web properties](https://devblogs.microsoft.com/devops/full-web-support-for-conditional-access-policies-across-azure-devops-and-partner-web-properties/)
+- [Update to Azure DevOps Allowed IP addresses](https://devblogs.microsoft.com/devops/update-to-ado-allowed-ip-addresses/)
+- [.NET Aspire and AI with Chris Ayers - Episode 335](http://feed.azuredevops.show/net-aspire-and-ai-with-chris-ayers-episode-335)
 - [Upcoming support lifecycle milestones for older on-premises products](https://devblogs.microsoft.com/devops/upcoming-support-lifecycle-milestones-for-older-on-premises-products/)
 - [Changes to provisioning Azure DevOps projects using the Azure DevOps Demo Generator](https://devblogs.microsoft.com/devops/changes-to-provisioning-azure-devops-projects-using-the-azure-devops-demo-generator/)
-- [Scott Ambler: The State of Agile - Episode 334](http://feed.azuredevops.show/scott-ambler-the-state-of-agile-episode-334)
-- [Unlocking the Full Potential of Azure Cosmos DB: Achieving High Performance and Cost Efficiency](https://www.youtube.com/watch?v=Fm0-ayZXPis)
-- [This Month in Azure Static Web Apps | November and December 2024 - Special Edition](https://techcommunity.microsoft.com/t5/microsoft-developer-community/this-month-in-azure-static-web-apps-november-and-december-2024/ba-p/4366873)
 <!-- AZUREINFOHUB:END -->
 
 
