@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Matt McCleary: Telemetry &amp; Observability in .NET Aspire - Episode 336](http://feed.azuredevops.show/matt-mccleary-telemetry-observability-in-net-aspire-episode-336)
+- [Como o GitHub Copilot te ajuda a escrever Pipelines de CI e CD](https://www.youtube.com/watch?v=xwACQyCZI_c)
 - [Full web support for conditional access policies across Azure DevOps and partner web properties](https://devblogs.microsoft.com/devops/full-web-support-for-conditional-access-policies-across-azure-devops-and-partner-web-properties/)
 - [Update to Azure DevOps Allowed IP addresses](https://devblogs.microsoft.com/devops/update-to-ado-allowed-ip-addresses/)
 - [.NET Aspire and AI with Chris Ayers - Episode 335](http://feed.azuredevops.show/net-aspire-and-ai-with-chris-ayers-episode-335)
-- [Upcoming support lifecycle milestones for older on-premises products](https://devblogs.microsoft.com/devops/upcoming-support-lifecycle-milestones-for-older-on-premises-products/)
-- [Changes to provisioning Azure DevOps projects using the Azure DevOps Demo Generator](https://devblogs.microsoft.com/devops/changes-to-provisioning-azure-devops-projects-using-the-azure-devops-demo-generator/)
 <!-- AZUREINFOHUB:END -->
 
 
