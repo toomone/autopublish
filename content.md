@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [February Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/february-patches-for-azure-devops-server-4/)
 - [Full web support for conditional access policies across Azure DevOps and partner web properties](https://devblogs.microsoft.com/devops/full-web-support-for-conditional-access-policies-across-azure-devops-and-partner-web-properties/)
 - [Update to Azure DevOps Allowed IP addresses](https://devblogs.microsoft.com/devops/update-to-ado-allowed-ip-addresses/)
 - [Upcoming support lifecycle milestones for older on-premises products](https://devblogs.microsoft.com/devops/upcoming-support-lifecycle-milestones-for-older-on-premises-products/)
 - [Changes to provisioning Azure DevOps projects using the Azure DevOps Demo Generator](https://devblogs.microsoft.com/devops/changes-to-provisioning-azure-devops-projects-using-the-azure-devops-demo-generator/)
-- [Reducing personal access token (PAT) usage across Azure DevOps](https://devblogs.microsoft.com/devops/reducing-pat-usage-across-azure-devops/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
