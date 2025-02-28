@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Matt McCleary: Telemetry &amp; Observability in .NET Aspire - Episode 336](http://feed.azuredevops.show/matt-mccleary-telemetry-observability-in-net-aspire-episode-336)
-- [Como o GitHub Copilot te ajuda a escrever Pipelines de CI e CD](https://www.youtube.com/watch?v=xwACQyCZI_c)
-- [Full web support for conditional access policies across Azure DevOps and partner web properties](https://devblogs.microsoft.com/devops/full-web-support-for-conditional-access-policies-across-azure-devops-and-partner-web-properties/)
-- [Update to Azure DevOps Allowed IP addresses](https://devblogs.microsoft.com/devops/update-to-ado-allowed-ip-addresses/)
-- [.NET Aspire and AI with Chris Ayers - Episode 335](http://feed.azuredevops.show/net-aspire-and-ai-with-chris-ayers-episode-335)
+- [Contributor Stories: Deepanshu Katara](https://techcommunity.microsoft.com/t5/microsoft-developer-community/contributor-stories-deepanshu-katara/ba-p/4382588)
+- [Case Study: Data Driven DevOps with ADO](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/case-study-data-driven-devops-with-ado/ba-p/4128814)
+- [Scott Nichols: Azure AI Foundry - Episode 338](http://feed.azuredevops.show/scott-nichols-azure-ai-foundry-episode-338)
+- [GitHub Copilot for Azure DevOps users](https://devblogs.microsoft.com/devops/github-copilot-for-azure-devops-users/)
+- [Shaun Walker: Seven Years of Blazor - Episode 337](http://feed.azuredevops.show/shaun-walker-seven-years-of-blazor-episode-337)
 <!-- AZUREINFOHUB:END -->
 
 
