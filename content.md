@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Azure DevOps Basic usage included with GitHub Enterprise](https://devblogs.microsoft.com/devops/azure-devops-basic-usage-included-with-github-enterprise/)
 - [GitHub Copilot for Azure DevOps users](https://devblogs.microsoft.com/devops/github-copilot-for-azure-devops-users/)
 - [February Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/february-patches-for-azure-devops-server-4/)
 - [Full web support for conditional access policies across Azure DevOps and partner web properties](https://devblogs.microsoft.com/devops/full-web-support-for-conditional-access-policies-across-azure-devops-and-partner-web-properties/)
 - [Update to Azure DevOps Allowed IP addresses](https://devblogs.microsoft.com/devops/update-to-ado-allowed-ip-addresses/)
-- [Upcoming support lifecycle milestones for older on-premises products](https://devblogs.microsoft.com/devops/upcoming-support-lifecycle-milestones-for-older-on-premises-products/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
