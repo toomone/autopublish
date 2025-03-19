@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Upcoming Updates for Azure Pipelines Agents Images](https://devblogs.microsoft.com/devops/upcoming-updates-for-azure-pipelines-agents-images/)
 - [Markdown for large text fields (private preview)](https://devblogs.microsoft.com/devops/markdown-for-large-text-fields-private-preview/)
 - [March Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/march-patches-for-azure-devops-server-3/)
 - [New Boards Hub Update](https://devblogs.microsoft.com/devops/new-boards-hub-update-spring-2025/)
 - [Azure DevOps Basic usage included with GitHub Enterprise](https://devblogs.microsoft.com/devops/azure-devops-basic-usage-included-with-github-enterprise/)
-- [GitHub Copilot for Azure DevOps users](https://devblogs.microsoft.com/devops/github-copilot-for-azure-devops-users/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
