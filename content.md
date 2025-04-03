@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [CDN Domain URL change for Agents in Pipelines](https://devblogs.microsoft.com/devops/cdn-domain-url-change-for-agents-in-pipelines/)
 - [TFVC Policies Storage Updates](https://devblogs.microsoft.com/devops/tfvc-policies-storage-updates/)
 - [Important Update: Server Name Indication (SNI) Now Mandatory for Azure DevOps Services](https://devblogs.microsoft.com/devops/sni-mandatory-for-azdo-services/)
 - [New Overlapping Secrets on Azure DevOps OAuth](https://devblogs.microsoft.com/devops/new-overlapping-secrets-on-azure-devops-oauth/)
 - [Introducing Java, JS and Python support in Test Plans](https://devblogs.microsoft.com/devops/introducing-java-javascript-and-python-support-in-azuredevops-test-plans/)
-- [Upcoming Updates for Azure Pipelines Agents Images](https://devblogs.microsoft.com/devops/upcoming-updates-for-azure-pipelines-agents-images/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
