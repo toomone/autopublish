@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [CDN Domain URL change for Agents in Pipelines](https://devblogs.microsoft.com/devops/cdn-domain-url-change-for-agents-in-pipelines/)
 - [TFVC Policies Storage Updates](https://devblogs.microsoft.com/devops/tfvc-policies-storage-updates/)
 - [Important Update: Server Name Indication &lpar;SNI&rpar; Now Mandatory for Azure DevOps Services](https://devblogs.microsoft.com/devops/sni-mandatory-for-azdo-services/)
 - [AI Developer Training in .NET with Bruno Capuano - Episode 343](http://feed.azuredevops.show/ai-developer-training-in-net-with-bruno-capuano-episode-343)
 - [Scaling Cloud ETL: Optimizing Performance and Resolving Azure Data Factory Copy Bottlenecks](https://techcommunity.microsoft.com/t5/microsoft-developer-community/scaling-cloud-etl-optimizing-performance-and-resolving-azure/ba-p/4395007)
-- [New Overlapping Secrets on Azure DevOps OAuth](https://devblogs.microsoft.com/devops/new-overlapping-secrets-on-azure-devops-oauth/)
 <!-- AZUREINFOHUB:END -->
 
 
