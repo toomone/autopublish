@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Boards Integration with GitHub Enterprise Cloud and Data Residency (Public Preview)](https://devblogs.microsoft.com/devops/boards-integration-with-github-enterprise-cloud-and-data-residency-public-preview/)
 - [CDN Domain URL change for Agents in Pipelines](https://devblogs.microsoft.com/devops/cdn-domain-url-change-for-agents-in-pipelines/)
 - [TFVC Policies Storage Updates](https://devblogs.microsoft.com/devops/tfvc-policies-storage-updates/)
 - [Important Update: Server Name Indication (SNI) Now Mandatory for Azure DevOps Services](https://devblogs.microsoft.com/devops/sni-mandatory-for-azdo-services/)
 - [New Overlapping Secrets on Azure DevOps OAuth](https://devblogs.microsoft.com/devops/new-overlapping-secrets-on-azure-devops-oauth/)
-- [Introducing Java, JS and Python support in Test Plans](https://devblogs.microsoft.com/devops/introducing-java-javascript-and-python-support-in-azuredevops-test-plans/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
