@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Logic Apps Aviators Newsletter - April 2025](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/logic-apps-aviators-newsletter-april-2025/ba-p/4401408)
+- [AI in .NET with Stephen Toub - Episode 344](http://feed.azuredevops.show/ai-in-net-with-stephen-toub-episode-344)
+- [Boards Integration with GitHub Enterprise Cloud and Data Residency &lpar;Public Preview&rpar;](https://devblogs.microsoft.com/devops/boards-integration-with-github-enterprise-cloud-and-data-residency-public-preview/)
+- [Episode 516 - Digital Intelligence Architecture](https://azpodcast.blob.core.windows.net/episodes/Episode516.mp3)
 - [CDN Domain URL change for Agents in Pipelines](https://devblogs.microsoft.com/devops/cdn-domain-url-change-for-agents-in-pipelines/)
-- [TFVC Policies Storage Updates](https://devblogs.microsoft.com/devops/tfvc-policies-storage-updates/)
-- [Important Update: Server Name Indication &lpar;SNI&rpar; Now Mandatory for Azure DevOps Services](https://devblogs.microsoft.com/devops/sni-mandatory-for-azdo-services/)
-- [AI Developer Training in .NET with Bruno Capuano - Episode 343](http://feed.azuredevops.show/ai-developer-training-in-net-with-bruno-capuano-episode-343)
-- [Scaling Cloud ETL: Optimizing Performance and Resolving Azure Data Factory Copy Bottlenecks](https://techcommunity.microsoft.com/t5/microsoft-developer-community/scaling-cloud-etl-optimizing-performance-and-resolving-azure/ba-p/4395007)
 <!-- AZUREINFOHUB:END -->
 
 
