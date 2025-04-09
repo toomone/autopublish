@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Strapi on App Service: FAQ](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/strapi-on-app-service-faq/ba-p/4401397)
+- [April Patches for Azure DevOps Server and Team Foundation Server](https://devblogs.microsoft.com/devops/april-patches-for-azure-devops-server-and-team-foundation-server-3/)
+- [Announcing CI/CD Enhancements for Azure Load Testing](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/announcing-ci-cd-enhancements-for-azure-load-testing/ba-p/4400837)
 - [Logic Apps Aviators Newsletter - April 2025](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/logic-apps-aviators-newsletter-april-2025/ba-p/4401408)
 - [AI in .NET with Stephen Toub - Episode 344](http://feed.azuredevops.show/ai-in-net-with-stephen-toub-episode-344)
-- [Boards Integration with GitHub Enterprise Cloud and Data Residency &lpar;Public Preview&rpar;](https://devblogs.microsoft.com/devops/boards-integration-with-github-enterprise-cloud-and-data-residency-public-preview/)
-- [Episode 516 - Digital Intelligence Architecture](https://azpodcast.blob.core.windows.net/episodes/Episode516.mp3)
-- [CDN Domain URL change for Agents in Pipelines](https://devblogs.microsoft.com/devops/cdn-domain-url-change-for-agents-in-pipelines/)
 <!-- AZUREINFOHUB:END -->
 
 
