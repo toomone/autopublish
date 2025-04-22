@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [April Yoho: GitHub in 2025 - Episode 346](http://feed.azuredevops.show/april-yoho-github-in-2025-episode-346)
+- [Azure Boards + GitHub: Recent Updates](https://devblogs.microsoft.com/devops/azure-boards-github-recent-updates/)
+- [Jerry Nixon: .NET Aspire and Databases - Episode 345](http://feed.azuredevops.show/net-aspire-and-databases-with-jerry-nixon-episode-345)
 - [Strapi on App Service: FAQ](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/strapi-on-app-service-faq/ba-p/4401397)
 - [April Patches for Azure DevOps Server and Team Foundation Server](https://devblogs.microsoft.com/devops/april-patches-for-azure-devops-server-and-team-foundation-server-3/)
-- [Announcing CI/CD Enhancements for Azure Load Testing](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/announcing-ci-cd-enhancements-for-azure-load-testing/ba-p/4400837)
-- [Logic Apps Aviators Newsletter - April 2025](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/logic-apps-aviators-newsletter-april-2025/ba-p/4401408)
-- [AI in .NET with Stephen Toub - Episode 344](http://feed.azuredevops.show/ai-in-net-with-stephen-toub-episode-344)
 <!-- AZUREINFOHUB:END -->
 
 
