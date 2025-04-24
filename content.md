@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [April Yoho: GitHub in 2025 - Episode 346](http://feed.azuredevops.show/april-yoho-github-in-2025-episode-346)
-- [Azure Boards + GitHub: Recent Updates](https://devblogs.microsoft.com/devops/azure-boards-github-recent-updates/)
-- [Jerry Nixon: .NET Aspire and Databases - Episode 345](http://feed.azuredevops.show/net-aspire-and-databases-with-jerry-nixon-episode-345)
-- [Strapi on App Service: FAQ](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/strapi-on-app-service-faq/ba-p/4401397)
-- [April Patches for Azure DevOps Server and Team Foundation Server](https://devblogs.microsoft.com/devops/april-patches-for-azure-devops-server-and-team-foundation-server-3/)
+- [Spring Cleaning: A CTA for Azure DevOps OAuth Apps with expired or long-living secrets](https://devblogs.microsoft.com/devops/spring-cleaning-cta-for-azure-devops-oauth-apps-with-expired-or-long-living-secrets/)
+- [GitHub Copilot code review now supports C, C++, Kotlin, and Swift](https://github.blog/changelog/2025-04-23-github-copilot-code-review-now-supports-c-c-kotlin-and-swift)
+- [Leveraging GitHub Copilot for AI Engineering](https://www.youtube.com/watch?v=SRBXUF5EPHg)
+- [Learn Generative AI with JavaScript: Free and Interactive Course! 💡🤖](https://techcommunity.microsoft.com/t5/microsoft-developer-community/learn-generative-ai-with-javascript-free-and-interactive-course/ba-p/4406740)
+- [Enhancing AI Integrations with MCP and Azure API Management](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/enhancing-ai-integrations-with-mcp-and-azure-api-management/ba-p/4406699)
 <!-- AZUREINFOHUB:END -->
 
 
