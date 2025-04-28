@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Spring Cleaning: A CTA for Azure DevOps OAuth Apps with expired or long-living secrets](https://devblogs.microsoft.com/devops/spring-cleaning-cta-for-azure-devops-oauth-apps-with-expired-or-long-living-secrets/)
-- [GitHub Copilot code review now supports C, C++, Kotlin, and Swift](https://github.blog/changelog/2025-04-23-github-copilot-code-review-now-supports-c-c-kotlin-and-swift)
-- [Leveraging GitHub Copilot for AI Engineering](https://www.youtube.com/watch?v=SRBXUF5EPHg)
-- [Learn Generative AI with JavaScript: Free and Interactive Course! 💡🤖](https://techcommunity.microsoft.com/t5/microsoft-developer-community/learn-generative-ai-with-javascript-free-and-interactive-course/ba-p/4406740)
-- [Enhancing AI Integrations with MCP and Azure API Management](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/enhancing-ai-integrations-with-mcp-and-azure-api-management/ba-p/4406699)
+- [Adrienne Braganza Tacke: Code Review Patterns &amp; Principles - Episode 347](http://feed.azuredevops.show/adrienne-braganza-tacke-code-review-patterns-principles-episode-347)
+- [Enhancing AI Integrations with MCP and Azure API Management](https://techcommunity.microsoft.com/t5/microsoft-developer-community/enhancing-ai-integrations-with-mcp-and-azure-api-management/ba-p/4407114)
+- [Microsoft AI Genius 시리즈 | 클라우드 배포를 위한 Azure Copilot 시작하기](https://www.youtube.com/watch?v=aBPnm2EvLrI)
+- [#238 - The one with Copilot &amp; AI Agents for SAP &lpar;Amit Lal&rpar; | SAP on Azure Video Podcast](https://www.youtube.com/watch?v=JM2MD3_tJRY)
+- [Announcement: Azure Logic Apps &lpar;Standard&rpar; Automated Testing Public Preview](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/announcement-azure-logic-apps-standard-automated-testing-public/ba-p/4407814)
 <!-- AZUREINFOHUB:END -->
 
 
