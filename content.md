@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Adrienne Braganza Tacke: Code Review Patterns &amp; Principles - Episode 347](http://feed.azuredevops.show/adrienne-braganza-tacke-code-review-patterns-principles-episode-347)
-- [Enhancing AI Integrations with MCP and Azure API Management](https://techcommunity.microsoft.com/t5/microsoft-developer-community/enhancing-ai-integrations-with-mcp-and-azure-api-management/ba-p/4407114)
-- [Microsoft AI Genius 시리즈 | 클라우드 배포를 위한 Azure Copilot 시작하기](https://www.youtube.com/watch?v=aBPnm2EvLrI)
-- [#238 - The one with Copilot &amp; AI Agents for SAP &lpar;Amit Lal&rpar; | SAP on Azure Video Podcast](https://www.youtube.com/watch?v=JM2MD3_tJRY)
-- [Announcement: Azure Logic Apps &lpar;Standard&rpar; Automated Testing Public Preview](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/announcement-azure-logic-apps-standard-automated-testing-public/ba-p/4407814)
+- [David Lykken: AI in Executive Strategy - Episode 349](http://feed.azuredevops.show/david-lykken-ai-in-executive-strategy-episode-349)
+- [São Paulo | Global Azure 2025 - Dia 2](https://www.youtube.com/watch?v=17hknH1POTI)
+- [Let it cook - Vibe Coding with VS Code - Episode 2: Building an MCP server for LIFX](https://www.youtube.com/watch?v=l8bgGpiID0E)
+- [GitHub Copilot in VS Code April release &lpar;v1.100&rpar;](https://github.blog/changelog/2025-05-08-github-copilot-in-vs-code-april-release-v1-100)
+- [OpenAI GPT-4.1 is now generally available in GitHub Copilot as the new default model](https://github.blog/changelog/2025-05-08-openai-gpt-4-1-is-now-generally-available-in-github-copilot-as-the-new-default-model)
 <!-- AZUREINFOHUB:END -->
 
 
