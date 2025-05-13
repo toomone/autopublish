@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Agent mode, MCP, and next edit suggestions come to GitHub Copilot in Visual Studio 17.14](https://github.blog/changelog/2025-05-13-agent-mode-mcp-and-next-edit-suggestions-come-to-github-copilot-in-visual-studio-17-14)
+- [Create Your First AI Agent with JavaScript and Azure AI Agent Service!](https://techcommunity.microsoft.com/t5/microsoft-developer-community/create-your-first-ai-agent-with-javascript-and-azure-ai-agent/ba-p/4411723)
 - [David Lykken: AI in Executive Strategy - Episode 349](http://feed.azuredevops.show/david-lykken-ai-in-executive-strategy-episode-349)
+- [Getting Started with Model Context Protocol &lpar;MCP&rpar; | #CopilotChronicles](https://www.youtube.com/watch?v=RgW-UhKoa1U)
 - [São Paulo | Global Azure 2025 - Dia 2](https://www.youtube.com/watch?v=17hknH1POTI)
-- [Let it cook - Vibe Coding with VS Code - Episode 2: Building an MCP server for LIFX](https://www.youtube.com/watch?v=l8bgGpiID0E)
-- [GitHub Copilot in VS Code April release &lpar;v1.100&rpar;](https://github.blog/changelog/2025-05-08-github-copilot-in-vs-code-april-release-v1-100)
-- [OpenAI GPT-4.1 is now generally available in GitHub Copilot as the new default model](https://github.blog/changelog/2025-05-08-openai-gpt-4-1-is-now-generally-available-in-github-copilot-as-the-new-default-model)
 <!-- AZUREINFOHUB:END -->
 
 
