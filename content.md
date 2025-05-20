@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Agent mode, MCP, and next edit suggestions come to GitHub Copilot in Visual Studio 17.14](https://github.blog/changelog/2025-05-13-agent-mode-mcp-and-next-edit-suggestions-come-to-github-copilot-in-visual-studio-17-14)
-- [Create Your First AI Agent with JavaScript and Azure AI Agent Service!](https://techcommunity.microsoft.com/t5/microsoft-developer-community/create-your-first-ai-agent-with-javascript-and-azure-ai-agent/ba-p/4411723)
-- [David Lykken: AI in Executive Strategy - Episode 349](http://feed.azuredevops.show/david-lykken-ai-in-executive-strategy-episode-349)
-- [Getting Started with Model Context Protocol &lpar;MCP&rpar; | #CopilotChronicles](https://www.youtube.com/watch?v=RgW-UhKoa1U)
-- [São Paulo | Global Azure 2025 - Dia 2](https://www.youtube.com/watch?v=17hknH1POTI)
+- [AI Agents Hackathon 2025 – Category Winners Showcase](https://techcommunity.microsoft.com/t5/microsoft-developer-community/ai-agents-hackathon-2025-category-winners-showcase/ba-p/4415088)
+- [Powering the Next Generation of AI Apps and Agents on the Azure Application Platform](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/powering-the-next-generation-of-ai-apps-and-agents-on-the-azure/ba-p/4414755)
+- [New Observability &amp; Debugging Capabilities for Azure Container Apps](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/new-observability-debugging-capabilities-for-azure-container/ba-p/4415295)
+- [What&#39;s New in Azure App Service at #MSBuild 2025](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/what-s-new-in-azure-app-service-at-msbuild-2025/ba-p/4412465)
+- [Unlocking new AI workloads in Azure Container Apps](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/unlocking-new-ai-workloads-in-azure-container-apps/ba-p/4414932)
 <!-- AZUREINFOHUB:END -->
 
 
