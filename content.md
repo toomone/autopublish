@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [AI Agents Hackathon 2025 – Category Winners Showcase](https://techcommunity.microsoft.com/t5/microsoft-developer-community/ai-agents-hackathon-2025-category-winners-showcase/ba-p/4415088)
-- [Powering the Next Generation of AI Apps and Agents on the Azure Application Platform](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/powering-the-next-generation-of-ai-apps-and-agents-on-the-azure/ba-p/4414755)
-- [New Observability &amp; Debugging Capabilities for Azure Container Apps](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/new-observability-debugging-capabilities-for-azure-container/ba-p/4415295)
-- [What&#39;s New in Azure App Service at #MSBuild 2025](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/what-s-new-in-azure-app-service-at-msbuild-2025/ba-p/4412465)
-- [Unlocking new AI workloads in Azure Container Apps](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/unlocking-new-ai-workloads-in-azure-container-apps/ba-p/4414932)
+- [Anthropic Claude Sonnet 4 and Claude Opus 4 are now in public preview in GitHub Copilot](https://github.blog/changelog/2025-05-22-anthropic-claude-sonnet-4-and-claude-opus-4-are-now-in-public-preview-in-github-copilot)
+- [Slurm custom image for a locked down environemnt and faster start-up time, Azure Cyclecloud](https://techcommunity.microsoft.com/t5/azure-high-performance-computing/slurm-custom-image-for-a-locked-down-environemnt-and-faster/ba-p/4401547)
+- [Secure Code Reviews with GitHub Copilot: A Prompt-Driven Approach](https://techcommunity.microsoft.com/t5/microsoft-developer-community/secure-code-reviews-with-github-copilot-a-prompt-driven-approach/ba-p/4413227)
+- [Vibe Coding at Microsoft Build - Day 3](https://www.youtube.com/watch?v=67LKcINZTLk)
+- [VS Code: 오픈 소스 AI 코드 에디터](https://techcommunity.microsoft.com/t5/microsoft-developer-community/vs-code-%EC%98%A4%ED%94%88-%EC%86%8C%EC%8A%A4-ai-%EC%BD%94%EB%93%9C-%EC%97%90%EB%94%94%ED%84%B0/ba-p/4415958)
 <!-- AZUREINFOHUB:END -->
 
 
