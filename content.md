@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Azure DevOps with GitHub Repositories – Your path to Agentic AI](https://devblogs.microsoft.com/devops/azure-devops-with-github-repositories-your-path-to-agentic-ai/)
 - [One Pipeline to Rule Them All: Ensuring CodeQL Scanning Results and Dependency Scanning Results Go to the Intended Repository](https://devblogs.microsoft.com/devops/one-pipeline-to-rule-them-all-codeql-dependency-scanning/)
 - [Introducing Azure DevOps ID Token Refresh and Terraform Task Version 5](https://devblogs.microsoft.com/devops/introducing-azure-devops-id-token-refresh-and-terraform-task-version-5/)
 - [Spring Cleaning: A CTA for Azure DevOps OAuth Apps with expired or long-living secrets](https://devblogs.microsoft.com/devops/spring-cleaning-cta-for-azure-devops-oauth-apps-with-expired-or-long-living-secrets/)
 - [Azure Boards + GitHub: Recent Updates](https://devblogs.microsoft.com/devops/azure-boards-github-recent-updates/)
-- [April Patches for Azure DevOps Server and Team Foundation Server](https://devblogs.microsoft.com/devops/april-patches-for-azure-devops-server-and-team-foundation-server-3/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
