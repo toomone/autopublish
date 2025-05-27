@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Anthropic Claude Sonnet 4 and Claude Opus 4 are now in public preview in GitHub Copilot](https://github.blog/changelog/2025-05-22-anthropic-claude-sonnet-4-and-claude-opus-4-are-now-in-public-preview-in-github-copilot)
-- [Slurm custom image for a locked down environemnt and faster start-up time, Azure Cyclecloud](https://techcommunity.microsoft.com/t5/azure-high-performance-computing/slurm-custom-image-for-a-locked-down-environemnt-and-faster/ba-p/4401547)
-- [Secure Code Reviews with GitHub Copilot: A Prompt-Driven Approach](https://techcommunity.microsoft.com/t5/microsoft-developer-community/secure-code-reviews-with-github-copilot-a-prompt-driven-approach/ba-p/4413227)
-- [Vibe Coding at Microsoft Build - Day 3](https://www.youtube.com/watch?v=67LKcINZTLk)
-- [VS Code: 오픈 소스 AI 코드 에디터](https://techcommunity.microsoft.com/t5/microsoft-developer-community/vs-code-%EC%98%A4%ED%94%88-%EC%86%8C%EC%8A%A4-ai-%EC%BD%94%EB%93%9C-%EC%97%90%EB%94%94%ED%84%B0/ba-p/4415958)
+- [One Pipeline to Rule Them All: Ensuring CodeQL Scanning Results and Dependency Scanning Results Go to the Intended Repository](https://devblogs.microsoft.com/devops/one-pipeline-to-rule-them-all-codeql-dependency-scanning/)
+- [Build secure, flexible, AI-enabled applications with Azure Kubernetes Service](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/build-secure-flexible-ai-enabled-applications-with-azure/ba-p/4415227)
+- [Scott Forsyth: How Kitchen Copilot uses AI - Episode 350](http://feed.azuredevops.show/scott-forsyth-how-kitchen-copilot-uses-ai-episode-350)
+- [David Lykken: AI in Executive Strategy - Episode 349](http://feed.azuredevops.show/david-lykken-ai-in-executive-strategy-episode-349)
+- [Jeff Sutherland: The History of Agile - Episode 348](http://feed.azuredevops.show/jeff-sutherland-the-history-of-agile-episode-348)
 <!-- AZUREINFOHUB:END -->
 
 
