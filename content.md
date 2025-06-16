@@ -12,11 +12,11 @@
 ## AZURE WEEKLY BLOG
 
 <!-- AZUREWEEKLY:START -->
+- [#519 - 15th June 2025](https://azureweekly.info/issue-519.html)
 - [#518 - 8th June 2025](https://azureweekly.info/issue-518.html)
 - [#517 - 1st June 2025](https://azureweekly.info/issue-517.html)
 - [#516 - 25th May 2025](https://azureweekly.info/issue-516.html)
 - [#515 - 18th May 2025](https://azureweekly.info/issue-515.html)
-- [#514 - 11th May 2025](https://azureweekly.info/issue-514.html)
 <!-- AZUREWEEKLY:END -->
 
 ## AZURE INFOHUB BLOG 
