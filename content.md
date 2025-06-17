@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Azure DevOps MCP Server, Public Preview](https://devblogs.microsoft.com/devops/azure-devops-mcp-server-public-preview/)
 - [June Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/june-patches-for-azure-devops-server-4/)
 - [Restricting PAT Creation in Azure DevOps Is Now in Preview](https://devblogs.microsoft.com/devops/restricting-pat-creation-in-azure-devops-is-now-in-preview/)
 - [GitHub Secret Protection and GitHub Code Security for Azure DevOps](https://devblogs.microsoft.com/devops/github-secret-protection-and-github-code-security-for-azure-devops/)
 - [Azure DevOps with GitHub Repositories – Your path to Agentic AI](https://devblogs.microsoft.com/devops/azure-devops-with-github-repositories-your-path-to-agentic-ai/)
-- [One Pipeline to Rule Them All: Ensuring CodeQL Scanning Results and Dependency Scanning Results Go to the Intended Repository](https://devblogs.microsoft.com/devops/one-pipeline-to-rule-them-all-codeql-dependency-scanning/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
