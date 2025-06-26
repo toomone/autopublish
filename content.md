@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Anthropic Claude Sonnet 4 and Claude Opus 4 are now in public preview in GitHub Copilot](https://github.blog/changelog/2025-05-22-anthropic-claude-sonnet-4-and-claude-opus-4-are-now-in-public-preview-in-github-copilot)
-- [Slurm custom image for a locked down environemnt and faster start-up time, Azure Cyclecloud](https://techcommunity.microsoft.com/t5/azure-high-performance-computing/slurm-custom-image-for-a-locked-down-environemnt-and-faster/ba-p/4401547)
-- [Secure Code Reviews with GitHub Copilot: A Prompt-Driven Approach](https://techcommunity.microsoft.com/t5/microsoft-developer-community/secure-code-reviews-with-github-copilot-a-prompt-driven-approach/ba-p/4413227)
-- [Vibe Coding at Microsoft Build - Day 3](https://www.youtube.com/watch?v=67LKcINZTLk)
-- [VS Code: 오픈 소스 AI 코드 에디터](https://techcommunity.microsoft.com/t5/microsoft-developer-community/vs-code-%EC%98%A4%ED%94%88-%EC%86%8C%EC%8A%A4-ai-%EC%BD%94%EB%93%9C-%EC%97%90%EB%94%94%ED%84%B0/ba-p/4415958)
+- [Quest 9: I want to use a ready-made template](https://techcommunity.microsoft.com/t5/microsoft-developer-community/quest-9-i-want-to-use-a-ready-made-template/ba-p/4427101)
+- [Improved attachments and larger context in Copilot Chat in public preview](https://github.blog/changelog/2025-06-25-improved-attachments-and-larger-context-in-copilot-chat-in-public-preview)
+- [Anthropic Claude Sonnet 4 and Claude Opus 4 are now generally available in GitHub Copilot](https://github.blog/changelog/2025-06-25-anthropic-claude-sonnet-4-and-claude-opus-4-are-now-generally-available-in-github-copilot)
+- [Removing Azure Resource Manager reliance on Azure DevOps sign-ins](https://devblogs.microsoft.com/devops/removing-azure-resource-manager-reliance-on-azure-devops-sign-ins/)
+- [Quest 8: I want to automate code reviews](https://techcommunity.microsoft.com/t5/microsoft-developer-community/quest-8-i-want-to-automate-code-reviews/ba-p/4427081)
 <!-- AZUREINFOHUB:END -->
 
 
