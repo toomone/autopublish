@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [🔴 VS Code Live - Let it cook - Episode 7 - Ultimate AI Mode &amp; Latest Insider AI Features](https://www.youtube.com/watch?v=QcaQVnznugA)
+- [GitHub Copilot coding agent is available for Copilot Pro users in public preview](https://github.blog/changelog/2025-06-25-github-copilot-coding-agent-is-available-for-copilot-pro-users-in-public-preview)
 - [Quest 9: I want to use a ready-made template](https://techcommunity.microsoft.com/t5/microsoft-developer-community/quest-9-i-want-to-use-a-ready-made-template/ba-p/4427101)
 - [Improved attachments and larger context in Copilot Chat in public preview](https://github.blog/changelog/2025-06-25-improved-attachments-and-larger-context-in-copilot-chat-in-public-preview)
 - [Anthropic Claude Sonnet 4 and Claude Opus 4 are now generally available in GitHub Copilot](https://github.blog/changelog/2025-06-25-anthropic-claude-sonnet-4-and-claude-opus-4-are-now-generally-available-in-github-copilot)
-- [Removing Azure Resource Manager reliance on Azure DevOps sign-ins](https://devblogs.microsoft.com/devops/removing-azure-resource-manager-reliance-on-azure-devops-sign-ins/)
-- [Quest 8: I want to automate code reviews](https://techcommunity.microsoft.com/t5/microsoft-developer-community/quest-8-i-want-to-automate-code-reviews/ba-p/4427081)
 <!-- AZUREINFOHUB:END -->
 
 
