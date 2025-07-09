@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [July Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/july-patches-for-azure-devops-server-2/)
+- [Markdown Support Arrives for Work Items](https://devblogs.microsoft.com/devops/markdown-support-arrives-for-work-items/)
 - [Removing Azure Resource Manager reliance on Azure DevOps sign-ins](https://devblogs.microsoft.com/devops/removing-azure-resource-manager-reliance-on-azure-devops-sign-ins/)
 - [Azure DevOps MCP Server, Public Preview](https://devblogs.microsoft.com/devops/azure-devops-mcp-server-public-preview/)
 - [June Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/june-patches-for-azure-devops-server-4/)
-- [Restricting PAT Creation in Azure DevOps Is Now in Preview](https://devblogs.microsoft.com/devops/restricting-pat-creation-in-azure-devops-is-now-in-preview/)
-- [GitHub Secret Protection and GitHub Code Security for Azure DevOps](https://devblogs.microsoft.com/devops/github-secret-protection-and-github-code-security-for-azure-devops/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
