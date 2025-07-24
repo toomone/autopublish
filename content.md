@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [🔴 VS Code Live - Let it cook - Episode 7 - Ultimate AI Mode &amp; Latest Insider AI Features](https://www.youtube.com/watch?v=QcaQVnznugA)
-- [GitHub Copilot coding agent is available for Copilot Pro users in public preview](https://github.blog/changelog/2025-06-25-github-copilot-coding-agent-is-available-for-copilot-pro-users-in-public-preview)
-- [Quest 9: I want to use a ready-made template](https://techcommunity.microsoft.com/t5/microsoft-developer-community/quest-9-i-want-to-use-a-ready-made-template/ba-p/4427101)
-- [Improved attachments and larger context in Copilot Chat in public preview](https://github.blog/changelog/2025-06-25-improved-attachments-and-larger-context-in-copilot-chat-in-public-preview)
-- [Anthropic Claude Sonnet 4 and Claude Opus 4 are now generally available in GitHub Copilot](https://github.blog/changelog/2025-06-25-anthropic-claude-sonnet-4-and-claude-opus-4-are-now-generally-available-in-github-copilot)
+- [Smart AI integration with the Model Context Protocol &lpar;MCP&rpar; ... part 3](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/smart-ai-integration-with-the-model-context-protocol-mcp-part-3/ba-p/4430392)
+- [Smart AI integration with the Model Context Protocol &lpar;MCP&rpar; ... part 3B](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/smart-ai-integration-with-the-model-context-protocol-mcp-part-3b/ba-p/4436099)
+- [Responsible AI - Java Edition](https://www.youtube.com/watch?v=rF-b2BTSMQ4)
+- [Generative AI for Beginners - Java Edition - Getting Started](https://www.youtube.com/watch?v=XH46tGp_eSw)
+- [Agents page: Set the base branch for GitHub Copilot coding agent tasks](https://github.blog/changelog/2025-07-23-agents-page-set-the-base-branch-for-github-copilot-coding-agent-tasks)
 <!-- AZUREINFOHUB:END -->
 
 
