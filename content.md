@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [From Manual Testing to AI-Generated Automation: Our Azure DevOps MCP + Playwright Success Story](https://devblogs.microsoft.com/devops/from-manual-testing-to-ai-generated-automation-our-azure-devops-mcp-playwright-success-story/)
 - [Azure Developer CLI: From Dev to Prod with One Click](https://devblogs.microsoft.com/devops/azure-developer-cli-from-dev-to-prod-with-one-click/)
 - [July Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/july-patches-for-azure-devops-server-2/)
 - [Markdown Support Arrives for Work Items](https://devblogs.microsoft.com/devops/markdown-support-arrives-for-work-items/)
 - [Removing Azure Resource Manager reliance on Azure DevOps sign-ins](https://devblogs.microsoft.com/devops/removing-azure-resource-manager-reliance-on-azure-devops-sign-ins/)
-- [Azure DevOps MCP Server, Public Preview](https://devblogs.microsoft.com/devops/azure-devops-mcp-server-public-preview/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
