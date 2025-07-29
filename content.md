@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Enhancements to last_activity_at in the User Management API](https://github.blog/changelog/2025-07-29-enhancements-to-last_activity_at-in-the-user-management-api)
+- [How to contribute to MCP: Tools, docs, code &amp; more](https://www.youtube.com/watch?v=v1pvCYAWpRE)
+- [MCP in action: Real-world case studies](https://www.youtube.com/watch?v=IxshWb2Az5w)
 - [Joe Cuevas: Your First Decade as a Software Engineer  - Episode 360](http://feed.azuredevops.show/joe-cuevas-your-first-decade-as-a-software-engineer-episode-360)
 - [Joe Cuevas: Your First Decade as a Software Engineer  - Episode 360](http://feed.azuredevops.show/joe-cuevas-your-first-decade-as-a-software-engineer-episode-360)
-- [Coding agent integration in VS Code](https://www.youtube.com/watch?v=xGYHPN5NNd0)
-- [From Manual Testing to AI-Generated Automation: Our Azure DevOps MCP + Playwright Success Story](https://devblogs.microsoft.com/devops/from-manual-testing-to-ai-generated-automation-our-azure-devops-mcp-playwright-success-story/)
-- [Smart AI integration with the Model Context Protocol &lpar;MCP&rpar; ... part 3](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/smart-ai-integration-with-the-model-context-protocol-mcp-part-3/ba-p/4430392)
 <!-- AZUREINFOHUB:END -->
 
 
