@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Enhancements to last_activity_at in the User Management API](https://github.blog/changelog/2025-07-29-enhancements-to-last_activity_at-in-the-user-management-api)
-- [How to contribute to MCP: Tools, docs, code &amp; more](https://www.youtube.com/watch?v=v1pvCYAWpRE)
-- [MCP in action: Real-world case studies](https://www.youtube.com/watch?v=IxshWb2Az5w)
-- [Joe Cuevas: Your First Decade as a Software Engineer  - Episode 360](http://feed.azuredevops.show/joe-cuevas-your-first-decade-as-a-software-engineer-episode-360)
-- [Joe Cuevas: Your First Decade as a Software Engineer  - Episode 360](http://feed.azuredevops.show/joe-cuevas-your-first-decade-as-a-software-engineer-episode-360)
+- [MCP Bootcamp: APAC, LATAM and Brazil](https://techcommunity.microsoft.com/t5/microsoft-developer-community/mcp-bootcamp-apac-latam-and-brazil/ba-p/4435966)
+- [Copilot coding agent: Custom setup steps are more reliable and easier to debug](https://github.blog/changelog/2025-07-30-copilot-coding-agent-custom-setup-steps-are-more-reliable-and-easier-to-debug)
+- [Copilot coding agent keeps pull request titles and bodies up to date](https://github.blog/changelog/2025-07-30-copilot-coding-agent-keeps-pull-request-titles-and-bodies-up-to-date)
+- [Build. Secure. Launch Your Private MCP Registry with Azure API Center.](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/build-secure-launch-your-private-mcp-registry-with-azure-api/ba-p/4438016)
+- [MCP Dev Days Keynote: Building the Future of AI Development Together](https://www.youtube.com/watch?v=vUKOd0LqRZ0)
 <!-- AZUREINFOHUB:END -->
 
 
