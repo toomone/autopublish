@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Practical introduction to building remote MCP servers](https://www.youtube.com/watch?v=w1N_XEtpu4E)
+- [Vibe Code your first MCP server with GitHub Copilot](https://www.youtube.com/watch?v=hCb1NY2c05k)
+- [🔴 VS Code Live - Boost Your SQL Development in VS Code: GitHub Copilot, Containers, and More](https://www.youtube.com/watch?v=pq2drN2Qw5w)
 - [MCP Bootcamp: APAC, LATAM and Brazil](https://techcommunity.microsoft.com/t5/microsoft-developer-community/mcp-bootcamp-apac-latam-and-brazil/ba-p/4435966)
 - [Copilot coding agent: Custom setup steps are more reliable and easier to debug](https://github.blog/changelog/2025-07-30-copilot-coding-agent-custom-setup-steps-are-more-reliable-and-easier-to-debug)
-- [Copilot coding agent keeps pull request titles and bodies up to date](https://github.blog/changelog/2025-07-30-copilot-coding-agent-keeps-pull-request-titles-and-bodies-up-to-date)
-- [Build. Secure. Launch Your Private MCP Registry with Azure API Center.](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/build-secure-launch-your-private-mcp-registry-with-azure-api/ba-p/4438016)
-- [MCP Dev Days Keynote: Building the Future of AI Development Together](https://www.youtube.com/watch?v=vUKOd0LqRZ0)
 <!-- AZUREINFOHUB:END -->
 
 
