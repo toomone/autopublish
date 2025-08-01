@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Practical introduction to building remote MCP servers](https://www.youtube.com/watch?v=w1N_XEtpu4E)
-- [Vibe Code your first MCP server with GitHub Copilot](https://www.youtube.com/watch?v=hCb1NY2c05k)
-- [🔴 VS Code Live - Boost Your SQL Development in VS Code: GitHub Copilot, Containers, and More](https://www.youtube.com/watch?v=pq2drN2Qw5w)
-- [MCP Bootcamp: APAC, LATAM and Brazil](https://techcommunity.microsoft.com/t5/microsoft-developer-community/mcp-bootcamp-apac-latam-and-brazil/ba-p/4435966)
-- [Copilot coding agent: Custom setup steps are more reliable and easier to debug](https://github.blog/changelog/2025-07-30-copilot-coding-agent-custom-setup-steps-are-more-reliable-and-easier-to-debug)
+- [Announcing a flexible, predictable billing model for Azure SRE Agent](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/announcing-a-flexible-predictable-billing-model-for-azure-sre/ba-p/4427270)
+- [Update on GitHub Copilot consumptive billing for GitHub Enterprise Cloud with data residency](https://github.blog/changelog/2025-08-01-update-on-github-copilot-consumptive-billing-for-github-enterprise-cloud-with-data-residency)
+- [Copilot Chat unlocks new repository management skills](https://github.blog/changelog/2025-07-31-copilot-chat-unlocks-new-repository-management-skills)
+- [🔴 VS Code Live - Let it Cook - Episode 10 - GitHub Spark == 🤯](https://www.youtube.com/watch?v=Irw1wnWgX2M)
+- [.NET Aspire 9.4 New Features](https://www.youtube.com/watch?v=9ODsNkpyVDM)
 <!-- AZUREINFOHUB:END -->
 
 
