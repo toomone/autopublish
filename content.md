@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Automate your open-source dependency scanning with Advanced Security](https://devblogs.microsoft.com/devops/automate-your-open-source-dependency-scanning-with-advanced-security/)
+- [Automate your open-source dependency scanning with Advanced Security](https://devblogs.microsoft.com/devops/automate-your-open-source-dependency-scanning-with-advanced-security/)
+- [Prompt Like a Pro: Learn Prompt Engineering Techniques to Unlock AI&#39;s Full Potential](https://www.youtube.com/watch?v=X26u7xJR9tU)
+- [Ted Neward: Software Architecture - Episode 361](http://feed.azuredevops.show/ted-neward-software-architecture-episode-361)
 - [Announcing a flexible, predictable billing model for Azure SRE Agent](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/announcing-a-flexible-predictable-billing-model-for-azure-sre/ba-p/4427270)
-- [Update on GitHub Copilot consumptive billing for GitHub Enterprise Cloud with data residency](https://github.blog/changelog/2025-08-01-update-on-github-copilot-consumptive-billing-for-github-enterprise-cloud-with-data-residency)
-- [Copilot Chat unlocks new repository management skills](https://github.blog/changelog/2025-07-31-copilot-chat-unlocks-new-repository-management-skills)
-- [🔴 VS Code Live - Let it Cook - Episode 10 - GitHub Spark == 🤯](https://www.youtube.com/watch?v=Irw1wnWgX2M)
-- [.NET Aspire 9.4 New Features](https://www.youtube.com/watch?v=9ODsNkpyVDM)
 <!-- AZUREINFOHUB:END -->
 
 
