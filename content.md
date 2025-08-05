@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Copilot coding agent: Improved pull request review experience](https://github.blog/changelog/2025-08-05-copilot-coding-agent-improved-pull-request-review-experience)
+- [🚀 New in Azure API Management: MCP in v2 SKUs + external MCP-compliant server support](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/new-in-azure-api-management-mcp-in-v2-skus-external-mcp/ba-p/4440294)
+- [Anthropic Claude Opus 4.1 is now in public preview in GitHub Copilot](https://github.blog/changelog/2025-08-05-anthropic-claude-opus-4-1-is-now-in-public-preview-in-github-copilot)
+- [On .NET Live | Supercharge your SQL development with modern .NET](https://www.youtube.com/watch?v=AHgVlvPnpyk)
 - [Automate your open-source dependency scanning with Advanced Security](https://devblogs.microsoft.com/devops/automate-your-open-source-dependency-scanning-with-advanced-security/)
-- [Automate your open-source dependency scanning with Advanced Security](https://devblogs.microsoft.com/devops/automate-your-open-source-dependency-scanning-with-advanced-security/)
-- [Prompt Like a Pro: Learn Prompt Engineering Techniques to Unlock AI&#39;s Full Potential](https://www.youtube.com/watch?v=X26u7xJR9tU)
-- [Ted Neward: Software Architecture - Episode 361](http://feed.azuredevops.show/ted-neward-software-architecture-episode-361)
-- [Announcing a flexible, predictable billing model for Azure SRE Agent](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/announcing-a-flexible-predictable-billing-model-for-azure-sre/ba-p/4427270)
 <!-- AZUREINFOHUB:END -->
 
 
