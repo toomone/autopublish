@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Copilot code review: copilot-instruction.md support is now generally available](https://github.blog/changelog/2025-08-06-copilot-code-review-copilot-instruction-md-support-is-now-generally-available)
+- [Copilot coding agent: Automatically generate custom instructions](https://github.blog/changelog/2025-08-06-copilot-coding-agent-automatically-generate-custom-instructions)
+- [Deprecation of GPT-4o in Copilot Chat](https://github.blog/changelog/2025-08-06-deprecation-of-gpt-4o-in-copilot-chat)
+- [Spark improvements: Enhanced reliability, seed data, and performance updates](https://github.blog/changelog/2025-08-06-spark-improvements-enhanced-reliability-seed-data-and-performance-updates)
 - [Copilot coding agent: Improved pull request review experience](https://github.blog/changelog/2025-08-05-copilot-coding-agent-improved-pull-request-review-experience)
-- [🚀 New in Azure API Management: MCP in v2 SKUs + external MCP-compliant server support](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/new-in-azure-api-management-mcp-in-v2-skus-external-mcp/ba-p/4440294)
-- [Anthropic Claude Opus 4.1 is now in public preview in GitHub Copilot](https://github.blog/changelog/2025-08-05-anthropic-claude-opus-4-1-is-now-in-public-preview-in-github-copilot)
-- [On .NET Live | Supercharge your SQL development with modern .NET](https://www.youtube.com/watch?v=AHgVlvPnpyk)
-- [Automate your open-source dependency scanning with Advanced Security](https://devblogs.microsoft.com/devops/automate-your-open-source-dependency-scanning-with-advanced-security/)
 <!-- AZUREINFOHUB:END -->
 
 
