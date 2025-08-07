@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Introducing Azure App Testing: Scalable End-to-end App Validation](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/introducing-azure-app-testing-scalable-end-to-end-app-validation/ba-p/4440496)
+- [OpenAI GPT-5 is now in public preview for GitHub Copilot](https://github.blog/changelog/2025-08-07-openai-gpt-5-is-now-in-public-preview-for-github-copilot)
 - [Copilot code review: copilot-instruction.md support is now generally available](https://github.blog/changelog/2025-08-06-copilot-code-review-copilot-instruction-md-support-is-now-generally-available)
 - [Copilot coding agent: Automatically generate custom instructions](https://github.blog/changelog/2025-08-06-copilot-coding-agent-automatically-generate-custom-instructions)
 - [Deprecation of GPT-4o in Copilot Chat](https://github.blog/changelog/2025-08-06-deprecation-of-gpt-4o-in-copilot-chat)
-- [Spark improvements: Enhanced reliability, seed data, and performance updates](https://github.blog/changelog/2025-08-06-spark-improvements-enhanced-reliability-seed-data-and-performance-updates)
-- [Copilot coding agent: Improved pull request review experience](https://github.blog/changelog/2025-08-05-copilot-coding-agent-improved-pull-request-review-experience)
 <!-- AZUREINFOHUB:END -->
 
 
