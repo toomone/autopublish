@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Burke Holland: GitHub Copilot Agent - Episode 362](http://feed.azuredevops.show/burke-holland-github-copilot-agent-episode-362)
+- [Burke Holland: GitHub Copilot Agent - Episode 362](http://feed.azuredevops.show/burke-holland-github-copilot-agent-episode-362)
 - [GPT-5 Family of Models &amp; GPT OSS Are Now Available in AI Toolkit for VS Code](https://techcommunity.microsoft.com/t5/microsoft-developer-community/gpt-5-family-of-models-gpt-oss-are-now-available-in-ai-toolkit/ba-p/4441394)
 - [Simplifying Outbound Connectivity Troubleshooting in AKS with Connectivity Analysis &lpar;Preview&rpar;](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/simplifying-outbound-connectivity-troubleshooting-in-aks-with/ba-p/4441200)
 - [Defense of third-party claims added for volume licensing customers](https://github.blog/changelog/2025-08-08-defense-of-third-party-claims-added-for-volume-licensing-customers)
-- [Asynchronous generation of the Copilot activity report CSV](https://github.blog/changelog/2025-08-07-asynchronous-generation-of-the-copilot-activity-report-csv)
-- [GitHub Copilot in VS Code July release &lpar;v1.103&rpar;](https://github.blog/changelog/2025-08-07-github-copilot-in-vs-code-july-release-v1-103)
 <!-- AZUREINFOHUB:END -->
 
 
