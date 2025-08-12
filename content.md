@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Hunting Living Secrets: Secret Validity Checks Arrive in GitHub Advanced Security for Azure DevOps](https://devblogs.microsoft.com/devops/hunting-living-secrets-secret-validity-checks-arrive-in-github-advanced-security-for-azure-devops/)
+- [Real-Time Security with Continuous Access Evaluation (CAE) comes to Azure DevOps](https://devblogs.microsoft.com/devops/real-time-security-with-continuous-access-evaluation-cae-comes-to-azure-devops/)
 - [Automate your open-source dependency scanning with Advanced Security](https://devblogs.microsoft.com/devops/automate-your-open-source-dependency-scanning-with-advanced-security/)
 - [From Manual Testing to AI-Generated Automation: Our Azure DevOps MCP + Playwright Success Story](https://devblogs.microsoft.com/devops/from-manual-testing-to-ai-generated-automation-our-azure-devops-mcp-playwright-success-story/)
 - [Azure Developer CLI: From Dev to Prod with One Click](https://devblogs.microsoft.com/devops/azure-developer-cli-from-dev-to-prod-with-one-click/)
-- [July Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/july-patches-for-azure-devops-server-2/)
-- [Markdown Support Arrives for Work Items](https://devblogs.microsoft.com/devops/markdown-support-arrives-for-work-items/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
