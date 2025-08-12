@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Burke Holland: GitHub Copilot Agent - Episode 362](http://feed.azuredevops.show/burke-holland-github-copilot-agent-episode-362)
-- [Burke Holland: GitHub Copilot Agent - Episode 362](http://feed.azuredevops.show/burke-holland-github-copilot-agent-episode-362)
-- [GPT-5 Family of Models &amp; GPT OSS Are Now Available in AI Toolkit for VS Code](https://techcommunity.microsoft.com/t5/microsoft-developer-community/gpt-5-family-of-models-gpt-oss-are-now-available-in-ai-toolkit/ba-p/4441394)
-- [Simplifying Outbound Connectivity Troubleshooting in AKS with Connectivity Analysis &lpar;Preview&rpar;](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/simplifying-outbound-connectivity-troubleshooting-in-aks-with/ba-p/4441200)
-- [Defense of third-party claims added for volume licensing customers](https://github.blog/changelog/2025-08-08-defense-of-third-party-claims-added-for-volume-licensing-customers)
+- [OpenAI GPT-5 is now available in public preview in Visual Studio, JetBrains IDEs, Xcode, and Eclipse](https://github.blog/changelog/2025-08-12-openai-gpt-5-is-now-available-in-public-preview-in-visual-studio-jetbrains-ides-xcode-and-eclipse)
+- [Hunting Living Secrets: Secret Validity Checks Arrive in GitHub Advanced Security for Azure DevOps](https://devblogs.microsoft.com/devops/hunting-living-secrets-secret-validity-checks-arrive-in-github-advanced-security-for-azure-devops/)
+- [Hunting Living Secrets: Secret Validity Checks Arrive in GitHub Advanced Security for Azure DevOps](https://devblogs.microsoft.com/devops/hunting-living-secrets-secret-validity-checks-arrive-in-github-advanced-security-for-azure-devops/)
+- [Real-Time Security with Continuous Access Evaluation &lpar;CAE&rpar; comes to Azure DevOps](https://devblogs.microsoft.com/devops/real-time-security-with-continuous-access-evaluation-cae-comes-to-azure-devops/)
+- [Modernizing legacy Java project using GitHub Copilot App Modernization upgrade for Java](https://techcommunity.microsoft.com/t5/microsoft-developer-community/modernizing-legacy-java-project-using-github-copilot-app/ba-p/4440777)
 <!-- AZUREINFOHUB:END -->
 
 
