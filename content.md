@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [OpenAI GPT-5 is now available in public preview in Visual Studio, JetBrains IDEs, Xcode, and Eclipse](https://github.blog/changelog/2025-08-12-openai-gpt-5-is-now-available-in-public-preview-in-visual-studio-jetbrains-ides-xcode-and-eclipse)
-- [Hunting Living Secrets: Secret Validity Checks Arrive in GitHub Advanced Security for Azure DevOps](https://devblogs.microsoft.com/devops/hunting-living-secrets-secret-validity-checks-arrive-in-github-advanced-security-for-azure-devops/)
-- [Hunting Living Secrets: Secret Validity Checks Arrive in GitHub Advanced Security for Azure DevOps](https://devblogs.microsoft.com/devops/hunting-living-secrets-secret-validity-checks-arrive-in-github-advanced-security-for-azure-devops/)
-- [Real-Time Security with Continuous Access Evaluation &lpar;CAE&rpar; comes to Azure DevOps](https://devblogs.microsoft.com/devops/real-time-security-with-continuous-access-evaluation-cae-comes-to-azure-devops/)
-- [Modernizing legacy Java project using GitHub Copilot App Modernization upgrade for Java](https://techcommunity.microsoft.com/t5/microsoft-developer-community/modernizing-legacy-java-project-using-github-copilot-app/ba-p/4440777)
+- [How Visual Studio is AWESOME for WinForms, WPF, .NET MAUI and All Your Favorite Frameworks](https://www.youtube.com/watch?v=noIjGyfIoi0)
+- [Fuel Your Fixes: Visual Studio Debugging, Powered by Copilot](https://www.youtube.com/watch?v=BF4ZPk391xs)
+- [Measure Twice, Optimize Once: Real-World .NET Profiling with Visual Studio](https://www.youtube.com/watch?v=zhXhUMkrJDQ)
+- [Model Context Protocol &lpar;MCP&rpar; support for JetBrains, Eclipse, and Xcode is now generally available](https://github.blog/changelog/2025-08-13-model-context-protocol-mcp-support-for-jetbrains-eclipse-and-xcode-is-now-generally-available)
+- [Red-teaming a RAG app with the Azure AI Evaluation SDK](https://techcommunity.microsoft.com/t5/microsoft-developer-community/red-teaming-a-rag-app-with-the-azure-ai-evaluation-sdk/ba-p/4442682)
 <!-- AZUREINFOHUB:END -->
 
 
