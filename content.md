@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Send signals from Micronaut applications to Azure Monitor through zero-code instrumentation](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/send-signals-from-micronaut-applications-to-azure-monitor/ba-p/4443884)
+- [🔴 VS Code Live - Telerik &amp; KendoUI AI Coding Assistants - Contextual AI in VS Code](https://www.youtube.com/watch?v=fAYMJpB8GYQ)
+- [Building Confident Application Systems with .NET Aspire: From Dev to Deployment](https://www.youtube.com/watch?v=S022Q6oAftE)
 - [How Visual Studio is AWESOME for WinForms, WPF, .NET MAUI and All Your Favorite Frameworks](https://www.youtube.com/watch?v=noIjGyfIoi0)
 - [Fuel Your Fixes: Visual Studio Debugging, Powered by Copilot](https://www.youtube.com/watch?v=BF4ZPk391xs)
-- [Measure Twice, Optimize Once: Real-World .NET Profiling with Visual Studio](https://www.youtube.com/watch?v=zhXhUMkrJDQ)
-- [Model Context Protocol &lpar;MCP&rpar; support for JetBrains, Eclipse, and Xcode is now generally available](https://github.blog/changelog/2025-08-13-model-context-protocol-mcp-support-for-jetbrains-eclipse-and-xcode-is-now-generally-available)
-- [Red-teaming a RAG app with the Azure AI Evaluation SDK](https://techcommunity.microsoft.com/t5/microsoft-developer-community/red-teaming-a-rag-app-with-the-azure-ai-evaluation-sdk/ba-p/4442682)
 <!-- AZUREINFOHUB:END -->
 
 
