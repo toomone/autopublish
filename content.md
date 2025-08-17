@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Supercharge Your App Service Apps with AI Foundry Agents Connected to MCP servers](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/supercharge-your-app-service-apps-with-ai-foundry-agents/ba-p/4444310)
+- [Deprecating Copilot text completion for pull request descriptions](https://github.blog/changelog/2025-08-15-deprecating-copilot-text-completion-for-pull-request-descriptions)
+- [AI Agent&#39;s Toolbox - Semantic Kernel meets MCP and Python](https://www.youtube.com/watch?v=jKViNM42u9M)
+- [AI Agent&#39;s Toolbox - Semantic Kernel meets MCP and Python](https://www.youtube.com/watch?v=yDy6Y4h-RxI)
 - [Send signals from Micronaut applications to Azure Monitor through zero-code instrumentation](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/send-signals-from-micronaut-applications-to-azure-monitor/ba-p/4443884)
-- [🔴 VS Code Live - Telerik &amp; KendoUI AI Coding Assistants - Contextual AI in VS Code](https://www.youtube.com/watch?v=fAYMJpB8GYQ)
-- [Building Confident Application Systems with .NET Aspire: From Dev to Deployment](https://www.youtube.com/watch?v=S022Q6oAftE)
-- [How Visual Studio is AWESOME for WinForms, WPF, .NET MAUI and All Your Favorite Frameworks](https://www.youtube.com/watch?v=noIjGyfIoi0)
-- [Fuel Your Fixes: Visual Studio Debugging, Powered by Copilot](https://www.youtube.com/watch?v=BF4ZPk391xs)
 <!-- AZUREINFOHUB:END -->
 
 
