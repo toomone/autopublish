@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Visual Studio for Visual Studio Code Users](https://www.youtube.com/watch?v=6S4G4h295GU)
+- [Micah Martin: Clean Coders - Episode 363](http://feed.azuredevops.show/micah-martin-clean-coders-episode-363)
+- [AI Genius 2.0 Ep. 1 | Build Smarter, Ship Faster - with GitHub Copilot Agent Mode](https://www.youtube.com/watch?v=FUHFMIAbzzE)
 - [Supercharge Your App Service Apps with AI Foundry Agents Connected to MCP servers](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/supercharge-your-app-service-apps-with-ai-foundry-agents/ba-p/4444310)
 - [Deprecating Copilot text completion for pull request descriptions](https://github.blog/changelog/2025-08-15-deprecating-copilot-text-completion-for-pull-request-descriptions)
-- [AI Agent&#39;s Toolbox - Semantic Kernel meets MCP and Python](https://www.youtube.com/watch?v=jKViNM42u9M)
-- [AI Agent&#39;s Toolbox - Semantic Kernel meets MCP and Python](https://www.youtube.com/watch?v=yDy6Y4h-RxI)
-- [Send signals from Micronaut applications to Azure Monitor through zero-code instrumentation](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/send-signals-from-micronaut-applications-to-azure-monitor/ba-p/4443884)
 <!-- AZUREINFOHUB:END -->
 
 
