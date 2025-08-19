@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Agents panel: Launch Copilot coding agent tasks anywhere on github.com](https://github.blog/changelog/2025-08-19-agents-panel-launch-copilot-coding-agent-tasks-anywhere-on-github-com)
+- [Generating Classes with Custom Naming Conventions Using GitHub Copilot and a Custom MCP Server](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/generating-classes-with-custom-naming-conventions-using-github/ba-p/4444837)
 - [Visual Studio for Visual Studio Code Users](https://www.youtube.com/watch?v=6S4G4h295GU)
+- [Hello GPT-5 &amp; GPT-5 mini | VS Code Insiders Podcast ep. 1](https://www.youtube.com/watch?v=6CjwS4V2AkU)
 - [Micah Martin: Clean Coders - Episode 363](http://feed.azuredevops.show/micah-martin-clean-coders-episode-363)
-- [AI Genius 2.0 Ep. 1 | Build Smarter, Ship Faster - with GitHub Copilot Agent Mode](https://www.youtube.com/watch?v=FUHFMIAbzzE)
-- [Supercharge Your App Service Apps with AI Foundry Agents Connected to MCP servers](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/supercharge-your-app-service-apps-with-ai-foundry-agents/ba-p/4444310)
-- [Deprecating Copilot text completion for pull request descriptions](https://github.blog/changelog/2025-08-15-deprecating-copilot-text-completion-for-pull-request-descriptions)
 <!-- AZUREINFOHUB:END -->
 
 
