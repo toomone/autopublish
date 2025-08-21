@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Copilot generated commit messages on github.com is in public preview](https://github.blog/changelog/2025-08-21-copilot-generated-commit-messages-on-github-com-is-in-public-preview)
+- [Sunset notice: Copilot knowledge bases](https://github.blog/changelog/2025-08-20-sunset-notice-copilot-knowledge-bases)
+- [Gemini 2.5 Pro is generally available in Copilot](https://github.blog/changelog/2025-08-19-gemini-2-5-pro-is-generally-available-in-copilot)
+- [Creating Azure Resource Manager &lpar;ARM&rpar; Templates using VS Code and GitHub Copilot](https://www.youtube.com/watch?v=UCmYEIsJ4PM)
 - [Agents panel: Launch Copilot coding agent tasks anywhere on github.com](https://github.blog/changelog/2025-08-19-agents-panel-launch-copilot-coding-agent-tasks-anywhere-on-github-com)
-- [Generating Classes with Custom Naming Conventions Using GitHub Copilot and a Custom MCP Server](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/generating-classes-with-custom-naming-conventions-using-github/ba-p/4444837)
-- [Visual Studio for Visual Studio Code Users](https://www.youtube.com/watch?v=6S4G4h295GU)
-- [Hello GPT-5 &amp; GPT-5 mini | VS Code Insiders Podcast ep. 1](https://www.youtube.com/watch?v=6CjwS4V2AkU)
-- [Micah Martin: Clean Coders - Episode 363](http://feed.azuredevops.show/micah-martin-clean-coders-episode-363)
 <!-- AZUREINFOHUB:END -->
 
 
