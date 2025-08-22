@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Copilot generated commit messages on github.com is in public preview](https://github.blog/changelog/2025-08-21-copilot-generated-commit-messages-on-github-com-is-in-public-preview)
-- [Sunset notice: Copilot knowledge bases](https://github.blog/changelog/2025-08-20-sunset-notice-copilot-knowledge-bases)
-- [Gemini 2.5 Pro is generally available in Copilot](https://github.blog/changelog/2025-08-19-gemini-2-5-pro-is-generally-available-in-copilot)
-- [Creating Azure Resource Manager &lpar;ARM&rpar; Templates using VS Code and GitHub Copilot](https://www.youtube.com/watch?v=UCmYEIsJ4PM)
-- [Agents panel: Launch Copilot coding agent tasks anywhere on github.com](https://github.blog/changelog/2025-08-19-agents-panel-launch-copilot-coding-agent-tasks-anywhere-on-github-com)
+- [Premium request overage policy is generally available for Copilot Business and Enterprise](https://github.blog/changelog/2025-08-22-premium-request-overage-policy-is-generally-available-for-copilot-business-and-enterprise)
+- [🔴 VS Code Live - Vibe-hack VS Code with Joyride and Copilot](https://www.youtube.com/watch?v=Nt1p6yreAUU)
+- [What&#39;s new with .NET Aspire?](https://www.youtube.com/watch?v=FseIFFXGbvw)
+- [What&#39;s new with .NET Aspire?](https://www.youtube.com/watch?v=oLF1Z8DcqaA)
+- [Securing the Vibe Coding Era with GitHub and Endor Labs](https://www.youtube.com/watch?v=-AJnsmYODIk)
 <!-- AZUREINFOHUB:END -->
 
 
