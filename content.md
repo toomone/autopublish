@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Premium request overage policy is generally available for Copilot Business and Enterprise](https://github.blog/changelog/2025-08-22-premium-request-overage-policy-is-generally-available-for-copilot-business-and-enterprise)
-- [🔴 VS Code Live - Vibe-hack VS Code with Joyride and Copilot](https://www.youtube.com/watch?v=Nt1p6yreAUU)
-- [What&#39;s new with .NET Aspire?](https://www.youtube.com/watch?v=FseIFFXGbvw)
-- [What&#39;s new with .NET Aspire?](https://www.youtube.com/watch?v=oLF1Z8DcqaA)
-- [Securing the Vibe Coding Era with GitHub and Endor Labs](https://www.youtube.com/watch?v=-AJnsmYODIk)
+- [Jonathan Peppers: GitHub Copilot for Maui Applications - Episode 364](http://feed.azuredevops.show/jonathan-peppers-github-copilot-for-maui-applications-episode-364)
+- [Jonathan Peppers: GitHub Copilot for Maui Applications - Episode 364](http://feed.azuredevops.show/jonathan-peppers-github-copilot-for-maui-applications-episode-364)
+- [Iteration Plan for August &amp; Re-writing Terminal Tools | VS Code Insiders Podcast ep. 2](https://www.youtube.com/watch?v=UB6QNYKStVI)
+- [Bring Your Own Remote TypeScript MCP Server to Azure Functions](https://www.youtube.com/watch?v=gLKP41efvo0)
+- [Bring Your Own Remote Python MCP Server to Azure Functions](https://www.youtube.com/watch?v=PAxBlQ9mFv8)
 <!-- AZUREINFOHUB:END -->
 
 
