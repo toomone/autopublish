@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Jonathan Peppers: GitHub Copilot for Maui Applications - Episode 364](http://feed.azuredevops.show/jonathan-peppers-github-copilot-for-maui-applications-episode-364)
-- [Jonathan Peppers: GitHub Copilot for Maui Applications - Episode 364](http://feed.azuredevops.show/jonathan-peppers-github-copilot-for-maui-applications-episode-364)
-- [Iteration Plan for August &amp; Re-writing Terminal Tools | VS Code Insiders Podcast ep. 2](https://www.youtube.com/watch?v=UB6QNYKStVI)
-- [Bring Your Own Remote TypeScript MCP Server to Azure Functions](https://www.youtube.com/watch?v=gLKP41efvo0)
-- [Bring Your Own Remote Python MCP Server to Azure Functions](https://www.youtube.com/watch?v=PAxBlQ9mFv8)
+- [Copilot code review: Generally available in Xcode and new admin control](https://github.blog/changelog/2025-08-27-copilot-code-review-generally-available-in-xcode-and-new-admin-control)
+- [Copilot code completion now uses the GPT-4.1 Copilot model](https://github.blog/changelog/2025-08-27-copilot-code-completion-now-uses-the-gpt-4-1-copilot-model)
+- [Building Scalable LLM Evaluation Pipelines with Azure Cosmos DB](https://www.youtube.com/watch?v=tg3uhCO6Frw)
+- [Copilot coding agent is now available in GitHub Enterprise Cloud with data residency](https://github.blog/changelog/2025-08-27-copilot-coding-agent-is-now-available-in-github-enterprise-cloud-with-data-residency)
+- [Grok Code Fast 1 is rolling out in public preview for GitHub Copilot](https://github.blog/changelog/2025-08-26-grok-code-fast-1-is-rolling-out-in-public-preview-for-github-copilot)
 <!-- AZUREINFOHUB:END -->
 
 
