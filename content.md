@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Copilot code review: Generally available in Xcode and new admin control](https://github.blog/changelog/2025-08-27-copilot-code-review-generally-available-in-xcode-and-new-admin-control)
-- [Copilot code completion now uses the GPT-4.1 Copilot model](https://github.blog/changelog/2025-08-27-copilot-code-completion-now-uses-the-gpt-4-1-copilot-model)
-- [Building Scalable LLM Evaluation Pipelines with Azure Cosmos DB](https://www.youtube.com/watch?v=tg3uhCO6Frw)
-- [Copilot coding agent is now available in GitHub Enterprise Cloud with data residency](https://github.blog/changelog/2025-08-27-copilot-coding-agent-is-now-available-in-github-enterprise-cloud-with-data-residency)
-- [Grok Code Fast 1 is rolling out in public preview for GitHub Copilot](https://github.blog/changelog/2025-08-26-grok-code-fast-1-is-rolling-out-in-public-preview-for-github-copilot)
+- [Copilot coding agent now supports AGENTS.md custom instructions](https://github.blog/changelog/2025-08-28-copilot-coding-agent-now-supports-agents-md-custom-instructions)
+- [Start and track Copilot coding agent tasks from Raycast](https://github.blog/changelog/2025-08-28-start-and-track-copilot-coding-agent-tasks-from-raycast)
+- [OpenAI GPT-5 mini is now available in public preview in Visual Studio, JetBrains IDEs, Xcode, and Eclipse](https://github.blog/changelog/2025-08-28-openai-gpt-5-mini-is-now-available-in-public-preview-in-visual-studio-jetbrains-ides-xcode-and-eclipse)
+- [GitHub Copilot in Visual Studio — August update](https://github.blog/changelog/2025-08-28-github-copilot-in-visual-studio-august-update)
+- [Installing your own MCP Server in VS Code](https://www.youtube.com/watch?v=CBXivVw-SOQ)
 <!-- AZUREINFOHUB:END -->
 
 
