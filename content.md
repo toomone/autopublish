@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Copilot’s next edit suggestion &lpar;NES&rpar; in public preview in JetBrains](https://github.blog/changelog/2025-08-29-copilots-next-edit-suggestion-nes-in-public-preview-in-jetbrains)
+- [Performance analysis of DeepSeek R1 AI Inference using vLLM on ND-H100-v5](https://techcommunity.microsoft.com/t5/azure-high-performance-computing/performance-analysis-of-deepseek-r1-ai-inference-using-vllm-on/ba-p/4449351)
 - [Copilot coding agent now supports AGENTS.md custom instructions](https://github.blog/changelog/2025-08-28-copilot-coding-agent-now-supports-agents-md-custom-instructions)
 - [Start and track Copilot coding agent tasks from Raycast](https://github.blog/changelog/2025-08-28-start-and-track-copilot-coding-agent-tasks-from-raycast)
 - [OpenAI GPT-5 mini is now available in public preview in Visual Studio, JetBrains IDEs, Xcode, and Eclipse](https://github.blog/changelog/2025-08-28-openai-gpt-5-mini-is-now-available-in-public-preview-in-visual-studio-jetbrains-ides-xcode-and-eclipse)
-- [GitHub Copilot in Visual Studio — August update](https://github.blog/changelog/2025-08-28-github-copilot-in-visual-studio-august-update)
-- [Installing your own MCP Server in VS Code](https://www.youtube.com/watch?v=CBXivVw-SOQ)
 <!-- AZUREINFOHUB:END -->
 
 
