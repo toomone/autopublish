@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Copilot code review: Path-scoped custom instruction file support](https://github.blog/changelog/2025-09-03-copilot-code-review-path-scoped-custom-instruction-file-support)
+- [Agent-to-agent collaboration in Copilot Studio](https://www.youtube.com/watch?v=d-oD3pApHAg)
+- [Logic Apps Aviators Newsletter - September 25](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/logic-apps-aviators-newsletter-september-25/ba-p/4450195)
+- [Logic Apps Aviators Newsletter - September 25](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/logic-apps-aviators-newsletter-september-25/ba-p/4450195)
 - [Enterprise-Ready and Extensible: Update on the Azure SRE Agent Preview](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/enterprise-ready-and-extensible-update-on-the-azure-sre-agent/ba-p/4444299)
-- [Enterprise-Ready and Extensible: Update on the Azure SRE Agent Preview](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/enterprise-ready-and-extensible-update-on-the-azure-sre-agent/ba-p/4444299)
-- [Tony Cardella: .NET Testing using NCrunch](http://feed.azuredevops.show/tony-cardella-net-testing-using-ncrunch)
-- [Building a MCP to Build VS Code &amp; The Impact of AI on Kent C. Dodds](https://www.youtube.com/watch?v=E50EsAAd8qI)
-- [Copilot’s next edit suggestion &lpar;NES&rpar; in public preview in JetBrains](https://github.blog/changelog/2025-08-29-copilots-next-edit-suggestion-nes-in-public-preview-in-jetbrains)
 <!-- AZUREINFOHUB:END -->
 
 
