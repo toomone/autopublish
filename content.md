@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Copilot code review: Path-scoped custom instruction file support](https://github.blog/changelog/2025-09-03-copilot-code-review-path-scoped-custom-instruction-file-support)
-- [Agent-to-agent collaboration in Copilot Studio](https://www.youtube.com/watch?v=d-oD3pApHAg)
-- [Logic Apps Aviators Newsletter - September 25](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/logic-apps-aviators-newsletter-september-25/ba-p/4450195)
-- [Logic Apps Aviators Newsletter - September 25](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/logic-apps-aviators-newsletter-september-25/ba-p/4450195)
-- [Enterprise-Ready and Extensible: Update on the Azure SRE Agent Preview](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/enterprise-ready-and-extensible-update-on-the-azure-sre-agent/ba-p/4444299)
+- [Build Multi-Agent AI Systems on Azure App Service](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/build-multi-agent-ai-systems-on-azure-app-service/ba-p/4451373)
+- [Remote GitHub MCP Server is now generally available](https://github.blog/changelog/2025-09-04-remote-github-mcp-server-is-now-generally-available)
+- [New Test Run Hub in Azure Test Plans](https://devblogs.microsoft.com/devops/new-test-run-hub/)
+- [Build a smart shopping AI Agent with memory using the Azure AI Foundry Agent service](https://techcommunity.microsoft.com/t5/microsoft-developer-community/build-a-smart-shopping-ai-agent-with-memory-using-the-azure-ai/ba-p/4450348)
+- [Level Up Your Python Game with Generative AI Free Livestream Series This October!](https://techcommunity.microsoft.com/t5/microsoft-developer-community/level-up-your-python-game-with-generative-ai-free-livestream/ba-p/4450646)
 <!-- AZUREINFOHUB:END -->
 
 
