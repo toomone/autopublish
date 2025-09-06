@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [New Spark sharing option and improved local dev experience](https://github.blog/changelog/2025-09-05-new-spark-sharing-option-and-improved-local-dev-experience)
+- [From Issue to PR - Asynchronously develop with GitHub Copilot Coding Agent](https://www.youtube.com/watch?v=jq7Ls6T0LYM)
 - [Build Multi-Agent AI Systems on Azure App Service](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/build-multi-agent-ai-systems-on-azure-app-service/ba-p/4451373)
 - [Remote GitHub MCP Server is now generally available](https://github.blog/changelog/2025-09-04-remote-github-mcp-server-is-now-generally-available)
 - [New Test Run Hub in Azure Test Plans](https://devblogs.microsoft.com/devops/new-test-run-hub/)
-- [Build a smart shopping AI Agent with memory using the Azure AI Foundry Agent service](https://techcommunity.microsoft.com/t5/microsoft-developer-community/build-a-smart-shopping-ai-agent-with-memory-using-the-azure-ai/ba-p/4450348)
-- [Level Up Your Python Game with Generative AI Free Livestream Series This October!](https://techcommunity.microsoft.com/t5/microsoft-developer-community/level-up-your-python-game-with-generative-ai-free-livestream/ba-p/4450646)
 <!-- AZUREINFOHUB:END -->
 
 
