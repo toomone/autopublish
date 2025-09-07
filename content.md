@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [New features in GitHub Copilot in Eclipse](https://github.blog/changelog/2025-09-05-new-features-in-github-copilot-in-eclipse)
 - [New Spark sharing option and improved local dev experience](https://github.blog/changelog/2025-09-05-new-spark-sharing-option-and-improved-local-dev-experience)
 - [From Issue to PR - Asynchronously develop with GitHub Copilot Coding Agent](https://www.youtube.com/watch?v=jq7Ls6T0LYM)
 - [Build Multi-Agent AI Systems on Azure App Service](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/build-multi-agent-ai-systems-on-azure-app-service/ba-p/4451373)
 - [Remote GitHub MCP Server is now generally available](https://github.blog/changelog/2025-09-04-remote-github-mcp-server-is-now-generally-available)
-- [New Test Run Hub in Azure Test Plans](https://devblogs.microsoft.com/devops/new-test-run-hub/)
 <!-- AZUREINFOHUB:END -->
 
 
