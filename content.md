@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Work hard. Play hard - Scott Hanselman | The Developer&#39;s Journey Episode 5](https://www.youtube.com/watch?v=TneSegJ9kuI)
+- [AI for Developers in Eclipse just got better with GitHub Copilot #programming #coding #java #ai](https://www.youtube.com/watch?v=ZF8QK5r6bhA)
+- [Richard Hundhausen and Brad Frazer: Who Owns the Code? - Episode 366](http://feed.azuredevops.show/richard-hundhausen-and-brad-frazer-who-owns-the-code-episode-366)
+- [Language Model Chat Provider &lpar;aka BYOK&rpar; API with Logan Ramos | VS Code Insiders Podcast ep. 4](https://www.youtube.com/watch?v=9pMJdzHVaNE)
 - [New features in GitHub Copilot in Eclipse](https://github.blog/changelog/2025-09-05-new-features-in-github-copilot-in-eclipse)
-- [New Spark sharing option and improved local dev experience](https://github.blog/changelog/2025-09-05-new-spark-sharing-option-and-improved-local-dev-experience)
-- [From Issue to PR - Asynchronously develop with GitHub Copilot Coding Agent](https://www.youtube.com/watch?v=jq7Ls6T0LYM)
-- [Build Multi-Agent AI Systems on Azure App Service](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/build-multi-agent-ai-systems-on-azure-app-service/ba-p/4451373)
-- [Remote GitHub MCP Server is now generally available](https://github.blog/changelog/2025-09-04-remote-github-mcp-server-is-now-generally-available)
 <!-- AZUREINFOHUB:END -->
 
 
