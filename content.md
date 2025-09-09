@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [OpenAI GPT-5 and GPT-5 mini are now generally available in GitHub Copilot](https://github.blog/changelog/2025-09-09-openai-gpt-5-and-gpt-5-mini-are-now-generally-available-in-github-copilot)
 - [Work hard. Play hard - Scott Hanselman | The Developer&#39;s Journey Episode 5](https://www.youtube.com/watch?v=TneSegJ9kuI)
 - [AI for Developers in Eclipse just got better with GitHub Copilot #programming #coding #java #ai](https://www.youtube.com/watch?v=ZF8QK5r6bhA)
 - [Richard Hundhausen and Brad Frazer: Who Owns the Code? - Episode 366](http://feed.azuredevops.show/richard-hundhausen-and-brad-frazer-who-owns-the-code-episode-366)
 - [Language Model Chat Provider &lpar;aka BYOK&rpar; API with Logan Ramos | VS Code Insiders Podcast ep. 4](https://www.youtube.com/watch?v=9pMJdzHVaNE)
-- [New features in GitHub Copilot in Eclipse](https://github.blog/changelog/2025-09-05-new-features-in-github-copilot-in-eclipse)
 <!-- AZUREINFOHUB:END -->
 
 
