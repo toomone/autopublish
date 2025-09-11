@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Use MCP tools in Github Copilot on Visual Studio](https://www.youtube.com/watch?v=Qp4KY1_vJnU)
 - [Copilot code review: Independent repository rule for automatic reviews](https://github.blog/changelog/2025-09-10-copilot-code-review-independent-repository-rule-for-automatic-reviews)
 - [Introduction to Prompt-Driven Development](https://www.youtube.com/watch?v=fzYN_kgl-OM)
 - [OpenAI GPT-5 and GPT-5 mini are now generally available in GitHub Copilot](https://github.blog/changelog/2025-09-09-openai-gpt-5-and-gpt-5-mini-are-now-generally-available-in-github-copilot)
 - [Work hard. Play hard - Scott Hanselman | The Developer&#39;s Journey Episode 5](https://www.youtube.com/watch?v=TneSegJ9kuI)
-- [AI for Developers in Eclipse just got better with GitHub Copilot #programming #coding #java #ai](https://www.youtube.com/watch?v=ZF8QK5r6bhA)
 <!-- AZUREINFOHUB:END -->
 
 
