@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [GitHub Copilot in VS Code August release &lpar;v1.104&rpar;](https://github.blog/changelog/2025-09-12-github-copilot-in-vs-code-august-release-v1-104)
+- [Internal MCP registry and allowlist controls for VS Code Insiders](https://github.blog/changelog/2025-09-12-internal-mcp-registry-and-allowlist-controls-for-vs-code-insiders)
+- [The Latest VS Code Release: Here&#39;s what you need to know](https://www.youtube.com/watch?v=9qAkd2mGYCo)
+- [Bring Your Own Key &lpar;BYOK&rpar; support for JetBrains IDEs and Xcode in public preview](https://github.blog/changelog/2025-09-11-bring-your-own-key-byok-support-for-jetbrains-ides-and-xcode-in-public-preview)
 - [Use MCP tools in Github Copilot on Visual Studio](https://www.youtube.com/watch?v=Qp4KY1_vJnU)
-- [Copilot code review: Independent repository rule for automatic reviews](https://github.blog/changelog/2025-09-10-copilot-code-review-independent-repository-rule-for-automatic-reviews)
-- [Introduction to Prompt-Driven Development](https://www.youtube.com/watch?v=fzYN_kgl-OM)
-- [OpenAI GPT-5 and GPT-5 mini are now generally available in GitHub Copilot](https://github.blog/changelog/2025-09-09-openai-gpt-5-and-gpt-5-mini-are-now-generally-available-in-github-copilot)
-- [Work hard. Play hard - Scott Hanselman | The Developer&#39;s Journey Episode 5](https://www.youtube.com/watch?v=TneSegJ9kuI)
 <!-- AZUREINFOHUB:END -->
 
 
