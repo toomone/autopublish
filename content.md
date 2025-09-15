@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [GitHub Copilot in VS Code August release &lpar;v1.104&rpar;](https://github.blog/changelog/2025-09-12-github-copilot-in-vs-code-august-release-v1-104)
-- [Internal MCP registry and allowlist controls for VS Code Insiders](https://github.blog/changelog/2025-09-12-internal-mcp-registry-and-allowlist-controls-for-vs-code-insiders)
-- [The Latest VS Code Release: Here&#39;s what you need to know](https://www.youtube.com/watch?v=9qAkd2mGYCo)
-- [Bring Your Own Key &lpar;BYOK&rpar; support for JetBrains IDEs and Xcode in public preview](https://github.blog/changelog/2025-09-11-bring-your-own-key-byok-support-for-jetbrains-ides-and-xcode-in-public-preview)
-- [Use MCP tools in Github Copilot on Visual Studio](https://www.youtube.com/watch?v=Qp4KY1_vJnU)
+- [Refactor an Existing Codebase using Prompt Driven Development](https://www.youtube.com/watch?v=1EBXoFZO6Kk)
+- [Unlocking Application Modernisation with GitHub Copilot](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/unlocking-application-modernisation-with-github-copilot/ba-p/4454121)
+- [Auto model selection for Copilot in VS Code in public preview](https://github.blog/changelog/2025-09-14-auto-model-selection-for-copilot-in-vs-code-in-public-preview)
+- [Mads Kristensen: Visual Studio 2026 - Episode 367](http://feed.azuredevops.show/mads-kristensen-visual-studio-2026-episode-367)
+- [Life of a VS Code SWE Intern with Christy Nguyen | VS Code Insiders Podcast ep. 5](https://www.youtube.com/watch?v=tpClCNcCgwQ)
 <!-- AZUREINFOHUB:END -->
 
 
