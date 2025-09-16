@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Azure Boards integration with GitHub Copilot (Private Preview)](https://devblogs.microsoft.com/devops/azure-boards-integration-with-github-copilot-private-preview/)
 - [New Test Run Hub in Azure Test Plans](https://devblogs.microsoft.com/devops/new-test-run-hub/)
 - [Azure Developer CLI: From Dev to Prod with Azure DevOps Pipelines](https://devblogs.microsoft.com/devops/azure-developer-cli-from-dev-to-prod-with-azure-devops-pipelines/)
 - [Azure DevOps OAuth Client Secrets Now Shown Only Once](https://devblogs.microsoft.com/devops/azure-devops-oauth-client-secrets-now-shown-only-once/)
 - [Hunting Living Secrets: Secret Validity Checks Arrive in GitHub Advanced Security for Azure DevOps](https://devblogs.microsoft.com/devops/hunting-living-secrets-secret-validity-checks-arrive-in-github-advanced-security-for-azure-devops/)
-- [Real-Time Security with Continuous Access Evaluation (CAE) comes to Azure DevOps](https://devblogs.microsoft.com/devops/real-time-security-with-continuous-access-evaluation-cae-comes-to-azure-devops/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
