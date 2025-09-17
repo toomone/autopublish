@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Refactor an Existing Codebase using Prompt Driven Development](https://www.youtube.com/watch?v=1EBXoFZO6Kk)
-- [Unlocking Application Modernisation with GitHub Copilot](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/unlocking-application-modernisation-with-github-copilot/ba-p/4454121)
-- [Auto model selection for Copilot in VS Code in public preview](https://github.blog/changelog/2025-09-14-auto-model-selection-for-copilot-in-vs-code-in-public-preview)
-- [Mads Kristensen: Visual Studio 2026 - Episode 367](http://feed.azuredevops.show/mads-kristensen-visual-studio-2026-episode-367)
-- [Life of a VS Code SWE Intern with Christy Nguyen | VS Code Insiders Podcast ep. 5](https://www.youtube.com/watch?v=tpClCNcCgwQ)
+- [AI-Powered Migration &amp; Modernization—Secure, Resilient, and Ready for Innovation](https://techcommunity.microsoft.com/t5/azure-architecture-blog/ai-powered-migration-modernization-secure-resilient-and-ready/ba-p/4454849)
+- [Fix a Chat App with Copilot Chat](https://www.youtube.com/watch?v=QLAIww-Vhqo)
+- [Practical ways to use AI in your Data Science and ML journey](https://techcommunity.microsoft.com/t5/microsoft-developer-community/practical-ways-to-use-ai-in-your-data-science-and-ml-journey/ba-p/4454764)
+- [The new MCP registry experience in VS Code!](https://www.youtube.com/watch?v=K4Vz-Wih-40)
+- [Anthropic Claude Opus 4.1 is now available in public preview in Visual Studio, JetBrains IDEs, Xcode, and Eclipse](https://github.blog/changelog/2025-09-16-anthropic-claude-opus-4-1-is-now-available-in-public-preview-in-visual-studio-jetbrains-xcode-and-eclipse)
 <!-- AZUREINFOHUB:END -->
 
 
