@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [AI-Powered Migration &amp; Modernization—Secure, Resilient, and Ready for Innovation](https://techcommunity.microsoft.com/t5/azure-architecture-blog/ai-powered-migration-modernization-secure-resilient-and-ready/ba-p/4454849)
-- [Fix a Chat App with Copilot Chat](https://www.youtube.com/watch?v=QLAIww-Vhqo)
-- [Practical ways to use AI in your Data Science and ML journey](https://techcommunity.microsoft.com/t5/microsoft-developer-community/practical-ways-to-use-ai-in-your-data-science-and-ml-journey/ba-p/4454764)
-- [The new MCP registry experience in VS Code!](https://www.youtube.com/watch?v=K4Vz-Wih-40)
-- [Anthropic Claude Opus 4.1 is now available in public preview in Visual Studio, JetBrains IDEs, Xcode, and Eclipse](https://github.blog/changelog/2025-09-16-anthropic-claude-opus-4-1-is-now-available-in-public-preview-in-visual-studio-jetbrains-xcode-and-eclipse)
+- [Assign Azure Boards work items to Copilot coding agent in public preview](https://github.blog/changelog/2025-09-18-assign-azure-boards-work-items-to-copilot-coding-agent-in-public-preview)
+- [Copilot code review: Now in JetBrains IDEs and Visual Studio](https://github.blog/changelog/2025-09-18-copilot-code-review-now-in-jetbrains-ides-and-visual-studio)
+- [Microsoft AI Genius S2 | Ep. 3 - Supercharge Your DevOps with Copilot in Azure &amp; GitHub](https://www.youtube.com/watch?v=Zhmw1d-gj8w)
+- [Build Smarter Agents with Azure AI Search](https://www.youtube.com/watch?v=uU0Fyde1yFo)
+- [Share read-only Sparks with controlled data access](https://github.blog/changelog/2025-09-17-share-read-only-sparks-with-controlled-data-access)
 <!-- AZUREINFOHUB:END -->
 
 
