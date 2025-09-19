@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Disciplined Guardrail Development in enterprise application with GitHub Copilot](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/disciplined-guardrail-development-in-enterprise-application-with/ba-p/4455321)
+- [AI Show: On Demand | Unlock the Power of Small Language Models](https://www.youtube.com/watch?v=JduGerpQ-D0)
+- [Work with Copilot coding agent in Microsoft Teams](https://github.blog/changelog/2025-09-19-work-with-copilot-coding-agent-in-microsoft-teams)
+- [Use Azure AI Foundry Models with GitHub Copilot](https://www.youtube.com/watch?v=k8TjuskSeEw)
 - [Assign Azure Boards work items to Copilot coding agent in public preview](https://github.blog/changelog/2025-09-18-assign-azure-boards-work-items-to-copilot-coding-agent-in-public-preview)
-- [Copilot code review: Now in JetBrains IDEs and Visual Studio](https://github.blog/changelog/2025-09-18-copilot-code-review-now-in-jetbrains-ides-and-visual-studio)
-- [Microsoft AI Genius S2 | Ep. 3 - Supercharge Your DevOps with Copilot in Azure &amp; GitHub](https://www.youtube.com/watch?v=Zhmw1d-gj8w)
-- [Build Smarter Agents with Azure AI Search](https://www.youtube.com/watch?v=uU0Fyde1yFo)
-- [Share read-only Sparks with controlled data access](https://github.blog/changelog/2025-09-17-share-read-only-sparks-with-controlled-data-access)
 <!-- AZUREINFOHUB:END -->
 
 
