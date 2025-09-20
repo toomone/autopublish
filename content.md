@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [🔴 VS Code Dev Days: Worldwide Virtual Edition](https://www.youtube.com/watch?v=ujSgVqC94TQ)
 - [Disciplined Guardrail Development in enterprise application with GitHub Copilot](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/disciplined-guardrail-development-in-enterprise-application-with/ba-p/4455321)
+- [Automating GitHub Repo Maintenance with AI Agents](https://www.youtube.com/watch?v=DqzG-XNjV3M)
 - [AI Show: On Demand | Unlock the Power of Small Language Models](https://www.youtube.com/watch?v=JduGerpQ-D0)
 - [Work with Copilot coding agent in Microsoft Teams](https://github.blog/changelog/2025-09-19-work-with-copilot-coding-agent-in-microsoft-teams)
-- [Use Azure AI Foundry Models with GitHub Copilot](https://www.youtube.com/watch?v=k8TjuskSeEw)
-- [Assign Azure Boards work items to Copilot coding agent in public preview](https://github.blog/changelog/2025-09-18-assign-azure-boards-work-items-to-copilot-coding-agent-in-public-preview)
 <!-- AZUREINFOHUB:END -->
 
 
