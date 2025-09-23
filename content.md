@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [John Bristowe: The Latest from Octopus Deploy - Episode 368](http://feed.azuredevops.show/john-bristowe-the-latest-from-octopus-deploy-episode-368)
-- [The Future of Coding Agents in VS Code | VS Code Insiders Podcast ep. 6](https://www.youtube.com/watch?v=hPKDV5N99GU)
-- [🔴 VS Code Dev Days: Worldwide Virtual Edition](https://www.youtube.com/watch?v=ujSgVqC94TQ)
-- [Disciplined Guardrail Development in enterprise application with GitHub Copilot](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/disciplined-guardrail-development-in-enterprise-application-with/ba-p/4455321)
-- [Automating GitHub Repo Maintenance with AI Agents](https://www.youtube.com/watch?v=DqzG-XNjV3M)
+- [NASA Space Apps Hackathon Tips and Tricks](https://www.youtube.com/watch?v=VfEksBT0JBw)
+- [Generate Perfect Documentation with GitHub Copilot](https://www.youtube.com/watch?v=wjdVEjMiHIY)
+- [Modernize your apps in days, not months, with GitHub Copilot](https://www.youtube.com/watch?v=Olt5getqPoo)
+- [GitHub Copilot app modernization is now generally available for Java and .NET](https://github.blog/changelog/2025-09-22-github-copilot-app-modernization-is-now-generally-available-for-java-and-net)
+- [Use Copilot and MCP to query Microsoft Learn Docs](https://techcommunity.microsoft.com/t5/microsoft-developer-community/use-copilot-and-mcp-to-query-microsoft-learn-docs/ba-p/4455835)
 <!-- AZUREINFOHUB:END -->
 
 
