@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [NASA Space Apps Hackathon Tips and Tricks](https://www.youtube.com/watch?v=VfEksBT0JBw)
-- [Generate Perfect Documentation with GitHub Copilot](https://www.youtube.com/watch?v=wjdVEjMiHIY)
-- [Modernize your apps in days, not months, with GitHub Copilot](https://www.youtube.com/watch?v=Olt5getqPoo)
-- [GitHub Copilot app modernization is now generally available for Java and .NET](https://github.blog/changelog/2025-09-22-github-copilot-app-modernization-is-now-generally-available-for-java-and-net)
-- [Use Copilot and MCP to query Microsoft Learn Docs](https://techcommunity.microsoft.com/t5/microsoft-developer-community/use-copilot-and-mcp-to-query-microsoft-learn-docs/ba-p/4455835)
+- [Copilot Spaces is now generally available](https://github.blog/changelog/2025-09-24-copilot-spaces-is-now-generally-available)
+- [Start and track Copilot coding agent tasks in GitHub Mobile](https://github.blog/changelog/2025-09-24-start-and-track-copilot-coding-agent-tasks-in-github-mobile)
+- [Spark updates: automatic error fixes, faster publishing, and reliability improvements](https://github.blog/changelog/2025-09-24-progressive-error-handling-speedier-publishing-and-reliability-fixes)
+- [Sunset notice: GitHub App-based Copilot Extensions](https://github.blog/changelog/2025-09-24-deprecate-github-copilot-extensions-github-apps)
+- [Pick the repository and base branch when assigning issues to Copilot](https://github.blog/changelog/2025-09-23-pick-the-repository-and-base-branch-when-assigning-issues-to-copilot)
 <!-- AZUREINFOHUB:END -->
 
 
