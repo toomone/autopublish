@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Copilot Spaces is now generally available](https://github.blog/changelog/2025-09-24-copilot-spaces-is-now-generally-available)
-- [Start and track Copilot coding agent tasks in GitHub Mobile](https://github.blog/changelog/2025-09-24-start-and-track-copilot-coding-agent-tasks-in-github-mobile)
-- [Spark updates: automatic error fixes, faster publishing, and reliability improvements](https://github.blog/changelog/2025-09-24-progressive-error-handling-speedier-publishing-and-reliability-fixes)
-- [Sunset notice: GitHub App-based Copilot Extensions](https://github.blog/changelog/2025-09-24-deprecate-github-copilot-extensions-github-apps)
-- [Pick the repository and base branch when assigning issues to Copilot](https://github.blog/changelog/2025-09-23-pick-the-repository-and-base-branch-when-assigning-issues-to-copilot)
+- [Upcoming deprecation of gh-copilot CLI extension](https://github.blog/changelog/2025-09-25-upcoming-deprecation-of-gh-copilot-cli-extension)
+- [GitHub Copilot CLI is now in public preview](https://github.blog/changelog/2025-09-25-github-copilot-cli-is-now-in-public-preview)
+- [Access Governance Blueprint for AI Landing Zone](https://techcommunity.microsoft.com/t5/azure-architecture-blog/access-governance-blueprint-for-ai-landing-zone/ba-p/4455910)
+- [Copilot coding agent is now generally available](https://github.blog/changelog/2025-09-25-copilot-coding-agent-is-now-generally-available)
+- [Simplify Image Signing and Verification with Notary Project and Trusted Signing &lpar;Public Preview&rpar;](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/simplify-image-signing-and-verification-with-notary-project-and/ba-p/4455292)
 <!-- AZUREINFOHUB:END -->
 
 
