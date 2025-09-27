@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [🔴 VS Code Live - Quickly Modernize and Deploy your Java Application with AI](https://www.youtube.com/watch?v=A_Uf_4jO43k)
 - [Kick off and track Copilot coding agent sessions from the GitHub CLI](https://github.blog/changelog/2025-09-25-kick-off-and-track-copilot-coding-agent-sessions-from-the-github-cli)
 - [Copilot can create issues with code snippets in public preview](https://github.blog/changelog/2025-09-25-copilot-can-create-issues-with-code-snippets-in-public-preview)
 - [Upcoming deprecation of gh-copilot CLI extension](https://github.blog/changelog/2025-09-25-upcoming-deprecation-of-gh-copilot-cli-extension)
 - [GitHub Copilot CLI is now in public preview](https://github.blog/changelog/2025-09-25-github-copilot-cli-is-now-in-public-preview)
-- [Access Governance Blueprint for AI Landing Zone](https://techcommunity.microsoft.com/t5/azure-architecture-blog/access-governance-blueprint-for-ai-landing-zone/ba-p/4455910)
 <!-- AZUREINFOHUB:END -->
 
 
