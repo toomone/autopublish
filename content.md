@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Anthropic Claude Sonnet 4.5 is in public preview for GitHub Copilot](https://github.blog/changelog/2025-09-29-anthropic-claude-sonnet-4-5-is-in-public-preview-for-github-copilot)
+- [Greg Leonardo: Azure and AI - Episode 369](http://feed.azuredevops.show/greg-leonardo-azure-and-ai-episode-369)
+- [The Origins &amp; Evolution of the GitHub MCP Registry with Toby Padilla](https://www.youtube.com/watch?v=rafl28faFec)
+- [Microsoft AI Genius 시리즈  | 더 스마트하게, 더 빠르게 개발하세요 — GitHub Copilot Agent Mode와 함께!](https://www.youtube.com/watch?v=H-tOXQm3TEY)
 - [🔴 VS Code Live - Quickly Modernize and Deploy your Java Application with AI](https://www.youtube.com/watch?v=A_Uf_4jO43k)
-- [Kick off and track Copilot coding agent sessions from the GitHub CLI](https://github.blog/changelog/2025-09-25-kick-off-and-track-copilot-coding-agent-sessions-from-the-github-cli)
-- [Copilot can create issues with code snippets in public preview](https://github.blog/changelog/2025-09-25-copilot-can-create-issues-with-code-snippets-in-public-preview)
-- [Upcoming deprecation of gh-copilot CLI extension](https://github.blog/changelog/2025-09-25-upcoming-deprecation-of-gh-copilot-cli-extension)
-- [GitHub Copilot CLI is now in public preview](https://github.blog/changelog/2025-09-25-github-copilot-cli-is-now-in-public-preview)
 <!-- AZUREINFOHUB:END -->
 
 
