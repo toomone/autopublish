@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Anthropic Claude Sonnet 4.5 is in public preview for GitHub Copilot](https://github.blog/changelog/2025-09-29-anthropic-claude-sonnet-4-5-is-in-public-preview-for-github-copilot)
-- [Greg Leonardo: Azure and AI - Episode 369](http://feed.azuredevops.show/greg-leonardo-azure-and-ai-episode-369)
-- [The Origins &amp; Evolution of the GitHub MCP Registry with Toby Padilla](https://www.youtube.com/watch?v=rafl28faFec)
-- [Microsoft AI Genius 시리즈  | 더 스마트하게, 더 빠르게 개발하세요 — GitHub Copilot Agent Mode와 함께!](https://www.youtube.com/watch?v=H-tOXQm3TEY)
-- [🔴 VS Code Live - Quickly Modernize and Deploy your Java Application with AI](https://www.youtube.com/watch?v=A_Uf_4jO43k)
+- [Premium requests analytics page is now generally available](https://github.blog/changelog/2025-09-30-premium-requests-analytics-page-is-now-generally-available)
+- [GitHub Copilot in Visual Studio — September update](https://github.blog/changelog/2025-09-30-github-copilot-in-visual-studio-september-update)
+- [Copilot coding agent remembers context within the same pull request](https://github.blog/changelog/2025-09-30-copilot-coding-agent-remembers-context-within-the-same-pull-request)
+- [GitHub Spark in public preview for Copilot Enterprise subscribers](https://github.blog/changelog/2025-09-30-github-spark-in-public-preview-for-copilot-enterprise-subscribers)
+- [Learn how to choose the correct model when using GitHub Copilot in Visual Studio](https://www.youtube.com/watch?v=zXsibXCTeaU)
 <!-- AZUREINFOHUB:END -->
 
 
