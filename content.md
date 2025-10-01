@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Premium requests analytics page is now generally available](https://github.blog/changelog/2025-09-30-premium-requests-analytics-page-is-now-generally-available)
-- [GitHub Copilot in Visual Studio — September update](https://github.blog/changelog/2025-09-30-github-copilot-in-visual-studio-september-update)
-- [Copilot coding agent remembers context within the same pull request](https://github.blog/changelog/2025-09-30-copilot-coding-agent-remembers-context-within-the-same-pull-request)
-- [GitHub Spark in public preview for Copilot Enterprise subscribers](https://github.blog/changelog/2025-09-30-github-spark-in-public-preview-for-copilot-enterprise-subscribers)
-- [Learn how to choose the correct model when using GitHub Copilot in Visual Studio](https://www.youtube.com/watch?v=zXsibXCTeaU)
+- [Spark: 🚀 Expanded access, enhanced reliability, and faster iteration history](https://github.blog/changelog/2025-10-01-spark-%F0%9F%9A%80-expanded-access-enhanced-reliability-and-faster-iteration-history)
+- [Introducing the Microsoft Agent Framework](https://techcommunity.microsoft.com/t5/microsoft-developer-community/introducing-the-microsoft-agent-framework/ba-p/4458377)
+- [AI Show: On Demand | New Agent Framework for Next Gen Multi Agent Solutions](https://www.youtube.com/watch?v=VBz5HMYIRI4)
+- [Prompting for more than code](https://www.youtube.com/watch?v=9g8tJvCnWz4)
+- [Auto model selection is now in VS Code for Copilot Business and Enterprise](https://github.blog/changelog/2025-09-30-auto-model-selection-is-now-in-vs-code-for-copilot-business-and-enterprise)
 <!-- AZUREINFOHUB:END -->
 
 
