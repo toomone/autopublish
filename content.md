@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Claude Sonnet 4.5 is now available in Visual Studio, JetBrains IDEs, Xcode, and Eclipse](https://github.blog/changelog/2025-10-02-claude-sonnet-4-5-is-now-available-in-visual-studio-jetbrains-ides-xcode-and-eclipse)
+- [Expanding the Public Preview of the Azure SRE Agent](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/expanding-the-public-preview-of-the-azure-sre-agent/ba-p/4458514)
+- [Expanding the Public Preview of the Azure SRE Agent](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/expanding-the-public-preview-of-the-azure-sre-agent/ba-p/4458514)
+- [Announcing Parse &amp; Chunk with Metadata in Logic Apps: Build Context-Aware RAG Agents](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/announcing-parse-chunk-with-metadata-in-logic-apps-build-context/ba-p/4458438)
 - [Spark: 🚀 Expanded access, enhanced reliability, and faster iteration history](https://github.blog/changelog/2025-10-01-spark-%F0%9F%9A%80-expanded-access-enhanced-reliability-and-faster-iteration-history)
-- [Introducing the Microsoft Agent Framework](https://techcommunity.microsoft.com/t5/microsoft-developer-community/introducing-the-microsoft-agent-framework/ba-p/4458377)
-- [AI Show: On Demand | New Agent Framework for Next Gen Multi Agent Solutions](https://www.youtube.com/watch?v=VBz5HMYIRI4)
-- [Prompting for more than code](https://www.youtube.com/watch?v=9g8tJvCnWz4)
-- [Auto model selection is now in VS Code for Copilot Business and Enterprise](https://github.blog/changelog/2025-09-30-auto-model-selection-is-now-in-vs-code-for-copilot-business-and-enterprise)
 <!-- AZUREINFOHUB:END -->
 
 
