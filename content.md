@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [GitHub Copilot CLI: Enhanced model selection, image support, and streamlined UI](https://github.blog/changelog/2025-10-03-github-copilot-cli-enhanced-model-selection-image-support-and-streamlined-ui)
+- [AI Show LIVE | Foundry Local Integration &amp; New Agent Framework](https://www.youtube.com/watch?v=BeAycDIr7wA)
+- [Choosing the Right Azure Containerisation Strategy: AKS, App Service, or Container Apps?](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/choosing-the-right-azure-containerisation-strategy-aks-app/ba-p/4456645)
+- [Choosing the Right Azure Containerisation Strategy: AKS, App Service, or Container Apps?](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/choosing-the-right-azure-containerisation-strategy-aks-app/ba-p/4456645)
 - [Claude Sonnet 4.5 is now available in Visual Studio, JetBrains IDEs, Xcode, and Eclipse](https://github.blog/changelog/2025-10-02-claude-sonnet-4-5-is-now-available-in-visual-studio-jetbrains-ides-xcode-and-eclipse)
-- [Expanding the Public Preview of the Azure SRE Agent](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/expanding-the-public-preview-of-the-azure-sre-agent/ba-p/4458514)
-- [Expanding the Public Preview of the Azure SRE Agent](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/expanding-the-public-preview-of-the-azure-sre-agent/ba-p/4458514)
-- [Announcing Parse &amp; Chunk with Metadata in Logic Apps: Build Context-Aware RAG Agents](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/announcing-parse-chunk-with-metadata-in-logic-apps-build-context/ba-p/4458438)
-- [Spark: 🚀 Expanded access, enhanced reliability, and faster iteration history](https://github.blog/changelog/2025-10-01-spark-%F0%9F%9A%80-expanded-access-enhanced-reliability-and-faster-iteration-history)
 <!-- AZUREINFOHUB:END -->
 
 
