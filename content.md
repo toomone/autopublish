@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [GitHub Copilot CLI: Enhanced model selection, image support, and streamlined UI](https://github.blog/changelog/2025-10-03-github-copilot-cli-enhanced-model-selection-image-support-and-streamlined-ui)
-- [AI Show LIVE | Foundry Local Integration &amp; New Agent Framework](https://www.youtube.com/watch?v=BeAycDIr7wA)
-- [Choosing the Right Azure Containerisation Strategy: AKS, App Service, or Container Apps?](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/choosing-the-right-azure-containerisation-strategy-aks-app/ba-p/4456645)
-- [Choosing the Right Azure Containerisation Strategy: AKS, App Service, or Container Apps?](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/choosing-the-right-azure-containerisation-strategy-aks-app/ba-p/4456645)
-- [Claude Sonnet 4.5 is now available in Visual Studio, JetBrains IDEs, Xcode, and Eclipse](https://github.blog/changelog/2025-10-02-claude-sonnet-4-5-is-now-available-in-visual-studio-jetbrains-ides-xcode-and-eclipse)
+- [¡Curso oficial y gratuito de GenAI y Python! 🚀](https://techcommunity.microsoft.com/t5/microsoft-developer-community/curso-oficial-y-gratuito-de-genai-y-python/ba-p/4459466)
+- [Level up your Python Gen AI Skills from our free nine-part YouTube series!](https://techcommunity.microsoft.com/t5/microsoft-developer-community/level-up-your-python-gen-ai-skills-from-our-free-nine-part/ba-p/4459464)
+- [Azure Container Storage for AKS | Free, Fast, Open‑Source Storage for Kubernetes on Azure](https://www.youtube.com/watch?v=BZsQ5_odYfU)
+- [Grok Code Fast 1 is now available in Visual Studio, JetBrains IDEs, Xcode, and Eclipse](https://github.blog/changelog/2025-10-06-grok-code-fast-1-is-now-available-in-visual-studio-jetbrains-ides-xcode-and-eclipse)
+- [Logic Apps Aviators Newsletter - October 25](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/logic-apps-aviators-newsletter-october-25/ba-p/4458456)
 <!-- AZUREINFOHUB:END -->
 
 
