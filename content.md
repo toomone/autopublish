@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [GitHub now supports social login with Apple](https://github.blog/changelog/2025-10-07-github-now-supports-social-login-with-apple)
+- [Announcing the new Azure DevOps Server RC Release](https://devblogs.microsoft.com/devops/announcing-the-new-azure-devops-server-rc-release/)
+- [From Cloud to Chip: Building Smarter AI at the Edge with Windows AI PCs](https://techcommunity.microsoft.com/t5/microsoft-developer-community/from-cloud-to-chip-building-smarter-ai-at-the-edge-with-windows/ba-p/4459582)
+- [The importance of streaming for LLM-powered chat applications](https://techcommunity.microsoft.com/t5/microsoft-developer-community/the-importance-of-streaming-for-llm-powered-chat-applications/ba-p/4459574)
 - [¡Curso oficial y gratuito de GenAI y Python! 🚀](https://techcommunity.microsoft.com/t5/microsoft-developer-community/curso-oficial-y-gratuito-de-genai-y-python/ba-p/4459466)
-- [Level up your Python Gen AI Skills from our free nine-part YouTube series!](https://techcommunity.microsoft.com/t5/microsoft-developer-community/level-up-your-python-gen-ai-skills-from-our-free-nine-part/ba-p/4459464)
-- [Azure Container Storage for AKS | Free, Fast, Open‑Source Storage for Kubernetes on Azure](https://www.youtube.com/watch?v=BZsQ5_odYfU)
-- [Grok Code Fast 1 is now available in Visual Studio, JetBrains IDEs, Xcode, and Eclipse](https://github.blog/changelog/2025-10-06-grok-code-fast-1-is-now-available-in-visual-studio-jetbrains-ides-xcode-and-eclipse)
-- [Logic Apps Aviators Newsletter - October 25](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/logic-apps-aviators-newsletter-october-25/ba-p/4458456)
 <!-- AZUREINFOHUB:END -->
 
 
