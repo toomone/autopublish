@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [AI Show | Unlocking AI Potential with Foundry Local Integration for GitHub Copilot in VS Code](https://www.youtube.com/watch?v=yoITleFSxMY)
+- [Upcoming deprecation of Claude Sonnet 3.5](https://github.blog/changelog/2025-10-07-upcoming-deprecation-of-claude-sonnet-3-5)
+- [🔴 VS Code Live - Try Data Science Notebooks with Agents](https://www.youtube.com/watch?v=HhFdQS0TtGc)
 - [GitHub now supports social login with Apple](https://github.blog/changelog/2025-10-07-github-now-supports-social-login-with-apple)
 - [Announcing the new Azure DevOps Server RC Release](https://devblogs.microsoft.com/devops/announcing-the-new-azure-devops-server-rc-release/)
-- [From Cloud to Chip: Building Smarter AI at the Edge with Windows AI PCs](https://techcommunity.microsoft.com/t5/microsoft-developer-community/from-cloud-to-chip-building-smarter-ai-at-the-edge-with-windows/ba-p/4459582)
-- [The importance of streaming for LLM-powered chat applications](https://techcommunity.microsoft.com/t5/microsoft-developer-community/the-importance-of-streaming-for-llm-powered-chat-applications/ba-p/4459574)
-- [¡Curso oficial y gratuito de GenAI y Python! 🚀](https://techcommunity.microsoft.com/t5/microsoft-developer-community/curso-oficial-y-gratuito-de-genai-y-python/ba-p/4459466)
 <!-- AZUREINFOHUB:END -->
 
 
