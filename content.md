@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [The Latest AI Features in VS Code](https://www.youtube.com/watch?v=EGZKvuB5jWw)
+- [Study Buddy: Learning Data Science and Machine Learning with an AI Sidekick](https://techcommunity.microsoft.com/t5/microsoft-developer-community/study-buddy-learning-data-science-and-machine-learning-with-an/ba-p/4460144)
+- [VS Code Dev Days: Brasil - Parte 2](https://www.youtube.com/watch?v=C_4B1TCxtco)
+- [ADHD: Adapting and thriving](https://www.youtube.com/watch?v=eeTOToKnpCg)
 - [AI Show | Unlocking AI Potential with Foundry Local Integration for GitHub Copilot in VS Code](https://www.youtube.com/watch?v=yoITleFSxMY)
-- [Upcoming deprecation of Claude Sonnet 3.5](https://github.blog/changelog/2025-10-07-upcoming-deprecation-of-claude-sonnet-3-5)
-- [🔴 VS Code Live - Try Data Science Notebooks with Agents](https://www.youtube.com/watch?v=HhFdQS0TtGc)
-- [GitHub now supports social login with Apple](https://github.blog/changelog/2025-10-07-github-now-supports-social-login-with-apple)
-- [Announcing the new Azure DevOps Server RC Release](https://devblogs.microsoft.com/devops/announcing-the-new-azure-devops-server-rc-release/)
 <!-- AZUREINFOHUB:END -->
 
 
