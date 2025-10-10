@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [GitHub Copilot CLI: Faster, more concise, and prettier](https://github.blog/changelog/2025-10-10-github-copilot-cli-faster-more-concise-and-prettier)
 - [The Latest AI Features in VS Code](https://www.youtube.com/watch?v=EGZKvuB5jWw)
 - [Study Buddy: Learning Data Science and Machine Learning with an AI Sidekick](https://techcommunity.microsoft.com/t5/microsoft-developer-community/study-buddy-learning-data-science-and-machine-learning-with-an/ba-p/4460144)
 - [VS Code Dev Days: Brasil - Parte 2](https://www.youtube.com/watch?v=C_4B1TCxtco)
 - [ADHD: Adapting and thriving](https://www.youtube.com/watch?v=eeTOToKnpCg)
-- [AI Show | Unlocking AI Potential with Foundry Local Integration for GitHub Copilot in VS Code](https://www.youtube.com/watch?v=yoITleFSxMY)
 <!-- AZUREINFOHUB:END -->
 
 
