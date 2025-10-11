@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [ASP.NET Community Standup - Level up eShop with Blazor in .NET 10](https://www.youtube.com/watch?v=VEuoNhFvegQ)
+- [Can MCP servers help AI make your apps better!?](https://www.youtube.com/watch?v=T58uRBMc9M8)
 - [GitHub Copilot CLI: Faster, more concise, and prettier](https://github.blog/changelog/2025-10-10-github-copilot-cli-faster-more-concise-and-prettier)
 - [The Latest AI Features in VS Code](https://www.youtube.com/watch?v=EGZKvuB5jWw)
 - [Study Buddy: Learning Data Science and Machine Learning with an AI Sidekick](https://techcommunity.microsoft.com/t5/microsoft-developer-community/study-buddy-learning-data-science-and-machine-learning-with-an/ba-p/4460144)
-- [VS Code Dev Days: Brasil - Parte 2](https://www.youtube.com/watch?v=C_4B1TCxtco)
-- [ADHD: Adapting and thriving](https://www.youtube.com/watch?v=eeTOToKnpCg)
 <!-- AZUREINFOHUB:END -->
 
 
