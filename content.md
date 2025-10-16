@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Anthropic’s Claude Sonnet 4.5 is now generally available in GitHub Copilot](https://github.blog/changelog/2025-10-13-anthropics-claude-sonnet-4-5-is-now-generally-available-in-github-copilot)
-- [Azure DevOps local MCP Server is generally available](https://devblogs.microsoft.com/devops/azure-devops-local-mcp-server-generally-available/)
-- [Software Leadership with Jonathan “J.” Tower - Episode 371](http://feed.azuredevops.show/software-leadership-with-jonathan-j-tower-episode-371)
-- [Building agent memory for VS Code with Harald Kirschner](https://www.youtube.com/watch?v=vFFXY6YRkNs)
-- [ASP.NET Community Standup - Level up eShop with Blazor in .NET 10](https://www.youtube.com/watch?v=VEuoNhFvegQ)
+- [Copilot coding agent can now search the web](https://github.blog/changelog/2025-10-16-copilot-coding-agent-can-now-search-the-web)
+- [Copilot coding agent uses better branch names and pull request titles](https://github.blog/changelog/2025-10-16-copilot-coding-agent-uses-better-branch-names-and-pull-request-titles)
+- [Grok Code Fast 1 is now generally available in GitHub Copilot](https://github.blog/changelog/2025-10-16-grok-code-fast-1-is-now-generally-available-in-github-copilot)
+- [Deployment and Build from Azure Linux based Web App](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/deployment-and-build-from-azure-linux-based-web-app/ba-p/4461950)
+- [Copilot-generated commit messages on github.com are generally available](https://github.blog/changelog/2025-10-15-copilot-generated-commit-messages-on-github-com-are-generally-available)
 <!-- AZUREINFOHUB:END -->
 
 
