@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Copilot knowledge bases can now be converted to Copilot Spaces](https://github.blog/changelog/2025-10-17-copilot-knowledge-bases-can-now-be-converted-to-copilot-spaces)
+- [Copilot CLI: Multiline input, new MCP enhancements, and Haiku 4.5](https://github.blog/changelog/2025-10-17-copilot-cli-multiline-input-new-mcp-enhancements-and-haiku-4-5)
+- [Beyond the Desktop: The Future of Development with Microsoft Dev Box and GitHub Codespaces](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/beyond-the-desktop-the-future-of-development-with-microsoft-dev/ba-p/4459483)
+- [GPT-4.1 Copilot code completion model — October update](https://github.blog/changelog/2025-10-17-gpt-4-1-copilot-code-completion-model-october-update)
 - [Copilot coding agent can now search the web](https://github.blog/changelog/2025-10-16-copilot-coding-agent-can-now-search-the-web)
-- [Copilot coding agent uses better branch names and pull request titles](https://github.blog/changelog/2025-10-16-copilot-coding-agent-uses-better-branch-names-and-pull-request-titles)
-- [Grok Code Fast 1 is now generally available in GitHub Copilot](https://github.blog/changelog/2025-10-16-grok-code-fast-1-is-now-generally-available-in-github-copilot)
-- [Deployment and Build from Azure Linux based Web App](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/deployment-and-build-from-azure-linux-based-web-app/ba-p/4461950)
-- [Copilot-generated commit messages on github.com are generally available](https://github.blog/changelog/2025-10-15-copilot-generated-commit-messages-on-github-com-are-generally-available)
 <!-- AZUREINFOHUB:END -->
 
 
