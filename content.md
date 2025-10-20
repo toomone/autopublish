@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Aaron Palermo: Cyber Security and Systems Engineering with AI-Driven Development - Episode 372](http://feed.azuredevops.show/aaron-palermo-cyber-security-and-systems-engineering-with-ai-driven-development-episode-372)
+- [Mastering Chat Modes in VS Code with Burke Holland](https://www.youtube.com/watch?v=5-HRDXO3iC0)
 - [Copilot knowledge bases can now be converted to Copilot Spaces](https://github.blog/changelog/2025-10-17-copilot-knowledge-bases-can-now-be-converted-to-copilot-spaces)
 - [Copilot CLI: Multiline input, new MCP enhancements, and Haiku 4.5](https://github.blog/changelog/2025-10-17-copilot-cli-multiline-input-new-mcp-enhancements-and-haiku-4-5)
 - [Beyond the Desktop: The Future of Development with Microsoft Dev Box and GitHub Codespaces](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/beyond-the-desktop-the-future-of-development-with-microsoft-dev/ba-p/4459483)
-- [GPT-4.1 Copilot code completion model — October update](https://github.blog/changelog/2025-10-17-gpt-4-1-copilot-code-completion-model-october-update)
-- [Copilot coding agent can now search the web](https://github.blog/changelog/2025-10-16-copilot-coding-agent-can-now-search-the-web)
 <!-- AZUREINFOHUB:END -->
 
 
