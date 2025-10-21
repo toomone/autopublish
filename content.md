@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Aaron Palermo: Cyber Security and Systems Engineering with AI-Driven Development - Episode 372](http://feed.azuredevops.show/aaron-palermo-cyber-security-and-systems-engineering-with-ai-driven-development-episode-372)
-- [Mastering Chat Modes in VS Code with Burke Holland](https://www.youtube.com/watch?v=5-HRDXO3iC0)
-- [Copilot knowledge bases can now be converted to Copilot Spaces](https://github.blog/changelog/2025-10-17-copilot-knowledge-bases-can-now-be-converted-to-copilot-spaces)
-- [Copilot CLI: Multiline input, new MCP enhancements, and Haiku 4.5](https://github.blog/changelog/2025-10-17-copilot-cli-multiline-input-new-mcp-enhancements-and-haiku-4-5)
-- [Beyond the Desktop: The Future of Development with Microsoft Dev Box and GitHub Codespaces](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/beyond-the-desktop-the-future-of-development-with-microsoft-dev/ba-p/4459483)
+- [Build Long-Running AI Agents on Azure App Service with Microsoft Agent Framework](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/build-long-running-ai-agents-on-azure-app-service-with-microsoft/ba-p/4463159)
+- [ASP.NET Community Standup - The MCP authorization flow](https://www.youtube.com/watch?v=H0SGK1yPHD0)
+- [Coding Music in VS Code](https://www.youtube.com/watch?v=9NKNNHCsykQ)
+- [Postgres as a Distributed Cache Unlocks Speed and Simplicity for Modern .NET Workloads](https://techcommunity.microsoft.com/t5/microsoft-developer-community/postgres-as-a-distributed-cache-unlocks-speed-and-simplicity-for/ba-p/4462139)
+- [Claude Haiku 4.5 is generally available in all supported IDEs](https://github.blog/changelog/2025-10-20-claude-haiku-4-5-is-generally-available-in-all-supported-ides)
 <!-- AZUREINFOHUB:END -->
 
 
