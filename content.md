@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Add a database in minutes using the Microsoft Learn MCP server and GitHub Copilot](https://www.youtube.com/watch?v=s2DGC7NMKxo)
+- [Serverless MCP Agent with LangChain.js v1 — Burgers, Tools, and Traces 🍔](https://techcommunity.microsoft.com/t5/microsoft-developer-community/serverless-mcp-agent-with-langchain-js-v1-burgers-tools-and/ba-p/4463157)
 - [Build Long-Running AI Agents on Azure App Service with Microsoft Agent Framework](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/build-long-running-ai-agents-on-azure-app-service-with-microsoft/ba-p/4463159)
+- [Cooking Up Smarter Dev Docs, on Mr. Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/watch?v=4fYXcmyZH3U)
 - [ASP.NET Community Standup - The MCP authorization flow](https://www.youtube.com/watch?v=H0SGK1yPHD0)
-- [Coding Music in VS Code](https://www.youtube.com/watch?v=9NKNNHCsykQ)
-- [Postgres as a Distributed Cache Unlocks Speed and Simplicity for Modern .NET Workloads](https://techcommunity.microsoft.com/t5/microsoft-developer-community/postgres-as-a-distributed-cache-unlocks-speed-and-simplicity-for/ba-p/4462139)
-- [Claude Haiku 4.5 is generally available in all supported IDEs](https://github.blog/changelog/2025-10-20-claude-haiku-4-5-is-generally-available-in-all-supported-ides)
 <!-- AZUREINFOHUB:END -->
 
 
