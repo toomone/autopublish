@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Add a database in minutes using the Microsoft Learn MCP server and GitHub Copilot](https://www.youtube.com/watch?v=s2DGC7NMKxo)
-- [Serverless MCP Agent with LangChain.js v1 — Burgers, Tools, and Traces 🍔](https://techcommunity.microsoft.com/t5/microsoft-developer-community/serverless-mcp-agent-with-langchain-js-v1-burgers-tools-and/ba-p/4463157)
-- [Build Long-Running AI Agents on Azure App Service with Microsoft Agent Framework](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/build-long-running-ai-agents-on-azure-app-service-with-microsoft/ba-p/4463159)
-- [Cooking Up Smarter Dev Docs, on Mr. Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/watch?v=4fYXcmyZH3U)
-- [ASP.NET Community Standup - The MCP authorization flow](https://www.youtube.com/watch?v=H0SGK1yPHD0)
+- [Selected Claude, OpenAI, and Gemini Copilot models are now deprecated](https://github.blog/changelog/2025-10-23-selected-claude-openai-and-gemini-copilot-models-are-now-deprecated)
+- [AI-Powered Migration plus Raw Experience with Mike Rousos](https://www.hanselminutes.com/)
+- [Real Developers. Real Experiences. Powered by Visual Studio](https://www.youtube.com/watch?v=OtoD1CAbgoY)
+- [Transform Your AI Applications with Local LLM Deployment](https://techcommunity.microsoft.com/t5/microsoft-developer-community/transform-your-ai-applications-with-local-llm-deployment/ba-p/4462829)
+- [Introduction to Godot C# Essentials: A Complete Beginner&#39;s Guide: FULLCOURSE](https://www.youtube.com/watch?v=0Pf41YBedMk)
 <!-- AZUREINFOHUB:END -->
 
 
