@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [AI Toolkit for VS Code October Update](https://techcommunity.microsoft.com/t5/microsoft-developer-community/ai-toolkit-for-vs-code-october-update/ba-p/4463365)
+- [Azure SRE Agent: Less Toil, More Uptime, Maximum Innovation](https://www.youtube.com/watch?v=5c9pl8_DI3w)
+- [Azure SRE Agent: Less Toil, More Uptime, Maximum Innovation](https://www.youtube.com/watch?v=5c9pl8_DI3w)
 - [Selected Claude, OpenAI, and Gemini Copilot models are now deprecated](https://github.blog/changelog/2025-10-23-selected-claude-openai-and-gemini-copilot-models-are-now-deprecated)
 - [AI-Powered Migration plus Raw Experience with Mike Rousos](https://www.hanselminutes.com/)
-- [Real Developers. Real Experiences. Powered by Visual Studio](https://www.youtube.com/watch?v=OtoD1CAbgoY)
-- [Transform Your AI Applications with Local LLM Deployment](https://techcommunity.microsoft.com/t5/microsoft-developer-community/transform-your-ai-applications-with-local-llm-deployment/ba-p/4462829)
-- [Introduction to Godot C# Essentials: A Complete Beginner&#39;s Guide: FULLCOURSE](https://www.youtube.com/watch?v=0Pf41YBedMk)
 <!-- AZUREINFOHUB:END -->
 
 
