@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Solve real problems with Microsoft Docs MCP Server](https://www.youtube.com/watch?v=mnzErLB8KeE)
+- [What is MCP?](https://www.youtube.com/watch?v=pqXzK8MjH2c)
 - [AI Toolkit for VS Code October Update](https://techcommunity.microsoft.com/t5/microsoft-developer-community/ai-toolkit-for-vs-code-october-update/ba-p/4463365)
 - [Azure SRE Agent: Less Toil, More Uptime, Maximum Innovation](https://www.youtube.com/watch?v=5c9pl8_DI3w)
 - [Azure SRE Agent: Less Toil, More Uptime, Maximum Innovation](https://www.youtube.com/watch?v=5c9pl8_DI3w)
-- [Selected Claude, OpenAI, and Gemini Copilot models are now deprecated](https://github.blog/changelog/2025-10-23-selected-claude-openai-and-gemini-copilot-models-are-now-deprecated)
-- [AI-Powered Migration plus Raw Experience with Mike Rousos](https://www.hanselminutes.com/)
 <!-- AZUREINFOHUB:END -->
 
 
