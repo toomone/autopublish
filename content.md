@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Microsoft Azure at KubeCon North America 2025 | Atlanta, GA - Nov 10-13](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/microsoft-azure-at-kubecon-north-america-2025-atlanta-ga-nov-10/ba-p/4464324)
+- [Lee Brownhill: The Data Community - Episode 373](http://feed.azuredevops.show/lee-brownhill-the-data-community-episode-373)
+- [Building &amp; Scaling Open Source Communities with Steve Francia](https://www.youtube.com/watch?v=lQkaWdWBODI)
 - [Solve real problems with Microsoft Docs MCP Server](https://www.youtube.com/watch?v=mnzErLB8KeE)
 - [What is MCP?](https://www.youtube.com/watch?v=pqXzK8MjH2c)
-- [AI Toolkit for VS Code October Update](https://techcommunity.microsoft.com/t5/microsoft-developer-community/ai-toolkit-for-vs-code-october-update/ba-p/4463365)
-- [Azure SRE Agent: Less Toil, More Uptime, Maximum Innovation](https://www.youtube.com/watch?v=5c9pl8_DI3w)
-- [Azure SRE Agent: Less Toil, More Uptime, Maximum Innovation](https://www.youtube.com/watch?v=5c9pl8_DI3w)
 <!-- AZUREINFOHUB:END -->
 
 
