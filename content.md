@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Microsoft Azure at KubeCon North America 2025 | Atlanta, GA - Nov 10-13](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/microsoft-azure-at-kubecon-north-america-2025-atlanta-ga-nov-10/ba-p/4464324)
-- [Lee Brownhill: The Data Community - Episode 373](http://feed.azuredevops.show/lee-brownhill-the-data-community-episode-373)
-- [Building &amp; Scaling Open Source Communities with Steve Francia](https://www.youtube.com/watch?v=lQkaWdWBODI)
-- [Solve real problems with Microsoft Docs MCP Server](https://www.youtube.com/watch?v=mnzErLB8KeE)
-- [What is MCP?](https://www.youtube.com/watch?v=pqXzK8MjH2c)
+- [Accelerating Cloud-Native Development with AI-Powered Azure NetApp Files VS Code Extension](https://techcommunity.microsoft.com/t5/azure-architecture-blog/accelerating-cloud-native-development-with-ai-powered-azure/ba-p/4464852)
+- [GitHub Copilot in Visual Studio Code gets upgraded](https://github.blog/changelog/2025-10-28-github-copilot-in-visual-studio-code-gets-upgraded)
+- [A mission control to assign, steer, and track Copilot coding agent tasks](https://github.blog/changelog/2025-10-28-a-mission-control-to-assign-steer-and-track-copilot-coding-agent-tasks)
+- [New public preview features in Copilot code review: AI reviews that see the full picture](https://github.blog/changelog/2025-10-28-new-public-preview-features-in-copilot-code-review-ai-reviews-that-see-the-full-picture)
+- [Work with Copilot coding agent in Slack](https://github.blog/changelog/2025-10-28-work-with-copilot-coding-agent-in-slack)
 <!-- AZUREINFOHUB:END -->
 
 
