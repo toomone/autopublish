@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Announcing Public Preview: AI Toolkit for GitHub Copilot Prompt-First Agent Development](https://techcommunity.microsoft.com/t5/microsoft-developer-community/announcing-public-preview-ai-toolkit-for-github-copilot-prompt/ba-p/4465069)
+- [GitHub MCP Server now comes with server instructions, better tools, and more](https://github.blog/changelog/2025-10-29-github-mcp-server-now-comes-with-server-instructions-better-tools-and-more)
+- [GenAI for Java Developers 2: Techniques](https://www.youtube.com/watch?v=3UoDsdemIdA)
 - [Accelerating Cloud-Native Development with AI-Powered Azure NetApp Files VS Code Extension](https://techcommunity.microsoft.com/t5/azure-architecture-blog/accelerating-cloud-native-development-with-ai-powered-azure/ba-p/4464852)
-- [GitHub Copilot in Visual Studio Code gets upgraded](https://github.blog/changelog/2025-10-28-github-copilot-in-visual-studio-code-gets-upgraded)
-- [A mission control to assign, steer, and track Copilot coding agent tasks](https://github.blog/changelog/2025-10-28-a-mission-control-to-assign-steer-and-track-copilot-coding-agent-tasks)
-- [New public preview features in Copilot code review: AI reviews that see the full picture](https://github.blog/changelog/2025-10-28-new-public-preview-features-in-copilot-code-review-ai-reviews-that-see-the-full-picture)
-- [Work with Copilot coding agent in Slack](https://github.blog/changelog/2025-10-28-work-with-copilot-coding-agent-in-slack)
+- [OpenAI Codex Integrated in VS Code](https://www.youtube.com/watch?v=I51wun3OnmQ)
 <!-- AZUREINFOHUB:END -->
 
 
