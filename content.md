@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Announcing Public Preview: AI Toolkit for GitHub Copilot Prompt-First Agent Development](https://techcommunity.microsoft.com/t5/microsoft-developer-community/announcing-public-preview-ai-toolkit-for-github-copilot-prompt/ba-p/4465069)
-- [GitHub MCP Server now comes with server instructions, better tools, and more](https://github.blog/changelog/2025-10-29-github-mcp-server-now-comes-with-server-instructions-better-tools-and-more)
-- [GenAI for Java Developers 2: Techniques](https://www.youtube.com/watch?v=3UoDsdemIdA)
-- [Accelerating Cloud-Native Development with AI-Powered Azure NetApp Files VS Code Extension](https://techcommunity.microsoft.com/t5/azure-architecture-blog/accelerating-cloud-native-development-with-ai-powered-azure/ba-p/4464852)
-- [OpenAI Codex Integrated in VS Code](https://www.youtube.com/watch?v=I51wun3OnmQ)
+- [Introducing langchain-azure-storage: Azure Storage integrations for LangChain](https://techcommunity.microsoft.com/t5/microsoft-developer-community/introducing-langchain-azure-storage-azure-storage-integrations/ba-p/4465268)
+- [AI Show: On Demand | Agent Framework Lab - The Experimental Modules of Microsoft Agent Framework](https://www.youtube.com/watch?v=u1YOPRdGqxQ)
+- [Managing Licenses in GitHub Enterprise for Visual Studio subscriptions](https://www.youtube.com/watch?v=RWG3sHLIRts)
+- [Build an AI-Powered Chat App in Minutes with AI Toolkit](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/build-an-ai-powered-chat-app-in-minutes-with-ai-toolkit/ba-p/4464967)
+- [Add Sidecars to Azure App Service for Linux—via GitHub Actions or Azure Pipelines](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/add-sidecars-to-azure-app-service-for-linux-via-github-actions/ba-p/4465419)
 <!-- AZUREINFOHUB:END -->
 
 
