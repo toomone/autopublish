@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Introducing langchain-azure-storage: Azure Storage integrations for LangChain](https://techcommunity.microsoft.com/t5/microsoft-developer-community/introducing-langchain-azure-storage-azure-storage-integrations/ba-p/4465268)
-- [AI Show: On Demand | Agent Framework Lab - The Experimental Modules of Microsoft Agent Framework](https://www.youtube.com/watch?v=u1YOPRdGqxQ)
-- [Managing Licenses in GitHub Enterprise for Visual Studio subscriptions](https://www.youtube.com/watch?v=RWG3sHLIRts)
-- [Build an AI-Powered Chat App in Minutes with AI Toolkit](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/build-an-ai-powered-chat-app-in-minutes-with-ai-toolkit/ba-p/4464967)
-- [Add Sidecars to Azure App Service for Linux—via GitHub Actions or Azure Pipelines](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/add-sidecars-to-azure-app-service-for-linux-via-github-actions/ba-p/4465419)
+- [Part 2: Build Long-Running AI Agents on Azure App Service with Microsoft Agent Framework](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/part-2-build-long-running-ai-agents-on-azure-app-service-with/ba-p/4465825)
+- [MCP and Java Apps: Building a Client](https://www.youtube.com/watch?v=HQQavvdrAA0)
+- [🔴 Let it Cook - Spec-Driven Game Dev with Den](https://www.youtube.com/watch?v=9HEwtaepw1E)
+- [What is GitHub Copilot Coding Agent?](https://www.youtube.com/watch?v=KgY5OQqMGms)
+- [What is GitHub Copilot Coding Agent?](https://www.youtube.com/watch?v=Wex4ONr1P2I)
 <!-- AZUREINFOHUB:END -->
 
 
