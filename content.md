@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Modernize Java Apps with AI:  Upgrade &amp; Migrate your Applications](https://www.youtube.com/watch?v=9gmp_ADmRuE)
+- [Authentic DevOps with AI Foundry + GitHub, on Sip &amp; Sync with Azure](https://www.youtube.com/watch?v=rWkLRkN3yvI)
+- [Context Engineering for Java Ecosystem](https://www.youtube.com/watch?v=kSElHY8MWwc)
 - [Part 2: Build Long-Running AI Agents on Azure App Service with Microsoft Agent Framework](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/part-2-build-long-running-ai-agents-on-azure-app-service-with/ba-p/4465825)
 - [MCP and Java Apps: Building a Client](https://www.youtube.com/watch?v=HQQavvdrAA0)
-- [🔴 Let it Cook - Spec-Driven Game Dev with Den](https://www.youtube.com/watch?v=9HEwtaepw1E)
-- [What is GitHub Copilot Coding Agent?](https://www.youtube.com/watch?v=KgY5OQqMGms)
-- [What is GitHub Copilot Coding Agent?](https://www.youtube.com/watch?v=Wex4ONr1P2I)
 <!-- AZUREINFOHUB:END -->
 
 
