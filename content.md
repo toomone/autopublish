@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Modernize Java Apps with AI:  Upgrade &amp; Migrate your Applications](https://www.youtube.com/watch?v=9gmp_ADmRuE)
-- [Authentic DevOps with AI Foundry + GitHub, on Sip &amp; Sync with Azure](https://www.youtube.com/watch?v=rWkLRkN3yvI)
-- [Context Engineering for Java Ecosystem](https://www.youtube.com/watch?v=kSElHY8MWwc)
-- [Part 2: Build Long-Running AI Agents on Azure App Service with Microsoft Agent Framework](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/part-2-build-long-running-ai-agents-on-azure-app-service-with/ba-p/4465825)
-- [MCP and Java Apps: Building a Client](https://www.youtube.com/watch?v=HQQavvdrAA0)
+- [Delegate AI controls management to members of your enterprise](https://github.blog/changelog/2025-11-03-delegate-ai-controls-management-to-members-of-your-enterprise)
+- [GitHub Copilot policy now supports agent mode in the IDE](https://github.blog/changelog/2025-11-03-github-copilot-policy-now-supports-agent-mode-in-the-ide)
+- [Python + IA: Resumen y Recursos](https://techcommunity.microsoft.com/t5/microsoft-developer-community/python-ia-resumen-y-recursos/ba-p/4465152)
+- [Behind the Scenes of VS Code’s Planning Agent](https://www.youtube.com/watch?v=S9GZWSNOPK8)
+- [Control AI spending with budget tracking for GitHub AI tools](https://github.blog/changelog/2025-11-03-control-ai-spending-with-budget-tracking-for-github-ai-tools)
 <!-- AZUREINFOHUB:END -->
 
 
