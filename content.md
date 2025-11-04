@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Azure Developer CLI: Azure Container Apps Dev-to-Prod Deployment with Layered Infrastructure](https://devblogs.microsoft.com/devops/azure-developer-cli-azure-container-apps-dev-to-prod-deployment-with-layered-infrastructure/)
 - [Upcoming Updates for Azure Pipelines Agents Images](https://devblogs.microsoft.com/devops/upcoming-updates-for-azure-pipelines-agents-images/)
 - [Modernizing Authentication for Legacy Visual Studio Clients](https://devblogs.microsoft.com/devops/modernizing-authentication-for-legacy-visual-studio-clients/)
 - [Azure DevOps local MCP Server is generally available](https://devblogs.microsoft.com/devops/azure-devops-local-mcp-server-generally-available/)
 - [Announcing the new Azure DevOps Server RC Release](https://devblogs.microsoft.com/devops/announcing-the-new-azure-devops-server-rc-release/)
-- [Azure Boards integration with GitHub Copilot (Private Preview)](https://devblogs.microsoft.com/devops/azure-boards-integration-with-github-copilot-private-preview/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
