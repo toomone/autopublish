@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [GitHub Copilot policy update for unconfigured policies](https://github.blog/changelog/2025-11-04-github-copilot-policy-update-for-unconfigured-policies)
+- [Part 3: Client-Side Multi-Agent Orchestration on Azure App Service with Microsoft Agent Framework](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/part-3-client-side-multi-agent-orchestration-on-azure-app/ba-p/4466728)
+- [Build Intelligent AI Apps: Introduction](https://www.youtube.com/watch?v=_cqJzFxLorE)
 - [Delegate AI controls management to members of your enterprise](https://github.blog/changelog/2025-11-03-delegate-ai-controls-management-to-members-of-your-enterprise)
 - [GitHub Copilot policy now supports agent mode in the IDE](https://github.blog/changelog/2025-11-03-github-copilot-policy-now-supports-agent-mode-in-the-ide)
-- [Python + IA: Resumen y Recursos](https://techcommunity.microsoft.com/t5/microsoft-developer-community/python-ia-resumen-y-recursos/ba-p/4465152)
-- [Behind the Scenes of VS Code’s Planning Agent](https://www.youtube.com/watch?v=S9GZWSNOPK8)
-- [Control AI spending with budget tracking for GitHub AI tools](https://github.blog/changelog/2025-11-03-control-ai-spending-with-budget-tracking-for-github-ai-tools)
 <!-- AZUREINFOHUB:END -->
 
 
