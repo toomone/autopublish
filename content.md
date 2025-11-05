@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [GitHub Copilot policy update for unconfigured policies](https://github.blog/changelog/2025-11-04-github-copilot-policy-update-for-unconfigured-policies)
-- [Part 3: Client-Side Multi-Agent Orchestration on Azure App Service with Microsoft Agent Framework](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/part-3-client-side-multi-agent-orchestration-on-azure-app/ba-p/4466728)
-- [Build Intelligent AI Apps: Introduction](https://www.youtube.com/watch?v=_cqJzFxLorE)
-- [Delegate AI controls management to members of your enterprise](https://github.blog/changelog/2025-11-03-delegate-ai-controls-management-to-members-of-your-enterprise)
-- [GitHub Copilot policy now supports agent mode in the IDE](https://github.blog/changelog/2025-11-03-github-copilot-policy-now-supports-agent-mode-in-the-ide)
+- [The legacy Copilot usage report CSV is no longer available](https://github.blog/changelog/2025-11-05-the-legacy-copilot-usage-report-csv-is-no-longer-available)
+- [Copilot coding agent supports organization custom instructions](https://github.blog/changelog/2025-11-05-copilot-coding-agent-supports-organization-custom-instructions)
+- [Copilot coding agent now supports pull request templates](https://github.blog/changelog/2025-11-05-copilot-coding-agent-now-supports-pull-request-templates)
+- [Running GenAI in containers: GPU](https://www.youtube.com/watch?v=XhyTEgA_kBk)
+- [Azure Developer CLI: Azure Container Apps Dev-to-Prod Deployment with Layered Infrastructure](https://devblogs.microsoft.com/devops/azure-developer-cli-azure-container-apps-dev-to-prod-deployment-with-layered-infrastructure/)
 <!-- AZUREINFOHUB:END -->
 
 
