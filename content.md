@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Spark to Rocket Ship: Turbocharging Your MVP with AI-Powered Development](https://www.youtube.com/watch?v=tj8pcDRdZ0Y)
+- [Spark It Up: From Napkin Sketch to Working App &lpar;No Code Required!&rpar;](https://www.youtube.com/watch?v=rNx8ON88-NY)
+- [Building AI Agents with the AI Toolkit &amp; GitHub Copilot](https://www.youtube.com/watch?v=6cKvuhGGh7E)
 - [The legacy Copilot usage report CSV is no longer available](https://github.blog/changelog/2025-11-05-the-legacy-copilot-usage-report-csv-is-no-longer-available)
 - [Copilot coding agent supports organization custom instructions](https://github.blog/changelog/2025-11-05-copilot-coding-agent-supports-organization-custom-instructions)
-- [Copilot coding agent now supports pull request templates](https://github.blog/changelog/2025-11-05-copilot-coding-agent-now-supports-pull-request-templates)
-- [Running GenAI in containers: GPU](https://www.youtube.com/watch?v=XhyTEgA_kBk)
-- [Azure Developer CLI: Azure Container Apps Dev-to-Prod Deployment with Layered Infrastructure](https://devblogs.microsoft.com/devops/azure-developer-cli-azure-container-apps-dev-to-prod-deployment-with-layered-infrastructure/)
 <!-- AZUREINFOHUB:END -->
 
 
