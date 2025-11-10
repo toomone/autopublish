@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Simplifying Microservice Reliability with Dapr](https://techcommunity.microsoft.com/t5/microsoft-developer-community/simplifying-microservice-reliability-with-dapr/ba-p/4468296)
-- [Using OpenAI Sora 2 Model on Azure for Developers](https://www.youtube.com/watch?v=l39hwq6T84c)
-- [Tudo sobre o GitHub Universe 2025: Inovações que você precisa conhecer](https://www.youtube.com/watch?v=6pW7qEejWmI)
-- [Spark to Rocket Ship: Turbocharging Your MVP with AI-Powered Development](https://www.youtube.com/watch?v=tj8pcDRdZ0Y)
-- [Spark It Up: From Napkin Sketch to Working App &lpar;No Code Required!&rpar;](https://www.youtube.com/watch?v=rNx8ON88-NY)
+- [Agentic Power for AKS: Introducing the Agentic CLI in Public Preview](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/agentic-power-for-aks-introducing-the-agentic-cli-in-public/ba-p/4468166)
+- [Claude Sonnet 3.5 deprecated, Claude Haiku 4.5 available in Copilot Free](https://github.blog/changelog/2025-11-10-claude-sonnet-3-5-deprecated-claude-haiku-4-5-available-in-copilot-free)
+- [Ben Day : SlideSpeaker.AI - Episode 375](https://azuredevopspodcast.clear-measure.com/ben-day-slidespeakerai-episode-375)
+- [Ben Day : SlideSpeaker.AI - Episode 375](https://azuredevopspodcast.clear-measure.com/ben-day-slidespeakerai-episode-375)
+- [Beyond the Keynote: VS Code at GitHub Universe 2025](https://www.youtube.com/watch?v=TaTPDLl0I-Q)
 <!-- AZUREINFOHUB:END -->
 
 
