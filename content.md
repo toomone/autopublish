@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Auto model selection for Copilot in Visual Studio in public preview](https://github.blog/changelog/2025-11-11-auto-model-selection-for-copilot-in-visual-studio-in-public-preview)
+- [November Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/november-patches-for-azure-devops-server-2/)
+- [Build Smarter: Leverage the Power of Azure AI Landing Zones](https://www.youtube.com/watch?v=8FWdFG55nXw)
 - [Agentic Power for AKS: Introducing the Agentic CLI in Public Preview](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/agentic-power-for-aks-introducing-the-agentic-cli-in-public/ba-p/4468166)
 - [Claude Sonnet 3.5 deprecated, Claude Haiku 4.5 available in Copilot Free](https://github.blog/changelog/2025-11-10-claude-sonnet-3-5-deprecated-claude-haiku-4-5-available-in-copilot-free)
-- [Ben Day : SlideSpeaker.AI - Episode 375](https://azuredevopspodcast.clear-measure.com/ben-day-slidespeakerai-episode-375)
-- [Ben Day : SlideSpeaker.AI - Episode 375](https://azuredevopspodcast.clear-measure.com/ben-day-slidespeakerai-episode-375)
-- [Beyond the Keynote: VS Code at GitHub Universe 2025](https://www.youtube.com/watch?v=TaTPDLl0I-Q)
 <!-- AZUREINFOHUB:END -->
 
 
