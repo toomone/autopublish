@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Copilot code review and coding agent now support agent-specific instructions](https://github.blog/changelog/2025-11-12-copilot-code-review-and-coding-agent-now-support-agent-specific-instructions)
-- [What’s New for Python on App Service for Linux: pyproject.toml, uv, and more](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/what-s-new-for-python-on-app-service-for-linux-pyproject-toml-uv/ba-p/4468903)
-- [Auto model selection for Copilot in Visual Studio in public preview](https://github.blog/changelog/2025-11-11-auto-model-selection-for-copilot-in-visual-studio-in-public-preview)
-- [November Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/november-patches-for-azure-devops-server-2/)
-- [Build Smarter: Leverage the Power of Azure AI Landing Zones](https://www.youtube.com/watch?v=8FWdFG55nXw)
+- [Build your first AI Agent with Azure App Service](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/build-your-first-ai-agent-with-azure-app-service/ba-p/4468725)
+- [OpenAI’s GPT-5.1, GPT-5.1-Codex and GPT-5.1-Codex-Mini are now in public preview for GitHub Copilot](https://github.blog/changelog/2025-11-13-openais-gpt-5-1-gpt-5-1-codex-and-gpt-5-1-codex-mini-are-now-in-public-preview-for-github-copilot)
+- [Manage Copilot coding agent tasks in Visual Studio Code](https://github.blog/changelog/2025-11-13-manage-copilot-coding-agent-tasks-in-visual-studio-code)
+- [Demystifying GitHub Copilot Security Controls: easing concerns for organizational adoption](https://techcommunity.microsoft.com/t5/microsoft-developer-community/demystifying-github-copilot-security-controls-easing-concerns/ba-p/4468193)
+- [Part I: OTEL sidecar extension on Azure App Service for Linux - Intro + PHP walkthrough](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/part-i-otel-sidecar-extension-on-azure-app-service-for-linux/ba-p/4469514)
 <!-- AZUREINFOHUB:END -->
 
 
