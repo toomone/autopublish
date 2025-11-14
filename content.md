@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Build your first AI Agent with Azure App Service](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/build-your-first-ai-agent-with-azure-app-service/ba-p/4468725)
-- [OpenAI’s GPT-5.1, GPT-5.1-Codex and GPT-5.1-Codex-Mini are now in public preview for GitHub Copilot](https://github.blog/changelog/2025-11-13-openais-gpt-5-1-gpt-5-1-codex-and-gpt-5-1-codex-mini-are-now-in-public-preview-for-github-copilot)
-- [Manage Copilot coding agent tasks in Visual Studio Code](https://github.blog/changelog/2025-11-13-manage-copilot-coding-agent-tasks-in-visual-studio-code)
-- [Demystifying GitHub Copilot Security Controls: easing concerns for organizational adoption](https://techcommunity.microsoft.com/t5/microsoft-developer-community/demystifying-github-copilot-security-controls-easing-concerns/ba-p/4468193)
-- [Part I: OTEL sidecar extension on Azure App Service for Linux - Intro + PHP walkthrough](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/part-i-otel-sidecar-extension-on-azure-app-service-for-linux/ba-p/4469514)
+- [Unified Data Meets Azure Intelligence: Fabric, Foundry and Copilot in Action](https://www.youtube.com/watch?v=mwNYX2xU0nI)
+- [GitHub Actions DevOps Pipelines as Code using C# and Cake SDK](https://www.youtube.com/watch?v=e7hkKyQEcN8)
+- [🚀 Mission Agent Possible: Your Chance to Build, Solve, and Win at Microsoft Ignite 2025!](https://techcommunity.microsoft.com/t5/microsoft-developer-community/mission-agent-possible-your-chance-to-build-solve-and-win-at/ba-p/4467585)
+- [Building Rock-Solid Avalonia Apps A Guide to Headless Testing with AI Assistance](https://www.youtube.com/watch?v=0Z1plDp_rvI)
+- [From Architecture to Docs: .NET Aspire Documented with Copilot](https://www.youtube.com/watch?v=8NoetLolw-0)
 <!-- AZUREINFOHUB:END -->
 
 
