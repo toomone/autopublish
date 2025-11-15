@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Transforming CI Failures into Focused Debugging with Visual Studio Playlists and AI](https://www.youtube.com/watch?v=6RNTltZuaFs)
+- [Let&#39;s create an MCP Server from our .NET tool - and improve our SQL scripts with Copilot](https://www.youtube.com/watch?v=C35XzZvlV20)
+- [Security-First .NET: How GitHub&#39;s Tools Protect Your Open-Source Projects Without Slowing You Down](https://www.youtube.com/watch?v=nxUz7OQO3n8)
 - [Unified Data Meets Azure Intelligence: Fabric, Foundry and Copilot in Action](https://www.youtube.com/watch?v=mwNYX2xU0nI)
-- [GitHub Actions DevOps Pipelines as Code using C# and Cake SDK](https://www.youtube.com/watch?v=e7hkKyQEcN8)
-- [🚀 Mission Agent Possible: Your Chance to Build, Solve, and Win at Microsoft Ignite 2025!](https://techcommunity.microsoft.com/t5/microsoft-developer-community/mission-agent-possible-your-chance-to-build-solve-and-win-at/ba-p/4467585)
-- [Building Rock-Solid Avalonia Apps A Guide to Headless Testing with AI Assistance](https://www.youtube.com/watch?v=0Z1plDp_rvI)
-- [From Architecture to Docs: .NET Aspire Documented with Copilot](https://www.youtube.com/watch?v=8NoetLolw-0)
+- [How to set up your first MCP server](https://www.youtube.com/watch?v=ptBqQvJqaZg)
 <!-- AZUREINFOHUB:END -->
 
 
