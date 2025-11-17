@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Transforming CI Failures into Focused Debugging with Visual Studio Playlists and AI](https://www.youtube.com/watch?v=6RNTltZuaFs)
-- [Let&#39;s create an MCP Server from our .NET tool - and improve our SQL scripts with Copilot](https://www.youtube.com/watch?v=C35XzZvlV20)
-- [Security-First .NET: How GitHub&#39;s Tools Protect Your Open-Source Projects Without Slowing You Down](https://www.youtube.com/watch?v=nxUz7OQO3n8)
-- [Unified Data Meets Azure Intelligence: Fabric, Foundry and Copilot in Action](https://www.youtube.com/watch?v=mwNYX2xU0nI)
-- [How to set up your first MCP server](https://www.youtube.com/watch?v=ptBqQvJqaZg)
+- [How to Integrate Playwright MCP for AI-Driven Test Automation](https://techcommunity.microsoft.com/t5/microsoft-developer-community/how-to-integrate-playwright-mcp-for-ai-driven-test-automation/ba-p/4470372)
+- [Fine-grain permissions for Copilot usage metrics now available](https://github.blog/changelog/2025-11-17-fine-grain-permissions-for-copilot-usage-metrics-now-available)
+- [Upgrading and Installing Visual Studio 2026](https://www.youtube.com/watch?v=Xhsjcroef_w)
+- [Failure is not an option - Durable Execution + Dapr = 🚀](https://www.youtube.com/watch?v=1h0TeLU8OqA)
+- [Glueing .NET Aspire Services with Azure Containers Apps and Dapr](https://www.youtube.com/watch?v=DQdScuonooU)
 <!-- AZUREINFOHUB:END -->
 
 
