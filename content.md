@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [How to Integrate Playwright MCP for AI-Driven Test Automation](https://techcommunity.microsoft.com/t5/microsoft-developer-community/how-to-integrate-playwright-mcp-for-ai-driven-test-automation/ba-p/4470372)
-- [Fine-grain permissions for Copilot usage metrics now available](https://github.blog/changelog/2025-11-17-fine-grain-permissions-for-copilot-usage-metrics-now-available)
-- [Upgrading and Installing Visual Studio 2026](https://www.youtube.com/watch?v=Xhsjcroef_w)
-- [Failure is not an option - Durable Execution + Dapr = 🚀](https://www.youtube.com/watch?v=1h0TeLU8OqA)
-- [Glueing .NET Aspire Services with Azure Containers Apps and Dapr](https://www.youtube.com/watch?v=DQdScuonooU)
+- [📢Announcing MCP Server Support for Logic Apps Agent Loop](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/announcing-mcp-server-support-for-logic-apps-agent-loop/ba-p/4470778)
+- [Building AI apps and agents for the new frontier](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/building-ai-apps-and-agents-for-the-new-frontier/ba-p/4470165)
+- [Gemini 3 Pro is in public preview for GitHub Copilot](https://github.blog/changelog/2025-11-18-gemini-3-pro-is-in-public-preview-for-github-copilot)
+- [Auto model selection for Copilot in JetBrains IDEs, Xcode, and Eclipse in public preview](https://github.blog/changelog/2025-11-18-auto-model-selection-for-copilot-in-jetbrains-ides-xcode-and-eclipse-in-public-preview)
+- [Enhanced MCP OAuth support for GitHub Copilot in JetBrains, Eclipse, and Xcode](https://github.blog/changelog/2025-11-18-enhanced-mcp-oauth-support-for-github-copilot-in-jetbrains-eclipse-and-xcode)
 <!-- AZUREINFOHUB:END -->
 
 
