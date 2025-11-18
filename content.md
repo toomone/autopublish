@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Azure DevOps and GitHub Repositories — Next Steps in the Path to Agentic AI](https://devblogs.microsoft.com/devops/azure-devops-and-github-repositories-next-steps-in-the-path-to-agentic-ai/)
 - [November Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/november-patches-for-azure-devops-server-2/)
 - [Azure Developer CLI: Azure Container Apps Dev-to-Prod Deployment with Layered Infrastructure](https://devblogs.microsoft.com/devops/azure-developer-cli-azure-container-apps-dev-to-prod-deployment-with-layered-infrastructure/)
 - [Upcoming Updates for Azure Pipelines Agents Images](https://devblogs.microsoft.com/devops/upcoming-updates-for-azure-pipelines-agents-images/)
 - [Modernizing Authentication for Legacy Visual Studio Clients](https://devblogs.microsoft.com/devops/modernizing-authentication-for-legacy-visual-studio-clients/)
-- [Azure DevOps local MCP Server is generally available](https://devblogs.microsoft.com/devops/azure-devops-local-mcp-server-generally-available/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
