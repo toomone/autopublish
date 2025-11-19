@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [📢Announcing MCP Server Support for Logic Apps Agent Loop](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/announcing-mcp-server-support-for-logic-apps-agent-loop/ba-p/4470778)
-- [Building AI apps and agents for the new frontier](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/building-ai-apps-and-agents-for-the-new-frontier/ba-p/4470165)
-- [Gemini 3 Pro is in public preview for GitHub Copilot](https://github.blog/changelog/2025-11-18-gemini-3-pro-is-in-public-preview-for-github-copilot)
-- [Auto model selection for Copilot in JetBrains IDEs, Xcode, and Eclipse in public preview](https://github.blog/changelog/2025-11-18-auto-model-selection-for-copilot-in-jetbrains-ides-xcode-and-eclipse-in-public-preview)
-- [Enhanced MCP OAuth support for GitHub Copilot in JetBrains, Eclipse, and Xcode](https://github.blog/changelog/2025-11-18-enhanced-mcp-oauth-support-for-github-copilot-in-jetbrains-eclipse-and-xcode)
+- [C++ and GitHub Copilot](https://www.youtube.com/watch?v=KBtrUhSXI-c)
+- [Create your blueprint for a successful AI transformation | ODSP1415](https://www.youtube.com/watch?v=looF4pizVps)
+- [Cloud innovation and efficiency with Arm-based Azure Cobalt100 VMs | ODSP1431](https://www.youtube.com/watch?v=tyavPF0DUrE)
+- [Redefining the SDLC with GitHub Copilot and Context-Driven AI | ODSP1414](https://www.youtube.com/watch?v=S7NzOIiqU2E)
+- [Redefining the SDLC with GitHub Copilot and Context-Driven AI | ODSP1414](https://www.youtube.com/watch?v=S7NzOIiqU2E)
 <!-- AZUREINFOHUB:END -->
 
 
