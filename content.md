@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [C++ and GitHub Copilot](https://www.youtube.com/watch?v=KBtrUhSXI-c)
-- [Create your blueprint for a successful AI transformation | ODSP1415](https://www.youtube.com/watch?v=looF4pizVps)
-- [Cloud innovation and efficiency with Arm-based Azure Cobalt100 VMs | ODSP1431](https://www.youtube.com/watch?v=tyavPF0DUrE)
-- [Redefining the SDLC with GitHub Copilot and Context-Driven AI | ODSP1414](https://www.youtube.com/watch?v=S7NzOIiqU2E)
-- [Redefining the SDLC with GitHub Copilot and Context-Driven AI | ODSP1414](https://www.youtube.com/watch?v=S7NzOIiqU2E)
+- [Linter integration with Copilot code review now in public preview](https://github.blog/changelog/2025-11-20-linter-integration-with-copilot-code-review-now-in-public-preview)
+- [Technical deep dive on Managed Instance for App Service | BRK102](https://www.youtube.com/watch?v=biO3I2mFvV4)
+- [Monitor, optimize and scale with AI Observability in Microsoft Foundry | BRK190](https://www.youtube.com/watch?v=LOLI0emzDb0)
+- [Apps, agents, and MCP is the AI innovation recipe | BRK116](https://www.youtube.com/watch?v=vnJP6xWHhO0)
+- [AI builder’s guide to agent development in Foundry Agent Service | BRK201](https://www.youtube.com/watch?v=7faSLQS501E)
 <!-- AZUREINFOHUB:END -->
 
 
