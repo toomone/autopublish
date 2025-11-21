@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Linter integration with Copilot code review now in public preview](https://github.blog/changelog/2025-11-20-linter-integration-with-copilot-code-review-now-in-public-preview)
-- [Technical deep dive on Managed Instance for App Service | BRK102](https://www.youtube.com/watch?v=biO3I2mFvV4)
-- [Monitor, optimize and scale with AI Observability in Microsoft Foundry | BRK190](https://www.youtube.com/watch?v=LOLI0emzDb0)
-- [Apps, agents, and MCP is the AI innovation recipe | BRK116](https://www.youtube.com/watch?v=vnJP6xWHhO0)
-- [AI builder’s guide to agent development in Foundry Agent Service | BRK201](https://www.youtube.com/watch?v=7faSLQS501E)
+- [Experience AI transformation through real-world adoption and insights | BRKSP481](https://www.youtube.com/watch?v=foo_iB5eZzs)
+- [Engineering the Future in the Age of Digital Product Innovation | BRK376](https://www.youtube.com/watch?v=_kkIFY0G9FE)
+- [Agents, apps, and acceleration: Helping software companies grow | BRK214](https://www.youtube.com/watch?v=DBrfh0vOBxY)
+- [Reimagining software development with GitHub Copilot and AI agents | BRK105](https://www.youtube.com/watch?v=5Kfb2Zicn0A)
+- [Reimagining software development with GitHub Copilot and AI agents | BRK105](https://www.youtube.com/watch?v=5Kfb2Zicn0A)
 <!-- AZUREINFOHUB:END -->
 
 
