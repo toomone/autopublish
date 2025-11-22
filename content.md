@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Experience AI transformation through real-world adoption and insights | BRKSP481](https://www.youtube.com/watch?v=foo_iB5eZzs)
-- [Engineering the Future in the Age of Digital Product Innovation | BRK376](https://www.youtube.com/watch?v=_kkIFY0G9FE)
-- [Agents, apps, and acceleration: Helping software companies grow | BRK214](https://www.youtube.com/watch?v=DBrfh0vOBxY)
-- [Reimagining software development with GitHub Copilot and AI agents | BRK105](https://www.youtube.com/watch?v=5Kfb2Zicn0A)
-- [Reimagining software development with GitHub Copilot and AI agents | BRK105](https://www.youtube.com/watch?v=5Kfb2Zicn0A)
+- [Ship faster. Stress Less. Idea to ops with Azure and GitHub Copilot | BRK109](https://www.youtube.com/watch?v=JxoC8siCf8Y)
+- [Visual Studio Code for IT pros who like sleep | BRK111](https://www.youtube.com/watch?v=3K9kKLMU9rs)
+- [Secure your applications: Unified Visibility and Posture Management | BRK263](https://www.youtube.com/watch?v=SxZdqBZTqks)
+- [Innovation Session: Build &amp; Manage AI Apps with Your Agent Factory | BRK1706](https://www.youtube.com/watch?v=QoZRWC8irLs)
+- [Be more productive in your SAP Environment with ABAP AI model in VS Code | STUDIOSP70](https://www.youtube.com/watch?v=BlvSF-t0AC8)
 <!-- AZUREINFOHUB:END -->
 
 
