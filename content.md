@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Ship faster. Stress Less. Idea to ops with Azure and GitHub Copilot | BRK109](https://www.youtube.com/watch?v=JxoC8siCf8Y)
-- [Visual Studio Code for IT pros who like sleep | BRK111](https://www.youtube.com/watch?v=3K9kKLMU9rs)
-- [Secure your applications: Unified Visibility and Posture Management | BRK263](https://www.youtube.com/watch?v=SxZdqBZTqks)
-- [Innovation Session: Build &amp; Manage AI Apps with Your Agent Factory | BRK1706](https://www.youtube.com/watch?v=QoZRWC8irLs)
-- [Be more productive in your SAP Environment with ABAP AI model in VS Code | STUDIOSP70](https://www.youtube.com/watch?v=BlvSF-t0AC8)
+- [Claude Opus 4.5 is in public preview for GitHub Copilot](https://github.blog/changelog/2025-11-24-claude-opus-4-5-is-in-public-preview-for-github-copilot)
+- [Enterprise ready Windows productivity tools for Developers and IT Pros | BRK330](https://www.youtube.com/watch?v=mJQxAKYkCBk)
+- [AI use cases to transform your Oracle workloads in Azure | BRK164](https://www.youtube.com/watch?v=nHVwGyxP_Fg)
+- [Govern your estate using PowerShell and the CLI with AI | BRK170](https://www.youtube.com/watch?v=BZ9ne3qjUqk)
+- [Secure, compliant, and fast with GitHub | BRK108](https://www.youtube.com/watch?v=eXwqw2RSen8)
 <!-- AZUREINFOHUB:END -->
 
 
