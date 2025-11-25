@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [🎙️Public Preview: Azure Logic Apps Connectors as MCP Tools in Microsoft Foundry](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/%EF%B8%8Fpublic-preview-azure-logic-apps-connectors-as-mcp-tools-in/ba-p/4473062)
+- [Azure SRE Agent: Expanding Observability and Multi-Cloud Resilience](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-sre-agent-expanding-observability-and-multi-cloud/ba-p/4472719)
 - [Claude Opus 4.5 is in public preview for GitHub Copilot](https://github.blog/changelog/2025-11-24-claude-opus-4-5-is-in-public-preview-for-github-copilot)
+- [Evolving your IT career in the AI age | BRK1738](https://www.youtube.com/watch?v=c5cS6-tgeFw)
 - [Enterprise ready Windows productivity tools for Developers and IT Pros | BRK330](https://www.youtube.com/watch?v=mJQxAKYkCBk)
-- [AI use cases to transform your Oracle workloads in Azure | BRK164](https://www.youtube.com/watch?v=nHVwGyxP_Fg)
-- [Govern your estate using PowerShell and the CLI with AI | BRK170](https://www.youtube.com/watch?v=BZ9ne3qjUqk)
-- [Secure, compliant, and fast with GitHub | BRK108](https://www.youtube.com/watch?v=eXwqw2RSen8)
 <!-- AZUREINFOHUB:END -->
 
 
