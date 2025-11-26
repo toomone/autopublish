@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [The Ultimate Agent Mode Tutorial: Vision, MCP, Custom Agents &amp; More!](https://www.youtube.com/watch?v=5NxGqnTazR8)
 - [🎙️Public Preview: Azure Logic Apps Connectors as MCP Tools in Microsoft Foundry](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/%EF%B8%8Fpublic-preview-azure-logic-apps-connectors-as-mcp-tools-in/ba-p/4473062)
+- [Copilot agent sessions from external apps are now available on GitHub Mobile for Android](https://github.blog/changelog/2025-11-25-copilot-agent-sessions-from-external-apps-are-now-available-on-github-mobile-for-android)
 - [Azure SRE Agent: Expanding Observability and Multi-Cloud Resilience](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-sre-agent-expanding-observability-and-multi-cloud/ba-p/4472719)
 - [Claude Opus 4.5 is in public preview for GitHub Copilot](https://github.blog/changelog/2025-11-24-claude-opus-4-5-is-in-public-preview-for-github-copilot)
-- [Evolving your IT career in the AI age | BRK1738](https://www.youtube.com/watch?v=c5cS6-tgeFw)
-- [Enterprise ready Windows productivity tools for Developers and IT Pros | BRK330](https://www.youtube.com/watch?v=mJQxAKYkCBk)
 <!-- AZUREINFOHUB:END -->
 
 
