@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Unlocking Your First AI Solution on Azure: Practical Paths for Developers of All Backgrounds](https://techcommunity.microsoft.com/t5/microsoft-developer-community/unlocking-your-first-ai-solution-on-azure-practical-paths-for/ba-p/4472327)
+- [Azure Skilling at Microsoft Ignite 2025](https://techcommunity.microsoft.com/t5/microsoft-developer-community/azure-skilling-at-microsoft-ignite-2025/ba-p/4472678)
 - [The Ultimate Agent Mode Tutorial: Vision, MCP, Custom Agents &amp; More!](https://www.youtube.com/watch?v=5NxGqnTazR8)
-- [🎙️Public Preview: Azure Logic Apps Connectors as MCP Tools in Microsoft Foundry](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/%EF%B8%8Fpublic-preview-azure-logic-apps-connectors-as-mcp-tools-in/ba-p/4473062)
-- [Copilot agent sessions from external apps are now available on GitHub Mobile for Android](https://github.blog/changelog/2025-11-25-copilot-agent-sessions-from-external-apps-are-now-available-on-github-mobile-for-android)
-- [Azure SRE Agent: Expanding Observability and Multi-Cloud Resilience](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-sre-agent-expanding-observability-and-multi-cloud/ba-p/4472719)
-- [Claude Opus 4.5 is in public preview for GitHub Copilot](https://github.blog/changelog/2025-11-24-claude-opus-4-5-is-in-public-preview-for-github-copilot)
+- [Deploying and operating Power Platform solutions with DevOps | BRK310](https://www.youtube.com/watch?v=KZ5ePLtasAQ)
+- [Safe and scalable DevOps with AI agents on GitHub | BRK107](https://www.youtube.com/watch?v=16_x7e0d_SY)
 <!-- AZUREINFOHUB:END -->
 
 
