@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Azure App Service AI Scenarios: Complete Sample with AI Foundry Integration](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-app-service-ai-scenarios-complete-sample-with-ai-foundry/ba-p/4473142)
 - [Unlocking Your First AI Solution on Azure: Practical Paths for Developers of All Backgrounds](https://techcommunity.microsoft.com/t5/microsoft-developer-community/unlocking-your-first-ai-solution-on-azure-practical-paths-for/ba-p/4472327)
 - [Azure Skilling at Microsoft Ignite 2025](https://techcommunity.microsoft.com/t5/microsoft-developer-community/azure-skilling-at-microsoft-ignite-2025/ba-p/4472678)
 - [The Ultimate Agent Mode Tutorial: Vision, MCP, Custom Agents &amp; More!](https://www.youtube.com/watch?v=5NxGqnTazR8)
 - [Deploying and operating Power Platform solutions with DevOps | BRK310](https://www.youtube.com/watch?v=KZ5ePLtasAQ)
-- [Safe and scalable DevOps with AI agents on GitHub | BRK107](https://www.youtube.com/watch?v=16_x7e0d_SY)
 <!-- AZUREINFOHUB:END -->
 
 
