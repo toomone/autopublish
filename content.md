@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Logic Apps Aviators Newsletter - December 2025](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/logic-apps-aviators-newsletter-december-2025/ba-p/4474048)
-- [Alvin Ashcraft: Community Conferences - Episode 378](https://azuredevopspodcast.clear-measure.com/alvin-ashcraft-community-conferences-episode-378)
-- [Azure App Service AI Scenarios: Complete Sample with AI Foundry Integration](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-app-service-ai-scenarios-complete-sample-with-ai-foundry/ba-p/4473142)
-- [Unlocking Your First AI Solution on Azure: Practical Paths for Developers of All Backgrounds](https://techcommunity.microsoft.com/t5/microsoft-developer-community/unlocking-your-first-ai-solution-on-azure-practical-paths-for/ba-p/4472327)
-- [Azure Skilling at Microsoft Ignite 2025](https://techcommunity.microsoft.com/t5/microsoft-developer-community/azure-skilling-at-microsoft-ignite-2025/ba-p/4472678)
+- [Write tests faster with a custom agent #testing #ai](https://www.youtube.com/watch?v=eQWxLZTg-wE)
+- [Copilot Spaces: Public spaces and code view support](https://github.blog/changelog/2025-12-01-copilot-spaces-public-spaces-and-code-view-support)
+- [AI Toolkit + GitHub Copilot - Pt. 5:  Add Tracing to an Agent](https://www.youtube.com/watch?v=Rcjcf6HkrD8)
+- [AI Toolkit + GitHub Copilot - Pt. 4:  Generate Agent Code](https://www.youtube.com/watch?v=bKFp2w2O6fM)
+- [AI Toolkit + GitHub Copilot - Pt. 2:  Model Recommendations](https://www.youtube.com/watch?v=hVDGQG1mw88)
 <!-- AZUREINFOHUB:END -->
 
 
