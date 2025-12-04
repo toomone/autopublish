@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Claude Opus 4.5 is now available in Visual Studio, JetBrains IDEs, Xcode, and Eclipse](https://github.blog/changelog/2025-12-03-claude-opus-4-5-is-now-available-in-visual-studio-jetbrains-ides-xcode-and-eclipse)
-- [Assign issues to Copilot using the API](https://github.blog/changelog/2025-12-03-assign-issues-to-copilot-using-the-api)
-- [MCP to Production: Build an intelligent code-snippet agent using Azure Functions](https://www.youtube.com/watch?v=a_n0Qa1Zn6A)
-- [Agent‑to‑Agent at Scale: Advanced Multi-Agent Orchestration with SWE Agents and Agent Framework](https://www.youtube.com/watch?v=8aPnghV9QAQ)
-- [Multimodal in Minutes: Prototyping Agents with Microsoft Foundry + AI Toolkit](https://www.youtube.com/watch?v=Rd89wXT8lhs)
+- [How JP Espeña builds accessible HR and safety Power Apps | Keeping it Real | EP01](https://www.youtube.com/watch?v=P6RNw4wk5TM)
+- [OpenAI’s GPT-5.1-Codex-Max is now in public preview for GitHub Copilot](https://github.blog/changelog/2025-12-04-openais-gpt-5-1-codex-max-is-now-in-public-preview-for-github-copilot)
+- [Create, run and analyse load tests with VS Code and GitHub Copilot](https://www.youtube.com/watch?v=J4pIBwocmvE)
+- [AI Dev Days: Using AI to Enhance Developer Productivity](https://www.youtube.com/watch?v=GCLYC5d7kpI)
+- [AI Dev Days: Building AI Applications](https://www.youtube.com/watch?v=kZqGsoeP0kU)
 <!-- AZUREINFOHUB:END -->
 
 
