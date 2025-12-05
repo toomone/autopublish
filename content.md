@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Track Copilot code generation metrics in a dashboard](https://github.blog/changelog/2025-12-05-track-copilot-code-generation-metrics-in-a-dashboard)
+- [Learn MCP from our free livestream series in December](https://techcommunity.microsoft.com/t5/microsoft-developer-community/learn-mcp-from-our-free-livestream-series-in-december/ba-p/4474729)
+- [大規模エージェント連携 – SWE Agents × Microsoft Agent Framework で実現するマルチエージェント制御](https://www.youtube.com/watch?v=bS9Gdph0vJ0)
 - [How JP Espeña builds accessible HR and safety Power Apps | Keeping it Real | EP01](https://www.youtube.com/watch?v=P6RNw4wk5TM)
 - [OpenAI’s GPT-5.1-Codex-Max is now in public preview for GitHub Copilot](https://github.blog/changelog/2025-12-04-openais-gpt-5-1-codex-max-is-now-in-public-preview-for-github-copilot)
-- [Create, run and analyse load tests with VS Code and GitHub Copilot](https://www.youtube.com/watch?v=J4pIBwocmvE)
-- [AI Dev Days: Using AI to Enhance Developer Productivity](https://www.youtube.com/watch?v=GCLYC5d7kpI)
-- [AI Dev Days: Building AI Applications](https://www.youtube.com/watch?v=kZqGsoeP0kU)
 <!-- AZUREINFOHUB:END -->
 
 
