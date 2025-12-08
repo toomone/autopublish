@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Exploring the Future of AI Agents with Microsoft Foundry](https://techcommunity.microsoft.com/t5/microsoft-developer-community/exploring-the-future-of-ai-agents-with-microsoft-foundry/ba-p/4476107)
+- [Chris Wilke: Generated AI Stories - Episode 379](https://azuredevopspodcast.clear-measure.com/chris-wilke-generated-ai-stories-episode-379)
+- [Models, Evals, and Raptor Mini with Julia Kasper](https://www.youtube.com/watch?v=gjKq4KMEYkI)
+- [Agent HQ is now in VS Code](https://www.youtube.com/watch?v=Qfnod4Sw0gY)
 - [Track Copilot code generation metrics in a dashboard](https://github.blog/changelog/2025-12-05-track-copilot-code-generation-metrics-in-a-dashboard)
-- [Learn MCP from our free livestream series in December](https://techcommunity.microsoft.com/t5/microsoft-developer-community/learn-mcp-from-our-free-livestream-series-in-december/ba-p/4474729)
-- [大規模エージェント連携 – SWE Agents × Microsoft Agent Framework で実現するマルチエージェント制御](https://www.youtube.com/watch?v=bS9Gdph0vJ0)
-- [How JP Espeña builds accessible HR and safety Power Apps | Keeping it Real | EP01](https://www.youtube.com/watch?v=P6RNw4wk5TM)
-- [OpenAI’s GPT-5.1-Codex-Max is now in public preview for GitHub Copilot](https://github.blog/changelog/2025-12-04-openais-gpt-5-1-codex-max-is-now-in-public-preview-for-github-copilot)
 <!-- AZUREINFOHUB:END -->
 
 
