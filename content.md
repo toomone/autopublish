@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Exploring the Future of AI Agents with Microsoft Foundry](https://techcommunity.microsoft.com/t5/microsoft-developer-community/exploring-the-future-of-ai-agents-with-microsoft-foundry/ba-p/4476107)
-- [Chris Wilke: Generated AI Stories - Episode 379](https://azuredevopspodcast.clear-measure.com/chris-wilke-generated-ai-stories-episode-379)
-- [Models, Evals, and Raptor Mini with Julia Kasper](https://www.youtube.com/watch?v=gjKq4KMEYkI)
-- [Agent HQ is now in VS Code](https://www.youtube.com/watch?v=Qfnod4Sw0gY)
-- [Track Copilot code generation metrics in a dashboard](https://github.blog/changelog/2025-12-05-track-copilot-code-generation-metrics-in-a-dashboard)
+- [Announcing Azure DevOps Server General Availability](https://devblogs.microsoft.com/devops/announcing-azure-devops-server-general-availability/)
+- [AI Dev Days 2025: Your Gateway to the Future of AI Development](https://techcommunity.microsoft.com/t5/microsoft-developer-community/ai-dev-days-2025-your-gateway-to-the-future-of-ai-development/ba-p/4476113)
+- [From Large Semi-Structured Docs to Actionable Data: Reusable Pipelines with ADI, AI Search &amp; OpenAI](https://techcommunity.microsoft.com/t5/azure-architecture-blog/from-large-semi-structured-docs-to-actionable-data-reusable/ba-p/4474054)
+- [How to Modernise a Microsoft Access Database &lpar;Forms + VBA&rpar; to Node.JS, OpenAPI and SQL Server](https://techcommunity.microsoft.com/t5/azure-architecture-blog/how-to-modernise-a-microsoft-access-database-forms-vba-to-node/ba-p/4473504)
+- [Never Explain Context Twice: Introducing Azure SRE Agent memory](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/never-explain-context-twice-introducing-azure-sre-agent-memory/ba-p/4473059)
 <!-- AZUREINFOHUB:END -->
 
 
