@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Announcing Azure DevOps Server General Availability](https://devblogs.microsoft.com/devops/announcing-azure-devops-server-general-availability/)
-- [AI Dev Days 2025: Your Gateway to the Future of AI Development](https://techcommunity.microsoft.com/t5/microsoft-developer-community/ai-dev-days-2025-your-gateway-to-the-future-of-ai-development/ba-p/4476113)
-- [From Large Semi-Structured Docs to Actionable Data: Reusable Pipelines with ADI, AI Search &amp; OpenAI](https://techcommunity.microsoft.com/t5/azure-architecture-blog/from-large-semi-structured-docs-to-actionable-data-reusable/ba-p/4474054)
-- [How to Modernise a Microsoft Access Database &lpar;Forms + VBA&rpar; to Node.JS, OpenAPI and SQL Server](https://techcommunity.microsoft.com/t5/azure-architecture-blog/how-to-modernise-a-microsoft-access-database-forms-vba-to-node/ba-p/4473504)
-- [Never Explain Context Twice: Introducing Azure SRE Agent memory](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/never-explain-context-twice-introducing-azure-sre-agent-memory/ba-p/4473059)
+- [Auto model selection is generally available in GitHub Copilot in Visual Studio Code](https://github.blog/changelog/2025-12-10-auto-model-selection-is-generally-available-in-github-copilot-in-visual-studio-code)
+- [GitHub Spark: Improvements, DPA coverage, &amp; dedicated SKU](https://github.blog/changelog/2025-12-10-github-spark-improvements-dpa-coverage-dedicated-sku)
+- [The Road to Visual Studio 2026: Building a Faster, Smarter IDE](https://www.youtube.com/watch?v=uX67Il4hQBs)
+- [The GitHub MCP Server adds support for tool-specific configuration, and more](https://github.blog/changelog/2025-12-10-the-github-mcp-server-adds-support-for-tool-specific-configuration-and-more)
+- [Choose Your Modernization Adventure](https://www.youtube.com/watch?v=SXo5EaXNJl0)
 <!-- AZUREINFOHUB:END -->
 
 
