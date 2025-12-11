@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Auto model selection is generally available in GitHub Copilot in Visual Studio Code](https://github.blog/changelog/2025-12-10-auto-model-selection-is-generally-available-in-github-copilot-in-visual-studio-code)
-- [GitHub Spark: Improvements, DPA coverage, &amp; dedicated SKU](https://github.blog/changelog/2025-12-10-github-spark-improvements-dpa-coverage-dedicated-sku)
-- [The Road to Visual Studio 2026: Building a Faster, Smarter IDE](https://www.youtube.com/watch?v=uX67Il4hQBs)
-- [The GitHub MCP Server adds support for tool-specific configuration, and more](https://github.blog/changelog/2025-12-10-the-github-mcp-server-adds-support-for-tool-specific-configuration-and-more)
-- [Choose Your Modernization Adventure](https://www.youtube.com/watch?v=SXo5EaXNJl0)
+- [OpenAI’s GPT-5.2 is now in public preview for GitHub Copilot](https://github.blog/changelog/2025-12-11-openais-gpt-5-2-is-now-in-public-preview-for-github-copilot)
+- [New Breakpoint | Azure Static Web Apps for the Enterprise](https://www.youtube.com/watch?v=42zbqo0XIAE)
+- [GHU: Building AI Agents with VS Code and GitHub](https://www.youtube.com/watch?v=OE8waNlgeAk)
+- [Ignite BRK194: Driving agentic innovation w/ MCP as the backbone of tool-aware AI](https://www.youtube.com/watch?v=Wt1-u8wD_Xs)
+- [Ignite BRK109: Ship faster. Stress less. Idea to ops w/ Azure and GHCP](https://www.youtube.com/watch?v=fPSHFYyN-Do)
 <!-- AZUREINFOHUB:END -->
 
 
