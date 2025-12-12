@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [OpenAI’s GPT-5.2 is now in public preview for GitHub Copilot](https://github.blog/changelog/2025-12-11-openais-gpt-5-2-is-now-in-public-preview-for-github-copilot)
-- [New Breakpoint | Azure Static Web Apps for the Enterprise](https://www.youtube.com/watch?v=42zbqo0XIAE)
-- [GHU: Building AI Agents with VS Code and GitHub](https://www.youtube.com/watch?v=OE8waNlgeAk)
-- [Ignite BRK194: Driving agentic innovation w/ MCP as the backbone of tool-aware AI](https://www.youtube.com/watch?v=Wt1-u8wD_Xs)
-- [Ignite BRK109: Ship faster. Stress less. Idea to ops w/ Azure and GHCP](https://www.youtube.com/watch?v=fPSHFYyN-Do)
+- [Gemini 3 Pro is now available in Visual Studio, JetBrains IDEs, Xcode, and Eclipse](https://github.blog/changelog/2025-12-12-gemini-3-pro-is-now-available-in-visual-studio-jetbrains-ides-xcode-and-eclipse)
+- [Retirement of Global Personal Access Tokens in Azure DevOps](https://devblogs.microsoft.com/devops/retirement-of-global-personal-access-tokens-in-azure-devops/)
+- [Favorite way to use Copilot with April Yoho from GitHub 🤖✨ #vscode](https://www.youtube.com/watch?v=Tw3l74DJ35s)
+- [How I shipped more code and products than ever before with GitHub Copilot](https://www.youtube.com/watch?v=g658oC4nuMQ)
+- [Tackling tech debt with the GitHub Copilot Cloud Agent](https://www.youtube.com/watch?v=gaejtW5dKsY)
 <!-- AZUREINFOHUB:END -->
 
 
