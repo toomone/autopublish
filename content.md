@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Streamline Azure NetApp Files Management—Right from Your IDE](https://techcommunity.microsoft.com/t5/azure-architecture-blog/streamline-azure-netapp-files-management-right-from-your-ide/ba-p/4478122)
+- [Streamline Azure NetApp Files Management—Right from Your IDE](https://techcommunity.microsoft.com/t5/azure-architecture-blog/streamline-azure-netapp-files-management-right-from-your-ide/ba-p/4478122)
+- [Streamlining Your Git Workflow](https://www.youtube.com/watch?v=5Y43j3AylxE)
+- [Jared Parsons: The Latest with C# - Episode 380](https://azuredevopspodcast.clear-measure.com/jared-parsons-the-latest-with-c-episode-380)
 - [State of the AI World for Developers](https://www.youtube.com/watch?v=h0kwf4Q7IQw)
-- [Gemini 3 Pro is now available in Visual Studio, JetBrains IDEs, Xcode, and Eclipse](https://github.blog/changelog/2025-12-12-gemini-3-pro-is-now-available-in-visual-studio-jetbrains-ides-xcode-and-eclipse)
-- [Retirement of Global Personal Access Tokens in Azure DevOps](https://devblogs.microsoft.com/devops/retirement-of-global-personal-access-tokens-in-azure-devops/)
-- [Favorite way to use Copilot with April Yoho from GitHub 🤖✨ #vscode](https://www.youtube.com/watch?v=Tw3l74DJ35s)
-- [How I shipped more code and products than ever before with GitHub Copilot](https://www.youtube.com/watch?v=g658oC4nuMQ)
 <!-- AZUREINFOHUB:END -->
 
 
