@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Azure Boards integration with GitHub Copilot](https://devblogs.microsoft.com/devops/github-copilot-for-azure-boards/)
 - [Retirement of Global Personal Access Tokens in Azure DevOps](https://devblogs.microsoft.com/devops/retirement-of-global-personal-access-tokens-in-azure-devops/)
 - [Announcing Azure DevOps Server General Availability](https://devblogs.microsoft.com/devops/announcing-azure-devops-server-general-availability/)
 - [Azure DevOps and GitHub Repositories — Next Steps in the Path to Agentic AI](https://devblogs.microsoft.com/devops/azure-devops-and-github-repositories-next-steps-in-the-path-to-agentic-ai/)
 - [November Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/november-patches-for-azure-devops-server-2/)
-- [Azure Developer CLI: Azure Container Apps Dev-to-Prod Deployment with Layered Infrastructure](https://devblogs.microsoft.com/devops/azure-developer-cli-azure-container-apps-dev-to-prod-deployment-with-layered-infrastructure/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
