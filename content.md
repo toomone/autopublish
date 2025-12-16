@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Streamline Azure NetApp Files Management—Right from Your IDE](https://techcommunity.microsoft.com/t5/azure-architecture-blog/streamline-azure-netapp-files-management-right-from-your-ide/ba-p/4478122)
-- [Streamline Azure NetApp Files Management—Right from Your IDE](https://techcommunity.microsoft.com/t5/azure-architecture-blog/streamline-azure-netapp-files-management-right-from-your-ide/ba-p/4478122)
-- [Streamlining Your Git Workflow](https://www.youtube.com/watch?v=5Y43j3AylxE)
-- [Jared Parsons: The Latest with C# - Episode 380](https://azuredevopspodcast.clear-measure.com/jared-parsons-the-latest-with-c-episode-380)
-- [State of the AI World for Developers](https://www.youtube.com/watch?v=h0kwf4Q7IQw)
+- [C++ code editing tools for GitHub Copilot in public preview](https://github.blog/changelog/2025-12-16-c-code-editing-tools-for-github-copilot-in-public-preview)
+- [Track organization Copilot usage](https://github.blog/changelog/2025-12-16-track-organization-copilot-usage)
+- [Next-Level Debugging with GitHub Copilot in Visual Studio](https://www.youtube.com/watch?v=iFjQghRbJUw)
+- [Azure Boards integration with GitHub Copilot](https://devblogs.microsoft.com/devops/github-copilot-for-azure-boards/)
+- [Azure Boards integration with GitHub Copilot](https://devblogs.microsoft.com/devops/github-copilot-for-azure-boards/)
 <!-- AZUREINFOHUB:END -->
 
 
