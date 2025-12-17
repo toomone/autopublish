@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [C++ code editing tools for GitHub Copilot in public preview](https://github.blog/changelog/2025-12-16-c-code-editing-tools-for-github-copilot-in-public-preview)
-- [Track organization Copilot usage](https://github.blog/changelog/2025-12-16-track-organization-copilot-usage)
-- [Next-Level Debugging with GitHub Copilot in Visual Studio](https://www.youtube.com/watch?v=iFjQghRbJUw)
-- [Azure Boards integration with GitHub Copilot](https://devblogs.microsoft.com/devops/github-copilot-for-azure-boards/)
-- [Azure Boards integration with GitHub Copilot](https://devblogs.microsoft.com/devops/github-copilot-for-azure-boards/)
+- [GPT-5.2 is now generally available in GitHub Copilot](https://github.blog/changelog/2025-12-17-gpt-5-2-is-now-generally-available-in-github-copilot)
+- [GPT-5.1-Codex-Max is now generally available in GitHub Copilot](https://github.blog/changelog/2025-12-17-gpt-5-1-codex-max-is-now-generally-available-in-github-copilot)
+- [GPT-5.1 and GPT-5.1-Codex are now generally available in GitHub Copilot](https://github.blog/changelog/2025-12-17-gpt-5-1-and-gpt-5-1-codex-are-now-generally-available-in-github-copilot)
+- [Copilot code review now available for organization members without a license](https://github.blog/changelog/2025-12-17-copilot-code-review-now-available-for-organization-members-without-a-license)
+- [Dynamic Copilot prompts on GitHub Docs](https://github.blog/changelog/2025-12-17-dynamic-copilot-prompts-on-github-docs)
 <!-- AZUREINFOHUB:END -->
 
 
