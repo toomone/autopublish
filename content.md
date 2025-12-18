@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [GPT-5.2 is now generally available in GitHub Copilot](https://github.blog/changelog/2025-12-17-gpt-5-2-is-now-generally-available-in-github-copilot)
-- [GPT-5.1-Codex-Max is now generally available in GitHub Copilot](https://github.blog/changelog/2025-12-17-gpt-5-1-codex-max-is-now-generally-available-in-github-copilot)
-- [GPT-5.1 and GPT-5.1-Codex are now generally available in GitHub Copilot](https://github.blog/changelog/2025-12-17-gpt-5-1-and-gpt-5-1-codex-are-now-generally-available-in-github-copilot)
-- [Copilot code review now available for organization members without a license](https://github.blog/changelog/2025-12-17-copilot-code-review-now-available-for-organization-members-without-a-license)
-- [Dynamic Copilot prompts on GitHub Docs](https://github.blog/changelog/2025-12-17-dynamic-copilot-prompts-on-github-docs)
+- [Building Reliable AI Travel Agents with the Durable Task Extension for Microsoft Agent Framework](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/building-reliable-ai-travel-agents-with-the-durable-task/ba-p/4478913)
+- [Assigning GitHub Copilot to an issue now adds you as an assignee](https://github.blog/changelog/2025-12-18-assigning-github-copilot-to-an-issue-now-adds-you-as-an-assignee)
+- [GitHub Copilot now supports Agent Skills](https://github.blog/changelog/2025-12-18-github-copilot-now-supports-agent-skills)
+- [Claude Opus 4.5 is now generally available in GitHub Copilot](https://github.blog/changelog/2025-12-18-claude-opus-4-5-is-now-generally-available-in-github-copilot)
+- [Copilot code review preview features now supported in GitHub Enterprise Cloud with data residency](https://github.blog/changelog/2025-12-18-copilot-code-review-preview-features-now-supported-in-github-enterprise-cloud-with-data-residency)
 <!-- AZUREINFOHUB:END -->
 
 
