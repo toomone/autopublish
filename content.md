@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Building Reliable AI Travel Agents with the Durable Task Extension for Microsoft Agent Framework](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/building-reliable-ai-travel-agents-with-the-durable-task/ba-p/4478913)
-- [Assigning GitHub Copilot to an issue now adds you as an assignee](https://github.blog/changelog/2025-12-18-assigning-github-copilot-to-an-issue-now-adds-you-as-an-assignee)
-- [GitHub Copilot now supports Agent Skills](https://github.blog/changelog/2025-12-18-github-copilot-now-supports-agent-skills)
-- [Claude Opus 4.5 is now generally available in GitHub Copilot](https://github.blog/changelog/2025-12-18-claude-opus-4-5-is-now-generally-available-in-github-copilot)
-- [Copilot code review preview features now supported in GitHub Enterprise Cloud with data residency](https://github.blog/changelog/2025-12-18-copilot-code-review-preview-features-now-supported-in-github-enterprise-cloud-with-data-residency)
+- [Work item linking for Advanced Security alerts now available](https://devblogs.microsoft.com/devops/work-item-linking-for-advanced-security-alerts-now-available/)
+- [Securely trigger GitHub Workflows and track their progress using Azure Logic Apps](https://www.youtube.com/watch?v=6S4g3tkgrlE)
+- [Copilot Memory early access for Pro and Pro+](https://github.blog/changelog/2025-12-19-copilot-memory-early-access-for-pro-and-pro)
+- [Learn how to build MCP servers with Python and Azure](https://techcommunity.microsoft.com/t5/microsoft-developer-community/learn-how-to-build-mcp-servers-with-python-and-azure/ba-p/4479402)
+- [Build a Voice-Enabled AI Agent in Minutes](https://www.youtube.com/watch?v=PYlfXkhoyQY)
 <!-- AZUREINFOHUB:END -->
 
 
