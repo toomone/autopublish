@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [The New Test Run Hub is Going Generally Available!](https://devblogs.microsoft.com/devops/the-new-test-run-hub-is-going-generally-available/)
+- [Glenn Condron: Aspire Strategy for .NET - Episode 381](https://azuredevopspodcast.clear-measure.com/glenn-condron-aspire-strategy-for-net-episode-381)
 - [Work item linking for Advanced Security alerts now available](https://devblogs.microsoft.com/devops/work-item-linking-for-advanced-security-alerts-now-available/)
 - [Securely trigger GitHub Workflows and track their progress using Azure Logic Apps](https://www.youtube.com/watch?v=6S4g3tkgrlE)
 - [Copilot Memory early access for Pro and Pro+](https://github.blog/changelog/2025-12-19-copilot-memory-early-access-for-pro-and-pro)
-- [Learn how to build MCP servers with Python and Azure](https://techcommunity.microsoft.com/t5/microsoft-developer-community/learn-how-to-build-mcp-servers-with-python-and-azure/ba-p/4479402)
-- [Build a Voice-Enabled AI Agent in Minutes](https://www.youtube.com/watch?v=PYlfXkhoyQY)
 <!-- AZUREINFOHUB:END -->
 
 
