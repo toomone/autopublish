@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [VS Code - 2025 Wrapped with Burke Holland and Pierce Boggan](https://www.youtube.com/watch?v=JilqJR1aZLs)
+- [Fix It Before They Feel It: Higher Reliability with Proactive Mitigation](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/fix-it-before-they-feel-it-higher-reliability-with-proactive/ba-p/4480444)
+- [Agentic DevOps in Real Life –  Build Faster, Ship Safer, Keep Humans in the Loop](https://www.youtube.com/watch?v=MtzTpoots-A)
+- [Agentic DevOps in Real Life –  Build Faster, Ship Safer, Keep Humans in the Loop](https://www.youtube.com/watch?v=MtzTpoots-A)
 - [The New Test Run Hub is Going Generally Available!](https://devblogs.microsoft.com/devops/the-new-test-run-hub-is-going-generally-available/)
-- [Glenn Condron: Aspire Strategy for .NET - Episode 381](https://azuredevopspodcast.clear-measure.com/glenn-condron-aspire-strategy-for-net-episode-381)
-- [Work item linking for Advanced Security alerts now available](https://devblogs.microsoft.com/devops/work-item-linking-for-advanced-security-alerts-now-available/)
-- [Securely trigger GitHub Workflows and track their progress using Azure Logic Apps](https://www.youtube.com/watch?v=6S4g3tkgrlE)
-- [Copilot Memory early access for Pro and Pro+](https://github.blog/changelog/2025-12-19-copilot-memory-early-access-for-pro-and-pro)
 <!-- AZUREINFOHUB:END -->
 
 
