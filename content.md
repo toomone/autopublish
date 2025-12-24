@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Extend SRE Agent with MCP: Build an Agentic Workflow to Triage Customer Issues](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/extend-sre-agent-with-mcp-build-an-agentic-workflow-to-triage/ba-p/4480710)
+- [Extend SRE Agent with MCP: Build an Agentic Workflow to Triage Customer Issues](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/extend-sre-agent-with-mcp-build-an-agentic-workflow-to-triage/ba-p/4480710)
 - [VS Code - 2025 Wrapped with Burke Holland and Pierce Boggan](https://www.youtube.com/watch?v=JilqJR1aZLs)
 - [Fix It Before They Feel It: Higher Reliability with Proactive Mitigation](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/fix-it-before-they-feel-it-higher-reliability-with-proactive/ba-p/4480444)
 - [Agentic DevOps in Real Life –  Build Faster, Ship Safer, Keep Humans in the Loop](https://www.youtube.com/watch?v=MtzTpoots-A)
-- [Agentic DevOps in Real Life –  Build Faster, Ship Safer, Keep Humans in the Loop](https://www.youtube.com/watch?v=MtzTpoots-A)
-- [The New Test Run Hub is Going Generally Available!](https://devblogs.microsoft.com/devops/the-new-test-run-hub-is-going-generally-available/)
 <!-- AZUREINFOHUB:END -->
 
 
