@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Scott Hanselman: The Future of Software Engineering - Episode 382](https://azuredevopspodcast.clear-measure.com/scott-hanselman-the-future-of-software-engineering-episode-382)
 - [Agent Skills in VS Code](https://www.youtube.com/watch?v=Ey1-FuAUgkI)
 - [Extend SRE Agent with MCP: Build an Agentic Workflow to Triage Customer Issues](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/extend-sre-agent-with-mcp-build-an-agentic-workflow-to-triage/ba-p/4480710)
 - [Extend SRE Agent with MCP: Build an Agentic Workflow to Triage Customer Issues](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/extend-sre-agent-with-mcp-build-an-agentic-workflow-to-triage/ba-p/4480710)
 - [VS Code - 2025 Wrapped with Burke Holland and Pierce Boggan](https://www.youtube.com/watch?v=JilqJR1aZLs)
-- [Fix It Before They Feel It: Higher Reliability with Proactive Mitigation](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/fix-it-before-they-feel-it-higher-reliability-with-proactive/ba-p/4480444)
 <!-- AZUREINFOHUB:END -->
 
 
