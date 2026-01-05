@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [AD 2025 - The Year of AI-Driven Development – Looking Ahead to 2026 - Episode 383](https://azuredevopspodcast.clear-measure.com/ad-2025-the-year-of-ai-driven-development-looking-ahead-to-2026-episode-383)
 - [Take Action: Go Fast with GitHub](https://www.youtube.com/watch?v=EU2xbJI3rPQ)
 - [From Vibe Coding to Working App: How SRE Agent Completes the Developer Loop](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/from-vibe-coding-to-working-app-how-sre-agent-completes-the/ba-p/4482000)
 - [AI IDEs – What Do You Choose?](https://www.youtube.com/watch?v=NeT1zryaeDM)
 - [Your Codebase, Your Rules](https://www.youtube.com/watch?v=_fZZz_gIE8A)
-- [Scott Hanselman: The Future of Software Engineering - Episode 382](https://azuredevopspodcast.clear-measure.com/scott-hanselman-the-future-of-software-engineering-episode-382)
 <!-- AZUREINFOHUB:END -->
 
 
