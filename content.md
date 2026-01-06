@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [AD 2025 - The Year of AI-Driven Development – Looking Ahead to 2026 - Episode 383](https://azuredevopspodcast.clear-measure.com/ad-2025-the-year-of-ai-driven-development-looking-ahead-to-2026-episode-383)
-- [Take Action: Go Fast with GitHub](https://www.youtube.com/watch?v=EU2xbJI3rPQ)
-- [From Vibe Coding to Working App: How SRE Agent Completes the Developer Loop](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/from-vibe-coding-to-working-app-how-sre-agent-completes-the/ba-p/4482000)
-- [AI IDEs – What Do You Choose?](https://www.youtube.com/watch?v=NeT1zryaeDM)
-- [Your Codebase, Your Rules](https://www.youtube.com/watch?v=_fZZz_gIE8A)
+- [Gemini 3 Flash is now available in Visual Studio, JetBrains IDEs, Xcode, and Eclipse](https://github.blog/changelog/2026-01-06-gemini-3-flash-is-now-available-in-visual-studio-jetbrains-ides-xcode-and-eclipse)
+- [Find the Alerts You Didn&#39;t Know You Were Missing with Azure SRE Agent](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/find-the-alerts-you-didn-t-know-you-were-missing-with-azure-sre/ba-p/4483494)
+- [Find the Alerts You Didn&#39;t Know You Were Missing with Azure SRE Agent](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/find-the-alerts-you-didn-t-know-you-were-missing-with-azure-sre/ba-p/4483494)
+- [🔴 VS Code Live - Building a Space Invaders from 0 to prod thanks to AI inside VS Code](https://www.youtube.com/watch?v=_0SQuGw9JgE)
+- [Analyzing the Quality of Your Code](https://www.youtube.com/watch?v=FnAZv8hzVS4)
 <!-- AZUREINFOHUB:END -->
 
 
