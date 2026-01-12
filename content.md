@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Modernizing Your Apps](https://www.youtube.com/watch?v=QbU5g-TbssM)
+- [Carola Lilienthal and Henning Schwentner: Domain-Driven Transformation - Episode 384](https://azuredevopspodcast.clear-measure.com/carola-lilienthal-and-henning-schwentner-domain-driven-transformation-episode-384)
+- [Orchestrating Multiple Agents in VS Code with Ben &amp; Peng](https://www.youtube.com/watch?v=AtaehXB4hPQ)
 - [Introducing Agent Skills in VS Code](https://www.youtube.com/watch?v=JepVi1tBNEE)
 - [mpi-stage: High-Performance File Distribution for HPC Clusters](https://techcommunity.microsoft.com/t5/azure-high-performance-computing/mpi-stage-high-performance-file-distribution-for-hpc-clusters/ba-p/4484366)
-- [How to Deploy High-Performance Storage for AKS | Free, Open-Source Azure Container Storage](https://www.youtube.com/watch?v=DqabGLa_Hxo)
-- [Announcing Azure CycleCloud Workspace for Slurm: Version 2025.12.01 Release](https://techcommunity.microsoft.com/t5/azure-high-performance-computing/announcing-azure-cyclecloud-workspace-for-slurm-version-2025-12/ba-p/4481953)
-- [Gemini 3 Flash is now available in Visual Studio, JetBrains IDEs, Xcode, and Eclipse](https://github.blog/changelog/2026-01-06-gemini-3-flash-is-now-available-in-visual-studio-jetbrains-ides-xcode-and-eclipse)
 <!-- AZUREINFOHUB:END -->
 
 
