@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Upcoming deprecation of select GitHub Copilot models from Claude, Google, and OpenAI](https://github.blog/changelog/2026-01-13-upcoming-deprecation-of-select-github-copilot-models-from-claude-and-openai)
+- [Cross-Region Zero Trust: Connecting Power Platform to Azure PaaS across different regions](https://techcommunity.microsoft.com/t5/azure-architecture-blog/cross-region-zero-trust-connecting-power-platform-to-azure-paas/ba-p/4484995)
+- [🚀 AI Toolkit for VS Code: January 2026 Update](https://techcommunity.microsoft.com/t5/microsoft-developer-community/ai-toolkit-for-vs-code-january-2026-update/ba-p/4485205)
+- [Static Egress Gateway in AKS: The Native Way to Control Multiple Outbound IPs](https://techcommunity.microsoft.com/t5/azure-architecture-blog/static-egress-gateway-in-aks-the-native-way-to-control-multiple/ba-p/4484179)
 - [Modernizing Your Apps](https://www.youtube.com/watch?v=QbU5g-TbssM)
-- [Carola Lilienthal and Henning Schwentner: Domain-Driven Transformation - Episode 384](https://azuredevopspodcast.clear-measure.com/carola-lilienthal-and-henning-schwentner-domain-driven-transformation-episode-384)
-- [Orchestrating Multiple Agents in VS Code with Ben &amp; Peng](https://www.youtube.com/watch?v=AtaehXB4hPQ)
-- [Introducing Agent Skills in VS Code](https://www.youtube.com/watch?v=JepVi1tBNEE)
-- [mpi-stage: High-Performance File Distribution for HPC Clusters](https://techcommunity.microsoft.com/t5/azure-high-performance-computing/mpi-stage-high-performance-file-distribution-for-hpc-clusters/ba-p/4484366)
 <!-- AZUREINFOHUB:END -->
 
 
