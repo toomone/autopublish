@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [GitHub Copilot CLI: Enhanced agents, context management, and new ways to install](https://github.blog/changelog/2026-01-14-github-copilot-cli-enhanced-agents-context-management-and-new-ways-to-install)
+- [App Service Easy MCP: Add AI Agent Capabilities to Your Existing Apps with Zero Code Changes](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/app-service-easy-mcp-add-ai-agent-capabilities-to-your-existing/ba-p/4484513)
+- [GPT-5.2-Codex is now generally available in GitHub Copilot](https://github.blog/changelog/2026-01-14-gpt-5-2-codex-is-now-generally-available-in-github-copilot)
+- [Run Your AI Coding Agent in Containers - Complete Beginner&#39;s Guide](https://www.youtube.com/watch?v=w3kI6XlZXZQ)
 - [Upcoming deprecation of select GitHub Copilot models from Claude, Google, and OpenAI](https://github.blog/changelog/2026-01-13-upcoming-deprecation-of-select-github-copilot-models-from-claude-and-openai)
-- [Cross-Region Zero Trust: Connecting Power Platform to Azure PaaS across different regions](https://techcommunity.microsoft.com/t5/azure-architecture-blog/cross-region-zero-trust-connecting-power-platform-to-azure-paas/ba-p/4484995)
-- [🚀 AI Toolkit for VS Code: January 2026 Update](https://techcommunity.microsoft.com/t5/microsoft-developer-community/ai-toolkit-for-vs-code-january-2026-update/ba-p/4485205)
-- [Static Egress Gateway in AKS: The Native Way to Control Multiple Outbound IPs](https://techcommunity.microsoft.com/t5/azure-architecture-blog/static-egress-gateway-in-aks-the-native-way-to-control-multiple/ba-p/4484179)
-- [Modernizing Your Apps](https://www.youtube.com/watch?v=QbU5g-TbssM)
 <!-- AZUREINFOHUB:END -->
 
 
