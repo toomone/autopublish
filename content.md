@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [GitHub Copilot bring your own key &lpar;BYOK&rpar; enhancements](https://github.blog/changelog/2026-01-15-github-copilot-bring-your-own-key-byok-enhancements)
+- [AI Transcription &amp; Text Analytics for Health](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/ai-transcription-text-analytics-for-health/ba-p/4486080)
+- [Join our free livestream series on building agents in Python](https://techcommunity.microsoft.com/t5/microsoft-developer-community/join-our-free-livestream-series-on-building-agents-in-python/ba-p/4485731)
+- [Copilot SDK in technical preview](https://github.blog/changelog/2026-01-14-copilot-sdk-in-technical-preview)
 - [GitHub Copilot CLI: Enhanced agents, context management, and new ways to install](https://github.blog/changelog/2026-01-14-github-copilot-cli-enhanced-agents-context-management-and-new-ways-to-install)
-- [App Service Easy MCP: Add AI Agent Capabilities to Your Existing Apps with Zero Code Changes](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/app-service-easy-mcp-add-ai-agent-capabilities-to-your-existing/ba-p/4484513)
-- [GPT-5.2-Codex is now generally available in GitHub Copilot](https://github.blog/changelog/2026-01-14-gpt-5-2-codex-is-now-generally-available-in-github-copilot)
-- [Run Your AI Coding Agent in Containers - Complete Beginner&#39;s Guide](https://www.youtube.com/watch?v=w3kI6XlZXZQ)
-- [Upcoming deprecation of select GitHub Copilot models from Claude, Google, and OpenAI](https://github.blog/changelog/2026-01-13-upcoming-deprecation-of-select-github-copilot-models-from-claude-and-openai)
 <!-- AZUREINFOHUB:END -->
 
 
