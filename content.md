@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [What’s new with Azure Repos?](https://devblogs.microsoft.com/devops/whats-new-with-azure-repos/)
+- [Deploy PostgreSQL on Azure VMs with Azure NetApp Files: Production-Ready Infrastructure as Code](https://techcommunity.microsoft.com/t5/azure-architecture-blog/deploy-postgresql-on-azure-vms-with-azure-netapp-files/ba-p/4486114)
+- [Deploy PostgreSQL on Azure VMs with Azure NetApp Files: Production-Ready Infrastructure as Code](https://techcommunity.microsoft.com/t5/azure-architecture-blog/deploy-postgresql-on-azure-vms-with-azure-netapp-files/ba-p/4486114)
+- [Agentic memory for GitHub Copilot is in public preview](https://github.blog/changelog/2026-01-15-agentic-memory-for-github-copilot-is-in-public-preview)
 - [GitHub Copilot bring your own key &lpar;BYOK&rpar; enhancements](https://github.blog/changelog/2026-01-15-github-copilot-bring-your-own-key-byok-enhancements)
-- [AI Transcription &amp; Text Analytics for Health](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/ai-transcription-text-analytics-for-health/ba-p/4486080)
-- [Join our free livestream series on building agents in Python](https://techcommunity.microsoft.com/t5/microsoft-developer-community/join-our-free-livestream-series-on-building-agents-in-python/ba-p/4485731)
-- [Copilot SDK in technical preview](https://github.blog/changelog/2026-01-14-copilot-sdk-in-technical-preview)
-- [GitHub Copilot CLI: Enhanced agents, context management, and new ways to install](https://github.blog/changelog/2026-01-14-github-copilot-cli-enhanced-agents-context-management-and-new-ways-to-install)
 <!-- AZUREINFOHUB:END -->
 
 
