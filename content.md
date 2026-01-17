@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Modernizing Java EE Applications to Jakarta EE with GitHub Copilot App Modernization](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/modernizing-java-ee-applications-to-jakarta-ee-with-github/ba-p/4486471)
+- [GitHub Copilot now supports OpenCode](https://github.blog/changelog/2026-01-16-github-copilot-now-supports-opencode)
 - [What’s new with Azure Repos?](https://devblogs.microsoft.com/devops/whats-new-with-azure-repos/)
 - [Deploy PostgreSQL on Azure VMs with Azure NetApp Files: Production-Ready Infrastructure as Code](https://techcommunity.microsoft.com/t5/azure-architecture-blog/deploy-postgresql-on-azure-vms-with-azure-netapp-files/ba-p/4486114)
 - [Deploy PostgreSQL on Azure VMs with Azure NetApp Files: Production-Ready Infrastructure as Code](https://techcommunity.microsoft.com/t5/azure-architecture-blog/deploy-postgresql-on-azure-vms-with-azure-netapp-files/ba-p/4486114)
-- [Agentic memory for GitHub Copilot is in public preview](https://github.blog/changelog/2026-01-15-agentic-memory-for-github-copilot-is-in-public-preview)
-- [GitHub Copilot bring your own key &lpar;BYOK&rpar; enhancements](https://github.blog/changelog/2026-01-15-github-copilot-bring-your-own-key-byok-enhancements)
 <!-- AZUREINFOHUB:END -->
 
 
