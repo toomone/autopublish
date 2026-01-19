@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Azure Boards additional field filters &lpar;private preview&rpar;](https://devblogs.microsoft.com/devops/azure-boards-additional-field-filters-private-preview/)
+- [Agents League Battle 1 - Creative Apps &lpar;GitHub Copilot&rpar;](https://www.youtube.com/watch?v=KC5JfMjNqx8)
+- [Graham McMillan: Database DevOps - Episode 385](https://azuredevopspodcast.clear-measure.com/graham-mcmillan-database-devops-episode-385)
 - [Modernizing Java EE Applications to Jakarta EE with GitHub Copilot App Modernization](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/modernizing-java-ee-applications-to-jakarta-ee-with-github/ba-p/4486471)
 - [GitHub Copilot now supports OpenCode](https://github.blog/changelog/2026-01-16-github-copilot-now-supports-opencode)
-- [What’s new with Azure Repos?](https://devblogs.microsoft.com/devops/whats-new-with-azure-repos/)
-- [Deploy PostgreSQL on Azure VMs with Azure NetApp Files: Production-Ready Infrastructure as Code](https://techcommunity.microsoft.com/t5/azure-architecture-blog/deploy-postgresql-on-azure-vms-with-azure-netapp-files/ba-p/4486114)
-- [Deploy PostgreSQL on Azure VMs with Azure NetApp Files: Production-Ready Infrastructure as Code](https://techcommunity.microsoft.com/t5/azure-architecture-blog/deploy-postgresql-on-azure-vms-with-azure-netapp-files/ba-p/4486114)
 <!-- AZUREINFOHUB:END -->
 
 
