@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Azure Boards additional field filters &lpar;private preview&rpar;](https://devblogs.microsoft.com/devops/azure-boards-additional-field-filters-private-preview/)
-- [Agents League Battle 1 - Creative Apps &lpar;GitHub Copilot&rpar;](https://www.youtube.com/watch?v=KC5JfMjNqx8)
-- [Graham McMillan: Database DevOps - Episode 385](https://azuredevopspodcast.clear-measure.com/graham-mcmillan-database-devops-episode-385)
-- [Modernizing Java EE Applications to Jakarta EE with GitHub Copilot App Modernization](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/modernizing-java-ee-applications-to-jakarta-ee-with-github/ba-p/4486471)
-- [GitHub Copilot now supports OpenCode](https://github.blog/changelog/2026-01-16-github-copilot-now-supports-opencode)
+- [Microsoft Foundry for VS Code: January 2026 Update](https://techcommunity.microsoft.com/t5/microsoft-developer-community/microsoft-foundry-for-vs-code-january-2026-update/ba-p/4486132)
+- [Modernizing Spring Framework Applications with GitHub Copilot App Modernization](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/modernizing-spring-framework-applications-with-github-copilot/ba-p/4486469)
+- [Upgrade your Java JDK &lpar;8, 11, 17, 21, or 25&rpar; with GitHub Copilot App Modernization](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/upgrade-your-java-jdk-8-11-17-21-or-25-with-github-copilot-app/ba-p/4486468)
+- [Modernizing Spring Boot Applications with GitHub Copilot App Modernization](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/modernizing-spring-boot-applications-with-github-copilot-app/ba-p/4486466)
+- [Migrating Application Credentials to Azure Key Vault with GitHub Copilot App Modernization](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/migrating-application-credentials-to-azure-key-vault-with-github/ba-p/4486482)
 <!-- AZUREINFOHUB:END -->
 
 
