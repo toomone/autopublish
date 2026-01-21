@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [GitHub Copilot CLI: Plan before you build, steer as you go](https://github.blog/changelog/2026-01-21-github-copilot-cli-plan-before-you-build-steer-as-you-go)
+- [Install and Use GitHub Copilot CLI directly from the GitHub CLI](https://github.blog/changelog/2026-01-21-install-and-use-github-copilot-cli-directly-from-the-github-cli)
+- [Orchestrate your Agents with Microsoft Agent Framework](https://www.youtube.com/watch?v=dg8eloQbKLM)
 - [Microsoft Foundry for VS Code: January 2026 Update](https://techcommunity.microsoft.com/t5/microsoft-developer-community/microsoft-foundry-for-vs-code-january-2026-update/ba-p/4486132)
 - [Modernizing Spring Framework Applications with GitHub Copilot App Modernization](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/modernizing-spring-framework-applications-with-github-copilot/ba-p/4486469)
-- [Upgrade your Java JDK &lpar;8, 11, 17, 21, or 25&rpar; with GitHub Copilot App Modernization](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/upgrade-your-java-jdk-8-11-17-21-or-25-with-github-copilot-app/ba-p/4486468)
-- [Modernizing Spring Boot Applications with GitHub Copilot App Modernization](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/modernizing-spring-boot-applications-with-github-copilot-app/ba-p/4486466)
-- [Migrating Application Credentials to Azure Key Vault with GitHub Copilot App Modernization](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/migrating-application-credentials-to-azure-key-vault-with-github/ba-p/4486482)
 <!-- AZUREINFOHUB:END -->
 
 
