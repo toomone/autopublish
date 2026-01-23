@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [GitHub Copilot CLI: Plan before you build, steer as you go](https://github.blog/changelog/2026-01-21-github-copilot-cli-plan-before-you-build-steer-as-you-go)
-- [Install and Use GitHub Copilot CLI directly from the GitHub CLI](https://github.blog/changelog/2026-01-21-install-and-use-github-copilot-cli-directly-from-the-github-cli)
-- [Orchestrate your Agents with Microsoft Agent Framework](https://www.youtube.com/watch?v=dg8eloQbKLM)
-- [Microsoft Foundry for VS Code: January 2026 Update](https://techcommunity.microsoft.com/t5/microsoft-developer-community/microsoft-foundry-for-vs-code-january-2026-update/ba-p/4486132)
-- [Modernizing Spring Framework Applications with GitHub Copilot App Modernization](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/modernizing-spring-framework-applications-with-github-copilot/ba-p/4486469)
+- [How to Request a VS Code Feature &lpar;The RIGHT Way&rpar;](https://www.youtube.com/watch?v=0Nq_ZzSU7lA)
+- [Using the GitHub Copilot SDK with Python](https://www.youtube.com/watch?v=G6Ywhqv_7WQ)
+- [GitHub Learn - GitHub Skills Intro](https://www.youtube.com/watch?v=3Bj-6LFCgJ8)
+- [Getting Started with GitHub Copilot](https://www.youtube.com/watch?v=hfHR0aeYF9o)
+- [.NET AI Community Standup - Using the GitHub Copilot SDK in .NET apps](https://www.youtube.com/watch?v=aKUZCxTdDDg)
 <!-- AZUREINFOHUB:END -->
 
 
