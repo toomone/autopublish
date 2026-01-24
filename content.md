@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Bringing work context to your code in GitHub Copilot](https://www.youtube.com/watch?v=ASvjwef7K04)
 - [How to Request a VS Code Feature &lpar;The RIGHT Way&rpar;](https://www.youtube.com/watch?v=0Nq_ZzSU7lA)
 - [Using the GitHub Copilot SDK with Python](https://www.youtube.com/watch?v=G6Ywhqv_7WQ)
 - [GitHub Learn - GitHub Skills Intro](https://www.youtube.com/watch?v=3Bj-6LFCgJ8)
 - [Getting Started with GitHub Copilot](https://www.youtube.com/watch?v=hfHR0aeYF9o)
-- [.NET AI Community Standup - Using the GitHub Copilot SDK in .NET apps](https://www.youtube.com/watch?v=aKUZCxTdDDg)
 <!-- AZUREINFOHUB:END -->
 
 
