@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Bringing work context to your code in GitHub Copilot](https://www.youtube.com/watch?v=ASvjwef7K04)
-- [How to Request a VS Code Feature &lpar;The RIGHT Way&rpar;](https://www.youtube.com/watch?v=0Nq_ZzSU7lA)
-- [Using the GitHub Copilot SDK with Python](https://www.youtube.com/watch?v=G6Ywhqv_7WQ)
-- [GitHub Learn - GitHub Skills Intro](https://www.youtube.com/watch?v=3Bj-6LFCgJ8)
-- [Getting Started with GitHub Copilot](https://www.youtube.com/watch?v=hfHR0aeYF9o)
+- [Introducing the Azure Static Web Apps Skill for GitHub Copilot](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/introducing-the-azure-static-web-apps-skill-for-github-copilot/ba-p/4487920)
+- [GPT-5.2-Codex is now available in Visual Studio, JetBrains IDEs, Xcode, and Eclipse](https://github.blog/changelog/2026-01-26-gpt-5-2-codex-is-now-available-in-visual-studio-jetbrains-ides-xcode-and-eclipse)
+- [Building a TOTP Authenticator App on Azure Functions and Azure Key Vault](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/building-a-totp-authenticator-app-on-azure-functions-and-azure/ba-p/4489332)
+- [Maddy Montaquila: .NET Update - Episode 386](https://azuredevopspodcast.clear-measure.com/maddy-montaquila-net-update-episode-386)
+- [Maddy Montaquila: .NET Update - Episode 386](https://azuredevopspodcast.clear-measure.com/maddy-montaquila-net-update-episode-386)
 <!-- AZUREINFOHUB:END -->
 
 
