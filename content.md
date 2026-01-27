@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Build AI Agents with GitHub Copilot SDK and Microsoft Agent Framework](https://devblogs.microsoft.com/semantic-kernel/build-ai-agents-with-github-copilot-sdk-and-microsoft-agent-framework/)
+- [VS Code Live - MCP Apps are live!](https://www.youtube.com/watch?v=HWmC3T5Wwqw)
+- [Introducing the Agents tab in your repository](https://github.blog/changelog/2026-01-26-introducing-the-agents-tab-in-your-repository)
 - [Introducing the Azure Static Web Apps Skill for GitHub Copilot](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/introducing-the-azure-static-web-apps-skill-for-github-copilot/ba-p/4487920)
 - [GPT-5.2-Codex is now available in Visual Studio, JetBrains IDEs, Xcode, and Eclipse](https://github.blog/changelog/2026-01-26-gpt-5-2-codex-is-now-available-in-visual-studio-jetbrains-ides-xcode-and-eclipse)
-- [Building a TOTP Authenticator App on Azure Functions and Azure Key Vault](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/building-a-totp-authenticator-app-on-azure-functions-and-azure/ba-p/4489332)
-- [Maddy Montaquila: .NET Update - Episode 386](https://azuredevopspodcast.clear-measure.com/maddy-montaquila-net-update-episode-386)
-- [Maddy Montaquila: .NET Update - Episode 386](https://azuredevopspodcast.clear-measure.com/maddy-montaquila-net-update-episode-386)
 <!-- AZUREINFOHUB:END -->
 
 
