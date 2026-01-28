@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [ACP support in Copilot CLI is now in public preview](https://github.blog/changelog/2026-01-28-acp-support-in-copilot-cli-is-now-in-public-preview)
+- [GitHub Copilot SDK and Hybrid AI in Practice: Automating README to PPT Transformation](https://techcommunity.microsoft.com/t5/microsoft-developer-community/github-copilot-sdk-and-hybrid-ai-in-practice-automating-readme/ba-p/4489694)
 - [Build AI Agents with GitHub Copilot SDK and Microsoft Agent Framework](https://devblogs.microsoft.com/semantic-kernel/build-ai-agents-with-github-copilot-sdk-and-microsoft-agent-framework/)
+- [Evaluating AI Models with Microsoft Foundry | MVP Unplugged](https://www.youtube.com/watch?v=o5o_pmMXJUs)
 - [VS Code Live - MCP Apps are live!](https://www.youtube.com/watch?v=HWmC3T5Wwqw)
-- [Introducing the Agents tab in your repository](https://github.blog/changelog/2026-01-26-introducing-the-agents-tab-in-your-repository)
-- [Introducing the Azure Static Web Apps Skill for GitHub Copilot](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/introducing-the-azure-static-web-apps-skill-for-github-copilot/ba-p/4487920)
-- [GPT-5.2-Codex is now available in Visual Studio, JetBrains IDEs, Xcode, and Eclipse](https://github.blog/changelog/2026-01-26-gpt-5-2-codex-is-now-available-in-visual-studio-jetbrains-ides-xcode-and-eclipse)
 <!-- AZUREINFOHUB:END -->
 
 
