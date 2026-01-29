@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [ACP support in Copilot CLI is now in public preview](https://github.blog/changelog/2026-01-28-acp-support-in-copilot-cli-is-now-in-public-preview)
-- [GitHub Copilot SDK and Hybrid AI in Practice: Automating README to PPT Transformation](https://techcommunity.microsoft.com/t5/microsoft-developer-community/github-copilot-sdk-and-hybrid-ai-in-practice-automating-readme/ba-p/4489694)
-- [Build AI Agents with GitHub Copilot SDK and Microsoft Agent Framework](https://devblogs.microsoft.com/semantic-kernel/build-ai-agents-with-github-copilot-sdk-and-microsoft-agent-framework/)
-- [Evaluating AI Models with Microsoft Foundry | MVP Unplugged](https://www.youtube.com/watch?v=o5o_pmMXJUs)
-- [VS Code Live - MCP Apps are live!](https://www.youtube.com/watch?v=HWmC3T5Wwqw)
+- [Copilot metrics in GitHub Enterprise Cloud with data residency in public preview](https://github.blog/changelog/2026-01-29-copilot-metrics-in-github-enterprise-cloud-with-data-residency-in-public-preview)
+- [Closing down notice of legacy Copilot metrics APIs](https://github.blog/changelog/2026-01-29-closing-down-notice-of-legacy-copilot-metrics-apis)
+- [Exploring Traffic Manager Integration for External DNS](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/exploring-traffic-manager-integration-for-external-dns/ba-p/4485690)
+- [Building Interactive Agent UIs with AG-UI and Microsoft Agent Framework](https://techcommunity.microsoft.com/t5/microsoft-developer-community/building-interactive-agent-uis-with-ag-ui-and-microsoft-agent/ba-p/4488249)
+- [Introducing Unit Test Agent Profiles for Logic Apps &amp; Data Maps](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/introducing-unit-test-agent-profiles-for-logic-apps-data-maps/ba-p/4490216)
 <!-- AZUREINFOHUB:END -->
 
 
