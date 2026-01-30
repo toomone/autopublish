@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Azure Local LENS workbook—deep insights at scale, in minutes](https://techcommunity.microsoft.com/t5/azure-architecture-blog/azure-local-lens-workbook-deep-insights-at-scale-in-minutes/ba-p/4490608)
+- [🦞 Deploy MoltBot to Azure Container Apps: Your 24/7 AI Assistant in 30 Minutes](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/deploy-moltbot-to-azure-container-apps-your-24-7-ai-assistant-in/ba-p/4490611)
+- [App modernization doesn&#39;t need to be a bother](https://www.youtube.com/watch?v=HPCQVTnlINs)
 - [Copilot metrics in GitHub Enterprise Cloud with data residency in public preview](https://github.blog/changelog/2026-01-29-copilot-metrics-in-github-enterprise-cloud-with-data-residency-in-public-preview)
 - [Closing down notice of legacy Copilot metrics APIs](https://github.blog/changelog/2026-01-29-closing-down-notice-of-legacy-copilot-metrics-apis)
-- [Exploring Traffic Manager Integration for External DNS](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/exploring-traffic-manager-integration-for-external-dns/ba-p/4485690)
-- [Building Interactive Agent UIs with AG-UI and Microsoft Agent Framework](https://techcommunity.microsoft.com/t5/microsoft-developer-community/building-interactive-agent-uis-with-ag-ui-and-microsoft-agent/ba-p/4488249)
-- [Introducing Unit Test Agent Profiles for Logic Apps &amp; Data Maps](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/introducing-unit-test-agent-profiles-for-logic-apps-data-maps/ba-p/4490216)
 <!-- AZUREINFOHUB:END -->
 
 
