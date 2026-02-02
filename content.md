@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [#276 - ToW Exploring SAP RPT-1 &lpar;Amit Lal&rpar; | SAP on Azure Video Podcast](https://www.youtube.com/watch?v=CbUDRgEO0yI)
-- [Azure Local LENS workbook—deep insights at scale, in minutes](https://techcommunity.microsoft.com/t5/azure-architecture-blog/azure-local-lens-workbook-deep-insights-at-scale-in-minutes/ba-p/4490608)
-- [🦞 Deploy MoltBot to Azure Container Apps: Your 24/7 AI Assistant in 30 Minutes](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/deploy-moltbot-to-azure-container-apps-your-24-7-ai-assistant-in/ba-p/4490611)
-- [App modernization doesn&#39;t need to be a bother](https://www.youtube.com/watch?v=HPCQVTnlINs)
-- [Copilot metrics in GitHub Enterprise Cloud with data residency in public preview](https://github.blog/changelog/2026-01-29-copilot-metrics-in-github-enterprise-cloud-with-data-residency-in-public-preview)
+- [Implementando GitHub Copilot CLI SDKs](https://www.youtube.com/watch?v=ZBQ_Uwzn_Lo)
+- [Descubriendo GitHub Copilot CLI](https://www.youtube.com/watch?v=3lkcGkG8Vxg)
+- [Logic Apps Aviators Newsletter - February 2026](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/logic-apps-aviators-newsletter-february-2026/ba-p/4491309)
+- [Boosting SQL Productivity with GitHub Copilot in SSMS 22](https://www.youtube.com/watch?v=kLaPjuFl_MU)
+- [Kevin Griffin: Engineering for System Uptime - Episode 387](https://azuredevopspodcast.clear-measure.com/kevin-griffin-engineering-for-system-uptime-episode-387)
 <!-- AZUREINFOHUB:END -->
 
 
