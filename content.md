@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Join the Agents League: A 2-Week AI Developer Challenge between Feb 16-27! 💥](https://www.youtube.com/watch?v=d6qt0xV0RV0)
+- [The Perfect Fusion of GitHub Copilot SDK and Cloud Native](https://techcommunity.microsoft.com/t5/microsoft-developer-community/the-perfect-fusion-of-github-copilot-sdk-and-cloud-native/ba-p/4491199)
 - [Implementando GitHub Copilot CLI SDKs](https://www.youtube.com/watch?v=ZBQ_Uwzn_Lo)
 - [Descubriendo GitHub Copilot CLI](https://www.youtube.com/watch?v=3lkcGkG8Vxg)
 - [Logic Apps Aviators Newsletter - February 2026](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/logic-apps-aviators-newsletter-february-2026/ba-p/4491309)
-- [Boosting SQL Productivity with GitHub Copilot in SSMS 22](https://www.youtube.com/watch?v=kLaPjuFl_MU)
-- [Kevin Griffin: Engineering for System Uptime - Episode 387](https://azuredevopspodcast.clear-measure.com/kevin-griffin-engineering-for-system-uptime-episode-387)
 <!-- AZUREINFOHUB:END -->
 
 
