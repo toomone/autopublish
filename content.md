@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Join the Agents League: A 2-Week AI Developer Challenge between Feb 16-27! 💥](https://www.youtube.com/watch?v=d6qt0xV0RV0)
-- [The Perfect Fusion of GitHub Copilot SDK and Cloud Native](https://techcommunity.microsoft.com/t5/microsoft-developer-community/the-perfect-fusion-of-github-copilot-sdk-and-cloud-native/ba-p/4491199)
-- [Implementando GitHub Copilot CLI SDKs](https://www.youtube.com/watch?v=ZBQ_Uwzn_Lo)
-- [Descubriendo GitHub Copilot CLI](https://www.youtube.com/watch?v=3lkcGkG8Vxg)
-- [Logic Apps Aviators Newsletter - February 2026](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/logic-apps-aviators-newsletter-february-2026/ba-p/4491309)
+- [Azure Boards integration with GitHub Copilot includes custom agent support](https://devblogs.microsoft.com/devops/azure-boards-integration-with-github-copilot-includes-custom-agent-support/)
+- [Azure Boards integration with GitHub Copilot includes custom agent support](https://devblogs.microsoft.com/devops/azure-boards-integration-with-github-copilot-includes-custom-agent-support/)
+- [Showing tool calls and other improvements to Copilot chat on the web](https://github.blog/changelog/2026-02-04-showing-tool-calls-and-other-improvements-to-copilot-chat-on-the-web)
+- [GitHub Copilot in Visual Studio Code v1.109 – January Release](https://github.blog/changelog/2026-02-04-github-copilot-in-visual-studio-code-v1-109-january-release)
+- [Serverless GPU Tutorial: Build an AI Image Generator with Azure Functions on Container Apps](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/serverless-gpu-tutorial-build-an-ai-image-generator-with-azure/ba-p/4492228)
 <!-- AZUREINFOHUB:END -->
 
 
