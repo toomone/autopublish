@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Azure Boards integration with GitHub Copilot includes custom agent support](https://devblogs.microsoft.com/devops/azure-boards-integration-with-github-copilot-includes-custom-agent-support/)
-- [Azure Boards integration with GitHub Copilot includes custom agent support](https://devblogs.microsoft.com/devops/azure-boards-integration-with-github-copilot-includes-custom-agent-support/)
-- [Showing tool calls and other improvements to Copilot chat on the web](https://github.blog/changelog/2026-02-04-showing-tool-calls-and-other-improvements-to-copilot-chat-on-the-web)
-- [GitHub Copilot in Visual Studio Code v1.109 – January Release](https://github.blog/changelog/2026-02-04-github-copilot-in-visual-studio-code-v1-109-january-release)
-- [Serverless GPU Tutorial: Build an AI Image Generator with Azure Functions on Container Apps](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/serverless-gpu-tutorial-build-an-ai-image-generator-with-azure/ba-p/4492228)
+- [Get started with Dynatrace MCP server in Azure SRE Agent](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/get-started-with-dynatrace-mcp-server-in-azure-sre-agent/ba-p/4492363)
+- [Claude Opus 4.6 is now generally available for GitHub Copilot](https://github.blog/changelog/2026-02-05-claude-opus-4-6-is-now-generally-available-for-github-copilot)
+- [An AI led SDLC: Building an End-to-End Agentic Software Development Lifecycle with Azure and GitHub.](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/an-ai-led-sdlc-building-an-end-to-end-agentic-software/ba-p/4491896)
+- [Writing Effective Prompts for Testing Scenarios: AI Assisted Quality Engineering](https://techcommunity.microsoft.com/t5/microsoft-developer-community/writing-effective-prompts-for-testing-scenarios-ai-assisted/ba-p/4488001)
+- [Multi-agent development in VS Code](https://www.youtube.com/watch?v=BsAHunfVwNs)
 <!-- AZUREINFOHUB:END -->
 
 
