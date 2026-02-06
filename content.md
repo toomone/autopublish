@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Get started with Dynatrace MCP server in Azure SRE Agent](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/get-started-with-dynatrace-mcp-server-in-azure-sre-agent/ba-p/4492363)
-- [Claude Opus 4.6 is now generally available for GitHub Copilot](https://github.blog/changelog/2026-02-05-claude-opus-4-6-is-now-generally-available-for-github-copilot)
-- [An AI led SDLC: Building an End-to-End Agentic Software Development Lifecycle with Azure and GitHub.](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/an-ai-led-sdlc-building-an-end-to-end-agentic-software/ba-p/4491896)
-- [Writing Effective Prompts for Testing Scenarios: AI Assisted Quality Engineering](https://techcommunity.microsoft.com/t5/microsoft-developer-community/writing-effective-prompts-for-testing-scenarios-ai-assisted/ba-p/4488001)
-- [Multi-agent development in VS Code](https://www.youtube.com/watch?v=BsAHunfVwNs)
+- [Coding at Game Speed](https://www.youtube.com/watch?v=yFMogrE9uBo)
+- [Chat with Your App Service Logs Using GitHub Copilot](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/chat-with-your-app-service-logs-using-github-copilot/ba-p/4491573)
+- [Centralized cluster performance metrics with ReFrame HPC and Azure Log Analytics](https://techcommunity.microsoft.com/t5/azure-high-performance-computing/centralized-cluster-performance-metrics-with-reframe-hpc-and/ba-p/4488077)
+- [Complete Guide to Deploying OpenClaw on Azure Windows 11 Virtual Machine](https://techcommunity.microsoft.com/t5/microsoft-developer-community/complete-guide-to-deploying-openclaw-on-azure-windows-11-virtual/ba-p/4492001)
+- [Agents League Battle 1 - Creative Apps &lpar;GitHub Copilot&rpar;](https://www.youtube.com/watch?v=33rGM-cpUAI)
 <!-- AZUREINFOHUB:END -->
 
 
