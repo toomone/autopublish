@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Fast mode for Claude Opus 4.6 is now in preview for GitHub Copilot](https://github.blog/changelog/2026-02-07-claude-opus-4-6-fast-is-now-in-public-preview-for-github-copilot)
-- [Moving Fast Without Breaking Things Using GitHub Code Quality](https://www.youtube.com/watch?v=t_QpdCsg8aQ)
-- [Code to cloud: Fast-track delivery with GitHub Copilot and Azure](https://www.youtube.com/watch?v=AOYBms1y_M4)
-- [From Idea to Intelligent Agent: Build, Debug &amp; Deploy AI Experiences Fast in VS Code](https://www.youtube.com/watch?v=v_Dpuc4Mz9g)
-- [Modernizing .NET at Scale with the GitHub Copilot App Mod Agent](https://www.youtube.com/watch?v=WereqTCPWIw)
+- [🦞 Deploy OpenClaw to Azure Container Apps: Your 24/7 AI Assistant in 30 Minutes](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/deploy-openclaw-to-azure-container-apps-your-24-7-ai-assistant/ba-p/4490611)
+- [GPT-5.3-Codex is now generally available for GitHub Copilot](https://github.blog/changelog/2026-02-09-gpt-5-3-codex-is-now-generally-available-for-github-copilot)
+- [David Starr: DevOps Success Story - Episode 388](https://azuredevopspodcast.clear-measure.com/david-starr-devops-success-story-episode-388)
+- [Subagents: Parallel Execution and Context Isolation](https://www.youtube.com/watch?v=GMAoTeD9siU)
+- [Choosing the Right Model in GitHub Copilot: A Practical Guide for Developers](https://techcommunity.microsoft.com/t5/microsoft-developer-community/choosing-the-right-model-in-github-copilot-a-practical-guide-for/ba-p/4491623)
 <!-- AZUREINFOHUB:END -->
 
 
