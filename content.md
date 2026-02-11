@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [From Local MCP Server to Hosted Web Agent: App Service Observability, Part 2](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/from-local-mcp-server-to-hosted-web-agent-app-service/ba-p/4493241)
+- [Agents League: Two Weeks, Three Tracks, One Challenge](https://techcommunity.microsoft.com/t5/microsoft-developer-community/agents-league-two-weeks-three-tracks-one-challenge/ba-p/4492102)
 - [February Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/february-patches-for-azure-devops-server-5/)
 - [Azure Arc Jumpstart Template for Hybrid Logic Apps Deployment](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-arc-jumpstart-template-for-hybrid-logic-apps-deployment/ba-p/4493996)
 - [🦞 Deploy OpenClaw to Azure Container Apps: Your 24/7 AI Assistant in 30 Minutes](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/deploy-openclaw-to-azure-container-apps-your-24-7-ai-assistant/ba-p/4490611)
-- [GPT-5.3-Codex is now generally available for GitHub Copilot](https://github.blog/changelog/2026-02-09-gpt-5-3-codex-is-now-generally-available-for-github-copilot)
-- [David Starr: DevOps Success Story - Episode 388](https://azuredevopspodcast.clear-measure.com/david-starr-devops-success-story-episode-388)
 <!-- AZUREINFOHUB:END -->
 
 
