@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [MCP-Driven Azure SRE for Databricks](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/mcp-driven-azure-sre-for-databricks/ba-p/4494630)
-- [1.109 VS Code Release Highlights](https://www.youtube.com/watch?v=LGx8YieBjIA)
-- [GitHub Mobile: Model picker for Copilot coding agent](https://github.blog/changelog/2026-02-11-github-mobile-model-picker-for-copilot-coding-agent)
-- [From Local MCP Server to Hosted Web Agent: App Service Observability, Part 2](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/from-local-mcp-server-to-hosted-web-agent-app-service/ba-p/4493241)
-- [Agents League: Two Weeks, Three Tracks, One Challenge](https://techcommunity.microsoft.com/t5/microsoft-developer-community/agents-league-two-weeks-three-tracks-one-challenge/ba-p/4492102)
+- [Network configuration changes for Copilot coding agent](https://github.blog/changelog/2026-02-13-network-configuration-changes-for-copilot-coding-agent)
+- [GitHub Agentic Workflows are now in technical preview](https://github.blog/changelog/2026-02-13-github-agentic-workflows-are-now-in-technical-preview)
+- [🚀 AI Toolkit for VS Code — February 2026 Update](https://techcommunity.microsoft.com/t5/microsoft-developer-community/ai-toolkit-for-vs-code-february-2026-update/ba-p/4493673)
+- [Azure WAF Compliance with MCP-Driven SRE Agent](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-waf-compliance-with-mcp-driven-sre-agent/ba-p/4494687)
+- [Azure WAF Compliance with MCP-Driven SRE Agent](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-waf-compliance-with-mcp-driven-sre-agent/ba-p/4494687)
 <!-- AZUREINFOHUB:END -->
 
 
