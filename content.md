@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [New features and improvements in GitHub Copilot in JetBrains IDEs](https://github.blog/changelog/2026-02-13-new-features-and-improvements-in-github-copilot-in-jetbrains-ides-2)
+- [Updated GitHub status page experience](https://github.blog/changelog/2026-02-13-updated-status-experience)
 - [Network configuration changes for Copilot coding agent](https://github.blog/changelog/2026-02-13-network-configuration-changes-for-copilot-coding-agent)
 - [GitHub Agentic Workflows are now in technical preview](https://github.blog/changelog/2026-02-13-github-agentic-workflows-are-now-in-technical-preview)
 - [🚀 AI Toolkit for VS Code — February 2026 Update](https://techcommunity.microsoft.com/t5/microsoft-developer-community/ai-toolkit-for-vs-code-february-2026-update/ba-p/4493673)
-- [Azure WAF Compliance with MCP-Driven SRE Agent](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-waf-compliance-with-mcp-driven-sre-agent/ba-p/4494687)
-- [Azure WAF Compliance with MCP-Driven SRE Agent](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-waf-compliance-with-mcp-driven-sre-agent/ba-p/4494687)
 <!-- AZUREINFOHUB:END -->
 
 
