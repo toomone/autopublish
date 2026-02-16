@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [New features and improvements in GitHub Copilot in JetBrains IDEs](https://github.blog/changelog/2026-02-13-new-features-and-improvements-in-github-copilot-in-jetbrains-ides-2)
-- [Updated GitHub status page experience](https://github.blog/changelog/2026-02-13-updated-status-experience)
-- [Network configuration changes for Copilot coding agent](https://github.blog/changelog/2026-02-13-network-configuration-changes-for-copilot-coding-agent)
-- [GitHub Agentic Workflows are now in technical preview](https://github.blog/changelog/2026-02-13-github-agentic-workflows-are-now-in-technical-preview)
-- [🚀 AI Toolkit for VS Code — February 2026 Update](https://techcommunity.microsoft.com/t5/microsoft-developer-community/ai-toolkit-for-vs-code-february-2026-update/ba-p/4493673)
+- [Condensed views on Kanban and Sprint boards](https://devblogs.microsoft.com/devops/condensed-views-on-kanban-and-sprint-boards/)
+- [Uno Platform - Now With AI!](https://www.youtube.com/watch?v=xGJ0U_E9LC8)
+- [Agents League: Join the Reasoning Agents Track](https://techcommunity.microsoft.com/t5/microsoft-developer-community/agents-league-join-the-reasoning-agents-track/ba-p/4494394)
+- [Damian Brady: GitHub AI - Episode 389](https://azuredevopspodcast.clear-measure.com/damian-brady-github-ai-episode-389)
+- [Damian Brady: GitHub AI - Episode 389](https://azuredevopspodcast.clear-measure.com/damian-brady-github-ai-episode-389)
 <!-- AZUREINFOHUB:END -->
 
 
