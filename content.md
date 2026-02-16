@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Condensed views on Kanban and Sprint boards](https://devblogs.microsoft.com/devops/condensed-views-on-kanban-and-sprint-boards/)
 - [February Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/february-patches-for-azure-devops-server-5/)
 - [Azure Boards integration with GitHub Copilot includes custom agent support](https://devblogs.microsoft.com/devops/azure-boards-integration-with-github-copilot-includes-custom-agent-support/)
 - [Azure Boards additional field filters (private preview)](https://devblogs.microsoft.com/devops/azure-boards-additional-field-filters-private-preview/)
 - [What’s new with Azure Repos?](https://devblogs.microsoft.com/devops/whats-new-with-azure-repos/)
-- [The New Test Run Hub is Going Generally Available!](https://devblogs.microsoft.com/devops/the-new-test-run-hub-is-going-generally-available/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
