@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Condensed views on Kanban and Sprint boards](https://devblogs.microsoft.com/devops/condensed-views-on-kanban-and-sprint-boards/)
-- [Uno Platform - Now With AI!](https://www.youtube.com/watch?v=xGJ0U_E9LC8)
-- [Agents League: Join the Reasoning Agents Track](https://techcommunity.microsoft.com/t5/microsoft-developer-community/agents-league-join-the-reasoning-agents-track/ba-p/4494394)
-- [Damian Brady: GitHub AI - Episode 389](https://azuredevopspodcast.clear-measure.com/damian-brady-github-ai-episode-389)
-- [Damian Brady: GitHub AI - Episode 389](https://azuredevopspodcast.clear-measure.com/damian-brady-github-ai-episode-389)
+- [Agentic Logic Apps Integration with SAP - Part 2: AI Agents](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/agentic-logic-apps-integration-with-sap-part-2-ai-agents/ba-p/4492362)
+- [Agentic Logic Apps Integration with SAP - Part 1: Infrastructure](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/agentic-logic-apps-integration-with-sap-part-1-infrastructure/ba-p/4491906)
+- [Claude Sonnet 4.6 is now generally available in GitHub Copilot](https://github.blog/changelog/2026-02-17-claude-sonnet-4-6-is-now-generally-available-in-github-copilot)
+- [MCP Registry and more improvements in Copilot in Eclipse](https://github.blog/changelog/2026-02-17-mcp-registry-and-more-improvements-in-copilot-in-eclipse)
+- [Delegate tasks to Copilot coding agent from Visual Studio](https://github.blog/changelog/2026-02-17-delegate-tasks-to-copilot-coding-agent-from-visual-studio)
 <!-- AZUREINFOHUB:END -->
 
 
