@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Agentic Logic Apps Integration with SAP - Part 2: AI Agents](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/agentic-logic-apps-integration-with-sap-part-2-ai-agents/ba-p/4492362)
-- [Agentic Logic Apps Integration with SAP - Part 1: Infrastructure](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/agentic-logic-apps-integration-with-sap-part-1-infrastructure/ba-p/4491906)
-- [Claude Sonnet 4.6 is now generally available in GitHub Copilot](https://github.blog/changelog/2026-02-17-claude-sonnet-4-6-is-now-generally-available-in-github-copilot)
-- [MCP Registry and more improvements in Copilot in Eclipse](https://github.blog/changelog/2026-02-17-mcp-registry-and-more-improvements-in-copilot-in-eclipse)
-- [Delegate tasks to Copilot coding agent from Visual Studio](https://github.blog/changelog/2026-02-17-delegate-tasks-to-copilot-coding-agent-from-visual-studio)
+- [Claude Opus 4.6 is now available in Visual Studio, JetBrains IDEs, Xcode, and Eclipse](https://github.blog/changelog/2026-02-18-claude-opus-4-6-is-now-available-in-visual-studio-jetbrains-ides-xcode-and-eclipse)
+- [Get started with Elasticsearch MCP server in Azure SRE Agent](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/get-started-with-elasticsearch-mcp-server-in-azure-sre-agent/ba-p/4492896)
+- [TFVC Remove Existing Obsolete Policies ASAP](https://devblogs.microsoft.com/devops/tfvc-remove-existing-obsolete-policies-asap/)
+- [🔴 Let it Cook - This changes EVERYTHING](https://www.youtube.com/watch?v=uquSQY10AGM)
+- [Logic Apps Agentic Workflows with SAP - Part 2: AI Agents](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/logic-apps-agentic-workflows-with-sap-part-2-ai-agents/ba-p/4492362)
 <!-- AZUREINFOHUB:END -->
 
 
