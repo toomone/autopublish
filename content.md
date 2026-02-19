@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Claude Opus 4.6 is now available in Visual Studio, JetBrains IDEs, Xcode, and Eclipse](https://github.blog/changelog/2026-02-18-claude-opus-4-6-is-now-available-in-visual-studio-jetbrains-ides-xcode-and-eclipse)
-- [Get started with Elasticsearch MCP server in Azure SRE Agent](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/get-started-with-elasticsearch-mcp-server-in-azure-sre-agent/ba-p/4492896)
-- [TFVC Remove Existing Obsolete Policies ASAP](https://devblogs.microsoft.com/devops/tfvc-remove-existing-obsolete-policies-asap/)
-- [🔴 Let it Cook - This changes EVERYTHING](https://www.youtube.com/watch?v=uquSQY10AGM)
-- [Logic Apps Agentic Workflows with SAP - Part 2: AI Agents](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/logic-apps-agentic-workflows-with-sap-part-2-ai-agents/ba-p/4492362)
+- [Copilot coding agent model picker for Copilot Business and Enterprise](https://github.blog/changelog/2026-02-19-model-picker-for-copilot-coding-agent-for-copilot-business-and-enterprise-users)
+- [Selected Anthropic and OpenAI models are now deprecated](https://github.blog/changelog/2026-02-19-selected-anthropic-and-openai-models-are-now-deprecated)
+- [Gemini 3.1 Pro is now in public preview in GitHub Copilot](https://github.blog/changelog/2026-02-19-gemini-3-1-pro-is-now-in-public-preview-in-github-copilot)
+- [Pull request throughput and time to merge available in Copilot usage metrics API](https://github.blog/changelog/2026-02-19-pull-request-throughput-and-time-to-merge-available-in-copilot-usage-metrics-api)
+- [Reactive Incident Response with Azure SRE Agent: From Alert to Resolution in Minutes](https://techcommunity.microsoft.com/t5/azure-architecture-blog/reactive-incident-response-with-azure-sre-agent-from-alert-to/ba-p/4492938)
 <!-- AZUREINFOHUB:END -->
 
 
