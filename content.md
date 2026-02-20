@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Copilot coding agent model picker for Copilot Business and Enterprise](https://github.blog/changelog/2026-02-19-model-picker-for-copilot-coding-agent-for-copilot-business-and-enterprise-users)
-- [Selected Anthropic and OpenAI models are now deprecated](https://github.blog/changelog/2026-02-19-selected-anthropic-and-openai-models-are-now-deprecated)
-- [Gemini 3.1 Pro is now in public preview in GitHub Copilot](https://github.blog/changelog/2026-02-19-gemini-3-1-pro-is-now-in-public-preview-in-github-copilot)
-- [Pull request throughput and time to merge available in Copilot usage metrics API](https://github.blog/changelog/2026-02-19-pull-request-throughput-and-time-to-merge-available-in-copilot-usage-metrics-api)
-- [Reactive Incident Response with Azure SRE Agent: From Alert to Resolution in Minutes](https://techcommunity.microsoft.com/t5/azure-architecture-blog/reactive-incident-response-with-azure-sre-agent-from-alert-to/ba-p/4492938)
+- [Organization-level Copilot usage metrics dashboard available in public preview](https://github.blog/changelog/2026-02-20-organization-level-copilot-usage-metrics-dashboard-available-in-public-preview)
+- [Customize your agents](https://www.youtube.com/watch?v=flpKLkZla2Q)
+- [Bring your own model in VS Code](https://www.youtube.com/watch?v=VBSVSxs16_I)
+- [A Unified Agent Experience](https://www.youtube.com/watch?v=YmpjvZ3xkx8)
+- [Host Declarative Markdown-Based Agents on Azure Functions](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/host-declarative-markdown-based-agents-on-azure-functions/ba-p/4496038)
 <!-- AZUREINFOHUB:END -->
 
 
