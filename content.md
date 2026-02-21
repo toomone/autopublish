@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Regional Endpoints for Geo-Replicated Azure Container Registries &lpar;Private Preview&rpar;](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/regional-endpoints-for-geo-replicated-azure-container-registries/ba-p/4496186)
 - [Organization-level Copilot usage metrics dashboard available in public preview](https://github.blog/changelog/2026-02-20-organization-level-copilot-usage-metrics-dashboard-available-in-public-preview)
+- [IA y Seguridad: La innovación por IA no sirve de nada si no es segura](https://www.youtube.com/watch?v=WDuEkiK5QoE)
 - [Customize your agents](https://www.youtube.com/watch?v=flpKLkZla2Q)
 - [Bring your own model in VS Code](https://www.youtube.com/watch?v=VBSVSxs16_I)
-- [A Unified Agent Experience](https://www.youtube.com/watch?v=YmpjvZ3xkx8)
-- [Host Declarative Markdown-Based Agents on Azure Functions](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/host-declarative-markdown-based-agents-on-azure-functions/ba-p/4496038)
 <!-- AZUREINFOHUB:END -->
 
 
