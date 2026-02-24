@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [On-Premises Manufacturing Intelligence](https://techcommunity.microsoft.com/t5/microsoft-developer-community/on-premises-manufacturing-intelligence/ba-p/4490771)
 - [You Can Host OpenClaw on Azure App Service — Here&#39;s How](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/you-can-host-openclaw-on-azure-app-service-here-s-how/ba-p/4496563)
 - [Paul Duvall: AI-Driven Development - Episode 390](https://azuredevopspodcast.clear-measure.com/paul-duvall-ai-driven-development-episode-390)
 - [How to Troubleshoot Azure Functions Not Visible in Azure Portal](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/how-to-troubleshoot-azure-functions-not-visible-in-azure-portal/ba-p/4495873)
 - [How to Troubleshoot Azure Functions Not Visible in Azure Portal](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/how-to-troubleshoot-azure-functions-not-visible-in-azure-portal/ba-p/4495873)
-- [Regional Endpoints for Geo-Replicated Azure Container Registries &lpar;Private Preview&rpar;](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/regional-endpoints-for-geo-replicated-azure-container-registries/ba-p/4496186)
 <!-- AZUREINFOHUB:END -->
 
 
