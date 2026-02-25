@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [GitHub Copilot CLI is now generally available](https://github.blog/changelog/2026-02-25-github-copilot-cli-is-now-generally-available)
+- [The JavaScript AI Build-a-thon Season 2 starts March 2!](https://techcommunity.microsoft.com/t5/microsoft-developer-community/the-javascript-ai-build-a-thon-season-2-starts-march-2/ba-p/4496855)
+- [Agents League Week 2 – Project Submissions Are Open! 🎉](https://www.youtube.com/watch?v=NR65tweIeGk)
+- [Creating applications with the Copilot CLI](https://www.youtube.com/watch?v=psqj9vmvCgc)
 - [On-Premises Manufacturing Intelligence](https://techcommunity.microsoft.com/t5/microsoft-developer-community/on-premises-manufacturing-intelligence/ba-p/4490771)
-- [You Can Host OpenClaw on Azure App Service — Here&#39;s How](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/you-can-host-openclaw-on-azure-app-service-here-s-how/ba-p/4496563)
-- [Paul Duvall: AI-Driven Development - Episode 390](https://azuredevopspodcast.clear-measure.com/paul-duvall-ai-driven-development-episode-390)
-- [How to Troubleshoot Azure Functions Not Visible in Azure Portal](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/how-to-troubleshoot-azure-functions-not-visible-in-azure-portal/ba-p/4495873)
-- [How to Troubleshoot Azure Functions Not Visible in Azure Portal](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/how-to-troubleshoot-azure-functions-not-visible-in-azure-portal/ba-p/4495873)
 <!-- AZUREINFOHUB:END -->
 
 
