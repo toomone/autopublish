@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [GitHub Copilot CLI is now generally available](https://github.blog/changelog/2026-02-25-github-copilot-cli-is-now-generally-available)
-- [The JavaScript AI Build-a-thon Season 2 starts March 2!](https://techcommunity.microsoft.com/t5/microsoft-developer-community/the-javascript-ai-build-a-thon-season-2-starts-march-2/ba-p/4496855)
-- [Agents League Week 2 – Project Submissions Are Open! 🎉](https://www.youtube.com/watch?v=NR65tweIeGk)
-- [Creating applications with the Copilot CLI](https://www.youtube.com/watch?v=psqj9vmvCgc)
-- [On-Premises Manufacturing Intelligence](https://techcommunity.microsoft.com/t5/microsoft-developer-community/on-premises-manufacturing-intelligence/ba-p/4490771)
+- [Copilot metrics report URLs update](https://github.blog/changelog/2026-02-26-copilot-metrics-report-urls-update)
+- [Enterprise AI Controls &amp; agent control plane now generally available](https://github.blog/changelog/2026-02-26-enterprise-ai-controls-agent-control-plane-now-generally-available)
+- [Claude and Codex now available for Copilot Business &amp; Pro users](https://github.blog/changelog/2026-02-26-claude-and-codex-now-available-for-copilot-business-pro-users)
+- [Copilot Content Exclusion REST API in public preview](https://github.blog/changelog/2026-02-26-copilot-content-exclusion-rest-api-in-public-preview)
+- [Exploring Azure Face API: Facial Landmark Detection and Real-Time Analysis with C#](https://techcommunity.microsoft.com/t5/microsoft-developer-community/exploring-azure-face-api-facial-landmark-detection-and-real-time/ba-p/4495335)
 <!-- AZUREINFOHUB:END -->
 
 
