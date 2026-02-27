@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Copilot metrics report URLs update](https://github.blog/changelog/2026-02-26-copilot-metrics-report-urls-update)
-- [Enterprise AI Controls &amp; agent control plane now generally available](https://github.blog/changelog/2026-02-26-enterprise-ai-controls-agent-control-plane-now-generally-available)
-- [Claude and Codex now available for Copilot Business &amp; Pro users](https://github.blog/changelog/2026-02-26-claude-and-codex-now-available-for-copilot-business-pro-users)
-- [Copilot Content Exclusion REST API in public preview](https://github.blog/changelog/2026-02-26-copilot-content-exclusion-rest-api-in-public-preview)
-- [Exploring Azure Face API: Facial Landmark Detection and Real-Time Analysis with C#](https://techcommunity.microsoft.com/t5/microsoft-developer-community/exploring-azure-face-api-facial-landmark-detection-and-real-time/ba-p/4495335)
+- [Updates to Team Calendar extension](https://devblogs.microsoft.com/devops/updates-to-team-calendar-extension/)
+- [Copilot usage metrics now includes enterprise-level GitHub Copilot CLI activity](https://github.blog/changelog/2026-02-27-copilot-usage-metrics-now-includes-enterprise-level-github-copilot-cli-activity)
+- [Microsoft at NVIDIA GTC 2026](https://techcommunity.microsoft.com/t5/azure-high-performance-computing/microsoft-at-nvidia-gtc-2026/ba-p/4497670)
+- [Copilot metrics is now generally available](https://github.blog/changelog/2026-02-27-copilot-metrics-is-now-generally-available)
+- [Optimising AI Costs with Microsoft Foundry Model Router](https://techcommunity.microsoft.com/t5/microsoft-developer-community/optimising-ai-costs-with-microsoft-foundry-model-router/ba-p/4494776)
 <!-- AZUREINFOHUB:END -->
 
 
