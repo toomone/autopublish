@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Updates to Team Calendar extension](https://devblogs.microsoft.com/devops/updates-to-team-calendar-extension/)
-- [Copilot usage metrics now includes enterprise-level GitHub Copilot CLI activity](https://github.blog/changelog/2026-02-27-copilot-usage-metrics-now-includes-enterprise-level-github-copilot-cli-activity)
-- [Microsoft at NVIDIA GTC 2026](https://techcommunity.microsoft.com/t5/azure-high-performance-computing/microsoft-at-nvidia-gtc-2026/ba-p/4497670)
-- [Copilot metrics is now generally available](https://github.blog/changelog/2026-02-27-copilot-metrics-is-now-generally-available)
-- [Optimising AI Costs with Microsoft Foundry Model Router](https://techcommunity.microsoft.com/t5/microsoft-developer-community/optimising-ai-costs-with-microsoft-foundry-model-router/ba-p/4494776)
+- [Upcoming deprecation of Gemini 3 Pro and GPT-5.1 models](https://github.blog/changelog/2026-03-02-upcoming-deprecation-of-gemini-3-pro-and-gpt-5-1-models)
+- [Network configuration changes for Copilot coding agent now in effect](https://github.blog/changelog/2026-03-02-network-configuration-changes-for-copilot-coding-agent-now-in-effect)
+- [Copilot metrics now includes plan mode](https://github.blog/changelog/2026-03-02-copilot-metrics-now-includes-plan-mode)
+- [Copilot metrics reports now return consistent usernames for Enterprise Managed Users](https://github.blog/changelog/2026-03-02-copilot-metrics-reports-now-return-consistent-usernames-for-enterprise-managed-users)
+- [Logic Apps Aviators Newsletter - March 2026](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/logic-apps-aviators-newsletter-march-2026/ba-p/4498260)
 <!-- AZUREINFOHUB:END -->
 
 
