@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Implementing / Migrating the BizTalk Server Aggregator Pattern to Azure Logic Apps Standard](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/implementing-migrating-the-biztalk-server-aggregator-pattern-to/ba-p/4495107)
+- [Implementing / Migrating the BizTalk Server Aggregator Pattern to Azure Logic Apps Standard](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/implementing-migrating-the-biztalk-server-aggregator-pattern-to/ba-p/4495107)
+- [Migrating to the next generation of Virtual Nodes on Azure Container Instances &lpar;ACI&rpar;](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/migrating-to-the-next-generation-of-virtual-nodes-on-azure/ba-p/4496565)
+- [Giving Your AI Agents Reliable Skills with the Agent Skills SDK](https://techcommunity.microsoft.com/t5/microsoft-developer-community/giving-your-ai-agents-reliable-skills-with-the-agent-skills-sdk/ba-p/4497074)
 - [Upcoming deprecation of Gemini 3 Pro and GPT-5.1 models](https://github.blog/changelog/2026-03-02-upcoming-deprecation-of-gemini-3-pro-and-gpt-5-1-models)
-- [Network configuration changes for Copilot coding agent now in effect](https://github.blog/changelog/2026-03-02-network-configuration-changes-for-copilot-coding-agent-now-in-effect)
-- [Copilot metrics now includes plan mode](https://github.blog/changelog/2026-03-02-copilot-metrics-now-includes-plan-mode)
-- [Copilot metrics reports now return consistent usernames for Enterprise Managed Users](https://github.blog/changelog/2026-03-02-copilot-metrics-reports-now-return-consistent-usernames-for-enterprise-managed-users)
-- [Logic Apps Aviators Newsletter - March 2026](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/logic-apps-aviators-newsletter-march-2026/ba-p/4498260)
 <!-- AZUREINFOHUB:END -->
 
 
