@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Pick a model for @copilot in pull request comments](https://github.blog/changelog/2026-03-05-pick-a-model-for-copilot-in-pull-request-comments)
-- [GitHub Copilot coding agent for Jira is now in public preview](https://github.blog/changelog/2026-03-05-github-copilot-coding-agent-for-jira-is-now-in-public-preview)
-- [Copilot code review now runs on an agentic architecture](https://github.blog/changelog/2026-03-05-copilot-code-review-now-runs-on-an-agentic-architecture)
-- [Add images to agent sessions](https://github.blog/changelog/2026-03-05-add-images-to-agent-sessions)
-- [Copilot usage metrics now includes user-level GitHub Copilot CLI activity](https://github.blog/changelog/2026-03-05-copilot-usage-metrics-now-includes-user-level-github-copilot-cli-activity)
+- [Figma MCP server can now generate design layers from VS Code](https://github.blog/changelog/2026-03-06-figma-mcp-server-can-now-generate-design-layers-from-vs-code)
+- [GitHub Copilot in Visual Studio Code v1.110 – February release](https://github.blog/changelog/2026-03-06-github-copilot-in-visual-studio-code-v1-110-february-release)
+- [MCP vs mcp-cli: Dynamic Tool Discovery for Token-Efficient AI Agents](https://techcommunity.microsoft.com/t5/microsoft-developer-community/mcp-vs-mcp-cli-dynamic-tool-discovery-for-token-efficient-ai/ba-p/4494272)
+- [Decision Matrix: API vs MCP Tools — The Great Integration Showdown 🥊](https://techcommunity.microsoft.com/t5/azure-architecture-blog/decision-matrix-api-vs-mcp-tools-the-great-integration-showdown/ba-p/4499385)
+- [Decision Matrix: API vs MCP Tools — The Great Integration Showdown 🥊](https://techcommunity.microsoft.com/t5/azure-architecture-blog/decision-matrix-api-vs-mcp-tools-the-great-integration-showdown/ba-p/4499385)
 <!-- AZUREINFOHUB:END -->
 
 
