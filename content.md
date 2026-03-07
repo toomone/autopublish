@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Copilot Accelerates Development, Not Understanding](https://www.youtube.com/watch?v=JO3rT7PzIVo)
+- [The Future of Development Is Agentic](https://www.youtube.com/watch?v=yF7jbK_8dA8)
+- [The Agentic Future Goes Beyond Writing Code](https://www.youtube.com/watch?v=q7RcK5MnF7M)
+- [Debug Faster in Visual Studio with GitHub Copilot](https://www.youtube.com/watch?v=kxAQX_fVpgA)
 - [Figma MCP server can now generate design layers from VS Code](https://github.blog/changelog/2026-03-06-figma-mcp-server-can-now-generate-design-layers-from-vs-code)
-- [GitHub Copilot in Visual Studio Code v1.110 – February release](https://github.blog/changelog/2026-03-06-github-copilot-in-visual-studio-code-v1-110-february-release)
-- [MCP vs mcp-cli: Dynamic Tool Discovery for Token-Efficient AI Agents](https://techcommunity.microsoft.com/t5/microsoft-developer-community/mcp-vs-mcp-cli-dynamic-tool-discovery-for-token-efficient-ai/ba-p/4494272)
-- [Decision Matrix: API vs MCP Tools — The Great Integration Showdown 🥊](https://techcommunity.microsoft.com/t5/azure-architecture-blog/decision-matrix-api-vs-mcp-tools-the-great-integration-showdown/ba-p/4499385)
-- [Decision Matrix: API vs MCP Tools — The Great Integration Showdown 🥊](https://techcommunity.microsoft.com/t5/azure-architecture-blog/decision-matrix-api-vs-mcp-tools-the-great-integration-showdown/ba-p/4499385)
 <!-- AZUREINFOHUB:END -->
 
 
