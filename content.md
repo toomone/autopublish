@@ -22,11 +22,11 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
+- [Microsoft Agent Framework, Microsoft Foundry, MCP, Aspire を使った実践的な AI アプリを構築するサンプルが登場](https://techcommunity.microsoft.com/t5/microsoft-developer-community/microsoft-agent-framework-microsoft-foundry-mcp-aspire-%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%AE%9F%E8%B7%B5%E7%9A%84%E3%81%AA/ba-p/4499972)
+- [Microsoft Agent Framework, Microsoft Foundry, MCP, Aspire를 활용한 실전 예제 만들기](https://techcommunity.microsoft.com/t5/microsoft-developer-community/microsoft-agent-framework-microsoft-foundry-mcp-aspire%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%8B%A4%EC%A0%84/ba-p/4499869)
+- [AI Inferencing in Air-Gapped Environments](https://techcommunity.microsoft.com/t5/azure-high-performance-computing/ai-inferencing-in-air-gapped-environments/ba-p/4498594)
+- [Richard Lander: DotNet Inspect - Episode 392](https://azuredevopspodcast.clear-measure.com/richard-lander-dotnet-inspect-episode-392)
 - [Copilot Accelerates Development, Not Understanding](https://www.youtube.com/watch?v=JO3rT7PzIVo)
-- [The Future of Development Is Agentic](https://www.youtube.com/watch?v=yF7jbK_8dA8)
-- [The Agentic Future Goes Beyond Writing Code](https://www.youtube.com/watch?v=q7RcK5MnF7M)
-- [Debug Faster in Visual Studio with GitHub Copilot](https://www.youtube.com/watch?v=kxAQX_fVpgA)
-- [Figma MCP server can now generate design layers from VS Code](https://github.blog/changelog/2026-03-06-figma-mcp-server-can-now-generate-design-layers-from-vs-code)
 <!-- AZUREINFOHUB:END -->
 
 
