@@ -22,11 +22,12 @@
 ## AZURE INFOHUB BLOG 
 
 <!-- AZUREINFOHUB:START -->
-- [Microsoft Agent Framework, Microsoft Foundry, MCP, Aspire を使った実践的な AI アプリを構築するサンプルが登場](https://techcommunity.microsoft.com/t5/microsoft-developer-community/microsoft-agent-framework-microsoft-foundry-mcp-aspire-%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%AE%9F%E8%B7%B5%E7%9A%84%E3%81%AA/ba-p/4499972)
-- [Microsoft Agent Framework, Microsoft Foundry, MCP, Aspire를 활용한 실전 예제 만들기](https://techcommunity.microsoft.com/t5/microsoft-developer-community/microsoft-agent-framework-microsoft-foundry-mcp-aspire%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%8B%A4%EC%A0%84/ba-p/4499869)
-- [AI Inferencing in Air-Gapped Environments](https://techcommunity.microsoft.com/t5/azure-high-performance-computing/ai-inferencing-in-air-gapped-environments/ba-p/4498594)
-- [Richard Lander: DotNet Inspect - Episode 392](https://azuredevopspodcast.clear-measure.com/richard-lander-dotnet-inspect-episode-392)
-- [Copilot Accelerates Development, Not Understanding](https://www.youtube.com/watch?v=JO3rT7PzIVo)
+- [What It Takes to Give SRE Agent a Useful Starting Point](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/what-it-takes-to-give-sre-agent-a-useful-starting-point/ba-p/4500343)
+- [Azure SRE Agent Now Builds Expertise Like Your Best Engineer 
+Introducing Deep Context](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-sre-agent-now-builds-expertise-like-your-best-engineer/ba-p/4500754)
+- [Announcing general availability for the Azure SRE Agent](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/announcing-general-availability-for-the-azure-sre-agent/ba-p/4500682)
+- [Microsoft Azure at KubeCon Europe 2026 | Amsterdam, NL - March 23-26](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/microsoft-azure-at-kubecon-europe-2026-amsterdam-nl-march-23-26/ba-p/4500716)
+- [🔴 Let it Cook - A Dash of Cinnamon](https://www.youtube.com/watch?v=kLPihq62dO4)
 <!-- AZUREINFOHUB:END -->
 
 
