@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Azure DevOps Remote MCP Server (public preview)](https://devblogs.microsoft.com/devops/azure-devops-remote-mcp-server-public-preview/)
 - [March Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/march-patches-for-azure-devops-server-4/)
 - [Temporary rollback: build identities can access Advanced Security: read alerts again](https://devblogs.microsoft.com/devops/temporary-rollback-build-identities-can-access-advanced-security-read-alerts-again/)
 - [Updates to Team Calendar extension](https://devblogs.microsoft.com/devops/updates-to-team-calendar-extension/)
 - [TFVC Remove Existing Obsolete Policies ASAP](https://devblogs.microsoft.com/devops/tfvc-remove-existing-obsolete-policies-asap/)
-- [Condensed views on Kanban and Sprint boards](https://devblogs.microsoft.com/devops/condensed-views-on-kanban-and-sprint-boards/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
