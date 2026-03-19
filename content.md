@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Remote MCP Server preview in Microsoft Foundry](https://devblogs.microsoft.com/devops/remote-mcp-server-preview-in-microsoft-foundry/)
 - [Authentication Tokens Are Not a Data Contract](https://devblogs.microsoft.com/devops/authentication-tokens-are-not-a-data-contract/)
 - [Azure DevOps Remote MCP Server (public preview)](https://devblogs.microsoft.com/devops/azure-devops-remote-mcp-server-public-preview/)
 - [March Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/march-patches-for-azure-devops-server-4/)
 - [Temporary rollback: build identities can access Advanced Security: read alerts again](https://devblogs.microsoft.com/devops/temporary-rollback-build-identities-can-access-advanced-security-read-alerts-again/)
-- [Updates to Team Calendar extension](https://devblogs.microsoft.com/devops/updates-to-team-calendar-extension/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
