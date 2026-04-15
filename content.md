@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [One-click security scanning and org-wide alert triage come to Advanced Security](https://devblogs.microsoft.com/devops/one-click-security-scanning-and-org-wide-alert-triage-come-to-advanced-security/)
 - [April Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/april-patches-for-azure-devops-server/)
 - [Improving the Markdown Editor for Work Items](https://devblogs.microsoft.com/devops/improving-the-markdown-editor-for-work-items/)
 - [Remote MCP Server preview in Microsoft Foundry](https://devblogs.microsoft.com/devops/remote-mcp-server-preview-in-microsoft-foundry/)
 - [Authentication Tokens Are Not a Data Contract](https://devblogs.microsoft.com/devops/authentication-tokens-are-not-a-data-contract/)
-- [Azure DevOps Remote MCP Server (public preview)](https://devblogs.microsoft.com/devops/azure-devops-remote-mcp-server-public-preview/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
