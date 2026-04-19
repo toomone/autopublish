@@ -12,11 +12,11 @@
 ## AZURE WEEKLY BLOG
 
 <!-- AZUREWEEKLY:START -->
+- [#559 - 19th April 2026](https://azureweekly.info/issue-559.html)
 - [#558 - 12th April 2026](https://azureweekly.info/issue-558.html)
 - [#557 - 29th March 2026](https://azureweekly.info/issue-557.html)
 - [#556 - 22nd March 2026](https://azureweekly.info/issue-556.html)
 - [#555 - 15th March 2026](https://azureweekly.info/issue-555.html)
-- [#554 - 8th March 2026](https://azureweekly.info/issue-554.html)
 <!-- AZUREWEEKLY:END -->
 
 ## AZURE INFOHUB BLOG 
