@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Optimizing Git policy management at scale](https://devblogs.microsoft.com/devops/optimizing-git-policy-management-at-scale/)
+- [Public Preview: Actual Result for Manual Tests in Azure Test Plans](https://devblogs.microsoft.com/devops/actual-result-azure-test-plans/)
 - [Azure DevOps MCP Server April Update](https://devblogs.microsoft.com/devops/azure-devops-mcp-server-april-update/)
 - [One-click security scanning and org-wide alert triage come to Advanced Security](https://devblogs.microsoft.com/devops/one-click-security-scanning-and-org-wide-alert-triage-come-to-advanced-security/)
 - [April Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/april-patches-for-azure-devops-server/)
-- [Improving the Markdown Editor for Work Items](https://devblogs.microsoft.com/devops/improving-the-markdown-editor-for-work-items/)
-- [Remote MCP Server preview in Microsoft Foundry](https://devblogs.microsoft.com/devops/remote-mcp-server-preview-in-microsoft-foundry/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
