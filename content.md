@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [May Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/may-patches-for-azure-devops-server-3/)
 - [Axios npm Supply Chain Compromise – Guidance for Azure Pipelines Customers](https://devblogs.microsoft.com/devops/axios-npm-supply-chain-compromise-guidance-for-azure-pipelines-customers/)
 - [Optimizing Git policy management at scale](https://devblogs.microsoft.com/devops/optimizing-git-policy-management-at-scale/)
 - [Public Preview: Actual Result for Manual Tests in Azure Test Plans](https://devblogs.microsoft.com/devops/actual-result-azure-test-plans/)
 - [Azure DevOps MCP Server April Update](https://devblogs.microsoft.com/devops/azure-devops-mcp-server-april-update/)
-- [One-click security scanning and org-wide alert triage come to Advanced Security](https://devblogs.microsoft.com/devops/one-click-security-scanning-and-org-wide-alert-triage-come-to-advanced-security/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
