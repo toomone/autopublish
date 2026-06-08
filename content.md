@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Enterprise Live Migrations: Moving from Azure DevOps Repo to GitHub with minimal disruption](https://devblogs.microsoft.com/devops/enterprise-live-migrations/)
 - [How Microsoft is migrating repositories to GitHub](https://devblogs.microsoft.com/devops/how-microsoft-is-migrating-repositories-to-github/)
 - [Azure DevOps and GitHub: Journeying into the AI Era](https://devblogs.microsoft.com/devops/azure-devops-and-github-journeying-into-the-ai-era/)
 - [May Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/may-patches-for-azure-devops-server-3/)
 - [Axios npm Supply Chain Compromise – Guidance for Azure Pipelines Customers](https://devblogs.microsoft.com/devops/axios-npm-supply-chain-compromise-guidance-for-azure-pipelines-customers/)
-- [Optimizing Git policy management at scale](https://devblogs.microsoft.com/devops/optimizing-git-policy-management-at-scale/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
