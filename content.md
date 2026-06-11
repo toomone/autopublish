@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [June Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/june-patches-for-azure-devops-server-5/)
+- [Copilot Autofix for GitHub Advanced Security for Azure DevOps](https://devblogs.microsoft.com/devops/copilot-autofix-for-github-advanced-security-for-azure-devops/)
 - [Copilot Code Reviews for Azure Repos](https://devblogs.microsoft.com/devops/copilot-code-reviews-for-azure-repos/)
 - [Enterprise Live Migrations: Moving from Azure DevOps Repo to GitHub with minimal disruption](https://devblogs.microsoft.com/devops/enterprise-live-migrations/)
 - [How Microsoft is migrating repositories to GitHub](https://devblogs.microsoft.com/devops/how-microsoft-is-migrating-repositories-to-github/)
-- [Azure DevOps and GitHub: Journeying into the AI Era](https://devblogs.microsoft.com/devops/azure-devops-and-github-journeying-into-the-ai-era/)
-- [May Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/may-patches-for-azure-devops-server-3/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
