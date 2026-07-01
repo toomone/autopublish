@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Upcoming Change: NTLM Removal in Git (libcurl) – Impact to Azure DevOps Server Customers](https://devblogs.microsoft.com/devops/upcoming-change-ntlm-removal-in-git-libcurl-impact-to-azure-devops-server-customers/)
 - [Retirement of Azure DevOps issuer in Workload identity federation service connections](https://devblogs.microsoft.com/devops/retirement-of-azure-devops-issuer-in-workload-identity-federation-service-connections/)
 - [June Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/june-patches-for-azure-devops-server-5/)
 - [Copilot Autofix for GitHub Advanced Security for Azure DevOps](https://devblogs.microsoft.com/devops/copilot-autofix-for-github-advanced-security-for-azure-devops/)
 - [Copilot Code Reviews for Azure Repos](https://devblogs.microsoft.com/devops/copilot-code-reviews-for-azure-repos/)
-- [Enterprise Live Migrations: Moving from Azure DevOps Repo to GitHub with minimal disruption](https://devblogs.microsoft.com/devops/enterprise-live-migrations/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
