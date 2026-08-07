@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Pull request annotations on work item cards](https://devblogs.microsoft.com/devops/pull-request-annotations-on-work-item-cards/)
+- [You can now use the Azure DevOps Service Connection instead of a PAT or Build Session token](https://devblogs.microsoft.com/devops/you-can-now-use-the-azure-devops-service-connection-instead-of-a-pat-or-build-session-token/)
 - [Azure DevOps Remote MCP Server is generally available](https://devblogs.microsoft.com/devops/azure-devops-remote-mcp-server-ga/)
 - [Find any commit in seconds: Commit Search comes to Azure DevOps](https://devblogs.microsoft.com/devops/find-any-commit-in-seconds-commit-search-comes-to-azure-devops/)
 - [July Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/july-patches-for-azure-devops-server-3/)
-- [Shrinking Azure Pipeline task extensions using esbuild](https://devblogs.microsoft.com/devops/shrinking-azure-pipeline-task-extensions-using-esbuild/)
-- [Upcoming Change: NTLM Removal in Git (libcurl) – Impact to Azure DevOps Server Customers](https://devblogs.microsoft.com/devops/upcoming-change-ntlm-removal-in-git-libcurl-impact-to-azure-devops-server-customers/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
