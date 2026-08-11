@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [August Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/august-patches-for-azure-devops-server-4/)
 - [Pull request annotations on work item cards](https://devblogs.microsoft.com/devops/pull-request-annotations-on-work-item-cards/)
 - [You can now use the Azure DevOps Service Connection instead of a PAT or Build Session token](https://devblogs.microsoft.com/devops/you-can-now-use-the-azure-devops-service-connection-instead-of-a-pat-or-build-session-token/)
 - [Azure DevOps Remote MCP Server is generally available](https://devblogs.microsoft.com/devops/azure-devops-remote-mcp-server-ga/)
 - [Find any commit in seconds: Commit Search comes to Azure DevOps](https://devblogs.microsoft.com/devops/find-any-commit-in-seconds-commit-search-comes-to-azure-devops/)
-- [July Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/july-patches-for-azure-devops-server-3/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
