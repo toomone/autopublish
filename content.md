@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Apple Silicon and Xcode 27 images available in pay-as-you-go (preview)](https://devblogs.microsoft.com/devops/apple-silicon-and-xcode-27-images-availabile-in-pay-as-you-go-preview/)
 - [August Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/august-patches-for-azure-devops-server-4/)
 - [Pull request annotations on work item cards](https://devblogs.microsoft.com/devops/pull-request-annotations-on-work-item-cards/)
 - [You can now use the Azure DevOps Service Connection instead of a PAT or Build Session token](https://devblogs.microsoft.com/devops/you-can-now-use-the-azure-devops-service-connection-instead-of-a-pat-or-build-session-token/)
 - [Azure DevOps Remote MCP Server is generally available](https://devblogs.microsoft.com/devops/azure-devops-remote-mcp-server-ga/)
-- [Find any commit in seconds: Commit Search comes to Azure DevOps](https://devblogs.microsoft.com/devops/find-any-commit-in-seconds-commit-search-comes-to-azure-devops/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
