@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Azure DevOps in the GitHub Copilot App](https://devblogs.microsoft.com/devops/azure-devops-in-the-github-copilot-app/)
 - [Copilot Code Reviews for Azure Repos (public preview)](https://devblogs.microsoft.com/devops/copilot-code-reviews-for-azure-repos-public-preview/)
 - [Apple Silicon and Xcode 27 images available in pay-as-you-go (preview)](https://devblogs.microsoft.com/devops/apple-silicon-and-xcode-27-images-availabile-in-pay-as-you-go-preview/)
 - [August Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/august-patches-for-azure-devops-server-4/)
 - [Pull request annotations on work item cards](https://devblogs.microsoft.com/devops/pull-request-annotations-on-work-item-cards/)
-- [You can now use the Azure DevOps Service Connection instead of a PAT or Build Session token](https://devblogs.microsoft.com/devops/you-can-now-use-the-azure-devops-service-connection-instead-of-a-pat-or-build-session-token/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
