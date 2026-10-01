@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Updates to Copilot Code Reviews for Azure Repos](https://devblogs.microsoft.com/devops/updates-to-copilot-code-reviews-for-azure-repos/)
 - [September Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/september-patches-for-azure-devops-server-3/)
 - [Enterprise Live Migrations is now in public preview](https://devblogs.microsoft.com/devops/enterprise-live-migrations-public-preview/)
 - [Azure DevOps in the GitHub Copilot App](https://devblogs.microsoft.com/devops/azure-devops-in-the-github-copilot-app/)
 - [Copilot Code Reviews for Azure Repos (public preview)](https://devblogs.microsoft.com/devops/copilot-code-reviews-for-azure-repos-public-preview/)
-- [Apple Silicon and Xcode 27 images available in pay-as-you-go (preview)](https://devblogs.microsoft.com/devops/apple-silicon-and-xcode-27-images-availabile-in-pay-as-you-go-preview/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
