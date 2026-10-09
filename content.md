@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [New Wiki Editor Experience](https://devblogs.microsoft.com/devops/new-wiki-editor-experience/)
 - [GitHub-hosted agents with Pay-as-you-Go pricing are now generally available in Azure Pipelines](https://devblogs.microsoft.com/devops/github-hosted-agents-with-pay-as-you-go-pricing-are-now-generally-available-in-azure-pipelines/)
 - [Updates to Copilot Code Reviews for Azure Repos](https://devblogs.microsoft.com/devops/updates-to-copilot-code-reviews-for-azure-repos/)
 - [September Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/september-patches-for-azure-devops-server-3/)
 - [Enterprise Live Migrations is now in public preview](https://devblogs.microsoft.com/devops/enterprise-live-migrations-public-preview/)
-- [Azure DevOps in the GitHub Copilot App](https://devblogs.microsoft.com/devops/azure-devops-in-the-github-copilot-app/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
