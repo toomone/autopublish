@@ -12,11 +12,11 @@
 ## AZURE WEEKLY BLOG
 
 <!-- AZUREWEEKLY:START -->
+- [#583 - 11th October 2026](https://azureweekly.info/issue-583)
 - [#582 - 4th October 2026](https://azureweekly.info/issue-582)
 - [#581 - 27th September 2026](https://azureweekly.info/issue-581)
 - [#580 - 20th September 2026](https://azureweekly.info/issue-580)
 - [#579 - 13th September 2026](https://azureweekly.info/issue-579)
-- [#578 - 6th September 2026](https://azureweekly.info/issue-578)
 <!-- AZUREWEEKLY:END -->
 
 ## AZURE INFOHUB BLOG 
