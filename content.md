@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Azure DevOps available in Microsoft Copilot](https://devblogs.microsoft.com/devops/azure-devops-available-in-microsoft-copilot/)
 - [October Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/october-patches-for-azure-devops-server-4/)
 - [New Wiki Editor Experience](https://devblogs.microsoft.com/devops/new-wiki-editor-experience/)
 - [GitHub-hosted agents with Pay-as-you-Go pricing are now generally available in Azure Pipelines](https://devblogs.microsoft.com/devops/github-hosted-agents-with-pay-as-you-go-pricing-are-now-generally-available-in-azure-pipelines/)
 - [Updates to Copilot Code Reviews for Azure Repos](https://devblogs.microsoft.com/devops/updates-to-copilot-code-reviews-for-azure-repos/)
-- [September Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/september-patches-for-azure-devops-server-3/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
