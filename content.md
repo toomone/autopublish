@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Azure DevOps Server RC (26H2) Is Now Available](https://devblogs.microsoft.com/devops/azure-devops-server-rc-26h2-is-now-available/)
 - [PHP2Shell and Azure DevOps: what to check](https://devblogs.microsoft.com/devops/php2shell-and-azure-devops-what-to-check/)
 - [Introducing Agentic Autofix for code and dependencies](https://devblogs.microsoft.com/devops/introducing-agentic-autofix-for-code-and-dependencies/)
 - [Azure DevOps available in Microsoft Copilot Cowork](https://devblogs.microsoft.com/devops/azure-devops-available-in-microsoft-copilot/)
 - [October Patches for Azure DevOps Server](https://devblogs.microsoft.com/devops/october-patches-for-azure-devops-server-4/)
-- [New Wiki Editor Experience](https://devblogs.microsoft.com/devops/new-wiki-editor-experience/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
