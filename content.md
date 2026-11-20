@@ -1,11 +1,11 @@
 ## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
+- [Azure DevOps integration with the GitHub Copilot app (public preview)](https://devblogs.microsoft.com/devops/azure-devops-integration-with-the-github-copilot-app-public-preview/)
 - [Azure DevOps and GitHub: Start Your Agentic Journey Where You Are](https://devblogs.microsoft.com/devops/azure-devops-and-github-start-your-agentic-journey-where-you-are/)
 - [October 2026 Node.js vulnerabilities: Azure DevOps security guidance](https://devblogs.microsoft.com/devops/october-2026-node-js-vulnerabilities-azure-devops-security-guidance/)
 - [Azure DevOps Server RC (26H2) Is Now Available](https://devblogs.microsoft.com/devops/azure-devops-server-rc-26h2-is-now-available/)
 - [PHP2Shell and Azure DevOps: what to check](https://devblogs.microsoft.com/devops/php2shell-and-azure-devops-what-to-check/)
-- [Introducing Agentic Autofix for code and dependencies](https://devblogs.microsoft.com/devops/introducing-agentic-autofix-for-code-and-dependencies/)
 <!-- DEVBLOGDEVOPS:END -->
 
 
